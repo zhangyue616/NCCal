@@ -1,0 +1,359 @@
+{
+  "figure_count": 18,
+  "renderer_note": "The published PNG files are listed for all figures. The renderer for Figures S-C2–S-C5 draws from the saved values.",
+  "figures": [
+    {
+      "label": "Figure 1",
+      "png": "figures/figure_1.png",
+      "png_sha256": "364213eac8b724da4306260fc7f33bc093d734ece9a9f0395999bd7e0b5c1c75",
+      "renderer": null,
+      "panels": [
+        {
+          "panel": "a",
+          "values": [],
+          "note": "Schematic inputs, frozen encoders and atom-by-coordinate activation matrix."
+        },
+        {
+          "panel": "b",
+          "values": [],
+          "note": "Schematic calibration histograms and pins; the 199 initializations and nine rotations describe the comparison design."
+        },
+        {
+          "panel": "c",
+          "values": [
+            "results/reconstruction_and_replacement/fit/T_activations.npz",
+            "data/fixed_coordinate_analyses/chemistry/sealed/T.tsv"
+          ],
+          "note": "Stored observed carbonyl-coordinate activations for confirmation molecule CID 678545; surrounding workflow elements are schematic."
+        },
+        {
+          "panel": "d",
+          "values": [
+            "results/reconstruction_and_replacement/fit/T_activations.npz",
+            "data/fixed_coordinate_analyses/chemistry/sealed/T.tsv"
+          ],
+          "note": "Stored observed activations, binary-concept means and local-graph predictions for the same molecule."
+        },
+        {
+          "panel": "e",
+          "values": [
+            "results/reconstruction_and_replacement/summary/OUTPUT_METRICS.csv"
+          ],
+          "note": "Stored carbonyl pretrained-head output MAE bars, repeated in Figure 5a. Replacement pathways and task-head boxes are schematic."
+        },
+        {
+          "panel": "f",
+          "values": [
+            "source_data/label_prediction_and_protein_values.json"
+          ],
+          "note": "Stored paired Brier losses, repeated in Figure 6b; the protein/input workflow is schematic."
+        }
+      ]
+    },
+    {
+      "label": "Figure 2",
+      "png": "figures/figure_2.png",
+      "png_sha256": "bfa12df53d9196cdf7ed5e0b00da754bdb2ad433fe92bc553b41a2b41e68d69c",
+      "renderer": null,
+      "panels": [
+        {
+          "panel": "a",
+          "values": [
+            "source_data/figure_S_C6_plot_data.json"
+          ],
+          "note": "Exploratory matched-coordinate shares and individual initialization/rotation references for the three graph checkpoints; the pilot block of the source file."
+        },
+        {
+          "panel": "b",
+          "values": [
+            "source_data/calibration_and_transfer_values.json"
+          ],
+          "note": "Primary-cohort checkpoint folds, concept-bootstrap intervals and calibrated support in the saved comparison records."
+        },
+        {
+          "panel": "c",
+          "values": [
+            "source_data/calibration_and_transfer_values.json"
+          ],
+          "note": "The two calibrated folds across all twelve MoLFormer layers; the saved depth records."
+        }
+      ]
+    },
+    {
+      "label": "Figure 3",
+      "png": "figures/figure_3.png",
+      "png_sha256": "8d94032a1f31936efef485b2278673f7e68331b09535c65ff9f3b343ba3859cd",
+      "renderer": null,
+      "panels": [
+        {
+          "panel": "a",
+          "values": [
+            "source_data/calibration_and_transfer_values.json",
+            "results/fixed_coordinate_analyses/chemistry_T/T_FIXED_SUMMARY.json"
+          ],
+          "note": "Per-concept basis-preference transfer and the saved aggregate mean/interval on the confirmation set."
+        },
+        {
+          "panel": "b",
+          "values": [
+            "source_data/calibration_and_transfer_values.json",
+            "results/sensitivity_analyses/scaffold_subset/SLICE_FIXED_SUMMARY.json"
+          ],
+          "note": "Per-concept scaffold-unseen versus full-confirmation transfer, with the saved scaffold-subset summary."
+        },
+        {
+          "panel": "c",
+          "values": [
+            "source_data/calibration_and_transfer_values.json",
+            "results/fixed_coordinate_analyses/chemistry_T/T_FIXED_SUMMARY.json"
+          ],
+          "note": "Per-concept readability transfer versus basis-preference transfer, with saved aggregate means."
+        }
+      ]
+    },
+    {
+      "label": "Figure 4",
+      "png": "figures/figure_4.png",
+      "png_sha256": "2aff65eaa0f5de990a915115e9644b9494308596714e3075d3d45418c7e04eb9",
+      "renderer": null,
+      "panels": [
+        {
+          "panel": "a",
+          "values": [
+            "source_data/label_prediction_and_protein_values.json"
+          ],
+          "note": "Twelve per-concept Brier-loss reductions and their saved equal-weight confirmation-set mean."
+        },
+        {
+          "panel": "b",
+          "values": [
+            "results/reconstruction_and_replacement/summary/ACTIVATION_METRICS.csv"
+          ],
+          "note": "Pooled-atom reconstruction R² and saved marginal 95% intervals for binary-concept and local-graph predictions of coordinates 293 and 454."
+        },
+        {
+          "panel": "c",
+          "values": [],
+          "note": "Artwork only; extension analysis files are not part of this release. Coordinate identities and per-coordinate R²: Tables S-M1, S-M2a–S-M2b; equal-coordinate means and contrasts: Table S-M3."
+        },
+        {
+          "panel": "d",
+          "values": [
+            "results/reconstruction_and_replacement/fit/T_activations.npz"
+          ],
+          "note": "Saved observed and predicted activations and concept labels for all 246,722 confirmation atoms."
+        },
+        {
+          "panel": "e",
+          "values": [
+            "source_data/reconstruction_and_replacement_values.json",
+            "results/reconstruction_and_replacement/fit/T_activations.npz"
+          ],
+          "note": "Stored atom-level observed and predicted activations for the two displayed molecules."
+        }
+      ]
+    },
+    {
+      "label": "Figure 5",
+      "png": "figures/figure_5.png",
+      "png_sha256": "b5e617732db162d1f9a91401c09c6682bf363322863530f802fde31b46a54673",
+      "renderer": null,
+      "panels": [
+        {
+          "panel": "a",
+          "values": [
+            "results/reconstruction_and_replacement/summary/OUTPUT_METRICS.csv",
+            "reproduction/chemical_replacement_outputs.tar.gz",
+            "results/reconstruction_and_replacement/forward/RUN_BINDING.json"
+          ],
+          "note": "Saved output-MAE estimates and intervals; the archive contains original and replaced outputs for the per-molecule scatter. Coordinate, condition and output axes are recorded in the run binding."
+        },
+        {
+          "panel": "b",
+          "values": [
+            "source_data/figure_S_J1_plot_data.json"
+          ],
+          "note": "Full-clamp dose means and H intervals, together with post hoc paired-dose markers, ranges and Hpair(1) intervals. The two comparisons use their respective saved uncertainty estimates."
+        },
+        {
+          "panel": "c",
+          "values": [],
+          "note": "Artwork only; BACE/ESOL joint-replacement analysis files are not part of this release. Absolute deviations and contrasts: Tables S-N1–S-N4."
+        },
+        {
+          "panel": "d",
+          "values": [],
+          "note": "Artwork only; single-coordinate task-head analysis files are not part of this release. Identities: Table S-M1; related reference-minus-local contrasts: Tables S-N5–S-N8. The full absolute-deviation heatmap matrix is not supplied."
+        }
+      ]
+    },
+    {
+      "label": "Figure 6",
+      "png": "figures/figure_6.png",
+      "png_sha256": "22af53f9ce2a2c12091c25d3643a56fc77be845556f184032121e508df64b284",
+      "renderer": null,
+      "panels": [
+        {
+          "panel": "a",
+          "values": [
+            "source_data/label_prediction_and_protein_values.json"
+          ],
+          "note": "Saved protein, chain, masked-site and coordinate identities define the paired design. The current protein ribbon is supplied as artwork."
+        },
+        {
+          "panel": "b",
+          "values": [
+            "source_data/label_prediction_and_protein_values.json"
+          ],
+          "note": "Six stored paired Brier losses for the three fitted references, each without and with the coordinate."
+        },
+        {
+          "panel": "c",
+          "values": [
+            "results/fixed_coordinate_analyses/protein_T/T_SUMMARY.json"
+          ],
+          "note": "Saved reductions and the reference-shift contrast, with 95% and 98.75% intervals and Holm-adjusted p values."
+        },
+        {
+          "panel": "d",
+          "values": [
+            "results/fixed_coordinate_analyses/protein_T/T_PREDICTIONS.npz",
+            "results/fixed_coordinate_analyses/protein_T/T_SUMMARY.json"
+          ],
+          "note": "Stored per-group reductions supply the 1,304 scatter pairs; aggregate means are in the saved summary."
+        },
+        {
+          "panel": "e",
+          "values": [
+            "results/fixed_coordinate_analyses/protein_T/T_PREDICTIONS.npz",
+            "results/fixed_coordinate_analyses/protein_T/T_SUMMARY.json"
+          ],
+          "note": "Stored masked-center activations, case pairing and per-group composition-reference reductions. The 870/434 count labels are not separate summary fields; this release supplies the underlying arrays."
+        }
+      ]
+    },
+    {
+      "label": "Figure S-B1",
+      "png": "figures/figure_S_B1.png",
+      "png_sha256": "50c066c90d92763e185b35987e6c1a50c324b6ab1f33b27f0aedf39d4701d96c",
+      "renderer": null,
+      "source_data": [
+        "source_data/figure_S_B1_plot_data.json"
+      ],
+      "note": "Saved readout and concept-subset comparison folds."
+    },
+    {
+      "label": "Figure S-C1",
+      "png": "figures/figure_S_C1.png",
+      "png_sha256": "44741cf22dc2fffcd43b67b5230d0a8dc0ed35ae390a083f60d2123b78d6f3f2",
+      "renderer": null,
+      "source_data": [
+        "source_data/figure_S_C1_plot_data.json",
+        "source_data/figure_S_C1_tokens.csv"
+      ],
+      "note": "Tokenizer examples and all 593 vocabulary-row norms."
+    },
+    {
+      "label": "Figure S-C2",
+      "png": "figures/figure_S_C2.png",
+      "png_sha256": "c2ea003fb960bd42947a000291d6c8fec02525c2308b86bd51c5fefefeffeba5",
+      "renderer": "figure_source/supplementary/plot_S_C2_to_C5.py",
+      "source_data": [
+        "source_data/figure_S_C2_plot_data.json"
+      ],
+      "note": "Six ChemBERTa-77M-MLM examples; saved values and image tiles."
+    },
+    {
+      "label": "Figure S-C3",
+      "png": "figures/figure_S_C3.png",
+      "png_sha256": "6a0cad8673c13119f5e6615277576961a44049326c2c5a710e4f13ec74d56030",
+      "renderer": "figure_source/supplementary/plot_S_C2_to_C5.py",
+      "source_data": [
+        "source_data/figure_S_C3_plot_data.json"
+      ],
+      "note": "Six ChemBERTa-77M-MTR examples; saved values and image tiles."
+    },
+    {
+      "label": "Figure S-C4",
+      "png": "figures/figure_S_C4.png",
+      "png_sha256": "520591ae2b8d40847086f5b19ab4bf2846f3d8f7943c96a95ef4e0c91c2b50af",
+      "renderer": "figure_source/supplementary/plot_S_C2_to_C5.py",
+      "source_data": [
+        "source_data/figure_S_C4_plot_data.json"
+      ],
+      "note": "Six CheMeleon examples; saved values and image tiles."
+    },
+    {
+      "label": "Figure S-C5",
+      "png": "figures/figure_S_C5.png",
+      "png_sha256": "7c3bc159338878b2c11ddb25b49d45c080bcd193c5ee949ba4c1b534ba8b5d46",
+      "renderer": "figure_source/supplementary/plot_S_C2_to_C5.py",
+      "source_data": [
+        "source_data/figure_S_C5_plot_data.json",
+        "source_data/figure_S_C5_gates.json",
+        "source_data/figure_S_C5_matrices/v4_chemberta_L0.npz",
+        "source_data/figure_S_C5_matrices/v4_chemberta_L1.npz",
+        "source_data/figure_S_C5_matrices/v4_chemberta_L2.npz",
+        "source_data/figure_S_C5_matrices/v4_chemeleon_main.npz",
+        "source_data/figure_S_C5_matrices/v4_chemeleon_mp3.npz"
+      ],
+      "note": "Saved best-lift matrices and comparison summaries."
+    },
+    {
+      "label": "Figure S-C6",
+      "png": "figures/figure_S_C6.png",
+      "png_sha256": "77581db2e4162819b8115a59a22894f1762b0657604d3e9dd6ebbbd3177f2934",
+      "renderer": null,
+      "source_data": [
+        "source_data/figure_S_C6_plot_data.json"
+      ],
+      "note": "Exploratory matched-coordinate shares, individual reference values and heterogeneous atom-response examples."
+    },
+    {
+      "label": "Figure S-E1",
+      "png": "figures/figure_S_E1.png",
+      "png_sha256": "9a2dac6279d1fa0c9689182344cc1bf5c6a921c9948fb9b5a1016928457b169e",
+      "renderer": null,
+      "source_data": [
+        "source_data/figure_S_E1_plot_data.json"
+      ],
+      "note": "Full-clamp contrasts, associations and dose values."
+    },
+    {
+      "label": "Figure S-I1",
+      "png": "figures/figure_S_I1.png",
+      "png_sha256": "1eb112e5e5f9a6c1e137c2c4e8aa4570a1a4f5e74ae0f4b083123d9e050fe122",
+      "renderer": null,
+      "source_data": [
+        "source_data/figure_S_I1_plot_data.json"
+      ],
+      "note": "Population lineage, scaffold intersections and atom-anchor verification counts."
+    },
+    {
+      "label": "Figure S-J1",
+      "png": "figures/figure_S_J1.png",
+      "png_sha256": "a9bd85336a771e2885df77d3eff9e01c8297db4e3d62b589a6a4a097d30b63ee",
+      "renderer": null,
+      "source_data": [
+        "source_data/figure_S_J1_plot_data.json"
+      ],
+      "note": "Full-clamp and paired-dose trajectories, contrasts, intervals and doses; panel D is schematic."
+    },
+    {
+      "label": "Figure S-M1",
+      "png": "figures/figure_S_M1.png",
+      "png_sha256": "6c22f50ea5f3640f20f72fa8cad8ef9fc73c0ae1200260299faffefee59a5153",
+      "renderer": null,
+      "source_data": [],
+      "note": "Artwork only; extension analysis files are not included. Matched-control identities and per-coordinate reconstruction: Tables S-M1, S-M2a–S-M2b; control means are reported in the figure caption."
+    },
+    {
+      "label": "Figure S-N1",
+      "png": "figures/figure_S_N1.png",
+      "png_sha256": "32aa991bf8a58159ee588584e391b2cdbf829996ff7a54964f19bef956cef85b",
+      "renderer": null,
+      "source_data": [],
+      "note": "Artwork only; extension analysis files are not included. Coordinate identities: Table S-M1; single-coordinate contrasts: Tables S-N5–S-N8; joint matched-control contrasts: Table S-N9."
+    }
+  ]
+}

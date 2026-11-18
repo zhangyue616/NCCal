@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+!*.example
+work/
+outputs/
+*.log
+.DS_Store
+Thumbs.db
+replay-inputs/
+replay-output/
+replacement-output-copy/
+rendered/
+external/
