@@ -1,0 +1,152 @@
+[
+  {
+    "source_file": "HYDROXYL_MATCH_C_O_VALUES.csv",
+    "source_sha256": "c101fec63a199e039faef90f71b530c614dc59bf382a50c0df2729795d6eb794",
+    "distributed_file": "hydroxyl_atom_values.npz",
+    "selection": "Deduplicate each element by (CID, graph atom index); retain actual neuron-293 values only."
+  },
+  {
+    "source_file": "chemberta_mlm.tsv",
+    "source_sha256": "487c2aa7be824776a991678de0a88a12b8271ceeaf3113fac96531d4ea0c2ba5",
+    "distributed_file": "anchor_chemberta_mlm.npz",
+    "selection": "Per-molecule positional classification and disagreement counts; remove structure strings."
+  },
+  {
+    "source_file": "chemberta_mtr.tsv",
+    "source_sha256": "0bf2e2834ccbcfe09c259ba56679e08b8ebf9440e1472e4507748ddd82a0091e",
+    "distributed_file": "anchor_chemberta_mtr.npz",
+    "selection": "Per-molecule positional classification and disagreement counts; remove structure strings."
+  },
+  {
+    "source_file": "mapping_audits.jsonl.gz",
+    "source_sha256": "25f5cb39ddc79ed37fa1853aa40d135aef0d2b313124079144549157ffd4e9ff",
+    "distributed_file": "notation_support.npz",
+    "selection": "Per-molecule atom counts and all three notation fidelity flags; remove structures/token strings."
+  },
+  {
+    "source_file": "QA_DENOMINATORS.json",
+    "source_sha256": "0dc0f4d71fee445f0e784d6c996f822679c907709c5b7a01d4b4a6f065faa3d0",
+    "distributed_file": "notation_denominators.json",
+    "selection": "Named frozen denominator fields only."
+  },
+  {
+    "source_file": "SUMMARY.json",
+    "source_sha256": "d0a5725c436042d8497bf56a04bf2e3bafbbbd225303cc4a70470a0ab4b6b5e5",
+    "distributed_file": "notation_summary.json",
+    "selection": "Bootstrap configuration, support and metric names; no reported estimates copied."
+  },
+  {
+    "source_file": "selected_training_config.json",
+    "source_sha256": "43683bbc2ba1a25abf67cca228699552d2c28c0931f97a2f80b93028279f0029",
+    "distributed_file": "dictionary_training_config.json",
+    "selection": "Frozen reconstruction-only selected training configuration, unmodified."
+  },
+  {
+    "source_file": "PREPARED.json",
+    "source_sha256": "0baac728e62fba0bf235f57878b4362930638c1e33243cb026246850adacb619",
+    "distributed_file": "scaffold_slice.json",
+    "selection": "Frozen unseen-scaffold subset denominators and mask identity."
+  },
+  {
+    "source_file": "D_MAPPING_CHECK.json",
+    "source_sha256": "9e9e17da7849d0839838a4c6192d9d78f022e2b2ab9095dfcad64e76c1ff4355",
+    "distributed_file": "standardization_development.json",
+    "selection": "Frozen verified development subset and excluded original row indices."
+  },
+  {
+    "source_file": "SENSITIVITY_SUMMARY.json",
+    "source_sha256": "d570964d61dfd789c6edd5a1f2a81bad16cea9c0f9f27e57719ae9dd33ff9d45",
+    "distributed_file": "anchor_rank_tests.json",
+    "selection": "Named target/reference rank-test fields for each model and criterion; all four tests retained."
+  },
+  {
+    "source_file": "STD_SENSITIVITY_SUMMARY.json",
+    "source_sha256": "d4a9a4f08bc89a3271248431de13db7323fa751fbb3002ad7ec5578c04ca9ee2",
+    "distributed_file": "standardization_rank_tests.json",
+    "selection": "Named target/reference rank-test fields for each model and criterion; all four tests retained."
+  },
+  {
+    "source_file": "C_SUMMARY.json",
+    "source_sha256": "a72483f0b76c9190ee14d6e9d45340cf294dc67e84aa463a17c2646efcc06a09",
+    "distributed_file": "paired_dose_configuration.json",
+    "selection": "Frozen object identities, paired sample sizes, dose fractions, bootstrap configuration and three common-dose sensitivity outcomes."
+  },
+  {
+    "source_file": "D_FIT.json",
+    "source_sha256": "7bd8e95a02a9e21d881455a49474b2a0a401d2d3832af4f874cbf10f9147ba6d",
+    "distributed_file": "reconstruction_configuration.json",
+    "selection": "Frozen coordinate/concept identities and shrinkage weight only."
+  },
+  {
+    "source_file": "summarize.py",
+    "source_sha256": "c89ca474ca3c577f073355705b89837e865dd0d32f56448e281776dd02281cdd",
+    "distributed_file": "notation_interval_configuration.json",
+    "selection": "Literal prewritten percentile quantiles and interpolation rule; design parameters, not effect estimates."
+  },
+  {
+    "source_file": "concepts_v1.json",
+    "source_sha256": "0feeb77ab4afb8e7237d6e70926f4f79e247006f2bf9b28944caa7143254ce47",
+    "distributed_file": "calibration_concept_partitions.json",
+    "selection": "Original readable/input/input-equivalent partition of all 200 concept definitions."
+  },
+  {
+    "source_file": "m1_ablation.json",
+    "source_sha256": "863132930b5198ca451ea63417f86274095ccde124b8385132f4b43b3737f762",
+    "distributed_file": "fragment_readout_exploration.json",
+    "selection": "All 108 original concept/layer/scope rows, including pyridine targeting failure and final-block atom-only sensitivity."
+  },
+  {
+    "source_file": "SUMMARY.json",
+    "source_sha256": "a3543627e0be9d059c831e93c8b674026ef0b9bf286b3ea933b9f560bb92cb5f",
+    "distributed_file": "cohort_identity_intersections.json",
+    "selection": "Named identity intersections; counts only, excluding structure strings and local paths."
+  },
+  {
+    "source_file": "topk_training.py",
+    "source_sha256": "7cd3f6907206e3b230b825e08b6739280a9bac950a1c034b1e8684893a435815",
+    "distributed_file": "dictionary_normalization.json",
+    "selection": "Frozen normalization algebra and input dimension; implies mean normalized squared norm equals dimension."
+  },
+  {
+    "source_file": "predictions_T.npy",
+    "source_sha256": "a6b238f20354fc0573f30de213da9858cb3daf7a621b4fc7c10e38d1c99dc978",
+    "distributed_file": "carbonyl_label_lookup_ap.npz",
+    "selection": "Grouped exact float32 radius-one probability scores for concept 24; positive and negative label counts, no per-input benchmark targets."
+  },
+  {
+    "source_file": "labels_T.npz",
+    "source_sha256": "18dfd55814a124ae59598752362a7420d2d1c6e5b9fb2dab0df900f47442d180",
+    "distributed_file": "carbonyl_label_lookup_ap.npz",
+    "selection": "Concept-24 atom label counts grouped by the frozen radius-one probability score."
+  },
+  {
+    "source_file": "build_corpus.py",
+    "source_sha256": "0df72a18ae849130ebd1b8ae496e04264326e2e8d1607d528e21598f4fd2ab72",
+    "distributed_file": "historical_analysis_configuration.json",
+    "selection": "Original largest-heavy-fragment retention range, inclusive endpoints."
+  },
+  {
+    "source_file": "gates.py",
+    "source_sha256": "591a542fb80861aecba1d28cfa5dc201b347ee6f330d08baf02e9bb3e9e7d9f7",
+    "distributed_file": "historical_analysis_configuration.json",
+    "selection": "Earlier pilot lift threshold and Benjamini-Hochberg q; distinct from later network-rank gates."
+  },
+  {
+    "source_file": "gates_v5.py",
+    "source_sha256": "cc722f7e5913c3a63f026e6b171474d54341db4b06fd106956e8654c678dd6d7",
+    "distributed_file": "historical_analysis_configuration.json",
+    "selection": "Original concept-bootstrap percentile endpoints for calibrated fold intervals, conditional on fixed networks."
+  },
+  {
+    "source_file": "gates_v6.py",
+    "source_sha256": "2b2c4b1f08fb3dca06b44317e3810478187b8bc13e688c4cd3f9e7329a06ec69",
+    "distributed_file": "historical_analysis_configuration.json",
+    "selection": "Separate MoLFormer three-p-value gate at alpha .05, not the eight-model corrected threshold."
+  },
+  {
+    "source_file": "compare.py",
+    "source_sha256": "eec67dd3a6ab11e47915436327085dcf252eaee52959e5963024d56dabfec8b1",
+    "distributed_file": "historical_analysis_configuration.json",
+    "selection": "Per-direction explained-variance counting threshold in the frozen basis comparison."
+  }
+]

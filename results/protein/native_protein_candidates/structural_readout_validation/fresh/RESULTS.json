@@ -1,0 +1,119 @@
+{
+  "created_utc": "2026-11-23T05:07:35.174071+00:00",
+  "newly_recruited_structures": true,
+  "pretraining_sequence_overlap": "UNKNOWN",
+  "cohort_freeze_sha256": "141bd69d8a5e331db8bd7c28eb2e08ca329137e1ad83be5315efb744885be1af",
+  "n_total_chains": 20,
+  "n_total_native_sequences": 20,
+  "fixed_channels": {
+    "2192": {
+      "layer0": 14,
+      "sign": -1
+    },
+    "1900": {
+      "layer0": 19,
+      "sign": 1
+    }
+  },
+  "stats": {
+    "primary_2192_same_helix": {
+      "n_pairs": 85,
+      "n_groups": 13,
+      "n_sequences": 13,
+      "n_chains": 13,
+      "wins": 79,
+      "ties": 0,
+      "losses": 6,
+      "group_equal_accuracy": 0.9478632478632478,
+      "ci95_group_bootstrap": [
+        0.8948717948717948,
+        0.9914529914529915
+      ],
+      "one_sided_group_signflip_p": 0.0001220703125,
+      "status": "EVALUABLE_FIXED_EXTERNAL_TEST",
+      "group_means": {
+        "fresh-hg-1c9241b56a619d629499ed12": 0.8888888888888888,
+        "fresh-hg-1d22503981abf4fe9e055499": 0.9,
+        "fresh-hg-2050e121c40716b1679af0b3": 1.0,
+        "fresh-hg-262c7bcde1c365985448d0e6": 1.0,
+        "fresh-hg-38465f0448ec829177f1beb5": 1.0,
+        "fresh-hg-422f5a848c7a8657ed4f760e": 1.0,
+        "fresh-hg-426a120e9105502534446b6b": 1.0,
+        "fresh-hg-56ed235359f56ad504dd6b9f": 0.8333333333333334,
+        "fresh-hg-682570f9f8f5d37c39b8f20b": 1.0,
+        "fresh-hg-949c6ab307f75d36bfdda659": 1.0,
+        "fresh-hg-a6ee1852f76a0ddd44b02b33": 0.7,
+        "fresh-hg-d36c64fc835cdd4046e109e3": 1.0,
+        "fresh-hg-eee095d33dfc10b13d642ec1": 1.0
+      },
+      "holm_p_two_external_fixed_tests": 0.0001220703125
+    },
+    "sensitivity_2192_all_pairs": {
+      "n_pairs": 158,
+      "n_groups": 15,
+      "n_sequences": 15,
+      "n_chains": 15,
+      "wins": 140,
+      "ties": 0,
+      "losses": 18,
+      "group_equal_accuracy": 0.8925925925925926,
+      "ci95_group_bootstrap": [
+        0.8356481481481483,
+        0.9444444444444444
+      ],
+      "one_sided_group_signflip_p": 3.0517578125e-05,
+      "status": "EVALUABLE_FIXED_EXTERNAL_TEST",
+      "group_means": {
+        "fresh-hg-1c9241b56a619d629499ed12": 0.9375,
+        "fresh-hg-1d22503981abf4fe9e055499": 0.875,
+        "fresh-hg-2050e121c40716b1679af0b3": 1.0,
+        "fresh-hg-262c7bcde1c365985448d0e6": 1.0,
+        "fresh-hg-38465f0448ec829177f1beb5": 1.0,
+        "fresh-hg-422f5a848c7a8657ed4f760e": 0.8888888888888888,
+        "fresh-hg-426a120e9105502534446b6b": 0.8125,
+        "fresh-hg-56ed235359f56ad504dd6b9f": 0.75,
+        "fresh-hg-682570f9f8f5d37c39b8f20b": 0.8333333333333334,
+        "fresh-hg-911458d39835295f41a08078": 1.0,
+        "fresh-hg-949c6ab307f75d36bfdda659": 0.875,
+        "fresh-hg-a02f86880ca58a6653ff7b44": 0.6666666666666666,
+        "fresh-hg-a6ee1852f76a0ddd44b02b33": 0.75,
+        "fresh-hg-d36c64fc835cdd4046e109e3": 1.0,
+        "fresh-hg-eee095d33dfc10b13d642ec1": 1.0
+      }
+    },
+    "secondary_1900_helix_vs_strand": {
+      "n_pairs": 228,
+      "n_groups": 15,
+      "n_sequences": 15,
+      "n_chains": 15,
+      "wins": 207,
+      "ties": 0,
+      "losses": 21,
+      "group_equal_accuracy": 0.9092592592592593,
+      "ci95_group_bootstrap": [
+        0.8800925925925926,
+        0.9393518518518519
+      ],
+      "one_sided_group_signflip_p": 3.0517578125e-05,
+      "status": "EVALUABLE_FIXED_EXTERNAL_TEST",
+      "group_means": {
+        "fresh-hg-1c9241b56a619d629499ed12": 0.8125,
+        "fresh-hg-1d22503981abf4fe9e055499": 0.9375,
+        "fresh-hg-2050e121c40716b1679af0b3": 0.875,
+        "fresh-hg-262c7bcde1c365985448d0e6": 0.8888888888888888,
+        "fresh-hg-38465f0448ec829177f1beb5": 0.875,
+        "fresh-hg-422f5a848c7a8657ed4f760e": 0.9375,
+        "fresh-hg-426a120e9105502534446b6b": 0.9375,
+        "fresh-hg-56ed235359f56ad504dd6b9f": 0.875,
+        "fresh-hg-682570f9f8f5d37c39b8f20b": 0.9375,
+        "fresh-hg-911458d39835295f41a08078": 1.0,
+        "fresh-hg-949c6ab307f75d36bfdda659": 1.0,
+        "fresh-hg-a02f86880ca58a6653ff7b44": 0.8125,
+        "fresh-hg-a6ee1852f76a0ddd44b02b33": 1.0,
+        "fresh-hg-d36c64fc835cdd4046e109e3": 0.875,
+        "fresh-hg-eee095d33dfc10b13d642ec1": 0.875
+      },
+      "holm_p_two_external_fixed_tests": 6.103515625e-05
+    }
+  }
+}

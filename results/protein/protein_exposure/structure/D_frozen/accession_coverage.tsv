@@ -1,0 +1,433 @@
+split	group	accession	status	source_candidate_PDBs	group_selected_accession
+D	old-union-000001	A0A0C9S461	selected_group_accession	7scs	A0A0C9S461
+D	old-union-000002	C0HK20	selected_group_accession	9c4i	C0HK20
+D	old-union-000006	P03944	attempted_not_selected	7ext	
+D	old-union-000007	O28478	selected_group_accession	1vim	O28478
+D	old-union-000007	O53604	not_attempted_after_group_selection	7yk3	O28478
+D	old-union-000007	O67082	not_attempted_after_group_selection	2nug	O28478
+D	old-union-000007	P03733	not_attempted_after_group_selection	7t2e,7t4f	O28478
+D	old-union-000007	P08854	not_attempted_after_group_selection	1gut,1gug	O28478
+D	old-union-000007	P24592	not_attempted_after_group_selection	1rmj,2jm2	O28478
+D	old-union-000007	P27862	not_attempted_after_group_selection	1vi7	O28478
+D	old-union-000007	P54491	not_attempted_after_group_selection	1ydm	O28478
+D	old-union-000007	Q59014	not_attempted_after_group_selection	2ej9	O28478
+D	old-union-000007	Q84BQ9	not_attempted_after_group_selection	2nxc	O28478
+D	old-union-000007	Q8YMJ2	not_attempted_after_group_selection	8qx5	O28478
+D	old-union-000018	A0A0A7HF73	selected_group_accession	6fjw	A0A0A7HF73
+D	old-union-000049	O30641	selected_group_accession	3ezx	O30641
+D	old-union-000050	O58403	selected_group_accession	1jfl	O58403
+D	old-union-000053	P0C0I6	selected_group_accession	1et9	P0C0I6
+D	old-union-000058	P13001	selected_group_accession	1m33	P13001
+D	old-union-000072	P55083	attempted_not_selected	7zmk	
+D	old-union-000098	A3MU87	selected_group_accession	9e6q	A3MU87
+D	old-union-000102	A0A1D8PEV4	selected_group_accession	9g6j	A0A1D8PEV4
+D	old-union-000113	O55142	selected_group_accession	7cpu	O55142
+D	old-union-000136	P02406	selected_group_accession	8ccs	P02406
+D	old-union-000177	P9WFJ9	selected_group_accession	5zy8	P9WFJ9
+D	old-union-000182	A0A385DTA3	attempted_not_selected	7qoh	
+D	old-union-000189	I1T3C7	attempted_not_selected	2lr5	
+D	old-union-000216	A0A7H0DN46	selected_group_accession	9jvu	A0A7H0DN46
+D	old-union-000219	P08583	selected_group_accession	8ini	P08583
+D	old-union-000251	A0QS46	attempted_not_selected	8v9j	
+D	old-union-000256	A0QSD2	selected_group_accession	9b1y,8vki	A0QSD2
+D	old-union-000285	P05657	selected_group_accession	8s1p	P05657
+D	old-union-000287	A0R1B5	selected_group_accession	8ovd	A0R1B5
+D	old-union-000288	O33336	selected_group_accession	4u89,8qzh	O33336
+D	old-union-000293	A0R3D2	selected_group_accession	8fr8,8v9l	A0R3D2
+D	old-union-000296	B7IA26	selected_group_accession	7uvz	B7IA26
+D	old-union-000325	O25928	selected_group_accession	2gll	O25928
+D	old-union-000326	O31796	selected_group_accession	3ahu	O31796
+D	old-union-000345	A2IAD2	selected_group_accession	5k6d	A2IAD2
+D	old-union-000347	P0AD49	selected_group_accession	4y4o	P0AD49
+D	old-union-000362	P0A6N8	selected_group_accession	8s8u	P0A6N8
+D	old-union-000377	P04951	selected_group_accession	3k8d	P04951
+D	old-union-000379	A3MSJ3	selected_group_accession	9e6q	A3MSJ3
+D	old-union-000380	O31678	selected_group_accession	4fgc	O31678
+D	old-union-000389	A3MWY2	selected_group_accession	9e71	A3MWY2
+D	old-union-000392	K4ZRC1	selected_group_accession	6fpc	K4ZRC1
+D	old-union-000399	A4ISU9	selected_group_accession	5dmb	A4ISU9
+D	old-union-000401	O50083	selected_group_accession	1lk5	O50083
+D	old-union-000415	O35031	selected_group_accession	3br8	O35031
+D	old-union-000416	A5F9C1	selected_group_accession	4l7v	A5F9C1
+D	old-union-000452	A6T7U7	selected_group_accession	7vi8	A6T7U7
+D	old-union-000468	A7UNK4	selected_group_accession	4nds	A7UNK4
+D	old-union-000477	A8C927	selected_group_accession	3p2e,3mte	A8C927
+D	old-union-000508	O29333	selected_group_accession	4muz	O29333
+D	old-union-000522	P53178	attempted_not_selected	2jzc,2ks6	
+D	old-union-000559	B6V311	selected_group_accession	8smf,8sme	B6V311
+D	old-union-000569	B8J3A4	selected_group_accession	4un1	B8J3A4
+D	old-union-000616	C5DSD6	selected_group_accession	3x37	C5DSD6
+D	old-union-000625	C6Y4C6	attempted_not_selected	8fw5	
+D	old-union-000630	C7UDU4	selected_group_accession	3s5u	C7UDU4
+D	old-union-000648	D2CVN7	selected_group_accession	5dof	D2CVN7
+D	old-union-000709	E1QU22	selected_group_accession	5apg	E1QU22
+D	old-union-000712	E2GIN1	selected_group_accession	6lnh	E2GIN1
+D	old-union-000713	E2JKI3	selected_group_accession	3odh	E2JKI3
+D	old-union-000720	E3PJ88	attempted_not_selected	5zdh	
+D	old-union-000770	F9UST0	selected_group_accession	8std	F9UST0
+D	old-union-000771	F9UT68	selected_group_accession	8p4w	F9UT68
+D	old-union-000789	G2TRJ4	attempted_not_selected	8fw5	
+D	old-union-000790	G2TRN4	selected_group_accession	6s2w	G2TRN4
+D	old-union-000798	G4MQL4	selected_group_accession	8xgl	G4MQL4
+D	old-union-000801	G5EC68	attempted_not_selected	5ix5	
+D	old-union-000802	G5ED35	selected_group_accession	3uaf	G5ED35
+D	old-union-000808	P04873	selected_group_accession	4bgp	P04873
+D	old-union-000821	P0ADX9	selected_group_accession	2fpo	P0ADX9
+D	old-union-000823	I6Y1Q2	selected_group_accession	5zr6	I6Y1Q2
+D	old-union-000824	I6Y4D2	selected_group_accession	9cun	I6Y4D2
+D	old-union-000834	K5B7F3	selected_group_accession	6h40	K5B7F3
+D	old-union-000836	K7QVW7	selected_group_accession	5bu3	K7QVW7
+D	old-union-000847	M1MR49	selected_group_accession	4boe	M1MR49
+D	old-union-000874	O05515	selected_group_accession	5mvr	O05515
+D	old-union-000882	O53779	selected_group_accession	5x3t	O53779
+D	old-union-000884	O06739	selected_group_accession	1u83	O06739
+D	old-union-000885	O67122	attempted_not_selected	8gqy	
+D	old-union-000946	O24872	selected_group_accession	3qxc,3qxh	O24872
+D	old-union-000947	P0A8A0	selected_group_accession	1kon	P0A8A0
+D	old-union-000954	O67866	selected_group_accession	2ark	O67866
+D	old-union-000955	O25828	selected_group_accession	2uvp	O25828
+D	old-union-000963	O26347	selected_group_accession	1zps	O26347
+D	old-union-000964	O26638	attempted_not_selected	1eiw	
+D	old-union-000970	O26898	attempted_not_selected	1nho	
+D	old-union-000974	O27099	selected_group_accession	2ntk	O27099
+D	old-union-000976	O27255	selected_group_accession	1lxn	O27255
+D	old-union-000988	O57811	selected_group_accession	1g8a	O57811
+D	old-union-000992	O28415	selected_group_accession	6vjg	O28415
+D	old-union-000994	O28440	selected_group_accession	2dc1	O28440
+D	old-union-001011	O29664	selected_group_accession	1o4w	O29664
+D	old-union-001013	P61818	selected_group_accession	3dfz	P61818
+D	old-union-001018	O66440	selected_group_accession	2egz	O66440
+D	old-union-001023	O30273	selected_group_accession	1ytl	O30273
+D	old-union-001026	O30881	selected_group_accession	4eic	O30881
+D	old-union-001027	O30917	attempted_not_selected	1k3s	
+D	old-union-001030	O31408	selected_group_accession	1b4a	O31408
+D	old-union-001033	O31524	selected_group_accession	1oq1	O31524
+D	old-union-001034	O31533	selected_group_accession	3c6f	O31533
+D	old-union-001039	O31597	selected_group_accession	8b3s	O31597
+D	old-union-001050	O31677	selected_group_accession	5th5	O31677
+D	old-union-001060	O31858	selected_group_accession	1njh	O31858
+D	old-union-001069	O32085	selected_group_accession	4qm9	O32085
+D	old-union-001071	O32108	selected_group_accession	4wjt	O32108
+D	old-union-001079	O32727	selected_group_accession	1th8	O32727
+D	old-union-001083	O33731	attempted_not_selected	2k3v	
+D	old-union-001111	P0DX96	selected_group_accession	6bws	P0DX96
+D	old-union-001112	O34911	selected_group_accession	1s99	O34911
+D	old-union-001114	O34960	selected_group_accession	4ygt	O34960
+D	old-union-001170	P0A731	selected_group_accession	1b93	P0A731
+D	old-union-001171	O52380	selected_group_accession	7c8z	O52380
+D	old-union-001177	O53509	attempted_not_selected	2kfs	
+D	old-union-001188	O58022	selected_group_accession	2dr3	O58022
+D	old-union-001189	O58088	selected_group_accession	3qjl	O58088
+D	old-union-001202	O59475	selected_group_accession	2ekn	O59475
+D	old-union-001224	P0AGL7	selected_group_accession	4e8b	P0AGL7
+D	old-union-001238	O67466	selected_group_accession	2egj	O67466
+D	old-union-001250	O68196	selected_group_accession	2d0o	O68196
+D	old-union-001266	P00423	selected_group_accession	7coh,8gbt	P00423
+D	old-union-001280	O75629	selected_group_accession	1xhn	O75629
+D	old-union-001281	O75817	selected_group_accession	6cwx	O75817
+D	old-union-001291	P00405	attempted_not_selected	7o37	
+D	old-union-001302	O85094	selected_group_accession	1o9y	O85094
+D	old-union-001306	O87896	selected_group_accession	2hy5	O87896
+D	old-union-001310	O94276	attempted_not_selected	2luy	
+D	old-union-001342	P00094	selected_group_accession	1vyd,1c2n	P00094
+D	old-union-001347	P00166	selected_group_accession	9es7	P00166
+D	old-union-001347	P05725	not_attempted_after_group_selection	1t9i	P00166
+D	old-union-001349	P00210	selected_group_accession	1fxr	P00210
+D	old-union-001360	P05798	selected_group_accession	1lni	P05798
+D	old-union-001363	P00720	selected_group_accession	2o7a,8a5x	P00720
+D	old-union-001407	P02309	attempted_not_selected	1szd,7z0o	
+D	old-union-001411	P02607	attempted_not_selected	7mf3	
+D	old-union-001429	P03000	selected_group_accession	1tig	P03000
+D	old-union-001438	P06463	selected_group_accession	6sjv	P06463
+D	old-union-001447	P03252	selected_group_accession	4ekf	P03252
+D	old-union-001460	P03606	selected_group_accession	4v4m	P03606
+D	old-union-001465	P03630	selected_group_accession	2qud	P03630
+D	old-union-001473	P03696	selected_group_accession	1je5	P03696
+D	old-union-001484	P03718	attempted_not_selected	2jub	
+D	old-union-001493	P03765	selected_group_accession	1pc6	P03765
+D	old-union-001507	P04303	selected_group_accession	5jx8,2owq	P04303
+D	old-union-001510	P04351	selected_group_accession	4yue	P04351
+D	old-union-001515	P04482	selected_group_accession	3u43,2wpt	P04482
+D	old-union-001519	P04527	selected_group_accession	8uh7,8unh	P04527
+D	old-union-001521	P04536	selected_group_accession	8ken	P04536
+D	old-union-001530	P04871	selected_group_accession	2wux	P04871
+D	old-union-001543	P05100	attempted_not_selected	1lmz	
+D	old-union-001556	P06018	selected_group_accession	8bv8	P06018
+D	old-union-001562	P06226	selected_group_accession	8xa7	P06226
+D	old-union-001575	P07059	selected_group_accession	2wsh	P07059
+D	old-union-001577	P07111	selected_group_accession	2xg5	P07111
+D	old-union-001578	P07166	selected_group_accession	2rh3	P07166
+D	old-union-001590	P07695	attempted_not_selected	4lhf	
+D	old-union-001593	P07964	selected_group_accession	9qr1	P07964
+D	old-union-001605	P08773	selected_group_accession	1b5e	P08773
+D	old-union-001612	P09279	attempted_not_selected	8x9x	
+D	old-union-001616	P09425	selected_group_accession	5iw9	P09425
+D	old-union-001622	P09919	selected_group_accession	5gw9	P09919
+D	old-union-001625	P0A7Y8	attempted_not_selected	7uo2	
+D	old-union-001631	P0A1I7	attempted_not_selected	7bin	
+D	old-union-001652	P0A401	attempted_not_selected	7fix	
+D	old-union-001655	P0A435	attempted_not_selected	1tvm	
+D	old-union-001659	P0A6G5	selected_group_accession	7dcn	P0A6G5
+D	old-union-001675	P0A7G2	attempted_not_selected	7bog	
+D	old-union-001678	P0A7K2	selected_group_accession	4v9o,1rqv	P0A7K2
+D	old-union-001688	P0A8J2	selected_group_accession	4ou6	P0A8J2
+D	old-union-001698	P0A8U6	selected_group_accession	1cmb	P0A8U6
+D	old-union-001704	P0A964	attempted_not_selected	2ho9	
+D	old-union-001711	P0ABE5	selected_group_accession	5oc0	P0ABE5
+D	old-union-001716	P0AAQ9	selected_group_accession	2okq	P0AAQ9
+D	old-union-001721	P0AAV4	selected_group_accession	5dud	P0AAV4
+D	old-union-001729	P0ABJ3	selected_group_accession	7n9z,6wti	P0ABJ3
+D	old-union-001741	P0ABY7	selected_group_accession	2avu	P0ABY7
+D	old-union-001743	P43777	selected_group_accession	1cbk	P43777
+D	old-union-001745	P0ACK5	selected_group_accession	7l6l	P0ACK5
+D	old-union-001760	P0ADX1	selected_group_accession	1ml8	P0ADX1
+D	old-union-001762	P0AE22	selected_group_accession	2b82	P0AE22
+D	old-union-001765	P0AE70	selected_group_accession	5cqx	P0AE70
+D	old-union-001767	P0AE98	attempted_not_selected	5m1u	
+D	old-union-001776	P0AEV9	selected_group_accession	2e85	P0AEV9
+D	old-union-001785	P0AFU8	selected_group_accession	1i8d	P0AFU8
+D	old-union-001792	P0AG86	selected_group_accession	1qyn	P0AG86
+D	old-union-001814	P0C5Z0	selected_group_accession	6a7u	P0C5Z0
+D	old-union-001833	P0CL19	selected_group_accession	3sgw	P0CL19
+D	old-union-001852	P0DOE7	selected_group_accession	2vqp	P0DOE7
+D	old-union-001854	P0DP92	selected_group_accession	6yb3	P0DP92
+D	old-union-001876	P26672	selected_group_accession	5ezu,4lqk	P26672
+D	old-union-001904	P10762	selected_group_accession	1aep	P10762
+D	old-union-001906	P10868	selected_group_accession	1xcj	P10868
+D	old-union-001907	P10929	selected_group_accession	1el6	P10929
+D	old-union-001931	P12770	attempted_not_selected	1t23,2khl	
+D	old-union-001934	P17493	selected_group_accession	1xrk	P17493
+D	old-union-001935	P13123	selected_group_accession	1xyi	P13123
+D	old-union-001940	P13276	attempted_not_selected	1eq1	
+D	old-union-001948	P13393	selected_group_accession	1ytb	P13393
+D	old-union-001949	P13402	selected_group_accession	7pil,2nrg	P13402
+D	old-union-001950	P13476	selected_group_accession	2fhz	P13476
+D	old-union-001952	P13689	selected_group_accession	1lr5	P13689
+D	old-union-001959	P13979	selected_group_accession	9e2v	P13979
+D	old-union-001960	P13984	selected_group_accession	1f3u	P13984
+D	old-union-001970	P14711	selected_group_accession	4wx3	P14711
+D	old-union-001994	P17782	selected_group_accession	6r7g	P17782
+D	old-union-001996	P16686	selected_group_accession	2fsu	P16686
+D	old-union-002003	P17122	selected_group_accession	6bzg	P17122
+D	old-union-002014	P18002	selected_group_accession	4aeq	P18002
+D	old-union-002015	P50049	selected_group_accession	1ear	P50049
+D	old-union-002020	P18958	selected_group_accession	1smp	P18958
+D	old-union-002037	P20114	attempted_not_selected	8iuf	
+D	old-union-002057	P22027	selected_group_accession	3e4g	P22027
+D	old-union-002058	P22262	selected_group_accession	6exm	P22262
+D	old-union-002061	P22524	selected_group_accession	3euh	P22524
+D	old-union-002070	P22915	selected_group_accession	1kaf,1bja	P22915
+D	old-union-002073	P23154	selected_group_accession	3tl1,3tvr	P23154
+D	old-union-002075	P23438	attempted_not_selected	8rjd	
+D	old-union-002078	P23627	attempted_not_selected	1laj	
+D	old-union-002084	P24003	attempted_not_selected	8alo	
+D	old-union-002096	P25397	selected_group_accession	2xvm	P25397
+D	old-union-002097	P25642	attempted_not_selected	3j6b	
+D	old-union-002114	P26602	selected_group_accession	1tt8	P26602
+D	old-union-002118	P26948	selected_group_accession	1p5u,4az8	P26948
+D	old-union-002120	P27344	attempted_not_selected	6wjv	
+D	old-union-002131	P28015	selected_group_accession	2ia9	P28015
+D	old-union-002140	P28905	selected_group_accession	3sxu	P28905
+D	old-union-002146	P29722	selected_group_accession	4u3q	P29722
+D	old-union-002154	P30176	attempted_not_selected	2b3w	
+D	old-union-002155	P30440	selected_group_accession	1zkr	P30440
+D	old-union-002156	P30569	attempted_not_selected	2kak	
+D	old-union-002164	P31340	selected_group_accession	3qr8	P31340
+D	old-union-002173	P32162	attempted_not_selected	2k3i	
+D	old-union-002181	P52657	selected_group_accession	1nvp	P52657
+D	old-union-002193	P54656	selected_group_accession	1kzf	P54656
+D	old-union-002201	P35256	selected_group_accession	4or8	P35256
+D	old-union-002206	P35804	selected_group_accession	7s5s	P35804
+D	old-union-002207	P35837	selected_group_accession	3c9i,4lin	P35837
+D	old-union-002235	P37574	selected_group_accession	5mq8	P37574
+D	old-union-002238	P37613	selected_group_accession	5ls7	P37613
+D	old-union-002239	P37719	selected_group_accession	3aj1,3aj2	P37719
+D	old-union-002246	P38208	attempted_not_selected	7c79,6w6v	
+D	old-union-002248	P38247	selected_group_accession	4ftx	P38247
+D	old-union-002259	P38751	attempted_not_selected	5xyn	
+D	old-union-002264	P38877	selected_group_accession	5msm	P38877
+D	old-union-002268	P38957	attempted_not_selected	5xyn	
+D	old-union-002273	P39274	selected_group_accession	5i0c	P39274
+D	old-union-002274	P39411	selected_group_accession	1u5w	P39411
+D	old-union-002276	P39543	selected_group_accession	6wb9	P39543
+D	old-union-002287	P39890	selected_group_accession	1tuw	P39890
+D	old-union-002300	P40165	selected_group_accession	1jzt	P40165
+D	old-union-002302	P40422	selected_group_accession	1twf,9g1v	P40422
+D	old-union-002304	P40465	selected_group_accession	3vu9	P40465
+D	old-union-002307	P40567	attempted_not_selected	9dtr	
+D	old-union-002320	P41734	selected_group_accession	3mil	P41734
+D	old-union-002321	P41786	selected_group_accession	4oyc,6uot	P41786
+D	old-union-002324	P43487	selected_group_accession	1k5d	P43487
+D	old-union-002327	P76459	selected_group_accession	5dbn	P76459
+D	old-union-002329	P42624	selected_group_accession	2vec	P42624
+D	old-union-002331	P42771	selected_group_accession	7ozt,1a5e	P42771
+D	old-union-002337	P42955	selected_group_accession	3njc	P42955
+D	old-union-002346	P43642	selected_group_accession	1d02	P43642
+D	old-union-002350	P43994	selected_group_accession	2hj1	P43994
+D	old-union-002353	P44199	attempted_not_selected	1nnv	
+D	old-union-002356	P44251	selected_group_accession	5gng	P44251
+D	old-union-002370	P46003	selected_group_accession	3kgk	P46003
+D	old-union-002372	P46122	attempted_not_selected	2jwy	
+D	old-union-002374	P46984	selected_group_accession	4wxa	P46984
+D	old-union-002376	P47006	selected_group_accession	4c2m,5n61	P47006
+D	old-union-002377	P47096	selected_group_accession	1zvf	P47096
+D	old-union-002395	P49771	selected_group_accession	7nbi	P49771
+D	old-union-002404	P50838	selected_group_accession	2nx2	P50838
+D	old-union-002410	P52007	selected_group_accession	1k4n	P52007
+D	old-union-002411	P52130	selected_group_accession	6y2p	P52130
+D	old-union-002412	P52141	selected_group_accession	2ea9	P52141
+D	old-union-002422	P53215	selected_group_accession	5xox	P53215
+D	old-union-002429	P53510	selected_group_accession	4b9g	P53510
+D	old-union-002442	P54328	selected_group_accession	3f3b	P54328
+D	old-union-002443	P54332	selected_group_accession	2guj	P54332
+D	old-union-002444	P54342	attempted_not_selected	2hg7	
+D	old-union-002452	P54962	selected_group_accession	4n7c	P54962
+D	old-union-002466	P56278	selected_group_accession	1a1x	P56278
+D	old-union-002478	P58154	selected_group_accession	7ndv	P58154
+D	old-union-002480	P58758	selected_group_accession	2ze6	P58758
+D	old-union-002483	P59285	selected_group_accession	2bdr	P59285
+D	old-union-002493	P61491	selected_group_accession	1srv	P61491
+D	old-union-002508	P64580	attempted_not_selected	5ycl	
+D	old-union-002514	P67080	selected_group_accession	3sy1	P67080
+D	old-union-002528	P68591	selected_group_accession	1v8d	P68591
+D	old-union-002531	P68623	selected_group_accession	7ytu	P68623
+D	old-union-002537	P68928	selected_group_accession	3zqo	P68928
+D	old-union-002550	P69829	selected_group_accession	1a6j	P69829
+D	old-union-002568	P75223	selected_group_accession	1zxj	P75223
+D	old-union-002571	P75677	attempted_not_selected	2hjj	
+D	old-union-002573	P75862	selected_group_accession	5e1l	P75862
+D	old-union-002575	P75914	selected_group_accession	1m65	P75914
+D	old-union-002580	P76038	selected_group_accession	6vtv	P76038
+D	old-union-002585	P76270	selected_group_accession	1vhm	P76270
+D	old-union-002586	P76318	selected_group_accession	6kbx	P76318
+D	old-union-002591	P76537	selected_group_accession	2qzb	P76537
+D	old-union-002594	P77072	selected_group_accession	5u7a	P77072
+D	old-union-002596	P77214	selected_group_accession	2qcp	P77214
+D	old-union-002601	P80183	selected_group_accession	8q3v	P80183
+D	old-union-002620	P81702	attempted_not_selected	2kqa	
+D	old-union-002656	P86179	selected_group_accession	2zx2	P86179
+D	old-union-002664	P89036	attempted_not_selected	4v99	
+D	old-union-002668	P95257	selected_group_accession	5mtw	P95257
+D	old-union-002670	P96717	selected_group_accession	3qy7	P96717
+D	old-union-002679	P9WIP7	selected_group_accession	4e1p,6qkp	P9WIP7
+D	old-union-002687	P9WJA5	selected_group_accession	7awk	P9WJA5
+D	old-union-002689	P9WJG3	selected_group_accession	4kbm	P9WJG3
+D	old-union-002691	P9WK15	selected_group_accession	1yk3	P9WK15
+D	old-union-002692	P9WK45	selected_group_accession	3mh9	P9WK45
+D	old-union-002693	P9WK61	selected_group_accession	7fds	P9WK61
+D	old-union-002694	P9WK81	selected_group_accession	2v7s	P9WK81
+D	old-union-002695	P9WKX3	selected_group_accession	5lfj,5lfp	P9WKX3
+D	old-union-002696	P9WLS3	selected_group_accession	4wsp	P9WLS3
+D	old-union-002699	P9WLS1	attempted_not_selected	7nhz	
+D	old-union-002700	P9WM67	selected_group_accession	2pfc	P9WM67
+D	old-union-002702	P9WP15	selected_group_accession	3r5l	P9WP15
+D	old-union-002704	P9WP57	attempted_not_selected	2mmu,9nm2	
+D	old-union-002705	P9WPV9	selected_group_accession	6con	P9WPV9
+D	old-union-002713	Q01083	selected_group_accession	3ca7	Q01083
+D	old-union-002723	Q02754	selected_group_accession	5kci	Q02754
+D	old-union-002726	Q02MM2	selected_group_accession	2xlk	Q02MM2
+D	old-union-002727	Q02UQ8	selected_group_accession	6k4f	Q02UQ8
+D	old-union-002729	Q03036	selected_group_accession	5cog	Q03036
+D	old-union-002731	Q03096	attempted_not_selected	2m9v	
+D	old-union-002734	Q03579	selected_group_accession	8zb1	Q03579
+D	old-union-002735	Q03629	selected_group_accession	1xe7	Q03629
+D	old-union-002753	Q05354	selected_group_accession	1otg	Q05354
+D	old-union-002754	Q05599	selected_group_accession	1c9k	Q05599
+D	old-union-002761	Q8U092	selected_group_accession	4aaj	Q8U092
+D	old-union-002763	Q06241	selected_group_accession	1r44	Q06241
+D	old-union-002774	Q07623	attempted_not_selected	2mzj	
+D	old-union-002778	Q07951	selected_group_accession	2z5b	Q07951
+D	old-union-002783	Q08465	attempted_not_selected	2jmi	
+D	old-union-002790	Q08788	attempted_not_selected	2k2q	
+D	old-union-002797	Q0C8A2	selected_group_accession	5wqi	Q0C8A2
+D	old-union-002800	Q0P9D1	selected_group_accession	3bfp,3bsw	Q0P9D1
+D	old-union-002806	Q0VGL1	selected_group_accession	6b9x	Q0VGL1
+D	old-union-002813	Q12035	attempted_not_selected	9g33	
+D	old-union-002814	Q12129	selected_group_accession	8rdd	Q12129
+D	old-union-002818	Q12314	selected_group_accession	5h5f	Q12314
+D	old-union-002819	Q12318	selected_group_accession	3vu9	Q12318
+D	old-union-002827	Q12517	selected_group_accession	1q67,6y3z	Q12517
+D	old-union-002828	Q12530	attempted_not_selected	7c79,7c7a	
+D	old-union-002852	Q16667	selected_group_accession	1fpz	Q16667
+D	old-union-002861	Q1EMV2	selected_group_accession	3kuv	Q1EMV2
+D	old-union-002864	Q20222	selected_group_accession	9dxi	Q20222
+D	old-union-002870	Q27084	selected_group_accession	1tl2	Q27084
+D	old-union-002873	Q2EES9	attempted_not_selected	1z4h	
+D	old-union-002877	Q2G178	selected_group_accession	8gup	Q2G178
+D	old-union-002879	Q2G1Q0	selected_group_accession	4big	Q2G1Q0
+D	old-union-002891	Q8DLN5	selected_group_accession	6khi	Q8DLN5
+D	old-union-002897	Q2YQA5	selected_group_accession	4qpk	Q2YQA5
+D	old-union-002909	Q39195	attempted_not_selected	7oui	
+D	old-union-002915	Q3E841	attempted_not_selected	2grg	
+D	old-union-002933	Q45498	selected_group_accession	2a8e	Q45498
+D	old-union-002938	Q46898	selected_group_accession	5h9f	Q46898
+D	old-union-002942	Q47152	selected_group_accession	4er8	Q47152
+D	old-union-002952	Q4K4F7	selected_group_accession	5vit	Q4K4F7
+D	old-union-002968	Q50LF1	selected_group_accession	1x31	Q50LF1
+D	old-union-002974	Q54450	selected_group_accession	1dk0	Q54450
+D	old-union-002976	Q55356	attempted_not_selected	2kvo	
+D	old-union-002977	Q55389	selected_group_accession	1dj7,2pvg	Q55389
+D	old-union-002980	Q56148	selected_group_accession	1qhx	Q56148
+D	old-union-002983	Q56A73	selected_group_accession	4uy4	Q56A73
+D	old-union-002984	Q56XB0	attempted_not_selected	7jn6	
+D	old-union-002992	Q57829	selected_group_accession	3s4l	Q57829
+D	old-union-002993	Q6L2J9	selected_group_accession	2i52	Q6L2J9
+D	old-union-002996	Q58034	selected_group_accession	5dni	Q58034
+D	old-union-002997	Q58102	selected_group_accession	3k32	Q58102
+D	old-union-003001	Q58499	selected_group_accession	4u9p	Q58499
+D	old-union-003003	Q58649	selected_group_accession	3wva	Q58649
+D	old-union-003006	Q58876	selected_group_accession	5x6b	Q58876
+D	old-union-003008	Q58952	selected_group_accession	3a27	Q58952
+D	old-union-003011	Q59028	selected_group_accession	8sbu	Q59028
+D	old-union-003012	Q59034	selected_group_accession	3aia	Q59034
+D	old-union-003015	Q5AR31	selected_group_accession	5x9k	Q5AR31
+D	old-union-003025	Q5JIY7	selected_group_accession	8jvc	Q5JIY7
+D	old-union-003027	Q5JS54	selected_group_accession	5wtq	Q5JS54
+D	old-union-003038	Q5SHU9	selected_group_accession	1vs3	Q5SHU9
+D	old-union-003039	Q5SHY0	selected_group_accession	5zvq	Q5SHY0
+D	old-union-003040	Q97E82	selected_group_accession	1vr0	Q97E82
+D	old-union-003042	Q5SKZ7	attempted_not_selected	3i9v	
+D	old-union-003071	Q5ZYB7	selected_group_accession	5x42	Q5ZYB7
+D	old-union-003072	Q5ZYD0	selected_group_accession	5x1e	Q5ZYD0
+D	old-union-003112	Q6CVZ8	selected_group_accession	7qhy	Q6CVZ8
+D	old-union-003118	Q8EBZ9	attempted_not_selected	2gzo	
+D	old-union-003125	Q6JAM6	selected_group_accession	2w2s	Q6JAM6
+D	old-union-003134	Q6NCZ4	selected_group_accession	3fov	Q6NCZ4
+D	old-union-003148	Q6P161	selected_group_accession	7qi4,8pk0	Q6P161
+D	old-union-003164	Q6QGD9	attempted_not_selected	9ilp	
+D	old-union-003167	Q6QGP7	attempted_not_selected	2mxz	
+D	old-union-003176	Q6T1W8	selected_group_accession	2pa7	Q6T1W8
+D	old-union-003179	Q6TM72	selected_group_accession	5yhr	Q6TM72
+D	old-union-003198	Q70LC3	selected_group_accession	2wb6	Q70LC3
+D	old-union-003200	Q70LE6	selected_group_accession	3ii2	Q70LE6
+D	old-union-003213	Q797E6	selected_group_accession	2oc6	Q797E6
+D	old-union-003228	Q7M4T6	selected_group_accession	1v5i	Q7M4T6
+D	old-union-003249	Q7Y5D9	attempted_not_selected	7qg9	
+D	old-union-003260	Q7Z7F7	selected_group_accession	7qi4,5ool	Q7Z7F7
+D	old-union-003276	Q81SV3	selected_group_accession	3do9	Q81SV3
+D	old-union-003279	Q84459	attempted_not_selected	6ncl	
+D	old-union-003281	Q84580	attempted_not_selected	6ncl	
+D	old-union-003283	Q84666	attempted_not_selected	6ncl	
+D	old-union-003293	Q86993	selected_group_accession	1stm	Q86993
+D	old-union-003341	Q8CWB9	selected_group_accession	3qs2	Q8CWB9
+D	old-union-003342	Q8DI91	selected_group_accession	3bdr	Q8DI91
+D	old-union-003382	Q8K2Y7	selected_group_accession	9hcf	Q8K2Y7
+D	old-union-003425	Q8NB37	selected_group_accession	8a3p	Q8NB37
+D	old-union-003437	Q8NMB4	selected_group_accession	7qhm	Q8NMB4
+D	old-union-003442	Q8QL44	selected_group_accession	2x5h	Q8QL44
+D	old-union-003454	Q8SRW6	selected_group_accession	7qep	Q8SRW6
+D	old-union-003520	Q8X7A5	selected_group_accession	2pof	Q8X7A5
+D	old-union-003521	Q8XAL7	attempted_not_selected	3v3k	
+D	old-union-003527	Q8YT18	selected_group_accession	7c5w	Q8YT18
+D	old-union-003529	Q8ZL65	selected_group_accession	4c47	Q8ZL65
+D	old-union-003530	Q8ZP43	selected_group_accession	9l6b	Q8ZP43
+D	old-union-003531	Q8ZQ08	selected_group_accession	4q6v	Q8ZQ08
+D	old-union-003532	Q8ZXK7	selected_group_accession	1vcv	Q8ZXK7
+D	old-union-003533	Q90121	selected_group_accession	1kpt	Q90121
+D	old-union-003592	Q96BM0	attempted_not_selected	2loq	
+D	old-union-003631	Q97WX5	selected_group_accession	2x5q	Q97WX5
+D	old-union-003632	Q97XK8	selected_group_accession	2xvo	Q97XK8
+D	old-union-003634	Q97Y90	attempted_not_selected	9crq	
+D	old-union-003635	Q97Y92	attempted_not_selected	9cp2	
+D	old-union-003640	Q98459	attempted_not_selected	6ncl	
+D	old-union-003642	Q98576	attempted_not_selected	6ncl	

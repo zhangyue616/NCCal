@@ -1,0 +1,13 @@
+{
+  "model": "35m",
+  "axis_zero_based": 814,
+  "axis_candidates": 1920,
+  "rows": 20974,
+  "groups": 325,
+  "development_data_signature": "9df331898ba9726f1da7b8b3304fe490f6af541d23619ac3af7f30289716c25c",
+  "penalty": 0.001,
+  "cv_baseline_mae": 0.14772101351759478,
+  "cv_augmented_mae": 0.14623938474346493,
+  "dev_median_remote_contacts": 3.0,
+  "selection": "only D structural labels, group-held-out folds"
+}

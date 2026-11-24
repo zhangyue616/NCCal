@@ -1,0 +1,37 @@
+{
+  "selection": {
+    "model": "8m",
+    "axis_zero_based": 801,
+    "axis_candidates": 1280,
+    "cv_augmented_mae": 0.14679904047006231,
+    "cv_baseline_mae": 0.14772101351759478,
+    "penalty": 0.001,
+    "mean": -0.04216661736980121,
+    "slope": 0.06435218776036822,
+    "development_data_signature": "9df331898ba9726f1da7b8b3304fe490f6af541d23619ac3af7f30289716c25c",
+    "selected_utc": "2026-11-19T18:26:47.685615+00:00",
+    "before_confirmation_extraction": true
+  },
+  "T_groups": 1099,
+  "T_residues": 173859,
+  "T_pairs": 967,
+  "sequence_mae": 0.14301555679843225,
+  "augmented_mae": 0.14297071349263948,
+  "mae_gain": 4.484330579275989e-05,
+  "sequence_brier": 0.24329298672415603,
+  "augmented_brier": 0.24579616427365283,
+  "brier_gain": -0.0025031775494968,
+  "pair_correct": 532,
+  "pair_ties": 0,
+  "pair_incorrect": 435,
+  "pair_penalties": [
+    0.01,
+    0.01
+  ],
+  "pair_development_cv_brier": [
+    0.25075159770059785,
+    0.24753880274214052,
+    0.27084401315789475,
+    0.29312524826686787
+  ]
+}

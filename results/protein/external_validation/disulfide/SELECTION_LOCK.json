@@ -1,0 +1,44 @@
+{
+  "utc": "2026-11-23T01:54:25.347659+00:00",
+  "T_forward_count": 0,
+  "selection_split": "A",
+  "tie_rule": "smallest pole index",
+  "arms": {
+    "native": {
+      "pole_index": 1529,
+      "unit": 249,
+      "polarity": -1,
+      "A_group_win": 0.8478260869565217,
+      "searched_poles": 2558,
+      "A_pairs": 34,
+      "A_groups": 23
+    },
+    "rotation": {
+      "pole_index": 616,
+      "unit": 616,
+      "polarity": 1,
+      "A_group_win": 0.7753623188405797,
+      "searched_poles": 2558,
+      "A_pairs": 34,
+      "A_groups": 23
+    },
+    "untrained": {
+      "pole_index": 2308,
+      "unit": 1028,
+      "polarity": -1,
+      "A_group_win": 0.7753623188405797,
+      "searched_poles": 2558,
+      "A_pairs": 34,
+      "A_groups": 23
+    },
+    "shuffled": {
+      "pole_index": 1344,
+      "unit": 64,
+      "polarity": -1,
+      "A_group_win": 0.8623188405797102,
+      "searched_poles": 2558,
+      "A_pairs": 34,
+      "A_groups": 23
+    }
+  }
+}

@@ -1,0 +1,2 @@
+unit_id	concept	group	accession	split	auroc	n_positive	n_unannotated	n_negative_reference	negative_reference_meaning	auc_scope	full_protein_residue_auc	own_fresh_eligible
+Hallee|esm2_650m|b8|u2440|positive|d7e44b5628	Modified residue_Cysteine methyl ester	fresh-28dfccad161599ecd0bd36587cd31eb1815c8f047da5ccb91199856659053d67	P16330	T	1.0	1	419	419	not annotated, not verified absence	all_eligible_observed_or_annotated_domain_residues	True	False

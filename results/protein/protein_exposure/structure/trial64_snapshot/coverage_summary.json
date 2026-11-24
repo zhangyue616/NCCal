@@ -1,0 +1,48 @@
+{
+  "updated_utc": "2026-11-18T06:48:40.224774+00:00",
+  "population": {
+    "D_pairs": 432,
+    "D_groups": 421,
+    "T_groups": 1304
+  },
+  "source_scope": "old evidence PDB candidate IDs only; not exhaustive accession-PDB coverage",
+  "by_split": {
+    "D": {
+      "population_groups": 421,
+      "attempted_groups": 64,
+      "quality_structure_groups": 43,
+      "matched_pair_groups": 22,
+      "matched_pair_center2_sensitivity_groups": 29,
+      "quality_residues": 6018,
+      "main_clean_residues": 2899,
+      "center2_clean_sensitivity_residues": 3527,
+      "interface_residues": 921,
+      "status_counts": {
+        "features_computed": 43,
+        "no_eligible_structure": 21,
+        "unattempted": 357
+      }
+    },
+    "T": {
+      "population_groups": 1304,
+      "attempted_groups": 64,
+      "quality_structure_groups": 49,
+      "matched_pair_groups": 40,
+      "matched_pair_center2_sensitivity_groups": 46,
+      "quality_residues": 12092,
+      "main_clean_residues": 6871,
+      "center2_clean_sensitivity_residues": 8612,
+      "interface_residues": 1139,
+      "status_counts": {
+        "features_computed": 49,
+        "no_eligible_structure": 15,
+        "unattempted": 1240
+      }
+    }
+  },
+  "no_model_predictions_read": true,
+  "no_reserved_groups_used": true,
+  "feature_file": "residue_features.tsv",
+  "pair_file": "matched_pairs.tsv",
+  "ledger_file": "group_coverage.tsv"
+}

@@ -1,0 +1,51 @@
+{
+  "selection": {
+    "model": "8m",
+    "axis_zero_based": 801,
+    "axis_candidates": 1280,
+    "rows": 20974,
+    "groups": 325,
+    "development_data_signature": "9df331898ba9726f1da7b8b3304fe490f6af541d23619ac3af7f30289716c25c",
+    "penalty": 0.001,
+    "cv_baseline_mae": 0.14772101351759478,
+    "cv_augmented_mae": 0.14679904047006226,
+    "dev_median_remote_contacts": 3.0,
+    "selection": "only D structural labels, group-held-out folds"
+  },
+  "T_groups": 1099,
+  "T_residues": 173859,
+  "sequence_mae": 0.14301555679843225,
+  "augmented_mae": 0.14297071349263948,
+  "group_mae_difference": 4.484330579275978e-05,
+  "paired_95ci": [
+    -0.00016357197644005478,
+    0.00026256780799532387
+  ],
+  "long_range_sensitivity": {
+    "support_groups": 1010,
+    "common_aa_secondary_rsa_strata": 15730,
+    "cutoff_from_D": 3.0,
+    "low_gain_mae": 4.829748323432366e-06,
+    "high_gain_mae": -8.350268058208034e-05,
+    "high_minus_low": -8.833242890551277e-05,
+    "paired_95ci": [
+      -0.00040216228405355397,
+      0.00020756565956942113
+    ]
+  },
+  "buried_exposed_pairs": {
+    "D_groups": 195,
+    "T_groups": 967,
+    "penalties": [
+      0.01,
+      0.01
+    ],
+    "sequence_brier": 0.243292986724156,
+    "augmented_brier": 0.24579616427365283,
+    "improvement": -0.0025031775494968153,
+    "paired_95ci": [
+      -0.00500050345542999,
+      6.616200704607092e-05
+    ]
+  }
+}

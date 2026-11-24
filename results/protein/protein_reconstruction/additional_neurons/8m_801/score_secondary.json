@@ -1,0 +1,43 @@
+{
+  "groups": 1099,
+  "sites": 173859,
+  "singleton_groups": 4,
+  "shifted_R2": {
+    "estimate": 0.027865288480950934,
+    "ci95": [
+      0.010975483232308384,
+      0.03520293031510117
+    ],
+    "ci_simultaneous_99_1667": [
+      -0.0007829340355501934,
+      0.037137238833602336
+    ]
+  },
+  "correct_minus_shifted_R2": {
+    "estimate": -0.0004998111917662968,
+    "ci95": [
+      -0.0016006351041310768,
+      0.000369250202142053
+    ],
+    "ci_simultaneous_99_1667": [
+      -0.0021297856301640437,
+      0.0006245652039468268
+    ]
+  },
+  "activation_order_pairs": {
+    "denominator": 967,
+    "actual_ties": 0,
+    "seq": {
+      "correct": 427,
+      "incorrect": 540,
+      "prediction_ties": 0,
+      "accuracy_fixed_denominator": 0.4415718717683557
+    },
+    "full": {
+      "correct": 428,
+      "incorrect": 539,
+      "prediction_ties": 0,
+      "accuracy_fixed_denominator": 0.44260599793174765
+    }
+  }
+}

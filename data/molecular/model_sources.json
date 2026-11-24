@@ -1,0 +1,15 @@
+{
+  "smoke_checkpoint": {
+    "repository": "DeepChem/ChemBERTa-77M-MTR",
+    "revision": "66b895cab8adebea0cb59a8effa66b2020f204ca",
+    "source_url": "https://huggingface.co/DeepChem/ChemBERTa-77M-MTR/tree/66b895cab8adebea0cb59a8effa66b2020f204ca",
+    "files": {
+      "config.json": "6c15d3fd119919afb92b762c4e55cd46a595251ab799435168baa75a6ebd07e6",
+      "pytorch_model.bin": "7882205587d3985c07e425632d0e57ba0fc2fc778e3b47aab02aef9b7961407f"
+    },
+    "redistributed": false,
+    "checkpoint_license": "Not independently confirmed; obtain from the original provider under its terms."
+  },
+  "input_scope": "Derived integer-input smoke fixtures and source CIDs are included; bulk source structure tables and model weights are excluded.",
+  "initialization_warning": "Historical random-network identities require the original software/state artifacts, not only the same numerical seed in a newer library."
+}

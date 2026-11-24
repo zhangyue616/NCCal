@@ -1,0 +1,38 @@
+{
+  "chemberta_mlm": {
+    "J1": {
+      "T_target": 0.8793679379556745,
+      "T_competitors_max": 0.6157957417143521,
+      "p": 0.005,
+      "n_competitors": 199,
+      "n_concepts": 173,
+      "p_holm_new_std_family": 0.02
+    },
+    "J2": {
+      "T_target": 0.8734714032590699,
+      "T_competitors_max": 0.5985999360966684,
+      "p": 0.005,
+      "n_competitors": 199,
+      "n_concepts": 173,
+      "p_holm_new_std_family": 0.02
+    }
+  },
+  "chemberta_mtr": {
+    "J1": {
+      "T_target": 0.6798152612774857,
+      "T_competitors_max": 0.6167252447207133,
+      "p": 0.005,
+      "n_competitors": 199,
+      "n_concepts": 173,
+      "p_holm_new_std_family": 0.02
+    },
+    "J2": {
+      "T_target": 0.8937752345542743,
+      "T_competitors_max": 0.5985708891277195,
+      "p": 0.005,
+      "n_competitors": 199,
+      "n_concepts": 173,
+      "p_holm_new_std_family": 0.02
+    }
+  }
+}

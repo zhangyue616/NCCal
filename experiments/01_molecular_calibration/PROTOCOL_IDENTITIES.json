@@ -1,0 +1,65 @@
+[
+  {
+    "experiment": "01_molecular_calibration",
+    "original_document": "PROTOCOL_v5_M2.md",
+    "original_sha256": "2aa8a35cb375791c41603cf97908a063c7252c8038ad80f544226a3a53a35d46",
+    "freeze_record": "Original protocol hash evidence",
+    "freeze_time_utc": "2026-10-17T12:23:13Z",
+    "english_document": "PROTOCOL.md",
+    "original_freeze_record_sha256": "0a05cf4f165f82015d873ef20c9232fcc88ec3a5b9d4a85dea0c66e978885675"
+  },
+  {
+    "experiment": "02_molecular_reconstruction",
+    "original_document": "CHEMISTRY_CONFIRMATION_PROTOCOL.md",
+    "original_sha256": "5f3b8ac91fef95fc8b40cadcff62f8cf947e0aee3e4fb130f4a5cb9f6524685c",
+    "freeze_record": "D_SECONDARY_FREEZE.json",
+    "freeze_time_utc": "2026-10-17T14:38:10.863828+00:00",
+    "english_document": "PROTOCOL.md",
+    "original_freeze_record_sha256": "2dcc48c0e308c35c2587914c67e037e455ca122719e80976934cf86a4e801c18"
+  },
+  {
+    "experiment": "03_whole_layer",
+    "original_document": "PROTOCOL_A_FROZEN.md",
+    "original_sha256": "2cc333fc6d92c397225aa5ace030295a924c1588fe66c19e7596e5573fbb30e0",
+    "freeze_record": "PROTOCOL_A_FREEZE.json",
+    "freeze_time_utc": "2026-11-18T13:50:47.532769+00:00",
+    "english_document": "PROTOCOL.md",
+    "original_freeze_record_sha256": "484eb56c63c816b37ef122cafd1674c9551c1ba20c94abe41d14b4cf7ed0891a"
+  },
+  {
+    "experiment": "04_sparse_dictionary",
+    "original_document": "PROTOCOL_B_FROZEN.md",
+    "original_sha256": "f8907374a53fc16721f49c75336725c0234ad7d0443a799082c225cf1ab4fe8e",
+    "freeze_record": "PROTOCOL_B_FROZEN.json",
+    "freeze_time_utc": "2026-11-18T14:24:35.872855+00:00",
+    "english_document": "PROTOCOL.md",
+    "original_freeze_record_sha256": "551183628844717eeb1b63079be1e4d21601e3385b8114030ab3eb68caf7ff1b"
+  },
+  {
+    "experiment": "05_molecular_rewrites",
+    "original_document": "PROTOCOL.md",
+    "original_sha256": "5a152b5e82e182ad6ba062dacf0906264ac34ed639635c3a90fa293b795f95b0",
+    "freeze_record": "FREEZE.json",
+    "freeze_time_utc": "2026-11-23T10:56:34.751735+00:00",
+    "english_document": "PROTOCOL.md",
+    "original_freeze_record_sha256": "94bbdccab4e3499f17353aeaf5524a2c5523f6c217b6e2695fe9b782f4fb86df"
+  },
+  {
+    "experiment": "06_molecular_edits",
+    "original_document": "PROTOCOL.md",
+    "original_sha256": "9bb673a272b81566f96c93d42bcf3fce22c8a84d24e2528eece2792064aeaccd",
+    "freeze_record": "FREEZE.json",
+    "freeze_time_utc": "2026-11-23T10:56:35.231910+00:00",
+    "english_document": "PROTOCOL.md",
+    "original_freeze_record_sha256": "0054219f7127713bb5e587b523aafed00ef39714427f8612d1fd2c59387eed48"
+  },
+  {
+    "experiment": "07_basis_comparison",
+    "original_document": "PROTOCOL.md",
+    "original_sha256": "58690b912b4b141bbc1d32233694d657a3d660d8d583a55c6848e54272a1772d",
+    "freeze_record": "FREEZE.json",
+    "freeze_time_utc": "2026-11-23T10:56:35.052911+00:00",
+    "english_document": "PROTOCOL.md",
+    "original_freeze_record_sha256": "9cda137ce4090a6a636d78bd34ecee03a71956acd837e7712d4ee6dde9e4d312"
+  }
+]

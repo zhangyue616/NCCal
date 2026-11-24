@@ -1,0 +1,160 @@
+{
+  "status": "PASS",
+  "native_weighted_explained_fraction": 0.5564466895044353,
+  "orthogonal_weighted_explained_fraction": {
+    "pca": 0.5564466824406685,
+    "rot_30000": 0.5564466886942954,
+    "rot_30001": 0.5564466891595024,
+    "rot_30002": 0.5564466891429627,
+    "rot_30003": 0.5564466889621844,
+    "rot_30004": 0.5564466890470929,
+    "rot_30005": 0.5564466887930533,
+    "rot_30006": 0.5564466888431373,
+    "rot_30007": 0.5564466890249323,
+    "rot_30008": 0.5564466891197906
+  },
+  "largest_absolute_difference": 7.063766793713455e-09,
+  "paired_means_checked": [
+    {
+      "name": "native",
+      "unit": 162,
+      "mean_max_difference": 7.589415207398531e-19
+    },
+    {
+      "name": "native",
+      "unit": 357,
+      "mean_max_difference": 1.0842021724855044e-19
+    },
+    {
+      "name": "pca",
+      "unit": 162,
+      "mean_max_difference": 1.6263032587282567e-19
+    },
+    {
+      "name": "pca",
+      "unit": 357,
+      "mean_max_difference": 5.421010862427522e-20
+    },
+    {
+      "name": "rot_30000",
+      "unit": 162,
+      "mean_max_difference": 5.963111948670274e-19
+    },
+    {
+      "name": "rot_30000",
+      "unit": 357,
+      "mean_max_difference": 3.2526065174565133e-19
+    },
+    {
+      "name": "rot_30001",
+      "unit": 162,
+      "mean_max_difference": 7.589415207398531e-19
+    },
+    {
+      "name": "rot_30001",
+      "unit": 357,
+      "mean_max_difference": 5.421010862427522e-20
+    },
+    {
+      "name": "rot_30002",
+      "unit": 162,
+      "mean_max_difference": 1.8973538018496328e-19
+    },
+    {
+      "name": "rot_30002",
+      "unit": 357,
+      "mean_max_difference": 1.0842021724855044e-19
+    },
+    {
+      "name": "rot_30003",
+      "unit": 162,
+      "mean_max_difference": 1.5178830414797062e-18
+    },
+    {
+      "name": "rot_30003",
+      "unit": 357,
+      "mean_max_difference": 7.589415207398531e-19
+    },
+    {
+      "name": "rot_30004",
+      "unit": 162,
+      "mean_max_difference": 6.505213034913027e-19
+    },
+    {
+      "name": "rot_30004",
+      "unit": 357,
+      "mean_max_difference": 5.421010862427522e-19
+    },
+    {
+      "name": "rot_30005",
+      "unit": 162,
+      "mean_max_difference": 7.589415207398531e-19
+    },
+    {
+      "name": "rot_30005",
+      "unit": 357,
+      "mean_max_difference": 9.215718466126788e-19
+    },
+    {
+      "name": "rot_30006",
+      "unit": 162,
+      "mean_max_difference": 9.75781955236954e-19
+    },
+    {
+      "name": "rot_30006",
+      "unit": 357,
+      "mean_max_difference": 2.168404344971009e-19
+    },
+    {
+      "name": "rot_30007",
+      "unit": 162,
+      "mean_max_difference": 2.168404344971009e-19
+    },
+    {
+      "name": "rot_30007",
+      "unit": 357,
+      "mean_max_difference": 2.168404344971009e-19
+    },
+    {
+      "name": "rot_30008",
+      "unit": 162,
+      "mean_max_difference": 1.0842021724855044e-19
+    },
+    {
+      "name": "rot_30008",
+      "unit": 357,
+      "mean_max_difference": 5.421010862427522e-20
+    },
+    {
+      "name": "sae_rep0",
+      "unit": 324,
+      "mean_max_difference": 0.0
+    },
+    {
+      "name": "sae_rep0",
+      "unit": 714,
+      "mean_max_difference": 9.486769009248164e-20
+    },
+    {
+      "name": "sae_rep1",
+      "unit": 324,
+      "mean_max_difference": 1.0842021724855044e-18
+    },
+    {
+      "name": "sae_rep1",
+      "unit": 714,
+      "mean_max_difference": 1.0842021724855044e-19
+    },
+    {
+      "name": "sae_rep2",
+      "unit": 324,
+      "mean_max_difference": 4.0657581468206416e-20
+    },
+    {
+      "name": "sae_rep2",
+      "unit": 714,
+      "mean_max_difference": 8.131516293641283e-19
+    }
+  ],
+  "inference": "The unchanged layer-level fraction under rotation was used as an identity check only."
+}

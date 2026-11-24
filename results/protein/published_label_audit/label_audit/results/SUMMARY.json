@@ -1,0 +1,22 @@
+{
+  "status": "COMPLETE_NATIVE_REFERENCE_RANKS_MAY_BE_PARTIAL",
+  "outcome": "III",
+  "public_T_evaluable_label_rows": 98,
+  "public_T_AA_compatible_label_rows": 0,
+  "public_T_AA_compatible_fraction": 0.0,
+  "public_total_selected_label_rows": 203,
+  "AA_compatible_fraction_all_selected": 0.0,
+  "alpha_estimable_beta_gamma_insufficient_label_frames": 46,
+  "three_questions_missing_label_frames": 119,
+  "NEW_significant_distinct_physical_units": 57,
+  "NEW_public_distinct_units": 52,
+  "NEW_own_distinct_units": 5,
+  "NEW_cross_source_condition_met": true,
+  "pending_native_label_frames": 0,
+  "expected_random": 199,
+  "random_and_rotation_rank_completion_required_for_final_delivery": true,
+  "own_T_is_retrospective": true,
+  "original_author_dataset_overlap": "UNKNOWN",
+  "reference_rows": 7488,
+  "native_label_frame_rows": 430
+}

@@ -1,0 +1,92 @@
+[
+  {
+    "unit": "293",
+    "edit_class": "1",
+    "mean_advantage_lo": "10.298450627146519",
+    "swap_advantage_lo": "4.842457161075794",
+    "better_than_both": "True",
+    "unchanged_small": "True",
+    "R2": "0.7808738647773175"
+  },
+  {
+    "unit": "454",
+    "edit_class": "1",
+    "mean_advantage_lo": "-0.0015636115410959195",
+    "swap_advantage_lo": "0.0022022101407646708",
+    "better_than_both": "False",
+    "unchanged_small": "True",
+    "R2": "0.02373834892265103"
+  },
+  {
+    "unit": "293",
+    "edit_class": "2",
+    "mean_advantage_lo": "2.2612751502286157",
+    "swap_advantage_lo": "11.848587060823409",
+    "better_than_both": "True",
+    "unchanged_small": "True",
+    "R2": "0.4411877679150704"
+  },
+  {
+    "unit": "454",
+    "edit_class": "2",
+    "mean_advantage_lo": "-0.0113479003815018",
+    "swap_advantage_lo": "-0.002022126617783345",
+    "better_than_both": "False",
+    "unchanged_small": "True",
+    "R2": "-8.938613238385999"
+  },
+  {
+    "unit": "293",
+    "edit_class": "3",
+    "mean_advantage_lo": "-0.0011442639001309962",
+    "swap_advantage_lo": "0.0002452120302396286",
+    "better_than_both": "False",
+    "unchanged_small": "True",
+    "R2": "-0.4847603230774278"
+  },
+  {
+    "unit": "454",
+    "edit_class": "3",
+    "mean_advantage_lo": "0.09873867302476436",
+    "swap_advantage_lo": "0.02011725823261549",
+    "better_than_both": "True",
+    "unchanged_small": "True",
+    "R2": "0.35516164145536755"
+  },
+  {
+    "unit": "293",
+    "edit_class": "4",
+    "mean_advantage_lo": "0.04551201852050691",
+    "swap_advantage_lo": "0.041583079414727775",
+    "better_than_both": "True",
+    "unchanged_small": "True",
+    "R2": "0.20707187464693178"
+  },
+  {
+    "unit": "454",
+    "edit_class": "4",
+    "mean_advantage_lo": "-0.02714151160509744",
+    "swap_advantage_lo": "-0.012507362097973384",
+    "better_than_both": "False",
+    "unchanged_small": "True",
+    "R2": "-0.2617695805919684"
+  },
+  {
+    "unit": "293",
+    "edit_class": "5",
+    "mean_advantage_lo": "-1.8645629464762114e-06",
+    "swap_advantage_lo": "-1.3005601969878921e-06",
+    "better_than_both": "False",
+    "unchanged_small": "True",
+    "R2": "-0.020263390935576053"
+  },
+  {
+    "unit": "454",
+    "edit_class": "5",
+    "mean_advantage_lo": "-5.1549887222689675e-05",
+    "swap_advantage_lo": "0.00017614191576094512",
+    "better_than_both": "False",
+    "unchanged_small": "True",
+    "R2": "0.06497113622857875"
+  }
+]

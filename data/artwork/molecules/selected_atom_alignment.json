@@ -1,0 +1,316 @@
+{
+  "rank": 5306,
+  "cid": 678545,
+  "canonical_smiles_sha256": "620f6e0c3b41ebd6e26921a41aff4fc714036eef694b38fa49d354f515950af6",
+  "gate": "PASS_POSITIONAL_ELEMENT_ANCHOR",
+  "full_offset_status": "position-aligned",
+  "full_offset_errors": [],
+  "input_ids": [
+    12,
+    16,
+    15,
+    20,
+    15,
+    15,
+    17,
+    16,
+    17,
+    22,
+    19,
+    18,
+    16,
+    16,
+    18,
+    15,
+    17,
+    16,
+    18,
+    42,
+    20,
+    13
+  ],
+  "attention_mask": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+  ],
+  "input_ids_sha256": "aff4de0f77aea1eebb56b014fe64bef0eb3edf75c6ba8cbd0a0cb539e3b534f1",
+  "offset_unit": "original ASCII zero-based half-open characters=bytes",
+  "identity_lossy_atoms": 1,
+  "atoms": [
+    {
+      "graph_atom_id": 0,
+      "source_atom_span": [
+        0,
+        1
+      ],
+      "source_element_span": [
+        0,
+        1
+      ],
+      "source_atom_spelling": "C",
+      "source_element_spelling": "C",
+      "anchor_token_index": 1,
+      "anchor_token_id": 16,
+      "anchor_token_spelling": "C",
+      "anchor_raw_offset": [
+        0,
+        1
+      ],
+      "anchor_offset_verified": true,
+      "identity_lossy": false,
+      "lost_attributes": []
+    },
+    {
+      "graph_atom_id": 1,
+      "source_atom_span": [
+        1,
+        2
+      ],
+      "source_element_span": [
+        1,
+        2
+      ],
+      "source_atom_spelling": "c",
+      "source_element_spelling": "c",
+      "anchor_token_index": 2,
+      "anchor_token_id": 15,
+      "anchor_token_spelling": "c",
+      "anchor_raw_offset": [
+        1,
+        2
+      ],
+      "anchor_offset_verified": true,
+      "identity_lossy": false,
+      "lost_attributes": []
+    },
+    {
+      "graph_atom_id": 2,
+      "source_atom_span": [
+        3,
+        4
+      ],
+      "source_element_span": [
+        3,
+        4
+      ],
+      "source_atom_spelling": "c",
+      "source_element_spelling": "c",
+      "anchor_token_index": 4,
+      "anchor_token_id": 15,
+      "anchor_token_spelling": "c",
+      "anchor_raw_offset": [
+        3,
+        4
+      ],
+      "anchor_offset_verified": true,
+      "identity_lossy": false,
+      "lost_attributes": []
+    },
+    {
+      "graph_atom_id": 3,
+      "source_atom_span": [
+        4,
+        5
+      ],
+      "source_element_span": [
+        4,
+        5
+      ],
+      "source_atom_spelling": "c",
+      "source_element_spelling": "c",
+      "anchor_token_index": 5,
+      "anchor_token_id": 15,
+      "anchor_token_spelling": "c",
+      "anchor_raw_offset": [
+        4,
+        5
+      ],
+      "anchor_offset_verified": true,
+      "identity_lossy": false,
+      "lost_attributes": []
+    },
+    {
+      "graph_atom_id": 4,
+      "source_atom_span": [
+        6,
+        7
+      ],
+      "source_element_span": [
+        6,
+        7
+      ],
+      "source_atom_spelling": "C",
+      "source_element_spelling": "C",
+      "anchor_token_index": 7,
+      "anchor_token_id": 16,
+      "anchor_token_spelling": "C",
+      "anchor_raw_offset": [
+        6,
+        7
+      ],
+      "anchor_offset_verified": true,
+      "identity_lossy": false,
+      "lost_attributes": []
+    },
+    {
+      "graph_atom_id": 5,
+      "source_atom_span": [
+        9,
+        10
+      ],
+      "source_element_span": [
+        9,
+        10
+      ],
+      "source_atom_spelling": "O",
+      "source_element_spelling": "O",
+      "anchor_token_index": 10,
+      "anchor_token_id": 19,
+      "anchor_token_spelling": "O",
+      "anchor_raw_offset": [
+        9,
+        10
+      ],
+      "anchor_offset_verified": true,
+      "identity_lossy": false,
+      "lost_attributes": []
+    },
+    {
+      "graph_atom_id": 6,
+      "source_atom_span": [
+        11,
+        12
+      ],
+      "source_element_span": [
+        11,
+        12
+      ],
+      "source_atom_spelling": "C",
+      "source_element_spelling": "C",
+      "anchor_token_index": 12,
+      "anchor_token_id": 16,
+      "anchor_token_spelling": "C",
+      "anchor_raw_offset": [
+        11,
+        12
+      ],
+      "anchor_offset_verified": true,
+      "identity_lossy": false,
+      "lost_attributes": []
+    },
+    {
+      "graph_atom_id": 7,
+      "source_atom_span": [
+        12,
+        14
+      ],
+      "source_element_span": [
+        12,
+        14
+      ],
+      "source_atom_spelling": "Cl",
+      "source_element_spelling": "Cl",
+      "anchor_token_index": 13,
+      "anchor_token_id": 16,
+      "anchor_token_spelling": "C",
+      "anchor_raw_offset": [
+        12,
+        13
+      ],
+      "anchor_offset_verified": true,
+      "identity_lossy": true,
+      "lost_attributes": [
+        "atomic_number"
+      ]
+    },
+    {
+      "graph_atom_id": 8,
+      "source_atom_span": [
+        15,
+        16
+      ],
+      "source_element_span": [
+        15,
+        16
+      ],
+      "source_atom_spelling": "c",
+      "source_element_spelling": "c",
+      "anchor_token_index": 15,
+      "anchor_token_id": 15,
+      "anchor_token_spelling": "c",
+      "anchor_raw_offset": [
+        15,
+        16
+      ],
+      "anchor_offset_verified": true,
+      "identity_lossy": false,
+      "lost_attributes": []
+    },
+    {
+      "graph_atom_id": 9,
+      "source_atom_span": [
+        17,
+        18
+      ],
+      "source_element_span": [
+        17,
+        18
+      ],
+      "source_atom_spelling": "C",
+      "source_element_spelling": "C",
+      "anchor_token_index": 17,
+      "anchor_token_id": 16,
+      "anchor_token_spelling": "C",
+      "anchor_raw_offset": [
+        17,
+        18
+      ],
+      "anchor_offset_verified": true,
+      "identity_lossy": false,
+      "lost_attributes": []
+    },
+    {
+      "graph_atom_id": 10,
+      "source_atom_span": [
+        19,
+        20
+      ],
+      "source_element_span": [
+        19,
+        20
+      ],
+      "source_atom_spelling": "s",
+      "source_element_spelling": "s",
+      "anchor_token_index": 19,
+      "anchor_token_id": 42,
+      "anchor_token_spelling": "s",
+      "anchor_raw_offset": [
+        19,
+        20
+      ],
+      "anchor_offset_verified": true,
+      "identity_lossy": false,
+      "lost_attributes": []
+    }
+  ]
+}

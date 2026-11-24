@@ -1,0 +1,93 @@
+{
+  "absolute_output_divergence": {
+    "local_same_runtime": {
+      "case_JSD_nats": {
+        "max": 0.0012360585501774277,
+        "mean": 6.537673384574128e-06,
+        "median": 3.417618230774498e-07,
+        "p95": 1.8376314300125898e-05,
+        "p99": 0.00011078457333353389
+      },
+      "cluster_bootstrap_95_CI": [
+        4.732483957329606e-06,
+        8.564334916714917e-06
+      ],
+      "equal_group_mean_JSD_nats": 6.537673384574128e-06
+    },
+    "native_anchored_dose_matched": {
+      "case_JSD_nats": {
+        "max": 0.0008128053012294702,
+        "mean": 4.8032343313020665e-06,
+        "median": 3.531421567315007e-07,
+        "p95": 1.4170351464372047e-05,
+        "p99": 9.09101525965972e-05
+      },
+      "cluster_bootstrap_95_CI": [
+        3.7020632477395892e-06,
+        6.064070560204239e-06
+      ],
+      "equal_group_mean_JSD_nats": 4.8032343313020665e-06
+    }
+  },
+  "block_0based": 2,
+  "bootstrap": {
+    "resamples": 2000,
+    "seed": 20261118,
+    "unit": "known group, methods paired"
+  },
+  "case_forwards_including_original_check": 7832,
+  "cases": 2608,
+  "control_formula": "(z_a + f_b - z_b, z_b + f_a - z_a)",
+  "control_minus_local": {
+    "fraction_pairs_control_lower": 0.5038343558282209,
+    "paired_group_bootstrap_95_CI": [
+      -3.5165684312521277e-06,
+      -4.2023690762300225e-08
+    ],
+    "paired_group_mean_JSD_nats": -1.7344390532720617e-06
+  },
+  "created_utc": "2026-11-18T06:53:11.166111+00:00",
+  "dose_acceptance": {
+    "actual_float32_group_L2sq_max_abs_error": 4.2382976572774567e-08,
+    "actual_float32_pair_L2sq_max_abs_error": 4.2382976572774567e-08,
+    "actual_mean_scalar_MSE_control": 0.026921678947133057,
+    "actual_mean_scalar_MSE_local": 0.026921679037752458,
+    "group_count": 1304,
+    "pair_count": 1304,
+    "requested_group_L2sq_max_abs_error": 5.551115123125783e-17,
+    "requested_groups_pass_1e-12": 1304,
+    "requested_pair_L2sq_max_abs_error": 5.551115123125783e-17,
+    "requested_pairs_pass_1e-12": 1304,
+    "status": "PASS_ALL_PAIRS_AND_GROUPS_WITH_FLOAT32_ROUNDOFF_DISCLOSED"
+  },
+  "known_groups": 1304,
+  "limits": [
+    "post hoc diagnostic on existing T, not prospective confirmation",
+    "equal pair L2 dose does not imply equal output effect under nonlinear downstream map",
+    "model fidelity measurement only; no biological causation claim"
+  ],
+  "network_requests": 0,
+  "new_coordinates": 0,
+  "new_fits": 0,
+  "original_value_JSD_nats": 0.0,
+  "pairs": 1304,
+  "parent_files_unchanged": true,
+  "peak_GPU_allocated_GB": 0.419556352,
+  "posthoc_disclosure": "specified after reading original three JSD results and their intervention doses; parent results unchanged",
+  "primary_readout": "20-AA independently re-normalized JSD; natural logarithms; nats",
+  "runtime": {
+    "GPU": "NVIDIA GeForce RTX 5090",
+    "device": "cuda",
+    "dtype": "float32",
+    "threads": 3,
+    "torch": "2.11.0+cu128",
+    "transformers": "5.20.0"
+  },
+  "same_runtime_local_vs_parent_JSD_max_abs_error": 0.0,
+  "same_runtime_z_vs_parent_max_abs_error": 0.0,
+  "sequence_generation": 0,
+  "sequences_exported": 0,
+  "status": "COMPLETE_POSTHOC_NATIVE_ANCHORED_DOSE_MATCHED_SENSITIVITY",
+  "unit": 1246,
+  "wall_seconds_model_phase": 31.81957729998976
+}

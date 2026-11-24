@@ -1,0 +1,110 @@
+[
+  {
+    "kind": "activation",
+    "coordinate": "293",
+    "condition": "D_mean",
+    "metric": "pooled_atom_r2",
+    "estimate": "-5.961916082819485e-05",
+    "ci95_lower": "-0.00019477143255222095",
+    "ci95_upper": "-2.9483208881575585e-06"
+  },
+  {
+    "kind": "activation",
+    "coordinate": "293",
+    "condition": "M1",
+    "metric": "pooled_atom_r2",
+    "estimate": "0.6621234950424753",
+    "ci95_lower": "0.6448681296664628",
+    "ci95_upper": "0.6786537593322816"
+  },
+  {
+    "kind": "activation",
+    "coordinate": "293",
+    "condition": "M2",
+    "metric": "pooled_atom_r2",
+    "estimate": "0.8336593383193934",
+    "ci95_lower": "0.8224672554563034",
+    "ci95_upper": "0.8442071018171816"
+  },
+  {
+    "kind": "activation",
+    "coordinate": "454",
+    "condition": "D_mean",
+    "metric": "pooled_atom_r2",
+    "estimate": "-4.832491897466262e-05",
+    "ci95_lower": "-0.0001472404195811905",
+    "ci95_upper": "-3.654155461857437e-06"
+  },
+  {
+    "kind": "activation",
+    "coordinate": "454",
+    "condition": "M1",
+    "metric": "pooled_atom_r2",
+    "estimate": "0.49170871194398924",
+    "ci95_lower": "0.4823402000696161",
+    "ci95_upper": "0.50035928483257"
+  },
+  {
+    "kind": "activation",
+    "coordinate": "454",
+    "condition": "M2",
+    "metric": "pooled_atom_r2",
+    "estimate": "0.6346371626418226",
+    "ci95_lower": "0.6280553358175818",
+    "ci95_upper": "0.6411221718508424"
+  },
+  {
+    "kind": "output",
+    "coordinate": "293",
+    "condition": "D_mean",
+    "metric": "mae",
+    "estimate": "0.02019296935480088",
+    "ci95_lower": "0.0189823050108389",
+    "ci95_upper": "0.02147747581565054"
+  },
+  {
+    "kind": "output",
+    "coordinate": "293",
+    "condition": "M1",
+    "metric": "mae",
+    "estimate": "0.00854557664031163",
+    "ci95_lower": "0.007983237611947115",
+    "ci95_upper": "0.009159247903681826"
+  },
+  {
+    "kind": "output",
+    "coordinate": "293",
+    "condition": "M2",
+    "metric": "mae",
+    "estimate": "0.005855377367930487",
+    "ci95_lower": "0.005424718877713894",
+    "ci95_upper": "0.006304772314616712"
+  },
+  {
+    "kind": "output",
+    "coordinate": "454",
+    "condition": "D_mean",
+    "metric": "mae",
+    "estimate": "0.0043730363494250924",
+    "ci95_lower": "0.004283394596941071",
+    "ci95_upper": "0.004467003080933936"
+  },
+  {
+    "kind": "output",
+    "coordinate": "454",
+    "condition": "M1",
+    "metric": "mae",
+    "estimate": "0.0028124841439537704",
+    "ci95_lower": "0.002728972779242904",
+    "ci95_upper": "0.0028978312632424058"
+  },
+  {
+    "kind": "output",
+    "coordinate": "454",
+    "condition": "M2",
+    "metric": "mae",
+    "estimate": "0.0023309687913162635",
+    "ci95_lower": "0.002258851254718029",
+    "ci95_upper": "0.0024022463720780795"
+  }
+]

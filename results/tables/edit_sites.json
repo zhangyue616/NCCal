@@ -1,0 +1,82 @@
+[
+  {
+    "unit": "293",
+    "edit_class": "1",
+    "molecules": "60",
+    "changed_atoms": "170",
+    "R2": "0.7808738647773175",
+    "unchanged_mean_abs_D_SD": "0.02445196537088524"
+  },
+  {
+    "unit": "454",
+    "edit_class": "1",
+    "molecules": "60",
+    "changed_atoms": "170",
+    "R2": "0.02373834892265103",
+    "unchanged_mean_abs_D_SD": "0.023270941638768795"
+  },
+  {
+    "unit": "293",
+    "edit_class": "2",
+    "molecules": "61",
+    "changed_atoms": "122",
+    "R2": "0.4411877679150704",
+    "unchanged_mean_abs_D_SD": "0.04101552988696124"
+  },
+  {
+    "unit": "454",
+    "edit_class": "2",
+    "molecules": "61",
+    "changed_atoms": "122",
+    "R2": "-8.938613238385999",
+    "unchanged_mean_abs_D_SD": "0.021001684274044093"
+  },
+  {
+    "unit": "293",
+    "edit_class": "3",
+    "molecules": "62",
+    "changed_atoms": "186",
+    "R2": "-0.4847603230774278",
+    "unchanged_mean_abs_D_SD": "0.006848761788803328"
+  },
+  {
+    "unit": "454",
+    "edit_class": "3",
+    "molecules": "62",
+    "changed_atoms": "186",
+    "R2": "0.35516164145536755",
+    "unchanged_mean_abs_D_SD": "0.03174317516992472"
+  },
+  {
+    "unit": "293",
+    "edit_class": "4",
+    "molecules": "91",
+    "changed_atoms": "182",
+    "R2": "0.20707187464693178",
+    "unchanged_mean_abs_D_SD": "0.0289370472288096"
+  },
+  {
+    "unit": "454",
+    "edit_class": "4",
+    "molecules": "91",
+    "changed_atoms": "182",
+    "R2": "-0.2617695805919684",
+    "unchanged_mean_abs_D_SD": "0.024221091270788735"
+  },
+  {
+    "unit": "293",
+    "edit_class": "5",
+    "molecules": "193",
+    "changed_atoms": "579",
+    "R2": "-0.020263390935576053",
+    "unchanged_mean_abs_D_SD": "0.017207781588514676"
+  },
+  {
+    "unit": "454",
+    "edit_class": "5",
+    "molecules": "193",
+    "changed_atoms": "579",
+    "R2": "0.06497113622857875",
+    "unchanged_mean_abs_D_SD": "0.02475870577267483"
+  }
+]

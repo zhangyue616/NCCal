@@ -1,0 +1,590 @@
+[
+  {
+    "annotation_category": "alpha_helix",
+    "auc_mean": "0.7291253125628673",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "True"
+  },
+  {
+    "annotation_category": "alpha_helix",
+    "auc_mean": "0.7144769974600107",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "True"
+  },
+  {
+    "annotation_category": "alpha_helix",
+    "auc_mean": "0.6332598280625681",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "True"
+  },
+  {
+    "annotation_category": "alpha_helix",
+    "auc_mean": "0.6803973823551431",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "True"
+  },
+  {
+    "annotation_category": "alpha_helix",
+    "auc_mean": "0.8388217522402265",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "True"
+  },
+  {
+    "annotation_category": "alpha_helix",
+    "auc_mean": "0.627168682099691",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "True"
+  },
+  {
+    "annotation_category": "alpha_helix",
+    "auc_mean": "0.731550717204341",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "True"
+  },
+  {
+    "annotation_category": "alpha_helix",
+    "auc_mean": "0.5553142520904764",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "True"
+  },
+  {
+    "annotation_category": "alpha_helix",
+    "auc_mean": "0.5222400367247584",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "True"
+  },
+  {
+    "annotation_category": "alpha_helix",
+    "auc_mean": "0.5139132880699977",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "False"
+  },
+  {
+    "annotation_category": "beta_strand",
+    "auc_mean": "0.7250676657488034",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "True"
+  },
+  {
+    "annotation_category": "beta_strand",
+    "auc_mean": "0.5894712951906736",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "True"
+  },
+  {
+    "annotation_category": "beta_strand",
+    "auc_mean": "0.52551594050929",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "False"
+  },
+  {
+    "annotation_category": "beta_strand",
+    "auc_mean": "0.5958568798256965",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "True"
+  },
+  {
+    "annotation_category": "beta_strand",
+    "auc_mean": "0.5368356389176081",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "True"
+  },
+  {
+    "annotation_category": "beta_strand",
+    "auc_mean": "0.5329519317665652",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "False"
+  },
+  {
+    "annotation_category": "beta_strand",
+    "auc_mean": "0.5095764587801995",
+    "same_AA_flag": "False",
+    "strong_increment_flag": "False"
+  },
+  {
+    "annotation_category": "disorder",
+    "auc_mean": "0.5999565050927664",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "False"
+  },
+  {
+    "annotation_category": "disorder",
+    "auc_mean": "0.5718163820260376",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "False"
+  },
+  {
+    "annotation_category": "disorder",
+    "auc_mean": "0.619489175360051",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "False"
+  },
+  {
+    "annotation_category": "disorder",
+    "auc_mean": "0.8885131146357332",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "True"
+  },
+  {
+    "annotation_category": "disorder",
+    "auc_mean": "0.7792592693315344",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "True"
+  },
+  {
+    "annotation_category": "disorder",
+    "auc_mean": "0.7567901994527352",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "True"
+  },
+  {
+    "annotation_category": "disorder",
+    "auc_mean": "0.8995148828483768",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "True"
+  },
+  {
+    "annotation_category": "disorder",
+    "auc_mean": "0.7425302954145131",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "True"
+  },
+  {
+    "annotation_category": "turn",
+    "auc_mean": "0.534321983009456",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "False"
+  },
+  {
+    "annotation_category": "turn",
+    "auc_mean": "0.5121186950589551",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "False"
+  },
+  {
+    "annotation_category": "turn",
+    "auc_mean": "0.6368843372332881",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "True"
+  },
+  {
+    "annotation_category": "turn",
+    "auc_mean": "0.5051993333213853",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "False"
+  },
+  {
+    "annotation_category": "turn",
+    "auc_mean": "0.5170642043326474",
+    "same_AA_flag": "False",
+    "strong_increment_flag": "False"
+  },
+  {
+    "annotation_category": "turn",
+    "auc_mean": "0.500507174701014",
+    "same_AA_flag": "False",
+    "strong_increment_flag": "False"
+  },
+  {
+    "annotation_category": "turn",
+    "auc_mean": "0.49694132807878116",
+    "same_AA_flag": "False",
+    "strong_increment_flag": "False"
+  },
+  {
+    "annotation_category": "alpha_helix",
+    "auc_mean": "0.6173567848814814",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "True"
+  },
+  {
+    "annotation_category": "alpha_helix",
+    "auc_mean": "0.6050318707621233",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "True"
+  },
+  {
+    "annotation_category": "alpha_helix",
+    "auc_mean": "0.642808259045727",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "True"
+  },
+  {
+    "annotation_category": "alpha_helix",
+    "auc_mean": "0.5400922488134968",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "True"
+  },
+  {
+    "annotation_category": "alpha_helix",
+    "auc_mean": "0.5240538528631684",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "True"
+  },
+  {
+    "annotation_category": "alpha_helix",
+    "auc_mean": "0.5535078144691763",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "True"
+  },
+  {
+    "annotation_category": "beta_strand",
+    "auc_mean": "0.5190601630866116",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "False"
+  },
+  {
+    "annotation_category": "beta_strand",
+    "auc_mean": "0.60164980020291",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "True"
+  },
+  {
+    "annotation_category": "beta_strand",
+    "auc_mean": "0.584716843282936",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "True"
+  },
+  {
+    "annotation_category": "beta_strand",
+    "auc_mean": "0.5410917279760497",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "False"
+  },
+  {
+    "annotation_category": "beta_strand",
+    "auc_mean": "0.7849535459320518",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "True"
+  },
+  {
+    "annotation_category": "beta_strand",
+    "auc_mean": "0.5097103417277311",
+    "same_AA_flag": "False",
+    "strong_increment_flag": "False"
+  },
+  {
+    "annotation_category": "beta_strand",
+    "auc_mean": "0.5114610193064765",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "False"
+  },
+  {
+    "annotation_category": "disorder",
+    "auc_mean": "0.6960519902562676",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "False"
+  },
+  {
+    "annotation_category": "disorder",
+    "auc_mean": "0.7921814224553102",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "False"
+  },
+  {
+    "annotation_category": "disorder",
+    "auc_mean": "0.8112075533929782",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "True"
+  },
+  {
+    "annotation_category": "disorder",
+    "auc_mean": "0.8185853454216641",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "True"
+  },
+  {
+    "annotation_category": "disorder",
+    "auc_mean": "0.9260530672103996",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "True"
+  },
+  {
+    "annotation_category": "disorder",
+    "auc_mean": "0.7916853152746547",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "True"
+  },
+  {
+    "annotation_category": "turn",
+    "auc_mean": "0.5331233416554547",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "True"
+  },
+  {
+    "annotation_category": "turn",
+    "auc_mean": "0.50086061484196",
+    "same_AA_flag": "False",
+    "strong_increment_flag": "False"
+  },
+  {
+    "annotation_category": "turn",
+    "auc_mean": "0.5322428553184197",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "False"
+  },
+  {
+    "annotation_category": "turn",
+    "auc_mean": "0.5055140833102237",
+    "same_AA_flag": "False",
+    "strong_increment_flag": "False"
+  },
+  {
+    "annotation_category": "turn",
+    "auc_mean": "0.5011533575867673",
+    "same_AA_flag": "False",
+    "strong_increment_flag": "False"
+  },
+  {
+    "annotation_category": "turn",
+    "auc_mean": "0.49967915227880866",
+    "same_AA_flag": "False",
+    "strong_increment_flag": "False"
+  },
+  {
+    "annotation_category": "turn",
+    "auc_mean": "0.4995406940764679",
+    "same_AA_flag": "False",
+    "strong_increment_flag": "False"
+  },
+  {
+    "annotation_category": "alpha_helix",
+    "auc_mean": "0.6222590769497128",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "True"
+  },
+  {
+    "annotation_category": "alpha_helix",
+    "auc_mean": "0.5493034722900154",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "True"
+  },
+  {
+    "annotation_category": "alpha_helix",
+    "auc_mean": "0.551464747864666",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "True"
+  },
+  {
+    "annotation_category": "alpha_helix",
+    "auc_mean": "0.6325222468902325",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "True"
+  },
+  {
+    "annotation_category": "alpha_helix",
+    "auc_mean": "0.571213810866707",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "True"
+  },
+  {
+    "annotation_category": "alpha_helix",
+    "auc_mean": "0.6090218278169333",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "True"
+  },
+  {
+    "annotation_category": "alpha_helix",
+    "auc_mean": "0.652163674740257",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "True"
+  },
+  {
+    "annotation_category": "alpha_helix",
+    "auc_mean": "0.6144604453326808",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "True"
+  },
+  {
+    "annotation_category": "alpha_helix",
+    "auc_mean": "0.5374452394028422",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "True"
+  },
+  {
+    "annotation_category": "alpha_helix",
+    "auc_mean": "0.5789823871675717",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "True"
+  },
+  {
+    "annotation_category": "beta_strand",
+    "auc_mean": "0.7010334242119806",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "True"
+  },
+  {
+    "annotation_category": "beta_strand",
+    "auc_mean": "0.6289908086764321",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "True"
+  },
+  {
+    "annotation_category": "beta_strand",
+    "auc_mean": "0.6250431339422858",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "True"
+  },
+  {
+    "annotation_category": "beta_strand",
+    "auc_mean": "0.5321786789942134",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "True"
+  },
+  {
+    "annotation_category": "beta_strand",
+    "auc_mean": "0.5806095635355856",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "True"
+  },
+  {
+    "annotation_category": "beta_strand",
+    "auc_mean": "0.6459078276522716",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "True"
+  },
+  {
+    "annotation_category": "beta_strand",
+    "auc_mean": "0.6055516999456282",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "True"
+  },
+  {
+    "annotation_category": "beta_strand",
+    "auc_mean": "0.5644143620737707",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "True"
+  },
+  {
+    "annotation_category": "beta_strand",
+    "auc_mean": "0.65697719587496",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "True"
+  },
+  {
+    "annotation_category": "beta_strand",
+    "auc_mean": "0.7242996370157846",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "True"
+  },
+  {
+    "annotation_category": "disorder",
+    "auc_mean": "0.8912867976797377",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "True"
+  },
+  {
+    "annotation_category": "disorder",
+    "auc_mean": "0.8699866250941206",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "True"
+  },
+  {
+    "annotation_category": "disorder",
+    "auc_mean": "0.857235626585901",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "True"
+  },
+  {
+    "annotation_category": "disorder",
+    "auc_mean": "0.6836614264409674",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "False"
+  },
+  {
+    "annotation_category": "disorder",
+    "auc_mean": "0.7534383937737403",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "True"
+  },
+  {
+    "annotation_category": "disorder",
+    "auc_mean": "0.7517461843053077",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "True"
+  },
+  {
+    "annotation_category": "disorder",
+    "auc_mean": "0.786049634039104",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "True"
+  },
+  {
+    "annotation_category": "disorder",
+    "auc_mean": "0.7797323153919139",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "True"
+  },
+  {
+    "annotation_category": "disorder",
+    "auc_mean": "0.5879593379834785",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "False"
+  },
+  {
+    "annotation_category": "disorder",
+    "auc_mean": "0.7036492013836438",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "False"
+  },
+  {
+    "annotation_category": "turn",
+    "auc_mean": "0.5267104928853594",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "False"
+  },
+  {
+    "annotation_category": "turn",
+    "auc_mean": "0.5277188032573347",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "False"
+  },
+  {
+    "annotation_category": "turn",
+    "auc_mean": "0.5411737916701114",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "False"
+  },
+  {
+    "annotation_category": "turn",
+    "auc_mean": "0.5163833662008229",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "False"
+  },
+  {
+    "annotation_category": "turn",
+    "auc_mean": "0.5575433534222677",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "True"
+  },
+  {
+    "annotation_category": "turn",
+    "auc_mean": "0.5478511217200532",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "False"
+  },
+  {
+    "annotation_category": "turn",
+    "auc_mean": "0.5443515208422565",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "False"
+  },
+  {
+    "annotation_category": "turn",
+    "auc_mean": "0.5394930790290339",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "False"
+  },
+  {
+    "annotation_category": "turn",
+    "auc_mean": "0.526565173560876",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "False"
+  },
+  {
+    "annotation_category": "turn",
+    "auc_mean": "0.5209078496954443",
+    "same_AA_flag": "True",
+    "strong_increment_flag": "False"
+  }
+]

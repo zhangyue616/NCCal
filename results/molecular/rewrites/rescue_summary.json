@@ -1,0 +1,70 @@
+{
+  "status": "COMPLETE_PREDECLARED_RESCUE_STATISTICS",
+  "created_utc": "2026-11-23T11:54:45.259940+00:00",
+  "molecules": 2000,
+  "variants": 5,
+  "selected_units": 28,
+  "first_rescue_counts": {
+    "A": 3,
+    "B": 5,
+    "C": 0,
+    "none": 20
+  },
+  "rescued_per_arm": {
+    "A": 3,
+    "B": 8,
+    "C": 7
+  },
+  "criterion": "both ordinary percentile-95%-CI lower bounds > 0; A before B before C",
+  "bootstrap_seed": 20261123,
+  "bootstrap_replicates": 2000,
+  "resampling": "common molecule samples across every unit and arm; five rewrites averaged first",
+  "common_mean_control_max_abs_difference": 0.0,
+  "multiple_testing": "No additional family specified for conditional rescue in frozen protocol",
+  "subgroup": "canonical usable and rewritten failed or undetermined; conditional rescue rate",
+  "anchors": [
+    {
+      "unit": 293,
+      "in_predeclared_rescue_set": false,
+      "original_canonical_usable": "True",
+      "original_rewritten_status": "retained",
+      "result": null
+    },
+    {
+      "unit": 454,
+      "in_predeclared_rescue_set": true,
+      "original_canonical_usable": "True",
+      "original_rewritten_status": "failed",
+      "result": {
+        "unit": 454,
+        "original_canonical_R2": 0.6362607263094091,
+        "original_rewritten_status": "failed",
+        "first_rescued_by": "none",
+        "A_rescued": false,
+        "A_mean_gain": -0.0007919712086514401,
+        "A_mean_low": -0.001009165360765075,
+        "A_mean_high": -0.0005774926839443098,
+        "A_permutation_gain": -0.0016185340422044862,
+        "A_permutation_low": -0.0018065235947408106,
+        "A_permutation_high": -0.0014238269950885406,
+        "B_rescued": false,
+        "B_mean_gain": -5.3384541916380066e-05,
+        "B_mean_low": -0.0001840737891861731,
+        "B_mean_high": 7.235080211986902e-05,
+        "B_permutation_gain": -0.0007127005912332317,
+        "B_permutation_low": -0.0008177032081122534,
+        "B_permutation_high": -0.0006046644664516822,
+        "C_rescued": false,
+        "C_mean_gain": -0.00016452075823007533,
+        "C_mean_low": -0.00030758363361845274,
+        "C_mean_high": -2.4855225454415135e-05,
+        "C_permutation_gain": -0.000857540179146886,
+        "C_permutation_low": -0.0009707269941333238,
+        "C_permutation_high": -0.0007388023748043205
+      }
+    }
+  ],
+  "implementation_sha256": "8f0f0d207c2b9514b3ed42630d920d8ef92dacd562b042332df4ff7ed9e20c6e",
+  "source_writeback_receipt_sha256": "71fa22738a27f625795c21da973fe0cc6682f1d36cf58fbe12c727815b92cbe6",
+  "source_fit_receipt_sha256": "c11c9f03ab8552507b816d9245fcd860b3a034c7d146acae9bbc1f73d4528d4e"
+}

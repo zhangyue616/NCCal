@@ -1,0 +1,3 @@
+# Deviations and scope
+
+The development ranking completed before the English draft protocol was written, but before confirmation outputs. A vectorized write assignment was checked bitwise against the original adapter. An initial probe failed on a missing local import before any forward calculation. Scheduling interruption and an initial twelve-hour cost stop were followed by an explicitly authorized eighteen-hour extension; the earlier stop is historical, not the final completed state. Endpoints, ordering and input identities were retained during continuation. The original shared-load timing is not uncontended GPU timing.

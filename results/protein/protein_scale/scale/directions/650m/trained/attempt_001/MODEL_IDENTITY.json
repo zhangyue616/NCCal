@@ -1,0 +1,26 @@
+{
+  "state_sha256": "26c945463bdbe5224a5fa53cd2d8c271cadf11db861b6fa4b56ccb300d8cd345",
+  "matches_original_state": false,
+  "exact_named_source_parameter_match": true,
+  "parameter_audit": {
+    "status": "EXACT_SOURCE_PARAMETER_AND_BUFFER_MATCH",
+    "weight_sha256": "a08adabb949fa67ad3c14b509d04fd60368b35007b0095e3358f81200c4f4db0",
+    "source_manifest": "scale/trained_650m/PARAMETER_BYTES.json",
+    "source_manifest_sha256": "7ef6b5642f625523da76c32b5bf0d5b89d5db3f5a74418ba6c483b68f6c9c780",
+    "CPU_state_sha256": "4ff231551560e2847dd7ae7df3d27d275fe3d1f8c748fa229b7e9bd6272713a5",
+    "direction_state_sha256": "26c945463bdbe5224a5fa53cd2d8c271cadf11db861b6fa4b56ccb300d8cd345",
+    "embedding_decoder_tied": true,
+    "unused_source_tensors": [
+      "esm.embeddings.position_embeddings.weight"
+    ],
+    "unused_table_reason": "absolute position_embeddings is not evaluated when position_embedding_type=rotary",
+    "rotary_remapping": "transformers5.20 EsmModel.load_hook preserves old per-layer inv_freq as shared model buffer",
+    "half_precision_or_random_parameter_substitution": false
+  },
+  "state_reference": "scale/trained_650m/MODEL_IDENTITY.json",
+  "snapshot": "external/.cache/huggingface/hub/models--facebook--esm2_t33_650M_UR50D/snapshots/08e4846e537177426273712802403f7ba8261b6c",
+  "CPU_construction": true,
+  "attention": "eager",
+  "dtype": "float32",
+  "TF32": false
+}

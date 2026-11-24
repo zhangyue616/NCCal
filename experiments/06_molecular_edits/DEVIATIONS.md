@@ -1,0 +1,3 @@
+# Deviations and scope
+
+The historical 483-molecule analysis was excluded using its conservative 512-candidate superset. Controlled-string input is the 467-pair primary analysis; 18 canonical-only pairs remain secondary. The optional restoration implementation was frozen before restoration outputs. Rendering used an existing plotting environment after two different compatibility failures; scientific values were unchanged. Slow repeated archive decompression was repaired by caching arrays once, without repeating model measurements. The initial restoration-not-run status was superseded by actual completed measurement; the primary category stayed II.

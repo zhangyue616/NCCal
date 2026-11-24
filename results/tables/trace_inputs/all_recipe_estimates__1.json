@@ -1,0 +1,14 @@
+{
+ "row-2.calibrated_fold": 2.6814265524503473,
+ "row-2.n_initializations": 199.0,
+ "row-6.calibrated_fold": 3.6262130262904892,
+ "row-6.n_initializations": 199.0,
+ "row-10.calibrated_fold": 1.192177275539552,
+ "row-10.n_initializations": 39.0,
+ "row-14.calibrated_fold": 4.864930584053489,
+ "row-14.n_initializations": 39.0,
+ "row-18.calibrated_fold": 2.7481300233292423,
+ "row-18.n_initializations": 9.0,
+ "row-20.calibrated_fold": 2.954488813119869,
+ "row-20.n_initializations": 9.0
+}

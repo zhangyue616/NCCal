@@ -1,0 +1,12 @@
+{
+  "attempted_molecules": 512,
+  "accepted_molecules": 483,
+  "excluded_molecules": 29,
+  "accepted_physical_atoms": 11892,
+  "accepted_notations": 1449,
+  "lossy_notations": 645,
+  "full_offset_status": {
+    "position-aligned": 1171,
+    "BLOCKED": 278
+  }
+}

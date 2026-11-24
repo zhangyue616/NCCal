@@ -1,0 +1,82 @@
+{
+  "physical_neurons": 464,
+  "canonical_usable": 54,
+  "molecules": 2000,
+  "rewrites": 5,
+  "ridge_alpha_on_original_D": 0.001,
+  "string_dependency_measure": "incremental R2 on original canonical T=10,000",
+  "H1": {
+    "denominator": 54,
+    "retained": 26,
+    "failed": 5,
+    "undetermined": 23
+  },
+  "H2_Pearson_ge_0.8": {
+    "denominator": 34,
+    "retained": 18,
+    "failed": 0,
+    "undetermined": 16
+  },
+  "H2_Pearson_ge_0.6": {
+    "denominator": 52,
+    "retained": 24,
+    "failed": 5,
+    "undetermined": 23
+  },
+  "primary_determinate": {
+    "n": 31,
+    "n_failed": 5,
+    "minus_following_AUROC": 0.8307692307692308,
+    "string_AUROC": 0.3153846153846154
+  },
+  "all_originally_usable": {
+    "n": 54,
+    "n_failed": 5,
+    "minus_following_AUROC": 0.8612244897959184,
+    "string_AUROC": 0.21632653061224494
+  },
+  "H3_vs_mean_rank_correlation_all_coordinates": 0.20093492409372543,
+  "H3_vs_mean_rank_correlation_originally_usable": -0.06925862397560509,
+  "H3_vs_shuffled_rank_correlation_all_coordinates": 0.06106905440890646,
+  "H3_vs_shuffled_rank_correlation_originally_usable": -0.09822755860491708,
+  "H1_r2_eligible_n": 150,
+  "outcome": "[see English protocol and source identity]",
+  "named_neurons": [
+    {
+      "unit": 293,
+      "comparison": "mean",
+      "rewritten_gain": 0.002846120586053179,
+      "low": 0.002417332148752152,
+      "high": 0.0033298437092917957,
+      "p_two_sided": 0.0004997501249375312,
+      "p_Holm": 0.001999000499750125
+    },
+    {
+      "unit": 293,
+      "comparison": "shuffled",
+      "rewritten_gain": 0.000951128575369507,
+      "low": 0.0007192878290798092,
+      "high": 0.0011728874608333377,
+      "p_two_sided": 0.0004997501249375312,
+      "p_Holm": 0.001999000499750125
+    },
+    {
+      "unit": 454,
+      "comparison": "mean",
+      "rewritten_gain": -0.0017845964600629947,
+      "low": -0.0021209706384709972,
+      "high": -0.0014571231920245766,
+      "p_two_sided": 0.0004997501249375312,
+      "p_Holm": 0.001999000499750125
+    },
+    {
+      "unit": 454,
+      "comparison": "shuffled",
+      "rewritten_gain": -0.002737404684519011,
+      "low": -0.003021606432691799,
+      "high": -0.002451176126739788,
+      "p_two_sided": 0.0004997501249375312,
+      "p_Holm": 0.001999000499750125
+    }
+  ]
+}

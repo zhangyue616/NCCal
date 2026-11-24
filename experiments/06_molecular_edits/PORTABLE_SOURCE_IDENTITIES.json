@@ -1,0 +1,32 @@
+[
+  {
+    "distribution": "semantic_mapper.py",
+    "original_file": "semantic_mapper.py",
+    "original_sha256": "7965a4a982150a9d6bd128af3e239514d8139bfca9c821537aac64ec501f920c",
+    "change": "Only imports, explicit input locations and command/output interface changed; scientific functions retained."
+  },
+  {
+    "distribution": "mapping.py",
+    "original_file": "mapping.py",
+    "original_sha256": "0ac4110e763c40291b80f98b7128b8d7c3e00b8b6806faae59af4809a7076c5e",
+    "change": "Only imports, explicit input locations and command/output interface changed; scientific functions retained."
+  },
+  {
+    "distribution": "input_features.py",
+    "original_file": "chem_input_reference.py",
+    "original_sha256": "63167dd1039c75d0b927f3378cc4befde7208d1138e3e82d2f3f7c25d9449a13",
+    "change": "Only imports, explicit input locations and command/output interface changed; scientific functions retained."
+  },
+  {
+    "distribution": "standardization.py",
+    "original_file": "chem_data.py",
+    "original_sha256": "72ea2004a14fe400511e8016c4d4b0254e4c4f0d8e8c494db4310bbcf16b6563",
+    "change": "Only imports, explicit input locations and command/output interface changed; scientific functions retained."
+  },
+  {
+    "distribution": "pair_preparation.py",
+    "original_file": "prepare_pairs.py",
+    "original_sha256": "3fdcb2daf63ea11dd00faa8606619d89a8c41ebc08fbcb35cdaf4f40d3fa9bd1",
+    "change": "Only imports, explicit input locations and command/output interface changed; scientific functions retained."
+  }
+]

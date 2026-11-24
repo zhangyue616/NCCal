@@ -1,0 +1,2 @@
+unit_id	concept	group	accession	split	auroc	n_positive	n_unannotated	n_negative_reference	negative_reference_meaning	auc_scope	full_protein_residue_auc	own_fresh_eligible
+Hallee|esmc_600|b23|u883|negative|256bad3eb7	Active site_Amidino-cysteine intermediate	fresh-eb220de7b8e4a3fe7dd7db7c80f975fa9788914da3ec4aa238b65d2f5b6a3ec6	F4ZCI3	RESERVE	1.0	1	378	378	not annotated, not verified absence	all_eligible_observed_or_annotated_domain_residues	True	True

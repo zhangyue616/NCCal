@@ -1,0 +1,57 @@
+{
+  "reason": "External implementations and demonstration code are not included in the authored-code release.",
+  "files": [
+    {
+      "path": "experiments/12_native_protein_candidates/reference_implementation/structural_readout_validation/published_transfer/author_bases.py",
+      "bytes": 6254,
+      "sha256": "fb41a02345ef78d5f119a06e036c8d70690794c3e52943d9aba6ece4d69879d3",
+      "reason": "External Protify/FastPLMs implementation; omitted from authored-code candidate.",
+      "source_id": "structural_readout_validation/published_transfer/author_bases.py",
+      "original_bytes": 6121,
+      "original_sha256": "c0105ee0d38599e79061c1317dcf06849be2b1f8c0427b147658accaa3003ac4",
+      "sha256_description": "Checksum of the removed normalized candidate copy; original_sha256 identifies the read-only original excerpt."
+    },
+    {
+      "path": "experiments/12_native_protein_candidates/reference_implementation/structural_readout_validation/published_transfer/author_capture.py",
+      "bytes": 7850,
+      "sha256": "219187f7e5975ce0affbcd6467a5121c298109f35f56b31c9caca3163ce5b4dd",
+      "reason": "External Protify/FastPLMs implementation; omitted from authored-code candidate.",
+      "source_id": "structural_readout_validation/published_transfer/author_capture.py",
+      "original_bytes": 7699,
+      "original_sha256": "efc1b15b7c5e70cd518c7c1fcbb70e5bf1370df6fe18a316fecf15e8dbedec26",
+      "sha256_description": "Checksum of the removed normalized candidate copy; original_sha256 identifies the read-only original excerpt."
+    },
+    {
+      "path": "experiments/12_native_protein_candidates/reference_implementation/structural_readout_validation/published_transfer/author_poles.py",
+      "bytes": 4203,
+      "sha256": "218f35a44a7d11ae4dc7890204abc6e602d50d9bc8a86f9d092f03f7008c9d08",
+      "reason": "External Protify/FastPLMs implementation; omitted from authored-code candidate.",
+      "source_id": "structural_readout_validation/published_transfer/author_poles.py",
+      "original_bytes": 4117,
+      "original_sha256": "88fd3e0290134a2362e70e134df4b6d0779009e1687e1de86e9a74c4a9b649c2",
+      "sha256_description": "Checksum of the removed normalized candidate copy; original_sha256 identifies the read-only original excerpt."
+    },
+    {
+      "path": "experiments/12_native_protein_candidates/reference_implementation/structural_readout_validation/published_transfer/esmc634_fastplms_modeling.py",
+      "bytes": 60286,
+      "sha256": "4b59ac0c337de2e8092411a1c63a957e4492996454cc6a885abd77775120d14f",
+      "reason": "External Protify/FastPLMs implementation; omitted from authored-code candidate.",
+      "source_id": "structural_readout_validation/published_transfer/esmc634_fastplms_modeling.py",
+      "original_bytes": 58734,
+      "original_sha256": "ea812cc86c8cc5b3a41d82fdcbf56f999dd5599a181b1804b4c0f19b0f309557",
+      "sha256_description": "Checksum of the removed normalized candidate copy; original_sha256 identifies the read-only original excerpt."
+    },
+    {
+      "path": "experiments/12_native_protein_candidates/reference_implementation/structural_readout_validation/published_transfer/esmc634_state_transforms.py",
+      "bytes": 15123,
+      "sha256": "8a4faab78c4629767b779cd262d01e27bcc10492748726a91e6808f0f2a86ae0",
+      "reason": "External Protify/FastPLMs implementation; omitted from authored-code candidate.",
+      "source_id": "structural_readout_validation/published_transfer/esmc634_state_transforms.py",
+      "original_bytes": 14719,
+      "original_sha256": "8581f7322c600e380eddc2f4a1e91ff63009a38caa3922ea178e9f7e6c4131c6",
+      "sha256_description": "Checksum of the removed normalized candidate copy; original_sha256 identifies the read-only original excerpt."
+    }
+  ],
+  "fastplms_saved_revision": "e6dd397a9ad368c998d714f6bd64d40b533d1ed1",
+  "license_status": "Use each external project under its own terms; license and current locator were not independently established by the offline build."
+}

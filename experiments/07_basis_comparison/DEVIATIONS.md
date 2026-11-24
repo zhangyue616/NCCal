@@ -1,0 +1,3 @@
+# Deviations and scope
+
+A development/test rank offset was detected during unlabelled pool preparation by CID checking. Rows are now resolved by their recorded rank and checked by identity, atom count and source fingerprint. The dictionaries use the correct block-two post-GELU activations. Protocol prose described a division by a normalization multiplier; the actual stored scale is a standard-deviation divisor, so native writeback multiplies the decoder column by that stored scale. The implementation is the inverse of training normalization and retains the reconstruction remainder. The validation variance ranking is unchanged by a common positive scale.

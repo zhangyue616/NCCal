@@ -1,0 +1,28 @@
+{
+  "created_unix": 1795413763.9230785,
+  "model": "ESMC",
+  "network": "91006",
+  "selection": {
+    "task": "sheet_edge_vs_central",
+    "block_1": 24,
+    "block_0": 23,
+    "channel_0": 2320,
+    "channel_1": 2321,
+    "sign": -1,
+    "development_score": 0.9361111111111111,
+    "numerator": "674",
+    "denominator": "720",
+    "development_groups": 18,
+    "development_pairs": 38,
+    "signed_candidates": 153600,
+    "n_top_tied_signed_candidates": 1,
+    "tie_rule": "block0,channel0,+ first"
+  },
+  "inputs": {
+    "pairs_path": "structural_readout_validation/scan/merged_cohorts/pairs.tsv",
+    "pairs_sha256": "c2c75f1ac77ac674ad4879f8985e830e7f081dc7db09a7223e5dfcbf55500853",
+    "chains_path": "structural_readout_validation/scan/merged_cohorts/chains.jsonl",
+    "chains_sha256": "ce641e9fb69c9a2e85bfe196b1929d1537eaa016efc07d252ff24047a55acaf1"
+  },
+  "protocol_sha256": "3d54b91054402bd1131a168dd16e568991a64a0282f42854e0bbd3ee9688d9e4"
+}

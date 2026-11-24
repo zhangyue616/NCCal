@@ -1,0 +1,2 @@
+unit_id	concept	group	accession	split	auroc	n_positive	n_unannotated	n_negative_reference	negative_reference_meaning	auc_scope	full_protein_residue_auc	own_fresh_eligible
+Hallee|esm2_650m|b29|u685|positive|53c0effe3b	Modified residue_2-(S-cysteinyl)pyruvic acid O-phosphothioketal	fresh-3dbeae17091359f54e44136d59ff0d3b4e5f09b09785c0ea347f56b510c77b63	B2FRX1	T	1.0	1	422	422	not annotated, not verified absence	all_eligible_observed_or_annotated_domain_residues	True	False

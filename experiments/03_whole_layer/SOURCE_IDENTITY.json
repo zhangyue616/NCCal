@@ -1,0 +1,9 @@
+{
+  "experiment": "03_whole_layer",
+  "original_document": "PROTOCOL_A_FROZEN.md",
+  "original_sha256": "2cc333fc6d92c397225aa5ace030295a924c1588fe66c19e7596e5573fbb30e0",
+  "freeze_record": "PROTOCOL_A_FREEZE.json",
+  "freeze_time_utc": "2026-11-18T13:50:47.532769+00:00",
+  "english_document": "PROTOCOL.md",
+  "original_freeze_record_sha256": "484eb56c63c816b37ef122cafd1674c9551c1ba20c94abe41d14b4cf7ed0891a"
+}

@@ -1,0 +1,790 @@
+{
+  "created_utc": "2026-11-22T17:36:40.574757+00:00",
+  "status": "COMPLETE_FROZEN_READOUT_NO_REFIT",
+  "results": [
+    {
+      "frame": "direct_sequence_screen",
+      "identity": "A",
+      "n_pairs": 19,
+      "n_groups": 19,
+      "sites": 38,
+      "arms": {
+        "X": {
+          "Brier": {
+            "mean": 0.12751608749649157,
+            "CI95_percentile": [
+              0.07769792249221262,
+              0.18422770090725005
+            ]
+          },
+          "conditional_pair_accuracy": {
+            "mean": 0.8421052631578947,
+            "CI95_percentile": [
+              0.6842105263157895,
+              1.0
+            ]
+          },
+          "correct_non_tied": 16,
+          "incorrect_non_tied": 3,
+          "probability_ties": 0,
+          "score_ties": 0
+        },
+        "Xj": {
+          "Brier": {
+            "mean": 0.13494144605950065,
+            "CI95_percentile": [
+              0.08408038894581238,
+              0.1896982585716861
+            ]
+          },
+          "conditional_pair_accuracy": {
+            "mean": 0.8421052631578947,
+            "CI95_percentile": [
+              0.6842105263157895,
+              1.0
+            ]
+          },
+          "correct_non_tied": 16,
+          "incorrect_non_tied": 3,
+          "probability_ties": 0,
+          "score_ties": 0
+        },
+        "L": {
+          "Brier": {
+            "mean": 0.15301521615794098,
+            "CI95_percentile": [
+              0.08708559516766905,
+              0.22631358151497447
+            ]
+          },
+          "conditional_pair_accuracy": {
+            "mean": 0.6842105263157895,
+            "CI95_percentile": [
+              0.47368421052631576,
+              0.8947368421052632
+            ]
+          },
+          "correct_non_tied": 13,
+          "incorrect_non_tied": 6,
+          "probability_ties": 0,
+          "score_ties": 0
+        },
+        "Lj": {
+          "Brier": {
+            "mean": 0.14704593995224385,
+            "CI95_percentile": [
+              0.09520391412474108,
+              0.20171622484462723
+            ]
+          },
+          "conditional_pair_accuracy": {
+            "mean": 0.7368421052631579,
+            "CI95_percentile": [
+              0.5263157894736842,
+              0.9473684210526315
+            ]
+          },
+          "correct_non_tied": 14,
+          "incorrect_non_tied": 5,
+          "probability_ties": 0,
+          "score_ties": 0
+        }
+      },
+      "comparisons": {
+        "L_minus_Lj": {
+          "mean": 0.005969276205697059,
+          "CI95_percentile": [
+            -0.050528364578491275,
+            0.061519774738851334
+          ],
+          "positive_pairs": 8,
+          "negative_pairs": 10,
+          "exact_loss_ties": 1,
+          "uncertainty": "interval_spans_zero"
+        },
+        "X_minus_Xj": {
+          "mean": -0.007425358563009058,
+          "CI95_percentile": [
+            -0.059433198274406955,
+            0.04741355823190663
+          ],
+          "positive_pairs": 9,
+          "negative_pairs": 10,
+          "exact_loss_ties": 0,
+          "uncertainty": "interval_spans_zero"
+        }
+      },
+      "status": "COMPLETE"
+    },
+    {
+      "frame": "direct_sequence_screen",
+      "identity": "L",
+      "n_pairs": 28,
+      "n_groups": 28,
+      "sites": 56,
+      "arms": {
+        "X": {
+          "Brier": {
+            "mean": 0.1691512342721877,
+            "CI95_percentile": [
+              0.12669566538579718,
+              0.21460438905293788
+            ],
+            "CI97_5_simultaneous_percentile": [
+              0.12083371981634984,
+              0.22235298507801293
+            ]
+          },
+          "conditional_pair_accuracy": {
+            "mean": 0.75,
+            "CI95_percentile": [
+              0.5714285714285714,
+              0.8928571428571429
+            ],
+            "CI97_5_simultaneous_percentile": [
+              0.5714285714285714,
+              0.9285714285714286
+            ]
+          },
+          "correct_non_tied": 21,
+          "incorrect_non_tied": 7,
+          "probability_ties": 0,
+          "score_ties": 0
+        },
+        "Xj": {
+          "Brier": {
+            "mean": 0.14539782757177402,
+            "CI95_percentile": [
+              0.1058020056194672,
+              0.18630741991149533
+            ],
+            "CI97_5_simultaneous_percentile": [
+              0.10065430448024947,
+              0.19287939037986068
+            ]
+          },
+          "conditional_pair_accuracy": {
+            "mean": 0.8571428571428571,
+            "CI95_percentile": [
+              0.7142857142857143,
+              0.9642857142857143
+            ],
+            "CI97_5_simultaneous_percentile": [
+              0.6785714285714286,
+              1.0
+            ]
+          },
+          "correct_non_tied": 24,
+          "incorrect_non_tied": 4,
+          "probability_ties": 0,
+          "score_ties": 0
+        },
+        "L": {
+          "Brier": {
+            "mean": 0.18925729702155616,
+            "CI95_percentile": [
+              0.12563628008368274,
+              0.2592588868514632
+            ],
+            "CI97_5_simultaneous_percentile": [
+              0.1177867714246102,
+              0.27035028787109056
+            ]
+          },
+          "conditional_pair_accuracy": {
+            "mean": 0.6428571428571429,
+            "CI95_percentile": [
+              0.4642857142857143,
+              0.8214285714285714
+            ],
+            "CI97_5_simultaneous_percentile": [
+              0.42857142857142855,
+              0.8214285714285714
+            ]
+          },
+          "correct_non_tied": 18,
+          "incorrect_non_tied": 10,
+          "probability_ties": 0,
+          "score_ties": 0
+        },
+        "Lj": {
+          "Brier": {
+            "mean": 0.1530834602625751,
+            "CI95_percentile": [
+              0.10915151191171683,
+              0.19977125562370962
+            ],
+            "CI97_5_simultaneous_percentile": [
+              0.10397098521187435,
+              0.20743767848511016
+            ]
+          },
+          "conditional_pair_accuracy": {
+            "mean": 0.7857142857142857,
+            "CI95_percentile": [
+              0.6428571428571429,
+              0.9285714285714286
+            ],
+            "CI97_5_simultaneous_percentile": [
+              0.6071428571428571,
+              0.9285714285714286
+            ]
+          },
+          "correct_non_tied": 22,
+          "incorrect_non_tied": 6,
+          "probability_ties": 0,
+          "score_ties": 0
+        }
+      },
+      "comparisons": {
+        "L_minus_Lj": {
+          "mean": 0.03617383675898106,
+          "CI95_percentile": [
+            -0.004687385426483807,
+            0.08189299134287084
+          ],
+          "CI97_5_simultaneous_percentile": [
+            -0.009610638907247582,
+            0.08840217495895838
+          ],
+          "positive_pairs": 17,
+          "negative_pairs": 9,
+          "exact_loss_ties": 2,
+          "uncertainty": "interval_spans_zero"
+        },
+        "X_minus_Xj": {
+          "mean": 0.02375340670041367,
+          "CI95_percentile": [
+            -0.005846575480426083,
+            0.05529776460257224
+          ],
+          "CI97_5_simultaneous_percentile": [
+            -0.010068637522591845,
+            0.05945873337571056
+          ],
+          "positive_pairs": 16,
+          "negative_pairs": 11,
+          "exact_loss_ties": 1,
+          "uncertainty": "interval_spans_zero"
+        }
+      },
+      "status": "COMPLETE"
+    },
+    {
+      "frame": "direct_sequence_screen",
+      "identity": "V",
+      "n_pairs": 21,
+      "n_groups": 21,
+      "sites": 42,
+      "arms": {
+        "X": {
+          "Brier": {
+            "mean": 0.18851559763785314,
+            "CI95_percentile": [
+              0.1389666856343565,
+              0.24087311666717826
+            ],
+            "CI97_5_simultaneous_percentile": [
+              0.1321892067127605,
+              0.24895663914992192
+            ]
+          },
+          "conditional_pair_accuracy": {
+            "mean": 0.7142857142857143,
+            "CI95_percentile": [
+              0.5238095238095238,
+              0.9047619047619048
+            ],
+            "CI97_5_simultaneous_percentile": [
+              0.47619047619047616,
+              0.9047619047619048
+            ]
+          },
+          "correct_non_tied": 15,
+          "incorrect_non_tied": 6,
+          "probability_ties": 0,
+          "score_ties": 0
+        },
+        "Xj": {
+          "Brier": {
+            "mean": 0.14859884804790022,
+            "CI95_percentile": [
+              0.10333564449126004,
+              0.19729821169069447
+            ],
+            "CI97_5_simultaneous_percentile": [
+              0.09726733540111629,
+              0.20586645747864593
+            ]
+          },
+          "conditional_pair_accuracy": {
+            "mean": 0.8571428571428571,
+            "CI95_percentile": [
+              0.7142857142857143,
+              1.0
+            ],
+            "CI97_5_simultaneous_percentile": [
+              0.6666666666666666,
+              1.0
+            ]
+          },
+          "correct_non_tied": 18,
+          "incorrect_non_tied": 3,
+          "probability_ties": 0,
+          "score_ties": 0
+        },
+        "L": {
+          "Brier": {
+            "mean": 0.19873196433311294,
+            "CI95_percentile": [
+              0.13095029817531442,
+              0.2719066700521123
+            ],
+            "CI97_5_simultaneous_percentile": [
+              0.12139757313613782,
+              0.2828582071124382
+            ]
+          },
+          "conditional_pair_accuracy": {
+            "mean": 0.6190476190476191,
+            "CI95_percentile": [
+              0.42857142857142855,
+              0.8095238095238095
+            ],
+            "CI97_5_simultaneous_percentile": [
+              0.38095238095238093,
+              0.8571428571428571
+            ]
+          },
+          "correct_non_tied": 13,
+          "incorrect_non_tied": 8,
+          "probability_ties": 0,
+          "score_ties": 0
+        },
+        "Lj": {
+          "Brier": {
+            "mean": 0.1518690158020996,
+            "CI95_percentile": [
+              0.10786941767544458,
+              0.20283270281150584
+            ],
+            "CI97_5_simultaneous_percentile": [
+              0.10219229449118919,
+              0.2106053227696659
+            ]
+          },
+          "conditional_pair_accuracy": {
+            "mean": 0.8571428571428571,
+            "CI95_percentile": [
+              0.7142857142857143,
+              1.0
+            ],
+            "CI97_5_simultaneous_percentile": [
+              0.6666666666666666,
+              1.0
+            ]
+          },
+          "correct_non_tied": 18,
+          "incorrect_non_tied": 3,
+          "probability_ties": 0,
+          "score_ties": 0
+        }
+      },
+      "comparisons": {
+        "L_minus_Lj": {
+          "mean": 0.04686294853101328,
+          "CI95_percentile": [
+            -0.006402165068019243,
+            0.10495399658155338
+          ],
+          "CI97_5_simultaneous_percentile": [
+            -0.013353106159416145,
+            0.1143965394570091
+          ],
+          "positive_pairs": 11,
+          "negative_pairs": 10,
+          "exact_loss_ties": 0,
+          "uncertainty": "interval_spans_zero"
+        },
+        "X_minus_Xj": {
+          "mean": 0.03991674958995289,
+          "CI95_percentile": [
+            -0.0016756113605294915,
+            0.08375987985719235
+          ],
+          "CI97_5_simultaneous_percentile": [
+            -0.006865289745051807,
+            0.09025477381265305
+          ],
+          "positive_pairs": 13,
+          "negative_pairs": 8,
+          "exact_loss_ties": 0,
+          "uncertainty": "interval_spans_zero"
+        }
+      },
+      "status": "COMPLETE"
+    },
+    {
+      "frame": "structure_cluster",
+      "identity": "A",
+      "n_pairs": 43,
+      "n_groups": 43,
+      "sites": 86,
+      "arms": {
+        "X": {
+          "Brier": {
+            "mean": 0.15899976321936987,
+            "CI95_percentile": [
+              0.11957257636417491,
+              0.20173714704230608
+            ]
+          },
+          "conditional_pair_accuracy": {
+            "mean": 0.7209302325581395,
+            "CI95_percentile": [
+              0.5813953488372093,
+              0.8604651162790697
+            ]
+          },
+          "correct_non_tied": 31,
+          "incorrect_non_tied": 12,
+          "probability_ties": 0,
+          "score_ties": 0
+        },
+        "Xj": {
+          "Brier": {
+            "mean": 0.14571525218215373,
+            "CI95_percentile": [
+              0.10899678395077164,
+              0.18291707354130954
+            ]
+          },
+          "conditional_pair_accuracy": {
+            "mean": 0.7441860465116279,
+            "CI95_percentile": [
+              0.6046511627906976,
+              0.8604651162790697
+            ]
+          },
+          "correct_non_tied": 32,
+          "incorrect_non_tied": 11,
+          "probability_ties": 0,
+          "score_ties": 0
+        },
+        "L": {
+          "Brier": {
+            "mean": 0.1602507410928063,
+            "CI95_percentile": [
+              0.11280550173087028,
+              0.21252093343528042
+            ]
+          },
+          "conditional_pair_accuracy": {
+            "mean": 0.7674418604651163,
+            "CI95_percentile": [
+              0.6511627906976745,
+              0.8837209302325582
+            ]
+          },
+          "correct_non_tied": 33,
+          "incorrect_non_tied": 10,
+          "probability_ties": 0,
+          "score_ties": 0
+        },
+        "Lj": {
+          "Brier": {
+            "mean": 0.15023579918332505,
+            "CI95_percentile": [
+              0.1118282598449478,
+              0.18928693792966364
+            ]
+          },
+          "conditional_pair_accuracy": {
+            "mean": 0.7441860465116279,
+            "CI95_percentile": [
+              0.6046511627906976,
+              0.8604651162790697
+            ]
+          },
+          "correct_non_tied": 32,
+          "incorrect_non_tied": 11,
+          "probability_ties": 0,
+          "score_ties": 0
+        }
+      },
+      "comparisons": {
+        "L_minus_Lj": {
+          "mean": 0.010014941909481215,
+          "CI95_percentile": [
+            -0.03222536941554036,
+            0.05206640344718399
+          ],
+          "positive_pairs": 21,
+          "negative_pairs": 20,
+          "exact_loss_ties": 2,
+          "uncertainty": "interval_spans_zero"
+        },
+        "X_minus_Xj": {
+          "mean": 0.013284511037216146,
+          "CI95_percentile": [
+            -0.029848785155784596,
+            0.05601710878075712
+          ],
+          "positive_pairs": 23,
+          "negative_pairs": 20,
+          "exact_loss_ties": 0,
+          "uncertainty": "interval_spans_zero"
+        }
+      },
+      "status": "COMPLETE"
+    },
+    {
+      "frame": "structure_cluster",
+      "identity": "L",
+      "n_pairs": 58,
+      "n_groups": 58,
+      "sites": 116,
+      "arms": {
+        "X": {
+          "Brier": {
+            "mean": 0.1711402894707965,
+            "CI95_percentile": [
+              0.13141237976590134,
+              0.2149557077311306
+            ]
+          },
+          "conditional_pair_accuracy": {
+            "mean": 0.7586206896551724,
+            "CI95_percentile": [
+              0.6379310344827587,
+              0.8620689655172413
+            ]
+          },
+          "correct_non_tied": 44,
+          "incorrect_non_tied": 14,
+          "probability_ties": 0,
+          "score_ties": 0
+        },
+        "Xj": {
+          "Brier": {
+            "mean": 0.1446739990441,
+            "CI95_percentile": [
+              0.11347030429452894,
+              0.17709032544400025
+            ]
+          },
+          "conditional_pair_accuracy": {
+            "mean": 0.8103448275862069,
+            "CI95_percentile": [
+              0.7068965517241379,
+              0.9137931034482759
+            ]
+          },
+          "correct_non_tied": 47,
+          "incorrect_non_tied": 11,
+          "probability_ties": 0,
+          "score_ties": 0
+        },
+        "L": {
+          "Brier": {
+            "mean": 0.1628564308599387,
+            "CI95_percentile": [
+              0.11722983121532769,
+              0.21228337714092715
+            ]
+          },
+          "conditional_pair_accuracy": {
+            "mean": 0.7241379310344828,
+            "CI95_percentile": [
+              0.603448275862069,
+              0.8275862068965517
+            ]
+          },
+          "correct_non_tied": 42,
+          "incorrect_non_tied": 16,
+          "probability_ties": 0,
+          "score_ties": 0
+        },
+        "Lj": {
+          "Brier": {
+            "mean": 0.14435427611564394,
+            "CI95_percentile": [
+              0.1117967219838947,
+              0.17852459782489916
+            ]
+          },
+          "conditional_pair_accuracy": {
+            "mean": 0.7931034482758621,
+            "CI95_percentile": [
+              0.6896551724137931,
+              0.896551724137931
+            ]
+          },
+          "correct_non_tied": 46,
+          "incorrect_non_tied": 12,
+          "probability_ties": 0,
+          "score_ties": 0
+        }
+      },
+      "comparisons": {
+        "L_minus_Lj": {
+          "mean": 0.018502154744294716,
+          "CI95_percentile": [
+            -0.009374319199554833,
+            0.04960868134003714
+          ],
+          "positive_pairs": 31,
+          "negative_pairs": 24,
+          "exact_loss_ties": 3,
+          "uncertainty": "interval_spans_zero"
+        },
+        "X_minus_Xj": {
+          "mean": 0.026466290426696532,
+          "CI95_percentile": [
+            -0.001189845725218129,
+            0.057601083762964134
+          ],
+          "positive_pairs": 34,
+          "negative_pairs": 23,
+          "exact_loss_ties": 1,
+          "uncertainty": "interval_spans_zero"
+        }
+      },
+      "status": "COMPLETE"
+    },
+    {
+      "frame": "structure_cluster",
+      "identity": "V",
+      "n_pairs": 52,
+      "n_groups": 52,
+      "sites": 104,
+      "arms": {
+        "X": {
+          "Brier": {
+            "mean": 0.18326041371526072,
+            "CI95_percentile": [
+              0.14919097251520078,
+              0.21972844483759593
+            ]
+          },
+          "conditional_pair_accuracy": {
+            "mean": 0.7692307692307693,
+            "CI95_percentile": [
+              0.6538461538461539,
+              0.8846153846153846
+            ]
+          },
+          "correct_non_tied": 40,
+          "incorrect_non_tied": 12,
+          "probability_ties": 0,
+          "score_ties": 0
+        },
+        "Xj": {
+          "Brier": {
+            "mean": 0.14606506344216116,
+            "CI95_percentile": [
+              0.1158484231886317,
+              0.17886435768729936
+            ]
+          },
+          "conditional_pair_accuracy": {
+            "mean": 0.8269230769230769,
+            "CI95_percentile": [
+              0.7115384615384616,
+              0.9230769230769231
+            ]
+          },
+          "correct_non_tied": 43,
+          "incorrect_non_tied": 9,
+          "probability_ties": 0,
+          "score_ties": 0
+        },
+        "L": {
+          "Brier": {
+            "mean": 0.16795116965118778,
+            "CI95_percentile": [
+              0.12331587131027849,
+              0.21661129476689325
+            ]
+          },
+          "conditional_pair_accuracy": {
+            "mean": 0.7692307692307693,
+            "CI95_percentile": [
+              0.6538461538461539,
+              0.8846153846153846
+            ]
+          },
+          "correct_non_tied": 40,
+          "incorrect_non_tied": 12,
+          "probability_ties": 0,
+          "score_ties": 0
+        },
+        "Lj": {
+          "Brier": {
+            "mean": 0.13875694739511185,
+            "CI95_percentile": [
+              0.1094763022220038,
+              0.17143803824251302
+            ]
+          },
+          "conditional_pair_accuracy": {
+            "mean": 0.8653846153846154,
+            "CI95_percentile": [
+              0.7692307692307693,
+              0.9423076923076923
+            ]
+          },
+          "correct_non_tied": 45,
+          "incorrect_non_tied": 7,
+          "probability_ties": 0,
+          "score_ties": 0
+        }
+      },
+      "comparisons": {
+        "L_minus_Lj": {
+          "mean": 0.029194222256075944,
+          "CI95_percentile": [
+            -0.004923413243549232,
+            0.0647814123427923
+          ],
+          "positive_pairs": 23,
+          "negative_pairs": 29,
+          "exact_loss_ties": 0,
+          "uncertainty": "interval_spans_zero"
+        },
+        "X_minus_Xj": {
+          "mean": 0.037195350273099545,
+          "CI95_percentile": [
+            0.009631345409523616,
+            0.06487845921979142
+          ],
+          "positive_pairs": 34,
+          "negative_pairs": 18,
+          "exact_loss_ties": 0,
+          "uncertainty": "interval_excludes_zero"
+        }
+      },
+      "status": "COMPLETE"
+    }
+  ],
+  "unit": 1246,
+  "layer": "block3.post-GELU",
+  "model": "ESM2 8M",
+  "bootstrap": {
+    "draws": 10000,
+    "seed": 20261122,
+    "unit": "independent group, paired shared resampling indices within each identity/frame",
+    "primary_family": "L vs Lj for L and V, no pooling",
+    "simultaneous_level": 0.975
+  },
+  "direction_errors": {
+    "X": 0.0,
+    "Xj": 0.0,
+    "L": 0.0,
+    "Lj": 0.0
+  },
+  "scope": "Observational structure-conditioned paired discrimination, conditional on saved fits and archived cohort; no sequence or function optimization",
+  "annotation_shift": "historical development UniProt annotation; external experimental-coordinate P-SEA H/E",
+  "new_fits": 0,
+  "new_sequence_or_structure_acquisition": 0
+}

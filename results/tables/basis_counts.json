@@ -1,0 +1,155 @@
+[
+  {
+    "basis": "native",
+    "subset": "full",
+    "physical_n": "464",
+    "R2_ge05_n": "150",
+    "R2_ge08_n": "41",
+    "canonical_usable_n": "54",
+    "retained": "26"
+  },
+  {
+    "basis": "pca",
+    "subset": "full",
+    "physical_n": "464",
+    "R2_ge05_n": "51",
+    "R2_ge08_n": "5",
+    "canonical_usable_n": "24",
+    "retained": "8"
+  },
+  {
+    "basis": "rot_30000",
+    "subset": "full",
+    "physical_n": "464",
+    "R2_ge05_n": "385",
+    "R2_ge08_n": "0",
+    "canonical_usable_n": "12",
+    "retained": "1"
+  },
+  {
+    "basis": "rot_30001",
+    "subset": "full",
+    "physical_n": "464",
+    "R2_ge05_n": "386",
+    "R2_ge08_n": "0",
+    "canonical_usable_n": "11",
+    "retained": "1"
+  },
+  {
+    "basis": "rot_30002",
+    "subset": "full",
+    "physical_n": "464",
+    "R2_ge05_n": "396",
+    "R2_ge08_n": "0",
+    "canonical_usable_n": "14",
+    "retained": "2"
+  },
+  {
+    "basis": "rot_30003",
+    "subset": "full",
+    "physical_n": "464",
+    "R2_ge05_n": "387",
+    "R2_ge08_n": "0",
+    "canonical_usable_n": "8",
+    "retained": "1"
+  },
+  {
+    "basis": "rot_30004",
+    "subset": "full",
+    "physical_n": "464",
+    "R2_ge05_n": "371",
+    "R2_ge08_n": "0",
+    "canonical_usable_n": "17",
+    "retained": "4"
+  },
+  {
+    "basis": "rot_30005",
+    "subset": "full",
+    "physical_n": "464",
+    "R2_ge05_n": "390",
+    "R2_ge08_n": "0",
+    "canonical_usable_n": "12",
+    "retained": "2"
+  },
+  {
+    "basis": "rot_30006",
+    "subset": "full",
+    "physical_n": "464",
+    "R2_ge05_n": "389",
+    "R2_ge08_n": "0",
+    "canonical_usable_n": "12",
+    "retained": "2"
+  },
+  {
+    "basis": "rot_30007",
+    "subset": "full",
+    "physical_n": "464",
+    "R2_ge05_n": "393",
+    "R2_ge08_n": "0",
+    "canonical_usable_n": "12",
+    "retained": "1"
+  },
+  {
+    "basis": "rot_30008",
+    "subset": "full",
+    "physical_n": "464",
+    "R2_ge05_n": "397",
+    "R2_ge08_n": "0",
+    "canonical_usable_n": "9",
+    "retained": "0"
+  },
+  {
+    "basis": "sae_rep0",
+    "subset": "full",
+    "physical_n": "928",
+    "R2_ge05_n": "246",
+    "R2_ge08_n": "91",
+    "canonical_usable_n": "108",
+    "retained": "53"
+  },
+  {
+    "basis": "sae_rep1",
+    "subset": "full",
+    "physical_n": "928",
+    "R2_ge05_n": "253",
+    "R2_ge08_n": "89",
+    "canonical_usable_n": "107",
+    "retained": "55"
+  },
+  {
+    "basis": "sae_rep2",
+    "subset": "full",
+    "physical_n": "928",
+    "R2_ge05_n": "256",
+    "R2_ge08_n": "90",
+    "canonical_usable_n": "110",
+    "retained": "53"
+  },
+  {
+    "basis": "sae_rep0",
+    "subset": "top464_by_validation_variance_contribution",
+    "physical_n": "464",
+    "R2_ge05_n": "181",
+    "R2_ge08_n": "67",
+    "canonical_usable_n": "83",
+    "retained": "44"
+  },
+  {
+    "basis": "sae_rep1",
+    "subset": "top464_by_validation_variance_contribution",
+    "physical_n": "464",
+    "R2_ge05_n": "182",
+    "R2_ge08_n": "69",
+    "canonical_usable_n": "80",
+    "retained": "43"
+  },
+  {
+    "basis": "sae_rep2",
+    "subset": "top464_by_validation_variance_contribution",
+    "physical_n": "464",
+    "R2_ge05_n": "181",
+    "R2_ge08_n": "64",
+    "canonical_usable_n": "75",
+    "retained": "41"
+  }
+]

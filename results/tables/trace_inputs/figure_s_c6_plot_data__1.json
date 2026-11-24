@@ -1,0 +1,11 @@
+{
+ "pilot.chemeleon.native": 43.26171875,
+ "pilot.chemeleon.initialization_mean": 76.72526041666666,
+ "pilot.chemeleon.rotation_mean": 46.494140625,
+ "pilot.molclr_gin.native": 59.66666666666667,
+ "pilot.molclr_gin.initialization_mean": 27.72222222222222,
+ "pilot.molclr_gin.rotation_mean": 85.25,
+ "pilot.hu_masking.native": 57.833333333333336,
+ "pilot.hu_masking.initialization_mean": 29.055555555555557,
+ "pilot.hu_masking.rotation_mean": 69.98333333333333
+}

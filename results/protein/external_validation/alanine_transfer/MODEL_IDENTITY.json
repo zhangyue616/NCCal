@@ -1,0 +1,12 @@
+{
+  "created_utc": "2026-11-22T17:36:28.248420+00:00",
+  "torch": "2.11.0+cu128",
+  "transformers": "5.20.0",
+  "device": "cpu",
+  "threads": 2,
+  "precision": "float32",
+  "model_weight_sha256": "24c5fa474c48f3b754b86efe752d5f189d2bcd88190fa2270fc92b2ef3034189",
+  "layer": "block3 (0-based2) intermediate post-GELU",
+  "unit": 1246,
+  "forward": "one masked centre per independent full-length sequence; first three blocks evaluated; no crops"
+}

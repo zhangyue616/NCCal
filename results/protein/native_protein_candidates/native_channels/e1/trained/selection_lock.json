@@ -1,0 +1,34 @@
+{
+  "created_unix": 1795406706.7155805,
+  "rule": "D group-equal; tie layer0,unit0,+ first; no T/E selection",
+  "pairs_sha256": "bc1054844aaef86d04b2482a50fc1dbddcdfd4f879b20e17012bcffe93356929",
+  "chains_sha256": "d26c72c7c5f29a3c03f13a20d2f4adfa203c5f0d02dd83a55440a4ae86109dcb",
+  "selections": [
+    {
+      "task": "helix_vs_strand",
+      "layer0": 19,
+      "layer1": 20,
+      "unit0": 1900,
+      "unit1": 1901,
+      "sign": 1,
+      "development_group_equal_accuracy": 0.8895478085133257,
+      "development_groups": 29,
+      "development_pairs": 445,
+      "physical_units": 46080,
+      "signed_candidates": 92160
+    },
+    {
+      "task": "helix_start_vs_internal",
+      "layer0": 14,
+      "layer1": 15,
+      "unit0": 2192,
+      "unit1": 2193,
+      "sign": -1,
+      "development_group_equal_accuracy": 0.9315972222222222,
+      "development_groups": 24,
+      "development_pairs": 123,
+      "physical_units": 46080,
+      "signed_candidates": 92160
+    }
+  ]
+}

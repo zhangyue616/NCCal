@@ -1,0 +1,306 @@
+{
+  "completed_utc": "2026-11-18T07:18:55.169730+00:00",
+  "selected_groups": 24,
+  "all_quality": {
+    "valid_sites": 2885,
+    "pooled_spearman_rho": 0.9976688152666925,
+    "three_class_agreement": 0.965684575389948,
+    "B_I_E_transition_counts": {
+      "B": {
+        "B": 1031,
+        "I": 6,
+        "E": 0
+      },
+      "I": {
+        "B": 37,
+        "I": 1093,
+        "E": 24
+      },
+      "E": {
+        "B": 0,
+        "I": 32,
+        "E": 662
+      }
+    },
+    "old_extreme_sites": 1731,
+    "old_extreme_assignment_retention": 0.9780473714615829,
+    "within_group_spearman": {
+      "old-union-003071": 0.997839967621295,
+      "old-union-000416": 0.9974924710867807,
+      "old-union-002020": 0.9967709597761768,
+      "old-union-002702": 0.9965899656156666,
+      "old-union-000347": 0.9944598172913003,
+      "old-union-003176": 0.9969427641377536,
+      "old-union-002331": 0.9967532995997528,
+      "old-union-000362": 0.9916983095379354,
+      "old-union-002689": 0.9959405620277372,
+      "old-union-001949": 0.9956458635703919,
+      "old-union-000992": 0.9956474436169351,
+      "old-union-001762": 0.9975752669609093,
+      "old-union-000713": 0.9966575711893609,
+      "old-union-002877": 0.9968919646946599,
+      "old-union-002952": 0.9949604807037552,
+      "old-union-001018": 0.9953010865078775,
+      "old-union-001688": 0.9970237380889518,
+      "old-union-000296": 0.998400592373195,
+      "old-union-000345": 0.9959570396889081,
+      "old-union-002668": 0.9936063310157917,
+      "old-union-000798": 0.9965034880804535,
+      "old-union-002164": 0.995797633402217,
+      "old-union-002346": 0.9980380352248212,
+      "old-union-000808": 0.9975099324262927
+    },
+    "within_group_median_rho": 0.9966237684025138
+  },
+  "frozen_strict_main": {
+    "valid_sites": 1317,
+    "pooled_spearman_rho": 0.9972225849261969,
+    "three_class_agreement": 0.976461655277145,
+    "B_I_E_transition_counts": {
+      "B": {
+        "B": 510,
+        "I": 4,
+        "E": 0
+      },
+      "I": {
+        "B": 8,
+        "I": 442,
+        "E": 8
+      },
+      "E": {
+        "B": 0,
+        "I": 11,
+        "E": 334
+      }
+    },
+    "old_extreme_sites": 859,
+    "old_extreme_assignment_retention": 0.9825378346915018,
+    "within_group_spearman": {
+      "old-union-003071": 0.9974501673306567,
+      "old-union-000416": 0.9971054783003849,
+      "old-union-002020": 0.9946727193579138,
+      "old-union-002702": 0.9966120835686054,
+      "old-union-000347": 0.9952651113614297,
+      "old-union-003176": 0.9959381167709799,
+      "old-union-002331": 0.9966487084630976,
+      "old-union-000362": 0.9761904761904763,
+      "old-union-002689": 0.9979144942648592,
+      "old-union-001949": 1.0,
+      "old-union-000992": 0.9797823546947872,
+      "old-union-001762": 0.9964707557293617,
+      "old-union-000713": 0.9957632695507572,
+      "old-union-002877": 0.9945254096503815,
+      "old-union-002952": 0.9943519221466058,
+      "old-union-001018": 0.9930427692350372,
+      "old-union-001688": 0.992638036809816,
+      "old-union-000296": 0.9961538461538462,
+      "old-union-000345": 0.9947447447447445,
+      "old-union-002668": 0.9880306784773879,
+      "old-union-000798": 0.9941151842013694,
+      "old-union-002164": 0.9787279253249042,
+      "old-union-002346": 0.9970039635269843,
+      "old-union-000808": 0.9966554975644437
+    },
+    "within_group_median_rho": 0.9955141904560935
+  },
+  "group_audit": [
+    {
+      "group": "old-union-003071",
+      "requested_quality_sites": 189,
+      "valid_quality_sites": 189,
+      "ProtOr_fallback_atom_counts": {},
+      "assembly_atoms": 2076,
+      "target_atoms": 1551
+    },
+    {
+      "group": "old-union-000416",
+      "requested_quality_sites": 166,
+      "valid_quality_sites": 166,
+      "ProtOr_fallback_atom_counts": {},
+      "assembly_atoms": 1462,
+      "target_atoms": 1462
+    },
+    {
+      "group": "old-union-002020",
+      "requested_quality_sites": 90,
+      "valid_quality_sites": 90,
+      "ProtOr_fallback_atom_counts": {},
+      "assembly_atoms": 4306,
+      "target_atoms": 756
+    },
+    {
+      "group": "old-union-002702",
+      "requested_quality_sites": 111,
+      "valid_quality_sites": 111,
+      "ProtOr_fallback_atom_counts": {},
+      "assembly_atoms": 942,
+      "target_atoms": 942
+    },
+    {
+      "group": "old-union-000347",
+      "requested_quality_sites": 67,
+      "valid_quality_sites": 67,
+      "ProtOr_fallback_atom_counts": {},
+      "assembly_atoms": 46609,
+      "target_atoms": 764
+    },
+    {
+      "group": "old-union-003176",
+      "requested_quality_sites": 128,
+      "valid_quality_sites": 128,
+      "ProtOr_fallback_atom_counts": {},
+      "assembly_atoms": 2203,
+      "target_atoms": 1106
+    },
+    {
+      "group": "old-union-002331",
+      "requested_quality_sites": 120,
+      "valid_quality_sites": 120,
+      "ProtOr_fallback_atom_counts": {},
+      "assembly_atoms": 1880,
+      "target_atoms": 962
+    },
+    {
+      "group": "old-union-000362",
+      "requested_quality_sites": 36,
+      "valid_quality_sites": 36,
+      "ProtOr_fallback_atom_counts": {},
+      "assembly_atoms": 1467,
+      "target_atoms": 1467
+    },
+    {
+      "group": "old-union-002689",
+      "requested_quality_sites": 80,
+      "valid_quality_sites": 80,
+      "ProtOr_fallback_atom_counts": {},
+      "assembly_atoms": 4203,
+      "target_atoms": 1156
+    },
+    {
+      "group": "old-union-001949",
+      "requested_quality_sites": 53,
+      "valid_quality_sites": 53,
+      "ProtOr_fallback_atom_counts": {},
+      "assembly_atoms": 18569,
+      "target_atoms": 422
+    },
+    {
+      "group": "old-union-000992",
+      "requested_quality_sites": 88,
+      "valid_quality_sites": 88,
+      "ProtOr_fallback_atom_counts": {},
+      "assembly_atoms": 1674,
+      "target_atoms": 837
+    },
+    {
+      "group": "old-union-001762",
+      "requested_quality_sites": 211,
+      "valid_quality_sites": 211,
+      "ProtOr_fallback_atom_counts": {},
+      "assembly_atoms": 6628,
+      "target_atoms": 1657
+    },
+    {
+      "group": "old-union-000713",
+      "requested_quality_sites": 187,
+      "valid_quality_sites": 187,
+      "ProtOr_fallback_atom_counts": {},
+      "assembly_atoms": 2977,
+      "target_atoms": 1506
+    },
+    {
+      "group": "old-union-002877",
+      "requested_quality_sites": 115,
+      "valid_quality_sites": 115,
+      "ProtOr_fallback_atom_counts": {},
+      "assembly_atoms": 1359,
+      "target_atoms": 1359
+    },
+    {
+      "group": "old-union-002952",
+      "requested_quality_sites": 95,
+      "valid_quality_sites": 95,
+      "ProtOr_fallback_atom_counts": {},
+      "assembly_atoms": 8992,
+      "target_atoms": 735
+    },
+    {
+      "group": "old-union-001018",
+      "requested_quality_sites": 208,
+      "valid_quality_sites": 208,
+      "ProtOr_fallback_atom_counts": {},
+      "assembly_atoms": 3442,
+      "target_atoms": 1708
+    },
+    {
+      "group": "old-union-001688",
+      "requested_quality_sites": 63,
+      "valid_quality_sites": 63,
+      "ProtOr_fallback_atom_counts": {},
+      "assembly_atoms": 2915,
+      "target_atoms": 609
+    },
+    {
+      "group": "old-union-000296",
+      "requested_quality_sites": 74,
+      "valid_quality_sites": 74,
+      "ProtOr_fallback_atom_counts": {},
+      "assembly_atoms": 42967,
+      "target_atoms": 792
+    },
+    {
+      "group": "old-union-000345",
+      "requested_quality_sites": 73,
+      "valid_quality_sites": 73,
+      "ProtOr_fallback_atom_counts": {},
+      "assembly_atoms": 581,
+      "target_atoms": 581
+    },
+    {
+      "group": "old-union-002668",
+      "requested_quality_sites": 120,
+      "valid_quality_sites": 120,
+      "ProtOr_fallback_atom_counts": {},
+      "assembly_atoms": 4596,
+      "target_atoms": 1072
+    },
+    {
+      "group": "old-union-000798",
+      "requested_quality_sites": 95,
+      "valid_quality_sites": 95,
+      "ProtOr_fallback_atom_counts": {},
+      "assembly_atoms": 1801,
+      "target_atoms": 921
+    },
+    {
+      "group": "old-union-002164",
+      "requested_quality_sites": 98,
+      "valid_quality_sites": 98,
+      "ProtOr_fallback_atom_counts": {},
+      "assembly_atoms": 3582,
+      "target_atoms": 1194
+    },
+    {
+      "group": "old-union-002346",
+      "requested_quality_sites": 199,
+      "valid_quality_sites": 199,
+      "ProtOr_fallback_atom_counts": {},
+      "assembly_atoms": 3262,
+      "target_atoms": 1643
+    },
+    {
+      "group": "old-union-000808",
+      "requested_quality_sites": 219,
+      "valid_quality_sites": 219,
+      "ProtOr_fallback_atom_counts": {},
+      "assembly_atoms": 1871,
+      "target_atoms": 1871
+    }
+  ],
+  "same_occluders_and_targets": true,
+  "only_radii_replaced": true,
+  "D_frozen_modified": false,
+  "main_endpoint_changed": false,
+  "T_read": false,
+  "model_outcomes_read": false
+}

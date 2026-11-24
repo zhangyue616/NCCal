@@ -1,0 +1,46 @@
+[
+  {
+    "unit0": "2192",
+    "block0": "14",
+    "groups": "140",
+    "pair_accuracy": "0.6571428571428571",
+    "strong_mean": "0.041683890704562514",
+    "strong_CI_lo": "0.011402133335572428",
+    "strong_CI_hi": "0.07098266177208495",
+    "random_K": "199",
+    "rotation_K": "9"
+  },
+  {
+    "unit0": "735",
+    "block0": "14",
+    "groups": "140",
+    "pair_accuracy": "0.7785714285714286",
+    "strong_mean": "0.07971106785718102",
+    "strong_CI_lo": "0.027981019282646333",
+    "strong_CI_hi": "0.12481684318584436",
+    "random_K": "199",
+    "rotation_K": "9"
+  },
+  {
+    "unit0": "2062",
+    "block0": "19",
+    "groups": "140",
+    "pair_accuracy": "0.7571428571428571",
+    "strong_mean": "0.07685261320565065",
+    "strong_CI_lo": "0.03892496356617615",
+    "strong_CI_hi": "0.11349142042509952",
+    "random_K": "199",
+    "rotation_K": "9"
+  },
+  {
+    "unit0": "1900",
+    "block0": "19",
+    "groups": "140",
+    "pair_accuracy": "0.8714285714285714",
+    "strong_mean": "0.13808837325283474",
+    "strong_CI_lo": "0.0819256900554198",
+    "strong_CI_hi": "0.1916330727990658",
+    "random_K": "199",
+    "rotation_K": "9"
+  }
+]

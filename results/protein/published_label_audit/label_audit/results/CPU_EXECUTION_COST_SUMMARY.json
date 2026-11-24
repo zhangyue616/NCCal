@@ -1,0 +1,36 @@
+{
+  "status": "RECORDED_COMPLETED_JOB_TIMINGS_NO_NEW_BENCHMARK",
+  "workers": 8,
+  "threads_per_worker": 1,
+  "groups": [
+    {
+      "kind": "trained",
+      "completed_jobs": 215,
+      "jobs_with_elapsed_metadata": 110,
+      "untimed_descriptive_jobs": 105,
+      "recorded_job_wall_seconds_sum": 2272.1089999999385,
+      "recorded_job_wall_seconds_median": 22.70350000000326
+    },
+    {
+      "kind": "random",
+      "completed_jobs": 3582,
+      "jobs_with_elapsed_metadata": 3582,
+      "untimed_descriptive_jobs": 0,
+      "recorded_job_wall_seconds_sum": 38524.976999997976,
+      "recorded_job_wall_seconds_median": 11.25
+    },
+    {
+      "kind": "rotation",
+      "completed_jobs": 162,
+      "jobs_with_elapsed_metadata": 162,
+      "untimed_descriptive_jobs": 0,
+      "recorded_job_wall_seconds_sum": 1770.2929999988992,
+      "recorded_job_wall_seconds_median": 11.577999999921303
+    }
+  ],
+  "completed_D_baseline_recorded_wall_seconds_sum": 8328.015999999829,
+  "current_CPU_watcher_elapsed_seconds": 39472.32799999998,
+  "watcher_elapsed_includes_GPU_waiting": true,
+  "unit_elapsed_scope": "Timer begins after readout/D packing and scalar scaling; includes linear D-only augmented CV, fixed-parameter strong scalar refit, T/NEW inference, 2000 bootstrap, native signflip and group-output IO. Reference signflip is disabled; final COMPLETE receipt writing is outside the timer.",
+  "limitation": "Sums are recorded per-job wall durations, not process CPU-time counters. Untimed descriptive jobs and discarded pre-pause partial fits are not silently assigned zero cost."
+}

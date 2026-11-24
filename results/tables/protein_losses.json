@@ -1,0 +1,50 @@
+[
+  {
+    "model": "8m",
+    "primary_block": "3",
+    "axis": "801",
+    "sequence_mae": "0.14301555679843225",
+    "augmented_mae": "0.14297071349263948",
+    "sequence_brier": "0.24329298672415603",
+    "augmented_brier": "0.24579616427365283",
+    "pair_correct": "532",
+    "b17_axis": "",
+    "b17_sequence_mae": "",
+    "b17_augmented_mae": "",
+    "b17_sequence_brier": "",
+    "b17_augmented_brier": "",
+    "b17_pair_correct": ""
+  },
+  {
+    "model": "35m",
+    "primary_block": "6",
+    "axis": "814",
+    "sequence_mae": "0.14301555679843225",
+    "augmented_mae": "0.14187351629632083",
+    "sequence_brier": "0.24329298672415603",
+    "augmented_brier": "0.21523011720652754",
+    "pair_correct": "632",
+    "b17_axis": "",
+    "b17_sequence_mae": "",
+    "b17_augmented_mae": "",
+    "b17_sequence_brier": "",
+    "b17_augmented_brier": "",
+    "b17_pair_correct": ""
+  },
+  {
+    "model": "650m",
+    "primary_block": "16",
+    "axis": "4566",
+    "sequence_mae": "0.14301555679843225",
+    "augmented_mae": "0.14304414061023707",
+    "sequence_brier": "0.243292986724156",
+    "augmented_brier": "0.22723704056862273",
+    "pair_correct": "614",
+    "b17_axis": "4361",
+    "b17_sequence_mae": "0.14301555679843225",
+    "b17_augmented_mae": "0.14322432540786095",
+    "b17_sequence_brier": "0.243292986724156",
+    "b17_augmented_brier": "0.24113891396645903",
+    "b17_pair_correct": "549"
+  }
+]

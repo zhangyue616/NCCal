@@ -1,0 +1,9 @@
+# Reconstruction and native writeback of protein units
+
+Native post-GELU activations of neurons 814, 801 and 4566 are predicted by development-fitted group-equal ridge models. Features are the archived sequence window plus measured same-chain C-beta contacts (C-alpha for glycine), excluding sequence separation 0 to 2. Contact counts separate sequence gaps 3 to 23 from at least 24, radii at most 6 angstrom from greater than 6 to 8, and twenty amino-acid identities, transformed by log(1+count). RSA, secondary-structure labels and model outputs are excluded as predictors.
+
+Penalties 0.1, 0.01, 0.001, 0.0001 and 0.00001 are selected by four-fold development group-balanced MSE, with the stronger penalty breaking ties. Intercepts are unpenalized. Sequence, sequence plus short-range contacts and sequence plus all specified contacts are fitted independently. Group-equal R2 uses group-equal total variance and is recomputed in each of 2000 shared group bootstrap draws.
+
+For masked-context writeback, the source residue stays visible and its immediate C-terminal neighbour is masked. Masked-context activations and predictors are refitted rather than substituting an unmasked cache. The 967 pairs provide 1934 inputs. Replace only the selected source unit; compare the masked neighbour's twenty-amino-acid distribution by Jensen-Shannon divergence in nats. Equal-dose exchange swaps the pair's prediction-minus-observation displacements around native activations. Reconstruction improvement alone does not establish improved writeback. The two additional neurons use one six-comparison family with 99.1667 percent intervals; all four additional writeback intervals span zero.
+
+The original source byte digests, file sizes, preserved freeze timestamps and the corresponding English protocol are listed in frozen_records.json. Date stamps identify freezes; they do not denote separate reproduction outputs.

@@ -1,0 +1,369 @@
+{
+  "absolute": [
+    {
+      "panel": "A",
+      "model": "chemberta_mtr",
+      "task": "bace",
+      "scope": "selected/joint",
+      "condition": "local_graph",
+      "point": 0.010603818426051405
+    },
+    {
+      "panel": "A",
+      "model": "chemberta_mtr",
+      "task": "bace",
+      "scope": "selected/joint",
+      "condition": "development_mean",
+      "point": 0.04568217429621906
+    },
+    {
+      "panel": "A",
+      "model": "chemberta_mtr",
+      "task": "bace",
+      "scope": "selected/joint",
+      "condition": "binary_mean",
+      "point": 0.0401648156639851
+    },
+    {
+      "panel": "A",
+      "model": "chemberta_mtr",
+      "task": "bace",
+      "scope": "selected/joint",
+      "condition": "residual_permutation",
+      "point": 0.013103552461278738
+    },
+    {
+      "panel": "B",
+      "model": "molformer",
+      "task": "bace",
+      "scope": "selected/joint",
+      "condition": "local_graph",
+      "point": 0.009849610484018346
+    },
+    {
+      "panel": "B",
+      "model": "molformer",
+      "task": "bace",
+      "scope": "selected/joint",
+      "condition": "development_mean",
+      "point": 0.0201315357394141
+    },
+    {
+      "panel": "B",
+      "model": "molformer",
+      "task": "bace",
+      "scope": "selected/joint",
+      "condition": "binary_mean",
+      "point": 0.01602229529270972
+    },
+    {
+      "panel": "B",
+      "model": "molformer",
+      "task": "bace",
+      "scope": "selected/joint",
+      "condition": "residual_permutation",
+      "point": 0.010993866078578437
+    },
+    {
+      "panel": "C",
+      "model": "chemberta_mtr",
+      "task": "esol",
+      "scope": "selected/joint",
+      "condition": "local_graph",
+      "point": 0.02679493743416284
+    },
+    {
+      "panel": "C",
+      "model": "chemberta_mtr",
+      "task": "esol",
+      "scope": "selected/joint",
+      "condition": "development_mean",
+      "point": 0.07738218345768796
+    },
+    {
+      "panel": "C",
+      "model": "chemberta_mtr",
+      "task": "esol",
+      "scope": "selected/joint",
+      "condition": "binary_mean",
+      "point": 0.0329801906900323
+    },
+    {
+      "panel": "C",
+      "model": "chemberta_mtr",
+      "task": "esol",
+      "scope": "selected/joint",
+      "condition": "residual_permutation",
+      "point": 0.0328071894898388
+    },
+    {
+      "panel": "D",
+      "model": "molformer",
+      "task": "esol",
+      "scope": "selected/joint",
+      "condition": "local_graph",
+      "point": 0.06033659105432589
+    },
+    {
+      "panel": "D",
+      "model": "molformer",
+      "task": "esol",
+      "scope": "selected/joint",
+      "condition": "development_mean",
+      "point": 0.13642777692980157
+    },
+    {
+      "panel": "D",
+      "model": "molformer",
+      "task": "esol",
+      "scope": "selected/joint",
+      "condition": "binary_mean",
+      "point": 0.09223029796364914
+    },
+    {
+      "panel": "D",
+      "model": "molformer",
+      "task": "esol",
+      "scope": "selected/joint",
+      "condition": "residual_permutation",
+      "point": 0.06598370667130418
+    }
+  ],
+  "paired": [
+    {
+      "panel": "A",
+      "model": "chemberta_mtr",
+      "task": "bace",
+      "scope": "selected/joint",
+      "reference": "development_mean",
+      "point": 0.03507835587016766,
+      "CI95": [
+        0.02937736289638415,
+        0.040791683163166094
+      ],
+      "Holm12_p": 0.005997001499250375,
+      "p_color": "black"
+    },
+    {
+      "panel": "A",
+      "model": "chemberta_mtr",
+      "task": "bace",
+      "scope": "selected/joint",
+      "reference": "binary_mean",
+      "point": 0.029560997237933696,
+      "CI95": [
+        0.02144260506378601,
+        0.03847366552025953
+      ],
+      "Holm12_p": 0.005997001499250375,
+      "p_color": "black"
+    },
+    {
+      "panel": "A",
+      "model": "chemberta_mtr",
+      "task": "bace",
+      "scope": "selected/joint",
+      "reference": "residual_permutation",
+      "point": 0.002499734035227335,
+      "CI95": [
+        0.0012261242039609812,
+        0.0038009606377180354
+      ],
+      "Holm12_p": 0.005997001499250375,
+      "p_color": "black"
+    },
+    {
+      "panel": "B",
+      "model": "molformer",
+      "task": "bace",
+      "scope": "selected/joint",
+      "reference": "development_mean",
+      "point": 0.010281925255395752,
+      "CI95": [
+        0.007772103395379578,
+        0.012628442796974865
+      ],
+      "Holm12_p": 0.005997001499250375,
+      "p_color": "black"
+    },
+    {
+      "panel": "B",
+      "model": "molformer",
+      "task": "bace",
+      "scope": "selected/joint",
+      "reference": "binary_mean",
+      "point": 0.006172684808691373,
+      "CI95": [
+        0.0043651582508532115,
+        0.007996825478754686
+      ],
+      "Holm12_p": 0.005997001499250375,
+      "p_color": "black"
+    },
+    {
+      "panel": "B",
+      "model": "molformer",
+      "task": "bace",
+      "scope": "selected/joint",
+      "reference": "residual_permutation",
+      "point": 0.0011442555945600913,
+      "CI95": [
+        4.3478436252676724e-05,
+        0.0021716191955017295
+      ],
+      "Holm12_p": 0.06196901549225387,
+      "p_color": "black"
+    },
+    {
+      "panel": "C",
+      "model": "chemberta_mtr",
+      "task": "esol",
+      "scope": "selected/joint",
+      "reference": "development_mean",
+      "point": 0.05058724602352513,
+      "CI95": [
+        0.04237687610679715,
+        0.0639063318227895
+      ],
+      "Holm12_p": 0.005997001499250375,
+      "p_color": "black"
+    },
+    {
+      "panel": "C",
+      "model": "chemberta_mtr",
+      "task": "esol",
+      "scope": "selected/joint",
+      "reference": "binary_mean",
+      "point": 0.006185253255869464,
+      "CI95": [
+        0.002599350975799521,
+        0.011760628637213858
+      ],
+      "Holm12_p": 0.05547226386806597,
+      "p_color": "black"
+    },
+    {
+      "panel": "C",
+      "model": "chemberta_mtr",
+      "task": "esol",
+      "scope": "selected/joint",
+      "reference": "residual_permutation",
+      "point": 0.0060122520556759665,
+      "CI95": [
+        0.003954370688783468,
+        0.009044556863558683
+      ],
+      "Holm12_p": 0.005997001499250375,
+      "p_color": "black"
+    },
+    {
+      "panel": "D",
+      "model": "molformer",
+      "task": "esol",
+      "scope": "selected/joint",
+      "reference": "development_mean",
+      "point": 0.07609118587547568,
+      "CI95": [
+        0.05625078282809546,
+        0.09162757112034983
+      ],
+      "Holm12_p": 0.005997001499250375,
+      "p_color": "black"
+    },
+    {
+      "panel": "D",
+      "model": "molformer",
+      "task": "esol",
+      "scope": "selected/joint",
+      "reference": "binary_mean",
+      "point": 0.031893706909323236,
+      "CI95": [
+        0.01896083563503363,
+        0.04235787606413169
+      ],
+      "Holm12_p": 0.005997001499250375,
+      "p_color": "black"
+    },
+    {
+      "panel": "D",
+      "model": "molformer",
+      "task": "esol",
+      "scope": "selected/joint",
+      "reference": "residual_permutation",
+      "point": 0.0056471156169782865,
+      "CI95": [
+        -0.0006831826564412906,
+        0.01520600651746313
+      ],
+      "Holm12_p": 0.18040979510244878,
+      "p_color": "black"
+    }
+  ],
+  "panel_map": [
+    {
+      "panel": "A",
+      "model": "chemberta_mtr",
+      "task": "bace",
+      "left_xlim": [
+        0.0,
+        0.05116403521176535
+      ],
+      "right_xlim": [
+        -0.0048950019795799314,
+        0.04568668514274603
+      ]
+    },
+    {
+      "panel": "B",
+      "model": "molformer",
+      "task": "bace",
+      "left_xlim": [
+        0.0,
+        0.05116403521176535
+      ],
+      "right_xlim": [
+        -0.0048950019795799314,
+        0.04568668514274603
+      ]
+    },
+    {
+      "panel": "C",
+      "model": "chemberta_mtr",
+      "task": "esol",
+      "left_xlim": [
+        0.0,
+        0.15279911016137776
+      ],
+      "right_xlim": [
+        -0.011760473109656226,
+        0.10270486157356476
+      ]
+    },
+    {
+      "panel": "D",
+      "model": "molformer",
+      "task": "esol",
+      "left_xlim": [
+        0.0,
+        0.15279911016137776
+      ],
+      "right_xlim": [
+        -0.011760473109656226,
+        0.10270486157356476
+      ]
+    }
+  ],
+  "source": {
+    "summary": "source archived outside the distribution",
+    "summary_sha256": "1a11fce258b0e167671968f548ac011ab939d4066565edf2c968febd9a14da8e",
+    "aggregate_receipt": "source archived outside the distribution",
+    "source_result_bindings": {
+      "chemberta_mtr/bace": "a1809a4b4d8ee8d808a06050600438d05ad7c9675b77cd4da3a6b7b87ed3ea2f",
+      "chemberta_mtr/esol": "96c2d54056b3aa0e54682b017e892422902f08220d21e56e7d03bf5674058e8f",
+      "molformer/bace": "673aadff6a021699cfd54d1e34a9f2b70a69d55cf3ed616694d66a6bee83eb79",
+      "molformer/esol": "3de699d90324210a33eef0292d86e0d68db5aeaf6bbbd8d6100d5a0ddd2bfa9d"
+    }
+  },
+  "statistics_recomputed": false,
+  "absolute_mean_CIs": "NOT_AVAILABLE_NOT_ADDED"
+}

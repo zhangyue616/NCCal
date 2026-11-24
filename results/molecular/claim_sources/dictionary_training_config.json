@@ -1,0 +1,15 @@
+{
+  "width": 928,
+  "k": 16,
+  "learning_rate": 0.001,
+  "batch_size": 2048,
+  "validation_batch_size": 8192,
+  "max_epochs": 40,
+  "min_epochs": 10,
+  "patience_epochs": 5,
+  "relative_min_improvement": 0.001,
+  "replica": 0,
+  "cpu_threads": 4,
+  "max_fit_wall_seconds": 1800.0,
+  "precision": "strict_fp32"
+}

@@ -1,0 +1,57 @@
+{
+  "utc": "2026-11-23T05:49:35.684595+00:00",
+  "input_path": "structural_readout_validation/older_pool/chains.jsonl",
+  "input_chains": 19,
+  "input_sequences": 19,
+  "input_groups": 19,
+  "sheets_audited": 80,
+  "eligible_sheets": 25,
+  "pairs": 38,
+  "groups": 19,
+  "counts_by_split": {
+    "D": {
+      "pairs": 29,
+      "groups": 12,
+      "chains": 12,
+      "sheet_ge4_pairs": 29,
+      "confound_matched_pairs": 1
+    },
+    "H": {
+      "pairs": 9,
+      "groups": 7,
+      "chains": 7,
+      "sheet_ge4_pairs": 7,
+      "confound_matched_pairs": 2
+    }
+  },
+  "sources": {
+    "structural_readout_validation/older_pool/sources/mmcif/3khq.cif.gz": "3fb7354928dc248347e44e4af06e9a4579576b9a3b2a12f182a925726c422a78",
+    "structural_readout_validation/older_pool/sources/mmcif/3m7f.cif.gz": "fd911d19e8b5415861a38bd45f43b811cfccb8b9a55257dc778bf31bdc29f623",
+    "structural_readout_validation/older_pool/sources/mmcif/3mmy.cif.gz": "116a2728614883d56d4db89a7b633490cb052cd767d0e250c118828fb55d731e",
+    "structural_readout_validation/older_pool/sources/mmcif/4ewd.cif.gz": "391c56ddd60336a435149fef9b9e0c43632b7445b91d0b3d9725363b667be020",
+    "structural_readout_validation/older_pool/sources/mmcif/4ruh.cif.gz": "245312d5145db5c5b14c00227216f580f1fc0b96a80aa0bbabd8b649a98eb57c",
+    "nccal_evidence_extension/cohort/public_sources/mmcif/5iu0.cif.gz": "a14f486800cb4eff8e71e8e75f4f5a1370f819a212b56b02bbd0a9978590a218",
+    "structural_readout_validation/older_pool/sources/mmcif/5le5.cif.gz": "796a5168d7224ee38de92c086d30febe2a3b718c3c4bf4a241cbb55a76a71137",
+    "structural_readout_validation/older_pool/sources/mmcif/5vbn.cif.gz": "b05cf2b7d61674b0288227120320c60ac64e74e927007aecb8bb093254d98176",
+    "structural_readout_validation/older_pool/sources/mmcif/6bxi.cif.gz": "ca412a3a68c1b9b3f6b931dfb532012b578a0b36b4d537e99117c22d762dcf87",
+    "structural_readout_validation/older_pool/sources/mmcif/6n9g.cif.gz": "f2fe8ea97a092a2f863a0c70cfe6b86324a156c80e0858f94f9ee2d45f2cbaf1",
+    "structural_readout_validation/older_pool/sources/mmcif/6v06.cif.gz": "b980c290a24e456e7cc68ccc364810b3d23c1d14caa8e6d2a28aca5a6f22e1ca",
+    "structural_readout_validation/older_pool/sources/mmcif/7aq1.cif.gz": "b865d0910ab5aab45852d4cd23c8e268904865691cd3d7d37541b97ca8599cc3",
+    "structural_readout_validation/older_pool/sources/mmcif/7fgm.cif.gz": "f09f2ca4339dbc25c6c5ca2a7a85d6dc089129cc10c7b882000488180cd31c2f",
+    "structural_readout_validation/older_pool/sources/mmcif/7rrl.cif.gz": "25091d05a90a80f5fcd04eb920433d9e09d79b5125f5dab55e1a20b015d324dd",
+    "structural_readout_validation/older_pool/sources/mmcif/7x79.cif.gz": "ad9a0bc5f5812b2474bea820b904b5984600c97d6b82c5a2476a1fd68caacd46",
+    "structural_readout_validation/older_pool/sources/mmcif/7yv4.cif.gz": "bb0c0361ff7ce9519ed06f5622ecc5fafc405328ef587377eb505eda97e52de6",
+    "structural_readout_validation/older_pool/sources/mmcif/8bju.cif.gz": "84601adbd5e9c12f7532a63a0e46435b35e21c5633d57d2922aa6e39585fc062",
+    "structural_readout_validation/older_pool/sources/mmcif/8x2o.cif.gz": "dd500cfa84fe7c03cd274b2836d17d8d6c3f3bb846ddf3b39c4b6e5acbad5cbf",
+    "structural_readout_validation/older_pool/sources/mmcif/9fcr.cif.gz": "afb4ec4a55759350cbbee22aaacd2dea41ff0e0de5173b8f875203be940702a0"
+  },
+  "limit": 1800,
+  "physical_candidates": 72,
+  "after_rcsb30_block": 56,
+  "after_full_native_prior_F": 19,
+  "prior_F_input_hashes": {
+    "structural_readout_validation/fresh/chains.jsonl": "3d55693fb8c0de148625712b14349091acde1c5a88eab8ecc426d88c9f668464",
+    "structural_readout_validation/fresh/prior_native_sequences.jsonl": "74c99903832067a125853d7cb3eb9897058b02768f584a9373aed3fdb9a8fa9a"
+  },
+  "model_scores_read": false
+}

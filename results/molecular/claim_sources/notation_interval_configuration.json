@@ -1,0 +1,5 @@
+{
+  "lower_quantile": 0.025,
+  "upper_quantile": 0.975,
+  "method": "linear"
+}

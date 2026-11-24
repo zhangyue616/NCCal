@@ -1,0 +1,82 @@
+{
+  "cid_identity": {
+    "H4-D": {
+      "unique_identities": 1,
+      "left_rows": 1,
+      "right_rows": 1
+    },
+    "H4-T": {
+      "unique_identities": 1,
+      "left_rows": 1,
+      "right_rows": 1
+    },
+    "D-T": {
+      "unique_identities": 0,
+      "left_rows": 0,
+      "right_rows": 0
+    },
+    "H4-D-T": {
+      "unique_identities": 0
+    }
+  },
+  "canonical_isomeric_smiles": {
+    "H4-D": {
+      "unique_identities": 3,
+      "left_rows": 3,
+      "right_rows": 3
+    },
+    "H4-T": {
+      "unique_identities": 7,
+      "left_rows": 7,
+      "right_rows": 7
+    },
+    "D-T": {
+      "unique_identities": 0,
+      "left_rows": 0,
+      "right_rows": 0
+    },
+    "H4-D-T": {
+      "unique_identities": 0
+    }
+  },
+  "canonical_nonisomeric_smiles": {
+    "H4-D": {
+      "unique_identities": 3,
+      "left_rows": 3,
+      "right_rows": 3
+    },
+    "H4-T": {
+      "unique_identities": 8,
+      "left_rows": 8,
+      "right_rows": 8
+    },
+    "D-T": {
+      "unique_identities": 1,
+      "left_rows": 1,
+      "right_rows": 1
+    },
+    "H4-D-T": {
+      "unique_identities": 0
+    }
+  },
+  "murcko_scaffold_smiles": {
+    "H4-D": {
+      "unique_identities": 467,
+      "left_rows": 2493,
+      "right_rows": 1414
+    },
+    "H4-T": {
+      "unique_identities": 675,
+      "left_rows": 2824,
+      "right_rows": 2789
+    },
+    "D-T": {
+      "unique_identities": 455,
+      "left_rows": 1392,
+      "right_rows": 2399
+    },
+    "H4-D-T": {
+      "unique_identities": 280
+    }
+  }
+}

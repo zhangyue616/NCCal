@@ -1,0 +1,1737 @@
+split	group	accession	status	source_candidate_PDBs	group_selected_accession
+D	old-union-000001	A0A0C9S461	selected_group_accession	7scs	A0A0C9S461
+D	old-union-000002	C0HK20	selected_group_accession	9c4i	C0HK20
+D	old-union-000006	P03944	attempted_not_selected	7ext	
+D	old-union-000007	O28478	selected_group_accession	1vim	O28478
+D	old-union-000007	O53604	not_attempted_after_group_selection	7yk3	O28478
+D	old-union-000007	O67082	not_attempted_after_group_selection	2nug	O28478
+D	old-union-000007	P03733	not_attempted_after_group_selection	7t2e,7t4f	O28478
+D	old-union-000007	P08854	not_attempted_after_group_selection	1gut,1gug	O28478
+D	old-union-000007	P24592	not_attempted_after_group_selection	1rmj,2jm2	O28478
+D	old-union-000007	P27862	not_attempted_after_group_selection	1vi7	O28478
+D	old-union-000007	P54491	not_attempted_after_group_selection	1ydm	O28478
+D	old-union-000007	Q59014	not_attempted_after_group_selection	2ej9	O28478
+D	old-union-000007	Q84BQ9	not_attempted_after_group_selection	2nxc	O28478
+D	old-union-000007	Q8YMJ2	not_attempted_after_group_selection	8qx5	O28478
+D	old-union-000018	A0A0A7HF73	selected_group_accession	6fjw	A0A0A7HF73
+D	old-union-000049	O30641	selected_group_accession	3ezx	O30641
+D	old-union-000050	O58403	selected_group_accession	1jfl	O58403
+D	old-union-000053	P0C0I6	selected_group_accession	1et9	P0C0I6
+D	old-union-000058	P13001	selected_group_accession	1m33	P13001
+D	old-union-000072	P55083	attempted_not_selected	7zmk	
+D	old-union-000098	A3MU87	selected_group_accession	9e6q	A3MU87
+D	old-union-000102	A0A1D8PEV4	selected_group_accession	9g6j	A0A1D8PEV4
+D	old-union-000113	O55142	selected_group_accession	7cpu	O55142
+D	old-union-000136	P02406	selected_group_accession	8ccs	P02406
+D	old-union-000177	P9WFJ9	selected_group_accession	5zy8	P9WFJ9
+D	old-union-000182	A0A385DTA3	attempted_not_selected	7qoh	
+D	old-union-000189	I1T3C7	attempted_not_selected	2lr5	
+D	old-union-000216	A0A7H0DN46	selected_group_accession	9jvu	A0A7H0DN46
+D	old-union-000219	P08583	selected_group_accession	8ini	P08583
+D	old-union-000251	A0QS46	attempted_not_selected	8v9j	
+D	old-union-000256	A0QSD2	selected_group_accession	9b1y,8vki	A0QSD2
+D	old-union-000285	P05657	selected_group_accession	8s1p	P05657
+D	old-union-000287	A0R1B5	selected_group_accession	8ovd	A0R1B5
+D	old-union-000288	O33336	selected_group_accession	4u89,8qzh	O33336
+D	old-union-000293	A0R3D2	selected_group_accession	8fr8,8v9l	A0R3D2
+D	old-union-000296	B7IA26	selected_group_accession	7uvz	B7IA26
+D	old-union-000325	O25928	selected_group_accession	2gll	O25928
+D	old-union-000326	O31796	selected_group_accession	3ahu	O31796
+D	old-union-000345	A2IAD2	selected_group_accession	5k6d	A2IAD2
+D	old-union-000347	P0AD49	selected_group_accession	4y4o	P0AD49
+D	old-union-000362	P0A6N8	selected_group_accession	8s8u	P0A6N8
+D	old-union-000377	P04951	selected_group_accession	3k8d	P04951
+D	old-union-000379	A3MSJ3	selected_group_accession	9e6q	A3MSJ3
+D	old-union-000380	O31678	selected_group_accession	4fgc	O31678
+D	old-union-000389	A3MWY2	selected_group_accession	9e71	A3MWY2
+D	old-union-000392	K4ZRC1	selected_group_accession	6fpc	K4ZRC1
+D	old-union-000399	A4ISU9	selected_group_accession	5dmb	A4ISU9
+D	old-union-000401	O50083	selected_group_accession	1lk5	O50083
+D	old-union-000415	O35031	selected_group_accession	3br8	O35031
+D	old-union-000416	A5F9C1	selected_group_accession	4l7v	A5F9C1
+D	old-union-000452	A6T7U7	selected_group_accession	7vi8	A6T7U7
+D	old-union-000468	A7UNK4	selected_group_accession	4nds	A7UNK4
+D	old-union-000477	A8C927	selected_group_accession	3p2e,3mte	A8C927
+D	old-union-000508	O29333	selected_group_accession	4muz	O29333
+D	old-union-000522	P53178	attempted_not_selected	2jzc,2ks6	
+D	old-union-000559	B6V311	selected_group_accession	8smf,8sme	B6V311
+D	old-union-000569	B8J3A4	selected_group_accession	4un1	B8J3A4
+D	old-union-000616	C5DSD6	selected_group_accession	3x37	C5DSD6
+D	old-union-000625	C6Y4C6	attempted_not_selected	8fw5	
+D	old-union-000630	C7UDU4	selected_group_accession	3s5u	C7UDU4
+D	old-union-000648	D2CVN7	selected_group_accession	5dof	D2CVN7
+D	old-union-000709	E1QU22	selected_group_accession	5apg	E1QU22
+D	old-union-000712	E2GIN1	selected_group_accession	6lnh	E2GIN1
+D	old-union-000713	E2JKI3	selected_group_accession	3odh	E2JKI3
+D	old-union-000720	E3PJ88	attempted_not_selected	5zdh	
+D	old-union-000770	F9UST0	selected_group_accession	8std	F9UST0
+D	old-union-000771	F9UT68	selected_group_accession	8p4w	F9UT68
+D	old-union-000789	G2TRJ4	attempted_not_selected	8fw5	
+D	old-union-000790	G2TRN4	selected_group_accession	6s2w	G2TRN4
+D	old-union-000798	G4MQL4	selected_group_accession	8xgl	G4MQL4
+D	old-union-000801	G5EC68	attempted_not_selected	5ix5	
+D	old-union-000802	G5ED35	selected_group_accession	3uaf	G5ED35
+D	old-union-000808	P04873	selected_group_accession	4bgp	P04873
+D	old-union-000821	P0ADX9	selected_group_accession	2fpo	P0ADX9
+D	old-union-000823	I6Y1Q2	selected_group_accession	5zr6	I6Y1Q2
+D	old-union-000824	I6Y4D2	selected_group_accession	9cun	I6Y4D2
+D	old-union-000834	K5B7F3	selected_group_accession	6h40	K5B7F3
+D	old-union-000836	K7QVW7	selected_group_accession	5bu3	K7QVW7
+D	old-union-000847	M1MR49	selected_group_accession	4boe	M1MR49
+D	old-union-000874	O05515	selected_group_accession	5mvr	O05515
+D	old-union-000882	O53779	selected_group_accession	5x3t	O53779
+D	old-union-000884	O06739	selected_group_accession	1u83	O06739
+D	old-union-000885	O67122	attempted_not_selected	8gqy	
+D	old-union-000946	O24872	selected_group_accession	3qxc,3qxh	O24872
+D	old-union-000947	P0A8A0	selected_group_accession	1kon	P0A8A0
+D	old-union-000954	O67866	selected_group_accession	2ark	O67866
+D	old-union-000955	O25828	selected_group_accession	2uvp	O25828
+D	old-union-000963	O26347	selected_group_accession	1zps	O26347
+D	old-union-000964	O26638	attempted_not_selected	1eiw	
+D	old-union-000970	O26898	attempted_not_selected	1nho	
+D	old-union-000974	O27099	selected_group_accession	2ntk	O27099
+D	old-union-000976	O27255	selected_group_accession	1lxn	O27255
+D	old-union-000988	O57811	selected_group_accession	1g8a	O57811
+D	old-union-000992	O28415	selected_group_accession	6vjg	O28415
+D	old-union-000994	O28440	selected_group_accession	2dc1	O28440
+D	old-union-001011	O29664	selected_group_accession	1o4w	O29664
+D	old-union-001013	P61818	selected_group_accession	3dfz	P61818
+D	old-union-001018	O66440	selected_group_accession	2egz	O66440
+D	old-union-001023	O30273	selected_group_accession	1ytl	O30273
+D	old-union-001026	O30881	selected_group_accession	4eic	O30881
+D	old-union-001027	O30917	attempted_not_selected	1k3s	
+D	old-union-001030	O31408	selected_group_accession	1b4a	O31408
+D	old-union-001033	O31524	selected_group_accession	1oq1	O31524
+D	old-union-001034	O31533	selected_group_accession	3c6f	O31533
+D	old-union-001039	O31597	selected_group_accession	8b3s	O31597
+D	old-union-001050	O31677	selected_group_accession	5th5	O31677
+D	old-union-001060	O31858	selected_group_accession	1njh	O31858
+D	old-union-001069	O32085	selected_group_accession	4qm9	O32085
+D	old-union-001071	O32108	selected_group_accession	4wjt	O32108
+D	old-union-001079	O32727	selected_group_accession	1th8	O32727
+D	old-union-001083	O33731	attempted_not_selected	2k3v	
+D	old-union-001111	P0DX96	selected_group_accession	6bws	P0DX96
+D	old-union-001112	O34911	selected_group_accession	1s99	O34911
+D	old-union-001114	O34960	selected_group_accession	4ygt	O34960
+D	old-union-001170	P0A731	selected_group_accession	1b93	P0A731
+D	old-union-001171	O52380	selected_group_accession	7c8z	O52380
+D	old-union-001177	O53509	attempted_not_selected	2kfs	
+D	old-union-001188	O58022	selected_group_accession	2dr3	O58022
+D	old-union-001189	O58088	selected_group_accession	3qjl	O58088
+D	old-union-001202	O59475	selected_group_accession	2ekn	O59475
+D	old-union-001224	P0AGL7	selected_group_accession	4e8b	P0AGL7
+D	old-union-001238	O67466	selected_group_accession	2egj	O67466
+D	old-union-001250	O68196	selected_group_accession	2d0o	O68196
+D	old-union-001266	P00423	selected_group_accession	7coh,8gbt	P00423
+D	old-union-001280	O75629	selected_group_accession	1xhn	O75629
+D	old-union-001281	O75817	selected_group_accession	6cwx	O75817
+D	old-union-001291	P00405	attempted_not_selected	7o37	
+D	old-union-001302	O85094	selected_group_accession	1o9y	O85094
+D	old-union-001306	O87896	selected_group_accession	2hy5	O87896
+D	old-union-001310	O94276	attempted_not_selected	2luy	
+D	old-union-001342	P00094	selected_group_accession	1vyd,1c2n	P00094
+D	old-union-001347	P00166	selected_group_accession	9es7	P00166
+D	old-union-001347	P05725	not_attempted_after_group_selection	1t9i	P00166
+D	old-union-001349	P00210	selected_group_accession	1fxr	P00210
+D	old-union-001360	P05798	selected_group_accession	1lni	P05798
+D	old-union-001363	P00720	selected_group_accession	2o7a,8a5x	P00720
+D	old-union-001407	P02309	attempted_not_selected	1szd,7z0o	
+D	old-union-001411	P02607	attempted_not_selected	7mf3	
+D	old-union-001429	P03000	selected_group_accession	1tig	P03000
+D	old-union-001438	P06463	selected_group_accession	6sjv	P06463
+D	old-union-001447	P03252	selected_group_accession	4ekf	P03252
+D	old-union-001460	P03606	selected_group_accession	4v4m	P03606
+D	old-union-001465	P03630	selected_group_accession	2qud	P03630
+D	old-union-001473	P03696	selected_group_accession	1je5	P03696
+D	old-union-001484	P03718	attempted_not_selected	2jub	
+D	old-union-001493	P03765	selected_group_accession	1pc6	P03765
+D	old-union-001507	P04303	selected_group_accession	5jx8,2owq	P04303
+D	old-union-001510	P04351	selected_group_accession	4yue	P04351
+D	old-union-001515	P04482	selected_group_accession	3u43,2wpt	P04482
+D	old-union-001519	P04527	selected_group_accession	8uh7,8unh	P04527
+D	old-union-001521	P04536	selected_group_accession	8ken	P04536
+D	old-union-001530	P04871	selected_group_accession	2wux	P04871
+D	old-union-001543	P05100	attempted_not_selected	1lmz	
+D	old-union-001556	P06018	selected_group_accession	8bv8	P06018
+D	old-union-001562	P06226	selected_group_accession	8xa7	P06226
+D	old-union-001575	P07059	selected_group_accession	2wsh	P07059
+D	old-union-001577	P07111	selected_group_accession	2xg5	P07111
+D	old-union-001578	P07166	selected_group_accession	2rh3	P07166
+D	old-union-001590	P07695	attempted_not_selected	4lhf	
+D	old-union-001593	P07964	selected_group_accession	9qr1	P07964
+D	old-union-001605	P08773	selected_group_accession	1b5e	P08773
+D	old-union-001612	P09279	attempted_not_selected	8x9x	
+D	old-union-001616	P09425	selected_group_accession	5iw9	P09425
+D	old-union-001622	P09919	selected_group_accession	5gw9	P09919
+D	old-union-001625	P0A7Y8	attempted_not_selected	7uo2	
+D	old-union-001631	P0A1I7	attempted_not_selected	7bin	
+D	old-union-001652	P0A401	attempted_not_selected	7fix	
+D	old-union-001655	P0A435	attempted_not_selected	1tvm	
+D	old-union-001659	P0A6G5	selected_group_accession	7dcn	P0A6G5
+D	old-union-001675	P0A7G2	attempted_not_selected	7bog	
+D	old-union-001678	P0A7K2	selected_group_accession	4v9o,1rqv	P0A7K2
+D	old-union-001688	P0A8J2	selected_group_accession	4ou6	P0A8J2
+D	old-union-001698	P0A8U6	selected_group_accession	1cmb	P0A8U6
+D	old-union-001704	P0A964	attempted_not_selected	2ho9	
+D	old-union-001711	P0ABE5	selected_group_accession	5oc0	P0ABE5
+D	old-union-001716	P0AAQ9	selected_group_accession	2okq	P0AAQ9
+D	old-union-001721	P0AAV4	selected_group_accession	5dud	P0AAV4
+D	old-union-001729	P0ABJ3	selected_group_accession	7n9z,6wti	P0ABJ3
+D	old-union-001741	P0ABY7	selected_group_accession	2avu	P0ABY7
+D	old-union-001743	P43777	selected_group_accession	1cbk	P43777
+D	old-union-001745	P0ACK5	selected_group_accession	7l6l	P0ACK5
+D	old-union-001760	P0ADX1	selected_group_accession	1ml8	P0ADX1
+D	old-union-001762	P0AE22	selected_group_accession	2b82	P0AE22
+D	old-union-001765	P0AE70	selected_group_accession	5cqx	P0AE70
+D	old-union-001767	P0AE98	attempted_not_selected	5m1u	
+D	old-union-001776	P0AEV9	selected_group_accession	2e85	P0AEV9
+D	old-union-001785	P0AFU8	selected_group_accession	1i8d	P0AFU8
+D	old-union-001792	P0AG86	selected_group_accession	1qyn	P0AG86
+D	old-union-001814	P0C5Z0	selected_group_accession	6a7u	P0C5Z0
+D	old-union-001833	P0CL19	selected_group_accession	3sgw	P0CL19
+D	old-union-001852	P0DOE7	selected_group_accession	2vqp	P0DOE7
+D	old-union-001854	P0DP92	selected_group_accession	6yb3	P0DP92
+D	old-union-001876	P26672	selected_group_accession	5ezu,4lqk	P26672
+D	old-union-001904	P10762	selected_group_accession	1aep	P10762
+D	old-union-001906	P10868	selected_group_accession	1xcj	P10868
+D	old-union-001907	P10929	selected_group_accession	1el6	P10929
+D	old-union-001931	P12770	attempted_not_selected	1t23,2khl	
+D	old-union-001934	P17493	selected_group_accession	1xrk	P17493
+D	old-union-001935	P13123	selected_group_accession	1xyi	P13123
+D	old-union-001940	P13276	attempted_not_selected	1eq1	
+D	old-union-001948	P13393	selected_group_accession	1ytb	P13393
+D	old-union-001949	P13402	selected_group_accession	7pil,2nrg	P13402
+D	old-union-001950	P13476	selected_group_accession	2fhz	P13476
+D	old-union-001952	P13689	selected_group_accession	1lr5	P13689
+D	old-union-001959	P13979	selected_group_accession	9e2v	P13979
+D	old-union-001960	P13984	selected_group_accession	1f3u	P13984
+D	old-union-001970	P14711	selected_group_accession	4wx3	P14711
+D	old-union-001994	P17782	selected_group_accession	6r7g	P17782
+D	old-union-001996	P16686	selected_group_accession	2fsu	P16686
+D	old-union-002003	P17122	selected_group_accession	6bzg	P17122
+D	old-union-002014	P18002	selected_group_accession	4aeq	P18002
+D	old-union-002015	P50049	selected_group_accession	1ear	P50049
+D	old-union-002020	P18958	selected_group_accession	1smp	P18958
+D	old-union-002037	P20114	attempted_not_selected	8iuf	
+D	old-union-002057	P22027	selected_group_accession	3e4g	P22027
+D	old-union-002058	P22262	selected_group_accession	6exm	P22262
+D	old-union-002061	P22524	selected_group_accession	3euh	P22524
+D	old-union-002070	P22915	selected_group_accession	1kaf,1bja	P22915
+D	old-union-002073	P23154	selected_group_accession	3tl1,3tvr	P23154
+D	old-union-002075	P23438	attempted_not_selected	8rjd	
+D	old-union-002078	P23627	attempted_not_selected	1laj	
+D	old-union-002084	P24003	attempted_not_selected	8alo	
+D	old-union-002096	P25397	selected_group_accession	2xvm	P25397
+D	old-union-002097	P25642	attempted_not_selected	3j6b	
+D	old-union-002114	P26602	selected_group_accession	1tt8	P26602
+D	old-union-002118	P26948	selected_group_accession	1p5u,4az8	P26948
+D	old-union-002120	P27344	attempted_not_selected	6wjv	
+D	old-union-002131	P28015	selected_group_accession	2ia9	P28015
+D	old-union-002140	P28905	selected_group_accession	3sxu	P28905
+D	old-union-002146	P29722	selected_group_accession	4u3q	P29722
+D	old-union-002154	P30176	attempted_not_selected	2b3w	
+D	old-union-002155	P30440	selected_group_accession	1zkr	P30440
+D	old-union-002156	P30569	attempted_not_selected	2kak	
+D	old-union-002164	P31340	selected_group_accession	3qr8	P31340
+D	old-union-002173	P32162	attempted_not_selected	2k3i	
+D	old-union-002181	P52657	selected_group_accession	1nvp	P52657
+D	old-union-002193	P54656	selected_group_accession	1kzf	P54656
+D	old-union-002201	P35256	selected_group_accession	4or8	P35256
+D	old-union-002206	P35804	selected_group_accession	7s5s	P35804
+D	old-union-002207	P35837	selected_group_accession	3c9i,4lin	P35837
+D	old-union-002235	P37574	selected_group_accession	5mq8	P37574
+D	old-union-002238	P37613	selected_group_accession	5ls7	P37613
+D	old-union-002239	P37719	selected_group_accession	3aj1,3aj2	P37719
+D	old-union-002246	P38208	attempted_not_selected	7c79,6w6v	
+D	old-union-002248	P38247	selected_group_accession	4ftx	P38247
+D	old-union-002259	P38751	attempted_not_selected	5xyn	
+D	old-union-002264	P38877	selected_group_accession	5msm	P38877
+D	old-union-002268	P38957	attempted_not_selected	5xyn	
+D	old-union-002273	P39274	selected_group_accession	5i0c	P39274
+D	old-union-002274	P39411	selected_group_accession	1u5w	P39411
+D	old-union-002276	P39543	selected_group_accession	6wb9	P39543
+D	old-union-002287	P39890	selected_group_accession	1tuw	P39890
+D	old-union-002300	P40165	selected_group_accession	1jzt	P40165
+D	old-union-002302	P40422	selected_group_accession	1twf,9g1v	P40422
+D	old-union-002304	P40465	selected_group_accession	3vu9	P40465
+D	old-union-002307	P40567	attempted_not_selected	9dtr	
+D	old-union-002320	P41734	selected_group_accession	3mil	P41734
+D	old-union-002321	P41786	selected_group_accession	4oyc,6uot	P41786
+D	old-union-002324	P43487	selected_group_accession	1k5d	P43487
+D	old-union-002327	P76459	selected_group_accession	5dbn	P76459
+D	old-union-002329	P42624	selected_group_accession	2vec	P42624
+D	old-union-002331	P42771	selected_group_accession	7ozt,1a5e	P42771
+D	old-union-002337	P42955	selected_group_accession	3njc	P42955
+D	old-union-002346	P43642	selected_group_accession	1d02	P43642
+D	old-union-002350	P43994	selected_group_accession	2hj1	P43994
+D	old-union-002353	P44199	attempted_not_selected	1nnv	
+D	old-union-002356	P44251	selected_group_accession	5gng	P44251
+D	old-union-002370	P46003	selected_group_accession	3kgk	P46003
+D	old-union-002372	P46122	attempted_not_selected	2jwy	
+D	old-union-002374	P46984	selected_group_accession	4wxa	P46984
+D	old-union-002376	P47006	selected_group_accession	4c2m,5n61	P47006
+D	old-union-002377	P47096	selected_group_accession	1zvf	P47096
+D	old-union-002395	P49771	selected_group_accession	7nbi	P49771
+D	old-union-002404	P50838	selected_group_accession	2nx2	P50838
+D	old-union-002410	P52007	selected_group_accession	1k4n	P52007
+D	old-union-002411	P52130	selected_group_accession	6y2p	P52130
+D	old-union-002412	P52141	selected_group_accession	2ea9	P52141
+D	old-union-002422	P53215	selected_group_accession	5xox	P53215
+D	old-union-002429	P53510	selected_group_accession	4b9g	P53510
+D	old-union-002442	P54328	selected_group_accession	3f3b	P54328
+D	old-union-002443	P54332	selected_group_accession	2guj	P54332
+D	old-union-002444	P54342	attempted_not_selected	2hg7	
+D	old-union-002452	P54962	selected_group_accession	4n7c	P54962
+D	old-union-002466	P56278	selected_group_accession	1a1x	P56278
+D	old-union-002478	P58154	selected_group_accession	7ndv	P58154
+D	old-union-002480	P58758	selected_group_accession	2ze6	P58758
+D	old-union-002483	P59285	selected_group_accession	2bdr	P59285
+D	old-union-002493	P61491	selected_group_accession	1srv	P61491
+D	old-union-002508	P64580	attempted_not_selected	5ycl	
+D	old-union-002514	P67080	selected_group_accession	3sy1	P67080
+D	old-union-002528	P68591	selected_group_accession	1v8d	P68591
+D	old-union-002531	P68623	selected_group_accession	7ytu	P68623
+D	old-union-002537	P68928	selected_group_accession	3zqo	P68928
+D	old-union-002550	P69829	selected_group_accession	1a6j	P69829
+D	old-union-002568	P75223	selected_group_accession	1zxj	P75223
+D	old-union-002571	P75677	attempted_not_selected	2hjj	
+D	old-union-002573	P75862	selected_group_accession	5e1l	P75862
+D	old-union-002575	P75914	selected_group_accession	1m65	P75914
+D	old-union-002580	P76038	selected_group_accession	6vtv	P76038
+D	old-union-002585	P76270	selected_group_accession	1vhm	P76270
+D	old-union-002586	P76318	selected_group_accession	6kbx	P76318
+D	old-union-002591	P76537	selected_group_accession	2qzb	P76537
+D	old-union-002594	P77072	selected_group_accession	5u7a	P77072
+D	old-union-002596	P77214	selected_group_accession	2qcp	P77214
+D	old-union-002601	P80183	selected_group_accession	8q3v	P80183
+D	old-union-002620	P81702	attempted_not_selected	2kqa	
+D	old-union-002656	P86179	selected_group_accession	2zx2	P86179
+D	old-union-002664	P89036	attempted_not_selected	4v99	
+D	old-union-002668	P95257	selected_group_accession	5mtw	P95257
+D	old-union-002670	P96717	selected_group_accession	3qy7	P96717
+D	old-union-002679	P9WIP7	selected_group_accession	4e1p,6qkp	P9WIP7
+D	old-union-002687	P9WJA5	selected_group_accession	7awk	P9WJA5
+D	old-union-002689	P9WJG3	selected_group_accession	4kbm	P9WJG3
+D	old-union-002691	P9WK15	selected_group_accession	1yk3	P9WK15
+D	old-union-002692	P9WK45	selected_group_accession	3mh9	P9WK45
+D	old-union-002693	P9WK61	selected_group_accession	7fds	P9WK61
+D	old-union-002694	P9WK81	selected_group_accession	2v7s	P9WK81
+D	old-union-002695	P9WKX3	selected_group_accession	5lfj,5lfp	P9WKX3
+D	old-union-002696	P9WLS3	selected_group_accession	4wsp	P9WLS3
+D	old-union-002699	P9WLS1	attempted_not_selected	7nhz	
+D	old-union-002700	P9WM67	selected_group_accession	2pfc	P9WM67
+D	old-union-002702	P9WP15	selected_group_accession	3r5l	P9WP15
+D	old-union-002704	P9WP57	attempted_not_selected	2mmu,9nm2	
+D	old-union-002705	P9WPV9	selected_group_accession	6con	P9WPV9
+D	old-union-002713	Q01083	selected_group_accession	3ca7	Q01083
+D	old-union-002723	Q02754	selected_group_accession	5kci	Q02754
+D	old-union-002726	Q02MM2	selected_group_accession	2xlk	Q02MM2
+D	old-union-002727	Q02UQ8	selected_group_accession	6k4f	Q02UQ8
+D	old-union-002729	Q03036	selected_group_accession	5cog	Q03036
+D	old-union-002731	Q03096	attempted_not_selected	2m9v	
+D	old-union-002734	Q03579	selected_group_accession	8zb1	Q03579
+D	old-union-002735	Q03629	selected_group_accession	1xe7	Q03629
+D	old-union-002753	Q05354	selected_group_accession	1otg	Q05354
+D	old-union-002754	Q05599	selected_group_accession	1c9k	Q05599
+D	old-union-002761	Q8U092	selected_group_accession	4aaj	Q8U092
+D	old-union-002763	Q06241	selected_group_accession	1r44	Q06241
+D	old-union-002774	Q07623	attempted_not_selected	2mzj	
+D	old-union-002778	Q07951	selected_group_accession	2z5b	Q07951
+D	old-union-002783	Q08465	attempted_not_selected	2jmi	
+D	old-union-002790	Q08788	attempted_not_selected	2k2q	
+D	old-union-002797	Q0C8A2	selected_group_accession	5wqi	Q0C8A2
+D	old-union-002800	Q0P9D1	selected_group_accession	3bfp,3bsw	Q0P9D1
+D	old-union-002806	Q0VGL1	selected_group_accession	6b9x	Q0VGL1
+D	old-union-002813	Q12035	attempted_not_selected	9g33	
+D	old-union-002814	Q12129	selected_group_accession	8rdd	Q12129
+D	old-union-002818	Q12314	selected_group_accession	5h5f	Q12314
+D	old-union-002819	Q12318	selected_group_accession	3vu9	Q12318
+D	old-union-002827	Q12517	selected_group_accession	1q67,6y3z	Q12517
+D	old-union-002828	Q12530	attempted_not_selected	7c79,7c7a	
+D	old-union-002852	Q16667	selected_group_accession	1fpz	Q16667
+D	old-union-002861	Q1EMV2	selected_group_accession	3kuv	Q1EMV2
+D	old-union-002864	Q20222	selected_group_accession	9dxi	Q20222
+D	old-union-002870	Q27084	selected_group_accession	1tl2	Q27084
+D	old-union-002873	Q2EES9	attempted_not_selected	1z4h	
+D	old-union-002877	Q2G178	selected_group_accession	8gup	Q2G178
+D	old-union-002879	Q2G1Q0	selected_group_accession	4big	Q2G1Q0
+D	old-union-002891	Q8DLN5	selected_group_accession	6khi	Q8DLN5
+D	old-union-002897	Q2YQA5	selected_group_accession	4qpk	Q2YQA5
+D	old-union-002909	Q39195	attempted_not_selected	7oui	
+D	old-union-002915	Q3E841	attempted_not_selected	2grg	
+D	old-union-002933	Q45498	selected_group_accession	2a8e	Q45498
+D	old-union-002938	Q46898	selected_group_accession	5h9f	Q46898
+D	old-union-002942	Q47152	selected_group_accession	4er8	Q47152
+D	old-union-002952	Q4K4F7	selected_group_accession	5vit	Q4K4F7
+D	old-union-002968	Q50LF1	selected_group_accession	1x31	Q50LF1
+D	old-union-002974	Q54450	selected_group_accession	1dk0	Q54450
+D	old-union-002976	Q55356	attempted_not_selected	2kvo	
+D	old-union-002977	Q55389	selected_group_accession	1dj7,2pvg	Q55389
+D	old-union-002980	Q56148	selected_group_accession	1qhx	Q56148
+D	old-union-002983	Q56A73	selected_group_accession	4uy4	Q56A73
+D	old-union-002984	Q56XB0	attempted_not_selected	7jn6	
+D	old-union-002992	Q57829	selected_group_accession	3s4l	Q57829
+D	old-union-002993	Q6L2J9	selected_group_accession	2i52	Q6L2J9
+D	old-union-002996	Q58034	selected_group_accession	5dni	Q58034
+D	old-union-002997	Q58102	selected_group_accession	3k32	Q58102
+D	old-union-003001	Q58499	selected_group_accession	4u9p	Q58499
+D	old-union-003003	Q58649	selected_group_accession	3wva	Q58649
+D	old-union-003006	Q58876	selected_group_accession	5x6b	Q58876
+D	old-union-003008	Q58952	selected_group_accession	3a27	Q58952
+D	old-union-003011	Q59028	selected_group_accession	8sbu	Q59028
+D	old-union-003012	Q59034	selected_group_accession	3aia	Q59034
+D	old-union-003015	Q5AR31	selected_group_accession	5x9k	Q5AR31
+D	old-union-003025	Q5JIY7	selected_group_accession	8jvc	Q5JIY7
+D	old-union-003027	Q5JS54	selected_group_accession	5wtq	Q5JS54
+D	old-union-003038	Q5SHU9	selected_group_accession	1vs3	Q5SHU9
+D	old-union-003039	Q5SHY0	selected_group_accession	5zvq	Q5SHY0
+D	old-union-003040	Q97E82	selected_group_accession	1vr0	Q97E82
+D	old-union-003042	Q5SKZ7	attempted_not_selected	3i9v	
+D	old-union-003071	Q5ZYB7	selected_group_accession	5x42	Q5ZYB7
+D	old-union-003072	Q5ZYD0	selected_group_accession	5x1e	Q5ZYD0
+D	old-union-003112	Q6CVZ8	selected_group_accession	7qhy	Q6CVZ8
+D	old-union-003118	Q8EBZ9	attempted_not_selected	2gzo	
+D	old-union-003125	Q6JAM6	selected_group_accession	2w2s	Q6JAM6
+D	old-union-003134	Q6NCZ4	selected_group_accession	3fov	Q6NCZ4
+D	old-union-003148	Q6P161	selected_group_accession	7qi4,8pk0	Q6P161
+D	old-union-003164	Q6QGD9	attempted_not_selected	9ilp	
+D	old-union-003167	Q6QGP7	attempted_not_selected	2mxz	
+D	old-union-003176	Q6T1W8	selected_group_accession	2pa7	Q6T1W8
+D	old-union-003179	Q6TM72	selected_group_accession	5yhr	Q6TM72
+D	old-union-003198	Q70LC3	selected_group_accession	2wb6	Q70LC3
+D	old-union-003200	Q70LE6	selected_group_accession	3ii2	Q70LE6
+D	old-union-003213	Q797E6	selected_group_accession	2oc6	Q797E6
+D	old-union-003228	Q7M4T6	selected_group_accession	1v5i	Q7M4T6
+D	old-union-003249	Q7Y5D9	attempted_not_selected	7qg9	
+D	old-union-003260	Q7Z7F7	selected_group_accession	7qi4,5ool	Q7Z7F7
+D	old-union-003276	Q81SV3	selected_group_accession	3do9	Q81SV3
+D	old-union-003279	Q84459	attempted_not_selected	6ncl	
+D	old-union-003281	Q84580	attempted_not_selected	6ncl	
+D	old-union-003283	Q84666	attempted_not_selected	6ncl	
+D	old-union-003293	Q86993	selected_group_accession	1stm	Q86993
+D	old-union-003341	Q8CWB9	selected_group_accession	3qs2	Q8CWB9
+D	old-union-003342	Q8DI91	selected_group_accession	3bdr	Q8DI91
+D	old-union-003382	Q8K2Y7	selected_group_accession	9hcf	Q8K2Y7
+D	old-union-003425	Q8NB37	selected_group_accession	8a3p	Q8NB37
+D	old-union-003437	Q8NMB4	selected_group_accession	7qhm	Q8NMB4
+D	old-union-003442	Q8QL44	selected_group_accession	2x5h	Q8QL44
+D	old-union-003454	Q8SRW6	selected_group_accession	7qep	Q8SRW6
+D	old-union-003520	Q8X7A5	selected_group_accession	2pof	Q8X7A5
+D	old-union-003521	Q8XAL7	attempted_not_selected	3v3k	
+D	old-union-003527	Q8YT18	selected_group_accession	7c5w	Q8YT18
+D	old-union-003529	Q8ZL65	selected_group_accession	4c47	Q8ZL65
+D	old-union-003530	Q8ZP43	selected_group_accession	9l6b	Q8ZP43
+D	old-union-003531	Q8ZQ08	selected_group_accession	4q6v	Q8ZQ08
+D	old-union-003532	Q8ZXK7	selected_group_accession	1vcv	Q8ZXK7
+D	old-union-003533	Q90121	selected_group_accession	1kpt	Q90121
+D	old-union-003592	Q96BM0	attempted_not_selected	2loq	
+D	old-union-003631	Q97WX5	selected_group_accession	2x5q	Q97WX5
+D	old-union-003632	Q97XK8	selected_group_accession	2xvo	Q97XK8
+D	old-union-003634	Q97Y90	attempted_not_selected	9crq	
+D	old-union-003635	Q97Y92	attempted_not_selected	9cp2	
+D	old-union-003640	Q98459	attempted_not_selected	6ncl	
+D	old-union-003642	Q98576	attempted_not_selected	6ncl	
+T	fresh-0063eec0322e4b092caee7cdb871d9f13f89638ab133567bfa7640c9f7ab3718	Q8ZWV0	selected_group_accession	1tzb	Q8ZWV0
+T	fresh-010556e2147456a43a07b2a947c03bf7537a419ecd794004f552adf8eeab0a6d	P43528	selected_group_accession	1tii	P43528
+T	fresh-0179cab1e3f72a1dcc5b1cff6fa3622ea0ffb69e477c0626664a94ecca339534	Q54765	selected_group_accession	6jzy	Q54765
+T	fresh-01b4c2534f01f2a245d357bba9e942c8aaa6b85e8cb04d43692ad4680f045b09	P50897	selected_group_accession	3gro	P50897
+T	fresh-01da1f39b912da8ce1da6b177092f65676ef0a4eefa4d79af0db1829bb97959f	Q6PQJ9	selected_group_accession	2v6g	Q6PQJ9
+T	fresh-020ff549a30c3eaaf0afce8ca9ebb5eac916e6470619603d0910b54cd3453726	P41783	selected_group_accession	4g1i	P41783
+T	fresh-0210a1f5969a2aa9a997112f7261f0b1940f37bd5a78eee25189ccdb673d80a4	C4LSS0	selected_group_accession	5zee	C4LSS0
+T	fresh-026199544891f20a292bd6e28686b868870ba70b7924d4a1ed77da80250c5479	Q1Q0T3	selected_group_accession	5c2v	Q1Q0T3
+T	fresh-02c166fbec04fe74b7c0cbda0534ba0aca2bdb880595c553979dcfcb7ca87409	P25632	attempted_not_selected	6v8o	
+T	fresh-02d75a7ff58cfe31e3e70b74746db5bc1e418409e5ebffd02eeb9c0a0a6a6e3e	Q03956	attempted_not_selected	9cop	
+T	fresh-0312038c2d14c888b34b93135cd58a3d1ea1fdc56aeaeabcb3c8d31e8b680f77	P15006	attempted_not_selected	6ut6	
+T	fresh-040bc784f7bd239d10a64be292aff856ec0b2476e66ffabb07664595b02d5992	O25511	selected_group_accession	2gn4	O25511
+T	fresh-0449652c15e221af7ec12648f998192e88ca9193ce6bd4fce061d42ff6323423	Q9CIV8	selected_group_accession	3ct4	Q9CIV8
+T	fresh-0508e551bbbd383ee20426c9fb1d2eb1781d5099d6baf04cbb0ecb27ccb2e466	P0A0A5	selected_group_accession	1lrz	P0A0A5
+T	fresh-0539752fecf99ec29a398e610e12a196838e22d0cefbf97d6066df8293496fb9	Q9H1J1	selected_group_accession	7qg6	Q9H1J1
+T	fresh-056d80b78bf342f6a3d50250d083d79d9cdc2f9044c4b2d88445a2221bc1793d	O74237	selected_group_accession	1mi3,1k8c	O74237
+T	fresh-058e032ee5a1903b8e5423d793402a6e52afd4c1bd8348cc53901579468839e0	P04332	selected_group_accession	1h5w	P04332
+T	fresh-05909290eada4ae53c589036947ea571d637c81fa99f11b95ae97a92e2062248	P20933	selected_group_accession	1apy	P20933
+T	fresh-05b973f130b877fe65b95ce5285bfdc830f2ad65d21f03e7cd0028879ddbab99	Q9WY79	attempted_not_selected	4bub	
+T	fresh-066ae6734ad910d57570d80df58d31e4348f1d2cf266c2a340aa47e440b9dae9	Q6NW40	selected_group_accession	6z3j,4bq6	Q6NW40
+T	fresh-0671eefa666f90b1f9373efd7a62155624a4b81ad74c48c8497258cfd195afcc	Q92966	attempted_not_selected	7zwd	
+T	fresh-06d81d6ddc3a2240b419830e344f8c102630d49018c4311c30a5b57e610ece0f	Q9UN81	selected_group_accession	2w7a,2yko	Q9UN81
+T	fresh-0708ad7e47c5a09ae0b1e296e191dd2e181ad121bb553206794860b221e299da	F8L9T9	selected_group_accession	8cmr	F8L9T9
+T	fresh-077893245ab22a6d2b87aea6751ac81ec2b3b59e526264ac388650145afa6372	P54507	selected_group_accession	5of1	P54507
+T	fresh-077d6ec61c29c27c7df21b04f573b880737f10a256c86b8fdb3bf7f1fa0a3b48	P09991	attempted_not_selected	8dmh	
+T	fresh-07b5660c6244f03686a89cf8edc3c049c27e1071de56caefca60582e8723b094	Q9CXY6	selected_group_accession	4at7	Q9CXY6
+T	fresh-07eaa34b6cd1c710a06685d0fdc623cb5e2087766968a195f812a5120e3dd7c3	P16794	selected_group_accession	5doc	P16794
+T	fresh-0800f658441e7b11e64b8db47286fccbe5892d3cae4ad277436c575bbd3f6505	P39276	selected_group_accession	7zc2	P39276
+T	fresh-08116803c25106b61000ac6837e57874b9669d6ad68892dc79f2287777ac0bdd	Q53353	selected_group_accession	6ojr	Q53353
+T	fresh-08637a845d4053415edafb86dadc0a65cd81aa4208d317d8de37d627eb8a8ce2	Q14626	attempted_not_selected	8qy4	
+T	fresh-08cddaddaad413c385c8c5a29930f6eae2557464d81c023c9f230814930a929a	P27828	selected_group_accession	1vgv	P27828
+T	fresh-08e029b3e729f206906d2662ccca17d19ed386a12ec316a047456e22073dec6f	O59272	selected_group_accession	2g8l	O59272
+T	fresh-099ee9317fa7701e15eee2bd8595454f052c3fcd7435ada090a6c504b0659c07	Q9H9S5	selected_group_accession	6kak	Q9H9S5
+T	fresh-0a103db7909003b716ddf6f55847b5b7780f9e382f5fa3a07daa998c0eddc741	P32270	attempted_not_selected	3upu	
+T	fresh-0a1511c39306e69846e5b33becce2c53339a63141c52143ff76968707f29412f	P40999	selected_group_accession	6fdf	P40999
+T	fresh-0a184cea371497adc84a5bae91f76478c9bbc63bdefa3d235404d7f903c133f2	P9WFG3	selected_group_accession	3gmg	P9WFG3
+T	fresh-0a32f89623bac27f4099d6a49799f7d09d5c2fb7bf4947fa38407d13077ed47f	Q4KCZ0	selected_group_accession	5dbj	Q4KCZ0
+T	fresh-0b2660282874b7045acbd9d4641855799d2556d92eb2c485ad0692804f25ef28	P54355	selected_group_accession	8weo,8h3x	P54355
+T	fresh-0b2709431f25537eee2ecbc93330cf68d2e7068faaed689625b5d33e77ccd2c5	P21163	selected_group_accession	1pgs	P21163
+T	fresh-0b41711dd342d89c9fa724601b753564c0cac92a4399128ecae70202a6c30491	G3XDA7	attempted_not_selected	8p1u	
+T	fresh-0b50eb27775e216833f76d3b541ad579ce43f835793fe51bdecb3f2454a52b44	Q5T6V5	selected_group_accession	7ugk	Q5T6V5
+T	fresh-0b855942d9459fab81552b2fdbe2fd0d2aa93dd90d60b08aebd2ce4a3258a088	P26416	attempted_not_selected	2rrl	
+T	fresh-0b9cf8232e15f61fe4fd498dc6a5c85ad3a055123416b89d01b973f36e5eda84	Q9H7H0	selected_group_accession	8css	Q9H7H0
+T	fresh-0bb428131adf845db374de070b652716d0b43d68bebe3f83cb214b4fea21c699	Q8R0W1	selected_group_accession	5vji,5vjx	Q8R0W1
+T	fresh-0befcda336c88eb760313e76d97a591c8fae8b4cad4c273565a156331991953e	Q794W0	selected_group_accession	2fgt	Q794W0
+T	fresh-0c0c20c4940be93f581854e6d882ebb5ed4d8e1306982c1ba3dba9eb4aa305e6	Q7Z6K3	selected_group_accession	6o60,6j7f	Q7Z6K3
+T	fresh-0c22d3c305828d052af4503de0733cdeaa00d743ae6d8e823913df2d8f28b800	P61871	selected_group_accession	1lgy	P61871
+T	fresh-0c66e916c1e33a64352581f8214b38e273f17b8c7c35e31376357808deaf4885	O94698	selected_group_accession	8euy	O94698
+T	fresh-0c694e4888859fe0aa3aab2e8da94f1a4f14ac5d3ff534c49bfb813bd8476cda	P17379	attempted_not_selected	1uf2	
+T	fresh-0c901225d9b730e90a3fd3062ed14b7e552afac95671764512d8c479a5b0053c	Q9NZM5	selected_group_accession	8fle,8fl6	Q9NZM5
+T	fresh-0c97da083f9149a89056c76526be855a78cfd9f07477b7b744011107802c6792	Q7MXK0	selected_group_accession	4rdb	Q7MXK0
+T	fresh-0cfa31e1b5b4c285a54897a7a0a79092dd41f873a064bca1adba4a6418b7401d	Q2HBN6	selected_group_accession	6kbc	Q2HBN6
+T	fresh-0d31f5b25c43894c97020db0149f6e4bc79ae571dfd32919988e2975bf9bed87	O94197	selected_group_accession	2zba	O94197
+T	fresh-0d3e42718a107902a167034ebee8c1809b413de12996b695d17f602c9a53f7a6	P38131	selected_group_accession	5a07	P38131
+T	fresh-0d96b0cc0f2efca05321fef706b1bc881457019d6ca4ab3548bf27b0243f548c	O34968	selected_group_accession	2psb	O34968
+T	fresh-0dab2643cee5bc33b721e3bafa65b121a44f4c76a6714f23a2778748d6ea0433	P54716	selected_group_accession	1u8x	P54716
+T	fresh-0dc0a2aa361255f9f7a3c33630fedbe8bafc630e3332de22f29e3c8269c42bd3	Q9H6Y2	selected_group_accession	7kqq,8fky	Q9H6Y2
+T	fresh-0dca475fcdb26f1f4a08687c8b2989426e12112fd1b067381de2fc83b569b93f	Q9S1H5	selected_group_accession	1ko7	Q9S1H5
+T	fresh-0df4534b252bda662dde090ba21d85a834a33836f88ac6e5423dd63e4dfd2ab3	P0C2M5	selected_group_accession	4h1x	P0C2M5
+T	fresh-0e108fe0f71e0b9ccf687464c7ee9c9d986a7ac55cf0eb94a9a3e66b21f4b15f	Q99594	selected_group_accession	8p0m	Q99594
+T	fresh-0e12b5e70d916479a98781c49bc5c504d854e3869f8e733a4f2eb48e71521aa2	O43435	selected_group_accession	4a04	O43435
+T	fresh-0e92fce7d7b780322a51a1805d983c7c392d40aacb73a61760de2d962571b644	P16384	selected_group_accession	3foz	P16384
+T	fresh-0eaf06b5e85b4e178ce21126d50b19bd3f750a13a7a629f9338d63814ccd33d6	C8VTS4	selected_group_accession	4n6r	C8VTS4
+T	fresh-0eb376558c8c961dd47e4b181db3c1e7dac861f7fe56a0fe00c4d75a71f83fb2	Q04081	selected_group_accession	1rjd	Q04081
+T	fresh-0f297f71a779e22a5115823415fb47bf1356002d1232d57c5f2b3f08b875543c	Q6LXX7	selected_group_accession	3c2q	Q6LXX7
+T	fresh-0f2eacb794bdf348274ecd4ad63c30bc030045838bf3f31cbe1157d8501532e8	P0AGG2	selected_group_accession	1c8u	P0AGG2
+T	fresh-0f35e8aab0bea65952be60f3cef6187c56051cc59aa700b1270a0641b9336e88	Q96F15	selected_group_accession	6z3e	Q96F15
+T	fresh-0f4fed797f095b4971f1bee1676cc69fe8737b2d428129b7e63c3cf5ef82ea93	Q9X2I8	selected_group_accession	3afh	Q9X2I8
+T	fresh-0f650053d51a5b04110316e8e6986c3e3f97d135a84c5121c2f70d815e5edecf	Q8N9N2	selected_group_accession	8tly	Q8N9N2
+T	fresh-0fb6b298497f421dfabb43586143acc1da0f77492237f73474ce2f0506f96ad0	P50391	selected_group_accession	7x9c	P50391
+T	fresh-105ca70817d6d180f54f967e8a88fe9104e30e4ca4b2205c1901c26239f45b31	O75718	attempted_not_selected	8k0m,8k17	
+T	fresh-106a20634418ad0a21e5091376e1a62f30ec8987b9fa5553c4be429d156d5ae0	Q62559	attempted_not_selected	5fms	
+T	fresh-1073b2f75d5979f411a4f622ccffcf6e0c19012af7686286444c08ec803c451c	P24734	selected_group_accession	5mmh	P24734
+T	fresh-1083219a195b22ec9f3d5814d99164c3e1dd05f854bf31735cedc127f6e1c1fb	Q6JXI5	selected_group_accession	5doi,5dok	Q6JXI5
+T	fresh-10a5bc7331e0946019481b944049c8d15dfb57fc2aaf768d915938f53e929da6	O28344	selected_group_accession	4gvq	O28344
+T	fresh-10b15d8645d26431dfda94e008215a167524435c1cc9bf35ce354559bfa2b140	P00466	selected_group_accession	1qgu	P00466
+T	fresh-10c4cf3e7478d82966c93fd4418f3f6dbcc2f6aa264c2ed40a675ca583924c19	Q55460	selected_group_accession	2i49	Q55460
+T	fresh-10e582de34bc56ea324c2e0d421c74c29738b551b18750e8a15cf2395aa58e90	O43237	attempted_not_selected	7z8i,9bly	
+T	fresh-10f631265f3bf95b5712d45555de7998fce97cf5f5da3d9f49c9973c6749d6ca	A9WC34	selected_group_accession	4e3e	A9WC34
+T	fresh-111fd410ce19a5f219299b89e873a1475533944eaf922b0db486f3618b69b322	Q9W138	selected_group_accession	8gmy	Q9W138
+T	fresh-114a9dbff8a5e97ef255f2080628441d322af7d92394ae20ec316a747ed1e4f5	P0ABC7	attempted_not_selected	7vhp	
+T	fresh-118ba25602b85c0a0ef7a7d873b5ff10c7426c9126aa0034283beca21e6f630e	A0A1L4BKS3	selected_group_accession	5m1p	A0A1L4BKS3
+T	fresh-1195cec7b6586a3a0f7fe7d94325096303f96af01eab5a9f40663965fc129091	Q83WF2	selected_group_accession	3sso	Q83WF2
+T	fresh-11ccea2dc821d46c6e91304da1eed0944347cf9da1f183789804e54d5737bd88	Q9WTV6	selected_group_accession	5cht	Q9WTV6
+T	fresh-1232469a3a464395861aaca5fb44371088c0d4aed20c72682fc4099194534cf9	Q2FWC5	selected_group_accession	7r8p	Q2FWC5
+T	fresh-1235c10ba02032c34ff285e3351ca3b7e4e5b7e78d2490b40ddeb1d9aa0cc952	P04977	selected_group_accession	7sne	P04977
+T	fresh-123f6756bffe25cee3b10a709b97539f79d2407c0196fc4e26d18e70202fd3c5	Q8U082	selected_group_accession	2d74	Q8U082
+T	fresh-1260536c9733dfe2b4eaa9ba7e177f53fab956628d61c50a47088bd84b4a03f3	Q9SR19	selected_group_accession	4wt5	Q9SR19
+T	fresh-127ee1f53864a27efbf4e5f1ab83a71bae9f54776c702867b561694582042f8f	P54550	selected_group_accession	1z41	P54550
+T	fresh-1288f9db5ca4f3038b2cd840f6dd4cdd9f11debe40acaf4ffb1f3950461731d8	P33673	selected_group_accession	5hwa	P33673
+T	fresh-12a29a1cf0b6093ab7b0c8df7edc313c92a54612b9a7ec43d21be0c4f9060279	P35203	attempted_not_selected	6gyu	
+T	fresh-12bdb51b47595e5d44c031c6b2a06e41a9b5fd96a7cc34eb754d97d2e80aa0cb	X4Y2L4	selected_group_accession	7eyo	X4Y2L4
+T	fresh-12f2e67b46183df9d1a930bc075a4d02d181950ce902699afd1ff690923f4c85	Q0QLF1	selected_group_accession	3hrd	Q0QLF1
+T	fresh-139228626705e3b9cd72880938dbd582981974798a55e571d941d9a75f0c69f2	P0A004	selected_group_accession	1mjt	P0A004
+T	fresh-13a76960551668fdd8c3fc9d188559d5e160ca05c2afcf85d82cc760276e82d2	Q2W8Q6	selected_group_accession	5ljw	Q2W8Q6
+T	fresh-13af3bfc9ebda14fbeccfe8454711c27fe33e6b06152c3ea5e9121d4c684db63	Q8BH58	selected_group_accession	5w0x	Q8BH58
+T	fresh-13e58633505626bf6a978b0ca7f4e952bfa0abe7b77eb144c46b9b9ebe13925d	Q02890	selected_group_accession	1x3z	Q02890
+T	fresh-13f53e4aa0461fccfaec218356e88ddc37dcc90ece106a83ebd6f3a482a32cc8	Q8I6T1	selected_group_accession	7zwi,7zwf	Q8I6T1
+T	fresh-1441cc31d887a8c53c03217c9e1a07d2b55c804088ef140409cb91be3580d2bf	Q8WPU2	selected_group_accession	6soy	Q8WPU2
+T	fresh-1443ac875c0f8e3d98de8b21d112f49f9cdf490101a9a3bf8539d7d3cb685f32	P43132	attempted_not_selected	6ven	
+T	fresh-1454972952f9f23006dd1f8fa09f880b2cb65b95d1c9090fcdc0dc46d8f241d6	Q05514	selected_group_accession	1kcz	Q05514
+T	fresh-14562c8679742a72452fbb0111be7473f9263122ceae341feb204321ee1be202	Q04673	selected_group_accession	7o4j,7ml2	Q04673
+T	fresh-145db1a0f8a50f6ecebaebea6dfece2f77a52dff0357532a06b235c8c5bf44d7	A0A1D8PK71	attempted_not_selected	7pzy,8oh6	
+T	fresh-146ff4c472ef4a3801e42c4f8775c47f798b562fcc97d8c858dbbba123955edb	P36767	selected_group_accession	2owl	P36767
+T	fresh-147aa6e372ad321c2f87f23f75972946ec4c0c64d6a31c4d66d8ee363c626821	Q48473	attempted_not_selected	1osm	
+T	fresh-149b3068e4bdfccf29bc8dc99ba77638e39cd6827e4edc3df24a9292d1bc37f7	Q06058	attempted_not_selected	7rsl	
+T	fresh-14cf308d9f0f2e5e39c4b9f4e53d51097895ee1b5aa4f7fab687da31f9f1c4d2	P31755	selected_group_accession	9n3s	P31755
+T	fresh-15234d171c8ebab020b5be8485e3c89b69e5724c70059023fc7f66013a66fba6	Q68EN5	selected_group_accession	7z5g	Q68EN5
+T	fresh-1539f4f764ae3b7b4dec706057c8585c49ae4c431c2d27e19f0bafeef2700975	Q8VE43	selected_group_accession	7tlw	Q8VE43
+T	fresh-153f947784e67bfa6b1416cd658c9a0182e1c7d2bb896cc7593f9caa7c6eed8e	P10903	selected_group_accession	4u4v,4u4w	P10903
+T	fresh-15a1a3c147fcf506a599daabeb3795c3568b824b9bf140b98404757a2971827e	A0A385DVS7	attempted_not_selected	7qof	
+T	fresh-15c3e1739e7563d2fdcc21f54807924735daee36c5cef60b2374852f3e9aa459	Q8RI81	selected_group_accession	9cr6	Q8RI81
+T	fresh-15c52b3ef9fbf2a418629e6de66a4dfc760acbf6227fe387549b52717249bcba	Q9NY97	selected_group_accession	6wmm	Q9NY97
+T	fresh-15e7536f177692fb31b839b1b78da32ed9eece22a958857070828df305814539	Q04299	selected_group_accession	1njr	Q04299
+T	fresh-161196b26258b1b1bbac42d61b45a92d3c856d212dcc6c585e3b1110c0973b19	C3SBW0	selected_group_accession	5kpg	C3SBW0
+T	fresh-16c1be409e713708bb24b1dfd95c050716dc81c39ac0ddb3066ddb8309dd780b	P03416	selected_group_accession	3hd4	P03416
+T	fresh-16d4c0b5bbfdd5c577aed069aab2729df2bbeb09ddf58067456f55c0076c532e	P03641	attempted_not_selected	2bpa	
+T	fresh-16d6e25771632cfde91e37a960a6b146177eb6ba23ca82bae3b058a1cc086e4b	W5XKT8	selected_group_accession	7ta2	W5XKT8
+T	fresh-16fb3b6b7f352175751afae97750541f20072f20594068a847a74bdf44e0522a	O66465	selected_group_accession	9b71	O66465
+T	fresh-173711eea26b703def48c62a7ffdf4ad7f0d6d273c71a372f656965ce7cbd11e	Q8GS60	selected_group_accession	5dqr	Q8GS60
+T	fresh-17456f1f0d8bf53205b0a2a6b924f7d76ceffc0ecccc8c66424f9d298634338f	Q6SW81	selected_group_accession	5d5n	Q6SW81
+T	fresh-176401f97ac5fcc4a331bc5a29c23e51e1a61a24f0ff5cd5e42854515ff49031	B5UAT8	selected_group_accession	4wd3	B5UAT8
+T	fresh-176871f3c43fc9732cdf2a9020d4b21bb8f2d93704b0632fe2a4c18df042359e	B7JA34	selected_group_accession	7bvj	B7JA34
+T	fresh-1773d47b09c1c48dea78b2a4b6c4054bad3240b28a60bea9fff81ade56368e75	P15132	selected_group_accession	3ct5,3csq	P15132
+T	fresh-17975da1da1765fd97e1ce08aca259cb11581c4b6e1e922cccb4fe546c5ada2c	P52788	selected_group_accession	3c6k	P52788
+T	fresh-17c121f6f2434035b4a7331fd228bf33d9014cad6e9171271e4823ed7011906e	P06280	selected_group_accession	3hg3	P06280
+T	fresh-17d1c1d54faf96ee5388c2b643eedb7d7201336c5bd7083870ea1a34e2f257bd	P76086	selected_group_accession	8a39	P76086
+T	fresh-17f6d65ee9d63026c3d365162919da699c42538947a9c694921c1f2fc6209988	Q775D6	selected_group_accession	1yu0	Q775D6
+T	fresh-1822e75501a06e42ab7864c40dab75211d556a44e2ef7b2d790af0149268205e	Q07508	attempted_not_selected	6n7r	
+T	fresh-18495d9b5712dc8931f6001ccdea788ff96714c935e90464bb7bcf77b835a89f	P0A6E4	selected_group_accession	1k92	P0A6E4
+T	fresh-185dee3d63e9bfc90983b528d06ac98dece7864e390e644779514342dd2d8d04	O52792	selected_group_accession	5zzr	O52792
+T	fresh-18d1a3dde45541792e1154cab8fc77efdcffa1941c0cfb1bec5a8cc04d55c925	O52762	selected_group_accession	4e37	O52762
+T	fresh-190331c4de904f6cd9650ba9071412764b03d81cd5a219dbc68b8cf7c21c1103	Q6LX84	selected_group_accession	9fsl	Q6LX84
+T	fresh-1912c45783d3e25cd9fbc4a49c1b5f7caf195dafae59d4ca6e56edf545a50244	Q9YEV6	attempted_not_selected	2v1u	
+T	fresh-19229cee478c6472b8deb5d46efd4e8db1cf999c00604b800c1e6d31e6a5e6b8	A0A0H3JXA8	selected_group_accession	7c7m	A0A0H3JXA8
+T	fresh-19300a1e7202cbcc3d4d1a8204b2779d7064f57e0f678e561889875d00c5a090	Q16515	attempted_not_selected	6l6p	
+T	fresh-19404c69e2a6c39e2abdba24edb3c16daf8c2a750d34e1bc824f7538ea929fad	P10619	selected_group_accession	4ci9	P10619
+T	fresh-1a1c86fb83f78eeb50d65c369c3f01ea716c8ac9e3e5b9db09f7cdc7c6f8cb02	P41052	selected_group_accession	1ltm	P41052
+T	fresh-1a3457255e12599ccd3ec57fcfd62e05de191dd6afa9ae90206da072bc7902dd	O69689	selected_group_accession	5c6u	O69689
+T	fresh-1a71644a16bfb21441e7e22b0680d982549a45661ffd25d6898fe22af28c29b4	P77213	selected_group_accession	1r8g	P77213
+T	fresh-1a93e3e412a2cca8706bc77f74bea6ff27be6c31cda9d59a8624b0a9eb2d4021	Q9AIX7	selected_group_accession	3pf7	Q9AIX7
+T	fresh-1aa4cb80a50ff01e9a1d8e31fd2721c6d36c1090ca5c1d7c831696e3a60f09a4	P96719	selected_group_accession	1pv5	P96719
+T	fresh-1ae19a68e34a2d33935b6a39af30a6842a1ad4f9511640b2a8a7937e9112a119	P03870	selected_group_accession	1flo	P03870
+T	fresh-1b37077f4431bee6d34fd3db3a8ffdd95fdf4bce37dba47473775432e03a6670	P21408	selected_group_accession	1xvy	P21408
+T	fresh-1b4d7700eeaed3fdb0871500ccaca11fc2d760692b243f34d63204837d911ddb	Q9H0W9	selected_group_accession	1xcr	Q9H0W9
+T	fresh-1b8e7e67b9801950589444ff6a48af36ab0406b9712ad244c04f2fd62fe26eab	Q32PI8	attempted_not_selected	6neq	
+T	fresh-1bbee3976ba823e1c52fe855081d78408211e505768e82fc2d3a68500ebc0523	Q03034	selected_group_accession	4zac	Q03034
+T	fresh-1bcca3521080c9e9d92329584def3655b87ad44537e7a299e63a93807cbaa77e	P9WG83	selected_group_accession	8kht	P9WG83
+T	fresh-1bfa05307366611442d1b326101000896ec49a5acff2c8605d0f78742901d4df	Q45070	selected_group_accession	3kl0	Q45070
+T	fresh-1c6a9691c324be9bcbf410f2211b22eef30269465cbc0bf60cb34ee229d95dc0	Q9UJW3	attempted_not_selected	6w8b	
+T	fresh-1c734a0c40a981fafab1acb887c8f15071f9f2adebb87d5b52ae642b2a13e243	Q9DBG5	selected_group_accession	1szi	Q9DBG5
+T	fresh-1d21699135923b19dd082fd4d3aa6fa65d05500fa3b830dd5d4456b871ccff3c	P47133	selected_group_accession	6wb9	P47133
+T	fresh-1d231249896e3396738dcf34791a97341861bc650f4f91e178b1981a7de817e3	P19597	attempted_not_selected	8fa7,6o2c	
+T	fresh-1d620e29f0999c8b112d7bf7bc79d19cb15732964bcfaf4edfcbd55415339f78	P03217	selected_group_accession	2w45	P03217
+T	fresh-1d7109b088c5bb0e9522df56ae72c8341d861e7d9b5fcf9e1e1a18636f701a81	Q0QLF2	selected_group_accession	3hrd	Q0QLF2
+T	fresh-1d99f9a2890bf40b6bdca64521362af4c4b1318fd41fd93f6798822b7768399b	Q46EH3	selected_group_accession	2i2x	Q46EH3
+T	fresh-1da45bb7fa12069e7fb618570c6335a820254418a502c369234c8a445610add3	Q49434	selected_group_accession	1ydx	Q49434
+T	fresh-1dc0146b18ade2433963e53e3f114b17427aa4af1395a2df853c156a1b9d1f97	Q84Y01	selected_group_accession	7tn7	Q84Y01
+T	fresh-1de4f65d42d8b214a2c7ffef0b640e235a257ee2781c2940ac3254359fc2fb28	P25368	selected_group_accession	4m5d	P25368
+T	fresh-1df75569006268a681ec66d533233ea8ee7e2bcf015afd6b88fceb4459c5074f	Q6CUZ3	selected_group_accession	9f3j	Q6CUZ3
+T	fresh-1dfab37250634702ef86841cc7cfa7faa93ad26c9530f20e130e113fc27c60f1	B4XYC8	selected_group_accession	5uuj	B4XYC8
+T	fresh-1e169b27acb084637e5961ff9c64c0792203625b790d534abab49229bb52fef7	P77335	selected_group_accession	4phq	P77335
+T	fresh-1e342e3414238d357afd45b9a4cce0833f7deebecafb3ccc6f10d00130f37a98	P14190	selected_group_accession	4wem	P14190
+T	fresh-1e432520a7b0881efc634d5ef28ae9a4c34e5da23ac4fe29eff217f7a5c2e166	Q819X8	selected_group_accession	5ey2	Q819X8
+T	fresh-1e676fdbd6947f8a4b15b9a0d5efe9532ae54f297b48481db437b7e22bc75905	P61964	selected_group_accession	6e1z,7bed	P61964
+T	fresh-1e8d349ee7aa7d5694cd1fb05b1f0b68592c9363a636885edce938778ead22fd	P40107	attempted_not_selected	5oge	
+T	fresh-1e9544018627b1c390e3e5fcb2389ab9b213cdd2395f485138245f91a618a431	Q6CRN7	selected_group_accession	5mu3	Q6CRN7
+T	fresh-1ebc877160ddfb6c89a1a6a0de2949f3515fb992db4d84a60856a7c7d3ce99d4	O50336	selected_group_accession	8rt4	O50336
+T	fresh-1ef8ce8872a093d831f06563c327e25e389f319d4b58546273bef460bcbfad07	W3VKA4	selected_group_accession	3guu	W3VKA4
+T	fresh-1f3484b0226473d289b3f794f5709030c9f1a34bf770c59d6d86eae71328aa5f	Q6NZS4	attempted_not_selected	9i8v	
+T	fresh-1f6cc8bf9bab60f3c7750afcddff5f1228285a36503c0c01970950e8a836e8e2	P37692	selected_group_accession	1psw	P37692
+T	fresh-1f84555816c6ea3f6e2d7e82f7f004abf9f73bd1c63f7dcaa7cc5fdd8e05ed73	P0A232	selected_group_accession	7ezz	P0A232
+T	fresh-1f972031dd23b4fd9dcab317916283d965fe3175d47068450c2f5d2898933fa9	Q60175	attempted_not_selected	1rh5	
+T	fresh-1fa91731c75d3185cf38559971e444450131e377420ea255ad05475769b7ffc3	Q9BTU6	selected_group_accession	5i0n,4hne	Q9BTU6
+T	fresh-1fafa9c2ad9d0549160f171a45ca72ac2c83d719a4ce881162d8b6507ee0d9a2	P00500	selected_group_accession	4yi7	P00500
+T	fresh-1fde59d9ef13c8b6f87d167f0ae34dd6681b80fea431b041c82d6603c2f98564	M1VJU3	selected_group_accession	5oj3	M1VJU3
+T	fresh-2006474b65e3604d15d5ba6a5d53684245122f0393e4d89681083f2895e2440c	Q38BX0	attempted_not_selected	6dft	
+T	fresh-201fca140849f128e5a7bd6aa86428443bf4d2b480cf3d2f164c5dffd82151b7	P03698	attempted_not_selected	7ujl	
+T	fresh-20986936dac7c65a0bf71cd5c11d49febefbc8b237c1c29b7be67af4d1ff80f5	P03700	selected_group_accession	1ae9,2oxo	P03700
+T	fresh-20c7315a8e822eecea5299da861486791ae22df2759983b41bd35ffd95bfa9bc	Q5SID2	selected_group_accession	3g5s	Q5SID2
+T	fresh-21746ec94c17e28e803f310a864d5dfa3ea05faa846633940a047e68e0712974	Q5UQA5	selected_group_accession	4amq	Q5UQA5
+T	fresh-218093217471799a786c26b82e457e4e529578c8be3a3a75752f9fde353e5c3c	D7A5Q8	selected_group_accession	5i20	D7A5Q8
+T	fresh-218efba59709ddd5b87e295544f4ea5ecdaaa416ab8e014a295ffa3d527520a1	P37757	selected_group_accession	1qya	P37757
+T	fresh-219942287a1e4b4e131b51f9407e48af605d5cb030c465dd1ec4047f239bdd7b	Q16533	attempted_not_selected	7zwd	
+T	fresh-219cab688357c98cd8a9735bff2b6abb27e6dabfd3099b1f87118e4bdae4dddc	P48581	selected_group_accession	8dqw	P48581
+T	fresh-221264ce6718be57b441ae952ec3d8b2ce3d8bd81990c6b72d8ed48e53ede34c	Q9H3H3	selected_group_accession	1ztp	Q9H3H3
+T	fresh-2220d74328451f469f74d6e71602138a7fcc9338fbe318e3352d90be62b30797	P21507	selected_group_accession	2yjt	P21507
+T	fresh-22394d11cc782b6ac98c6a8f4ae0c482efb280e64f46a3fa9bee398d94fb1e71	P10191	selected_group_accession	6t5a	P10191
+T	fresh-2247202d2927286d9e5a4b4e7e55d303c9f0191d8791259571366200b98717e6	P68930	attempted_not_selected	6qz9	
+T	fresh-225547f1127d240371fecd9c48f41714b9591540147d2bfaeadb543b803ffc46	P41814	selected_group_accession	5eqj,5erg	P41814
+T	fresh-228089a4606afee26c281a5288aa3bba161a7de94cf1c3130b894d2fd5b55590	Q8I914	selected_group_accession	1xx1	Q8I914
+T	fresh-22c2b502de1bb411675033bfef2d93499f2b3aee36fbde360569b7e34f957fee	Q9WZ44	selected_group_accession	1vky	Q9WZ44
+T	fresh-23115c42fbbdebe0aa8e4cc129fd59a8b346a8d0ce7044542e738c8300eb6bd0	Q9W850	attempted_not_selected	7sks	
+T	fresh-231ff735dd5219146e1aa99c516ae890e1fb09e60f0a7c4ba751860ceae31fa5	P27352	selected_group_accession	2pmv	P27352
+T	fresh-23578e666b64fdcf2179654e759a88fe77c474f969cd71a56e5672c57c2891cb	P76216	selected_group_accession	1ynf	P76216
+T	fresh-23850c06c68bc09f4e5a560325a6598a71991d907b590820942640e6f41a164c	P08178	selected_group_accession	1cli	P08178
+T	fresh-23ae23fc3c2ff779efa4a4a70320c6761d345a7dc43c14fdfd11617f131f1763	Q837K0	selected_group_accession	2ics	Q837K0
+T	fresh-23d5ad6c3b7b2173c867134cf0fd1440e37ca3ca32d3eda9c8b9f66d7b1299de	Q6MQC7	selected_group_accession	3caw	Q6MQC7
+T	fresh-244470583f45f0d329ea1645f2d0cb3a85a0f59830b753c9661c44093ce9830b	Q92890	attempted_not_selected	2yuj	
+T	fresh-2454d194af097290a596f1f145216b5ca97d5511d313a737dcc85ba8c47d36e7	P79678	attempted_not_selected	9ki1	
+T	fresh-2477a69dcaf7c6465619d2e1f725f3b65d657531d99c1024eed9c9949e4446a0	P53298	selected_group_accession	8t0p,8ovx	P53298
+T	fresh-24b06c73c10f83f5f792577bcad93000e8e7d81a2ba1a621307588bb65596fec	Q9Y6K9	selected_group_accession	4bwn,2jvx	Q9Y6K9
+T	fresh-24cf34669154d45a7be62198ab9993bad24d0bc3c81a6c0998c75d33b77f3d58	P37487	selected_group_accession	1wpn,2haw	P37487
+T	fresh-24d4f61b1f77cd82215fb77d1d96877fa03e8c0434c75879ccfc0ba71e24d574	Q51564	selected_group_accession	8qzy	Q51564
+T	fresh-252ba7e601d94c5b382020f75603a0bea6d21b998c749c7be38cddfbbe0db1fa	Q7VL94	attempted_not_selected	3euj	
+T	fresh-2579d9bd3763374b18e88d18a83e19363f7a34143c4ab9bd72e545c81d975f14	P03527	selected_group_accession	1fn9	P03527
+T	fresh-259aca437ffd11c1585bb693cb739187f32b97952adf9188c6a5043daae318f0	Q9NWU1	selected_group_accession	2iwz	Q9NWU1
+T	fresh-2630628400c8f1f94a175cc1bf876aaa7fcbde05a0f79232f657e46303694234	Q8WTX7	selected_group_accession	5i2c	Q8WTX7
+T	fresh-2647909d42aeaa0fbfe997f5354fcbbc3969ad2770b62981b26c41a7a22377e9	P9WIR7	selected_group_accession	5zx9	P9WIR7
+T	fresh-26826576c20c882023abe73f4002adf809ca67885c93f6d31a08df78f5b5739e	Q1I8U1	selected_group_accession	4mko	Q1I8U1
+T	fresh-26a55268225afbceb753e8c24a2cfa26e4328ccb8cf0c863cde54d5f07e9db04	Q9RW45	selected_group_accession	2imr	Q9RW45
+T	fresh-26bc3c7387dd6e05f7771661e12c612fe81a3ef17592b98cdeb91f302ae410d1	Q2RI41	selected_group_accession	5exe	Q2RI41
+T	fresh-2707b598944dc134fbae977c70170e27a18dafe5de020f2b60e25512ab144fff	Q15738	selected_group_accession	6jkg	Q15738
+T	fresh-276763e997d8f99440f3340b2cc06ead185ab82077fc3d94c660a5e714c84f9f	P28320	attempted_not_selected	5gmk	
+T	fresh-2791870b3f558cd4e7457f1477ee96f77481bd732576c92fefd21aa826dd1e7c	O95822	selected_group_accession	2ygw	O95822
+T	fresh-27d613e376d4919b60d8af1bd0c905583b7ef62b8857ea4e5ebe77e7d51145f7	P15794	selected_group_accession	2vvf	P15794
+T	fresh-282a42dae41fbce10fa0f46b879090261070764648bc05dbc118062832d0215d	P53136	selected_group_accession	5sui,8v83	P53136
+T	fresh-282d9fe09173a1a75f0321787a40d6c2dbfe5f848601628563c21c94cd822c50	D2Z030	selected_group_accession	6jil	D2Z030
+T	fresh-282f619dec4754e1be7aecf3e834bd18397840a29388e182825594a3a65beb61	F7IX06	selected_group_accession	6aid	F7IX06
+T	fresh-28411fb1eb11f3dae42ff91aec3534113f3e68837888a6d267a4dc28de984900	Q02884	selected_group_accession	4a8j	Q02884
+T	fresh-28546742f86042b43e4a0dfe0117501ca7d23a4f27898f9b09843ef05a2bfbe4	P0C2E9	selected_group_accession	1pfo	P0C2E9
+T	fresh-285ed06d0ae2b9df98431f09bf58ae11c28c3da5453ed9049cb0ee25374b2ff1	Q5UNV6	selected_group_accession	9e92	Q5UNV6
+T	fresh-289552cb165a231f4606d527f6ba4494e4506ee1936fffa31adc98008b2e682f	P0AGG8	selected_group_accession	5nj9	P0AGG8
+T	fresh-28b63cd588d6288513f7b26ab2bdbaad7bfa79458f5a20fed7667447e66caa42	P40722	selected_group_accession	5cpc	P40722
+T	fresh-28dd180cdea5c4629396f5edbfb7f90fb7722645fc0044f3338955d9bb317518	P46976	selected_group_accession	3u2u	P46976
+T	fresh-28dfccad161599ecd0bd36587cd31eb1815c8f047da5ccb91199856659053d67	P16330	selected_group_accession	5ae0	P16330
+T	fresh-28e6e26ed574283e70a24222660f8fd7eaa72246632b3becbba0d5d5dbe7ded1	P29768	selected_group_accession	7af2	P29768
+T	fresh-296c04c2d8a75e08e2d946427fa8e31184694f565c948fee79b617a5262621b0	P35259	selected_group_accession	9ip2	P35259
+T	fresh-297f89b269618084ffdf55f46b701bb0cc97d6f317c675fbe15d308ca8ce932f	Q6NVY1	selected_group_accession	3bpt	Q6NVY1
+T	fresh-29882c78553e2d6fc7523c59635dce22c984d489f84aa0274dc1fbe78dfdd32e	P22830	selected_group_accession	3hcn	P22830
+T	fresh-298df5d2ae80c396b9c5cd5606419dc119167201ed6bbd69803e816f9f4bcaad	P27709	selected_group_accession	4yrv	P27709
+T	fresh-29e75587f0097164b3e4c2131cff06262f95515cc7f63767cfea3a350108976e	P00642	selected_group_accession	1cl8,2oxv	P00642
+T	fresh-2a6b52687c9ccfb60e38540443e7b9baf588b621561273e0560d3f6bb6343a8d	P25081	selected_group_accession	2wfp,5zt5	P25081
+T	fresh-2b080c666e1707ff6c6b420364aa8df86d012033b6da7925edd0bd4b5604c569	P16688	selected_group_accession	4xb6	P16688
+T	fresh-2b0bdb7428738c4d862b7dfa708f0b3f6a9eb954ad005aaf2d4f7afd8013c897	P10441	selected_group_accession	5w8x	P10441
+T	fresh-2b5bb36881d84486ac8fe5d4f38c97eb40f0ea13406af241c99ebdff0c1778f0	Q09324	selected_group_accession	2gak	Q09324
+T	fresh-2ba6a2b77f735b8c4c0956f1bad1d8347e7d2a4091742ff731067335ee5cd68d	Q61179	selected_group_accession	5oem	Q61179
+T	fresh-2bf714f942a8463831d16f54ffe581ecf72d8c0e35c723dd3f38143965c20401	Q5NF57	selected_group_accession	3n8h	Q5NF57
+T	fresh-2c09cc41e7bb9d98f631c03ec0edfa8eac524bd2ecf9fb0fe6f7fe3bcf186599	Q9X519	selected_group_accession	1o98	Q9X519
+T	fresh-2c564377b01df4c0aa84c87ec5f0749ab515038ec5861148d91c784815f93792	P31032	selected_group_accession	1fiu	P31032
+T	fresh-2c7854dd749d0aa8a214c9602bbc4123992c6053e6bb1785b6e3914e237db4fb	Q02950	selected_group_accession	8om4	Q02950
+T	fresh-2c790b582e506a99aa55274fbafdf42ec621a73f8f269a408b6b70a927c7573b	Q6PBN2	selected_group_accession	2qzq	Q6PBN2
+T	fresh-2ca8f3bd9e608b7539f82cc480fd9830b9fe5b9df8fc1b661952dd7bca704e6e	O30478	selected_group_accession	5ag3	O30478
+T	fresh-2d626decc4e2203ae85e3e427770a1aa5feef1b8cda5bd6595c6f3f3d9407d38	A0A0U8TRG9	selected_group_accession	7uy6	A0A0U8TRG9
+T	fresh-2d711849cb84da91d3c4b4c18e636f0a9beec234c64b3863268993611b953c55	P20113	selected_group_accession	9f5y	P20113
+T	fresh-2d8e1356185bad26c44ed5d71a49bcd95a7ae5101b57322ecb58347dc5ea21dd	Q00623	attempted_not_selected	2lem	
+T	fresh-2db4047a16a56697c06f9e22be5a3d471f3360d5f5523ee907c23dc3555f9229	P07764	selected_group_accession	1fba	P07764
+T	fresh-2dbb194684f819a77ce735b2ed00759406121b6d26465e15beb773b2f25f04f5	Q01926	selected_group_accession	3rkg	Q01926
+T	fresh-2dd014f5554243c5787214bae251d81477ef5e43d0446b5afd733422a1453fe6	Q6PH17	selected_group_accession	4hkf	Q6PH17
+T	fresh-2ded4835077048f3084b3961fc503578e4ecd2fbf622703c05f84ab0757c5c99	Q9X2B7	selected_group_accession	4xtk	Q9X2B7
+T	fresh-2dfd8499095a0c401a5a633a32642354dd7651e85b9af5ca9ca678198265087c	O82947	selected_group_accession	8wdu	O82947
+T	fresh-2e3c75081b8cd9670a54ad01c5c0900c18ea34fd85b5ad9c6f93f8a211abea02	P03681	attempted_not_selected	2ex3	
+T	fresh-2e61e80f97a1fbeaa91578679b5fc79bd4561cb876d1cf63d9ff2eb11cf52320	A0A2T4VDM4	selected_group_accession	7n51	A0A2T4VDM4
+T	fresh-2e67fd38fe290ec2b2eb08e7ab99df15be84937a3ba0a63569d4fe93b05b316c	P30533	selected_group_accession	2fcw,1op1	P30533
+T	fresh-2ec02fd3bf29d9e46a5a62254845cada97a64265e95a6c18146f95d1eca191e6	O57767	selected_group_accession	5ktn	O57767
+T	fresh-2eec379c62526d1ba489f23629c26054c60f8002aa58ddff317776f928f036a6	P23771	selected_group_accession	4hc9,4hc7	P23771
+T	fresh-2f39ba24b1548dd055192c0b2a21c13a18b54e45bc940b9ffc6e25688398d291	Q9XVS8	selected_group_accession	3nv0	Q9XVS8
+T	fresh-2f438dea5f09ee7db52cf71f8447ca553a57250a364d850fee618d0c7f839dd1	P31011	selected_group_accession	7fjk	P31011
+T	fresh-2f795500d6fc7e045c9321370cdee8c21e4543dfc429772adf30a0a810443289	P22337	selected_group_accession	1afr	P22337
+T	fresh-2faf7b0d0f10c96b8e8ee1ea6dc4101f925f6a4969a89f3b731c499d8398e283	O08915	attempted_not_selected	8h77	
+T	fresh-2fb2a31a014d000d24c7f0ebc4745c6047dc561ec7ec0cf65188bc1c692a5559	B1YAL1	selected_group_accession	3t2c	B1YAL1
+T	fresh-2fbaed83b2ffd3b19158a3951cfb7db3bf0192d0063536aaa125c918af227927	A0A0A7HFE6	selected_group_accession	8pe3	A0A0A7HFE6
+T	fresh-303e48efbb7ca6bc536205dbaf99e1239474d0b77c5503790f0fa85c78b64513	Q58494	selected_group_accession	6peu	Q58494
+T	fresh-309eb4209ab8022a8ecdf6157da6da9874410da500076c6051af39ac8d24337a	P9WPH5	selected_group_accession	9f80	P9WPH5
+T	fresh-30c24f067ea84c564840343ea1f50539b04376b8bbeb7378d6a8c28320e7f677	P19896	attempted_not_selected	1yue	
+T	fresh-3148ee938d0e0cb2a6e75c78b0dd7a931d8f9cda267e6c22c84c30c1bdd9c0b9	Q04868	selected_group_accession	4a8j	Q04868
+T	fresh-3159e52bb4df0542d025ce6ff352cc73dce098199c3dd1e78c811b864fedf52b	Q4J8K9	selected_group_accession	5yeq	Q4J8K9
+T	fresh-318d37d9c9b08fd4f5e165e2520e817f87dbabedac09e86eeafe2755873b3631	Q9DAG9	attempted_not_selected	8jwj	
+T	fresh-31c1ba73384b1bb68a5cee74a8799279d12ed41ee3f797879978d30717a1049e	Q02046	selected_group_accession	1edz	Q02046
+T	fresh-320b91f3f911de73683748e2e6bcb16bd2e7c91cd24a5716c47b7d89efadda12	Q936X3	selected_group_accession	6c62	Q936X3
+T	fresh-32243dca710751ad7368053cdd3b097731a9214e3f9558584f0fa82bda822813	C9K1X5	selected_group_accession	7ao3	C9K1X5
+T	fresh-3254bb817d0184be037d91fae5190c78d57d3ed83c6fc722a669c47250cebf22	Q8G998	selected_group_accession	2w37	Q8G998
+T	fresh-3267c54d5e052ba2aff324119157192c28c49bd622d3741922e81682d581fa11	P07955	selected_group_accession	1e6y	P07955
+T	fresh-32dab363dfeda30845f5dbe69aad9f445314436842b5244774dbc9e4b01e7acf	O15144	selected_group_accession	9i2b	O15144
+T	fresh-32feac602821777516dc272c5483714d3b9dbf9a1b12f320caccae59e18407de	Q837U5	selected_group_accession	2jer	Q837U5
+T	fresh-33091599b283310f30023fd60126313b5fdc17feb6939f46280fd71fb7361762	Q97YD5	selected_group_accession	2i71	Q97YD5
+T	fresh-33292fe480dff16dfb3453fe355114703eec32fed00bd47884ba2a72683a5b68	Q9P0N9	selected_group_accession	3qwl,9ce3	Q9P0N9
+T	fresh-333dfefb323424cd63a676414c0e6f369fd3d2aed46b05f801d98d37bfceda78	Q8CVC6	attempted_not_selected	7l75	
+T	fresh-3355c1ead9fa41fd8229a9edae670b56091f2d125bb41f44c1c9cb11fd335e1e	Q8TZW4	selected_group_accession	4x8i	Q8TZW4
+T	fresh-336ee30f47da8e1888c8fa199b263f821a2a8279e6f8739e92ce91294d421cec	O96008	attempted_not_selected	7vd2	
+T	fresh-33ad095d4d3d402be1ef224e303cc39f95a07dcf227290c5ad4f03d047a01655	P36913	selected_group_accession	1eok	P36913
+T	fresh-33eb2513a39bd97c70b5b6dc448dff31640f3d8a3e72a101497370fa7b99382a	O58056	selected_group_accession	2dwc	O58056
+T	fresh-33f2dc66c390e6620f40d459bff75776019c1881caa814721d82e8ac973b83ff	A0A6C0WX00	attempted_not_selected	6lyi	
+T	fresh-343a32e94dd0150fafebe555c37b28b8f077f13faa4d599559adb17dfd1b40a7	Q69XJ0	selected_group_accession	7e40	Q69XJ0
+T	fresh-348a29aea80ddc76fbe1a4f07e0bfa84331c8cdd269347e01c07483f8ffccb0f	G3XD64	selected_group_accession	5j1j	G3XD64
+T	fresh-3492642b13e9a82baf8d5928cca2637152f4770ea4c5a1151fd8ca163cd94626	P20998	selected_group_accession	8p0j	P20998
+T	fresh-34d38b05ffae02de57c9566ba1ad483913a3e5c3d776a950dc4cea80073b9da7	P0A9C9	selected_group_accession	3big	P0A9C9
+T	fresh-34f6c7525bba1ab6de1f4ec280fc96e9758be580478bbc6a70a95273b2d68371	P94951	selected_group_accession	1qv9	P94951
+T	fresh-355f5c7404260f9d34e50fcb3bc3bd6c0beb0df11f9818c6dfc6924f0bdcd538	Q9Y3R4	selected_group_accession	1so7	Q9Y3R4
+T	fresh-3624d5659367a2f8a775ae087e933a255cc7d2e089b360ab45baf4d5317ccdcd	Q9WZY3	selected_group_accession	2h2w	Q9WZY3
+T	fresh-368e01db37806bfcf5317ce84f2e76d4899daea175f75606f37830cef15d629f	Q9X1P7	selected_group_accession	2ash	Q9X1P7
+T	fresh-369250e9ea3eb1f2b0318d792a31c1aee58d19bfb4b41908785646b6c826ff3a	Q9CEV9	attempted_not_selected	6vj2	
+T	fresh-375fe4771ccfb2542ad874e0967f95cdc94d054a1c8c4a07fb9527b76fb0d0e7	Q58409	selected_group_accession	4kp2	Q58409
+T	fresh-37b8191b98b087320d8123571b3b73fab540892cf1c3769c58103e9065ed9892	P28306	selected_group_accession	2r1f	P28306
+T	fresh-383b04350a35f7d598a17141abb92169444973ad1e093def5d809d6f9e770497	B2RHG3	selected_group_accession	5nf4	B2RHG3
+T	fresh-38629dfb1b2ac57a936cd0fa461e43470839c2147a27ecf70cdda08687ab611b	Q9HZP8	selected_group_accession	8rcz	Q9HZP8
+T	fresh-3868089ee6b8ba83ef628ba730dd3f1fa7e1445b18d8095b6a8c345b4bc17e5a	Q804T6	selected_group_accession	5y3c	Q804T6
+T	fresh-387ec5a85ac3aba713539861689350f1d500145dd8ca26947b67cee26263621c	P46154	selected_group_accession	1kol	P46154
+T	fresh-38840a95e46e65f9ebddd2b9bb5262ab543ef53a3d91557b1fdeacab4d58be4c	Q00582	selected_group_accession	3r7w	Q00582
+T	fresh-38ba0ea76deec88eafdf1ae3f3aa12b1eae922361fe7773989742d61250d6cc1	Q97YD2	selected_group_accession	3qyf	Q97YD2
+T	fresh-38d6bcffcbe77a23e6e2a18feafcf543fe28f6fcb7039b19ca0e86663ab026c0	P60932	selected_group_accession	6fmv	P60932
+T	fresh-38dfdb2c090d0c1fe20de40c8e4f7df0fbe9f1005ec948290155819d3242bfbd	P00459	selected_group_accession	6n4l,1xd8	P00459
+T	fresh-3954c5b2148b3441f71a82083c4df31103d006a1a4a2d9571b0ea713e76c45b9	Q9Y397	attempted_not_selected	8hf3	
+T	fresh-39c32c8f4d31029496bb8ca1b905e6b78328a0ff9a578e34ff0eff15402cc042	Q989T9	selected_group_accession	4p7x	Q989T9
+T	fresh-3a3ea5de2432597fd6582f240dd79ce0b0c56ef114b77854bb6b8f9e9418f9d4	P00349	selected_group_accession	2pgd	P00349
+T	fresh-3a408ffeb283cce53d6fc00e3f753bc57e1cd48cf6ecdc2aa8d72a6283cc5376	Q09357	attempted_not_selected	8gu3	
+T	fresh-3a9943c6e89b0d64356adbe6d218bfc6f407a28e4da572613916de716c8e4e69	P71070	selected_group_accession	6z0f	P71070
+T	fresh-3b0a83a4fc3401a46a8f9b9e9bba2339be3a5a42ab89fc536db33012003e629a	P15907	selected_group_accession	6qvs,4js1	P15907
+T	fresh-3b1727b5bcc849644eb8d46608f2b2887904844afb4c970a751d372a573483ed	Q01172	selected_group_accession	1idk	Q01172
+T	fresh-3b2497717e48753f0d9ed6571bea8952ae7f322cb757b611ac2af923ef59f3fc	P18417	selected_group_accession	6zea	P18417
+T	fresh-3b30257f102f95cfbe229838f8110d0800fb8c1978be4cdcb55a5b4a18de2d9c	P81453	selected_group_accession	3iu0,1iu4	P81453
+T	fresh-3b65a12a6573377007fcb2f9af7174bfb6fd0ceae2858f9d8a3ca7124b800943	Q96AB6	selected_group_accession	6a0e	Q96AB6
+T	fresh-3b9dfad954fd33b973ccb1244dbd31033d2bb4e36f05a82f6a19c2c23120df27	A0A144A134	selected_group_accession	6rmo,6rme	A0A144A134
+T	fresh-3bcea84c9d5486ae8a2bc7e531a0c10fa4d4e78c5b0c7bcc0988bcd46c4d9ece	P36040	selected_group_accession	8rvl	P36040
+T	fresh-3c49cbe70e1dc383ec0636bc1f0b6d163662eacac58060e83a22c65645a32625	I2C645	selected_group_accession	8r66	I2C645
+T	fresh-3c5a5c297e47e52749e2d84e647ffe2317ac296706ecf783d34943443162a5de	A0A059ZRB8	selected_group_accession	7rea	A0A059ZRB8
+T	fresh-3cdf8d3eeb705bdea621ae4faca8e38e07f332f6fee825f6a619af196b2e380e	C0MAL8	attempted_not_selected	7uxt	
+T	fresh-3d3a04ce5dbe7122a40450b1ce20f8e1bd6a009aea15c853662f1c79f78c399d	P19062	selected_group_accession	1n7z	P19062
+T	fresh-3d59b5108189a82e9b8d21b354c9f220eed469fc51f669ed17c670b9baa67fbc	Q06697	selected_group_accession	3v46,7dkh	Q06697
+T	fresh-3d7a28172fca5ba0e55bd54341c71bc00541423fc4a1c6c1087e422120063871	Q2T8B0	selected_group_accession	5i3e	Q2T8B0
+T	fresh-3d8c64ca07ed29bb884f8de3485d604c026b104b12b0483b49012fe34df01c8d	Q9UQK1	selected_group_accession	7qf7,7qfb	Q9UQK1
+T	fresh-3d9489965fda2cd281f0af92455783e4ae36e84eb2210276c50fe49751062407	P41705	selected_group_accession	7x77	P41705
+T	fresh-3dbeae17091359f54e44136d59ff0d3b4e5f09b09785c0ea347f56b510c77b63	B2FRX1	selected_group_accession	6wfm	B2FRX1
+T	fresh-3dd07ebb3c4e2a16d264d2188daaefe1ef6af58cd9e0cd658a38802c86c89180	Q72IB8	selected_group_accession	2ekg	Q72IB8
+T	fresh-3df609104b905ab7f954da5ae4a06a0c5d80d429eb25485d9514ba9d4a688cf5	A0A1D8PP59	attempted_not_selected	7rja	
+T	fresh-3e3ed66782b832824124e59dc1c42af7e2db5887ffe253a71906f4d71442fa3b	Q08255	selected_group_accession	6bgd	Q08255
+T	fresh-3e91449229c89416fc8397d771bc6c545c2a544eff25e652b2c2ccb6eda0cfe6	P0C6Q6	selected_group_accession	5onu	P0C6Q6
+T	fresh-3e9333baf2b09359b26ca27c26f6ebc362ed4a47b1c2335c591075849150eae2	O50174	selected_group_accession	3ju8	O50174
+T	fresh-3eb2172dce4a1eaad7557d83fc07213e4fe27960ecd094c29e09edbb61af8e7a	P30520	selected_group_accession	2v40	P30520
+T	fresh-3ebc9d9c28ce4e3775802383e570aa66c4882c2007dc19054691cf07ffee3df9	Q9X1S1	selected_group_accession	2b8n	Q9X1S1
+T	fresh-3ee88a814ce10f2c812bfc30ef3a1cd9e1dd4ddf1857b4764aeddcb7a3a3e506	E0D207	selected_group_accession	5y1i	E0D207
+T	fresh-3ee893b5fc21d1ef70299651eed53e32912558220f29d9014a62cd65af0d8379	A7LXT4	selected_group_accession	5e7g	A7LXT4
+T	fresh-3efdb3a9ffc660072211cd5a069345beb563686c2301e7cbcd255a348de3b276	Q46E80	selected_group_accession	4j4h	Q46E80
+T	fresh-3f3047a19927db21762cc64f001e06edc711dbd282d106a1cdcca018e7190be5	P50837	selected_group_accession	8un9	P50837
+T	fresh-3f7eb16c827175cb935658e40921b67d694811fd5bfbbf1b4a1e7a00f13ec960	P0AEJ6	selected_group_accession	5ysn	P0AEJ6
+T	fresh-403a13911e53a119ab469b963d983d3aa4b1f140aaac13fdaec8edb08b9704a3	Q56061	selected_group_accession	3cxb	Q56061
+T	fresh-404ad87cdbb440cf403f8b362311658c7a0cef5e221d7ef46897db84acf1e97c	Q06330	attempted_not_selected	2f8x	
+T	fresh-4060f71cf940262053774cafd4fd7e110c586f1f22fe2119d5350a2916433f49	Q8BGN3	selected_group_accession	5egh	Q8BGN3
+T	fresh-40dd308922d8ed902eb50f4a4233f25afc5eddd5b6af6a9e9e60bdff8e678d45	A0A7J6KD88	selected_group_accession	6m7z	A0A7J6KD88
+T	fresh-414044871026b21f6caae1fe0031ab2e7e7a53b68220ddf80f84b98e992db547	Q6GFF9	selected_group_accession	2qv7	Q6GFF9
+T	fresh-4205580199e5e67c522dad5c1e9e9f692dc1f0ba73af61f5526feb20ca0ac7eb	P45782	selected_group_accession	2bh1	P45782
+T	fresh-423550b20354ebd3e362532694314da88dcd399ee8aea19955d01ecdc3f7ef54	P05373	selected_group_accession	1h7n	P05373
+T	fresh-423bd64317463c9300204e1dd945aa1a6bba4ead326d9488a046965f843d165d	P32440	selected_group_accession	5ok4	P32440
+T	fresh-42baf34c80515e93c8c3d6040e9443075d4defd2559970707913b5b498a852cb	A0A1W2VMZ5	selected_group_accession	5uam	A0A1W2VMZ5
+T	fresh-430dc6bbb013b7bc991a0fd1bde62a1b0e0141c0d8f4f39600d53f4e3f82ffd9	P04547	selected_group_accession	1jg7	P04547
+T	fresh-432c0885382c1a7d4caf33b5b304fb8a9e5999c50905505c7876f02d8f5c0832	P16790	selected_group_accession	1t6l	P16790
+T	fresh-433a998cace8f3fcc9584192dd37cae2c4313c87e43baa25924101abcd582d09	D5FKJ3	selected_group_accession	8r4z	D5FKJ3
+T	fresh-4340e07bfa6aa22365c2a711eb3faf3c009084efdef897db680138c017076153	P07617	selected_group_accession	1v39	P07617
+T	fresh-438d1a3767e4a572035c03e7b144e46fc903a3b4ba40b96d72b65c457b985341	P25734	selected_group_accession	2hb0	P25734
+T	fresh-43de454287ffa82c5545e2ac4e5dc7213f13502033963823b5c0f09af1f45c9e	Q9BXJ7	selected_group_accession	6gje	Q9BXJ7
+T	fresh-43e716bc6dfa1dc592fd85e5ee57df3689b1bf1c23a72b7cb9ed58159b1e70ea	Q02ML9	selected_group_accession	6vqv,7taw	Q02ML9
+T	fresh-44093d20831c4e63066e714d8c82a33aed2537bda38fcb3f652be5eab7cb682e	P77239	selected_group_accession	3ne5	P77239
+T	fresh-440a67aa7962379af9cadc8938bf116317731c6a4c28b775e0a5d8455af697d7	K5BIS0	selected_group_accession	7qsj	K5BIS0
+T	fresh-443b49280d49ef7b5f1aec533fc740fd700d8eca13e15c730ffded9528399310	Q10469	selected_group_accession	5vcm	Q10469
+T	fresh-4445405ca73eff579b0aac9b567c4d751fcb6bc73dd8133d52fc58955a540c96	Q5L1S1	selected_group_accession	6gho	Q5L1S1
+T	fresh-4463b1dd3423ed8ead5c63b8d3d816721125cc7437c65c31a8465e296ff3bcd6	H6VGI2	selected_group_accession	8yx0	H6VGI2
+T	fresh-44a0c18e9f5822f987b26e7e249ee410179eab1ebaea108c073318e8a9ae572d	P32318	selected_group_accession	3fpz	P32318
+T	fresh-45131a6e6cb0f87e8e3af28941266659a4fa569b04374e754029513afad1750e	Q93NG6	selected_group_accession	2jbw	Q93NG6
+T	fresh-45aaf43fac1fcd01521936f4970fcaf5d6d4a64ad60680506d43ca1f470a6a28	P62558	selected_group_accession	3kz5,3mky	P62558
+T	fresh-45caf5e19eb7787c1c2e2993c5830cdee89f98609a2849c89a04d07584d74271	P39748	selected_group_accession	5zod,5k97	P39748
+T	fresh-45f7301cf64cbd08722106298e5a560ccc39736124490dfb29cdff39a7aacc9b	P0AD03	attempted_not_selected	9n8w	
+T	fresh-464543d404f642420865c6779443b70e746a5bf1d0df05a495666d3b84a56c81	Q7XT97	selected_group_accession	6bk0	Q7XT97
+T	fresh-46ad6965d6fb2f5e380cb906c26edc9da3b25a91ab41990fea51252ddf91cb7f	Q9HKL4	selected_group_accession	2fsj,2fsn	Q9HKL4
+T	fresh-46d25107ef9efff65ca2759c5114f4685c845eb0bf25cace66d04a19f1d5b59d	P78318	selected_group_accession	4iyp	P78318
+T	fresh-46df32439c42bcda2089a13ff7663c1adc232f671948ea5e60681801cd954641	Q9NPJ6	attempted_not_selected	7emf	
+T	fresh-47261e0269bd9fc77db2f6060d5fd664474bbb3be0f044c8021c08f9e7e4a21e	P77218	selected_group_accession	1vmi	P77218
+T	fresh-4751922ff763b9119c7edefe1bce75cd6d1958a17fb5eba71b20d915e5d045c4	P49643	selected_group_accession	3l9q,4rr2	P49643
+T	fresh-4757120ac4f0eca5e4833f615bb563dc62c1ba5f4b5c7ac000e474a01839c768	Q46938	selected_group_accession	1xru	Q46938
+T	fresh-477b5d9704515a9b9146684918e425bf2633eb8674a3a62abe7922327dd79185	P04043	selected_group_accession	2dpm	P04043
+T	fresh-477f8a65ee677937160003b7ec9ee542644cfb09092345d6709de5b7ac0dbbb5	Q15054	selected_group_accession	3e0j	Q15054
+T	fresh-4781a6cfabf9b1c0821787f6017f65fa1b83c4c93c1895d5940120d05b0256ac	A0QWG5	selected_group_accession	5f2t	A0QWG5
+T	fresh-478a0d6f9e63396691a28d62c6cb86b1c7061c7ae41680a6913be68280406114	O07565	selected_group_accession	3gyg	O07565
+T	fresh-47e83b8d6f6d58507bcd35d73e58e443cd18ba4a6253a629c5db628f22bea1e5	Q99R54	selected_group_accession	3d1c	Q99R54
+T	fresh-47fdb93a040a1d4efd30e30229108472e9dee8d112553d73a851b9b65e27d942	Q8IV08	selected_group_accession	8q1k	Q8IV08
+T	fresh-483ad1d981896e032778e18c0fdb50bdc206f5f78073235797b25d1123f72bee	P56373	attempted_not_selected	9ik1	
+T	fresh-488a45c82066e25eb4c1f779b050941fb027833e3d3361c5440b5d39acafb624	Q2FG38	selected_group_accession	2f9i	Q2FG38
+T	fresh-48b3871d7f893d52c22ad45c10831b1fd42fdd7ab84fa08b81610ced2ee87a61	A0A193AUK9	selected_group_accession	6bxs	A0A193AUK9
+T	fresh-48d34ffb3a180090ef04b6b2dac3e4035ecb81c0dfebf9d94d1b21f3b95828db	Q9KQL9	selected_group_accession	7lwz	Q9KQL9
+T	fresh-48d3aa09a6ce7977cb871df569c77a86b453c7b2cd66ed4eefbbe22298eec073	Q63K37	selected_group_accession	3nft	Q63K37
+T	fresh-48dc69d0c95e52789a826c0385e59ac4bfeb75679d8fa7ca888c255770ee73da	Q9H7P6	selected_group_accession	3tow	Q9H7P6
+T	fresh-48e80c98e4de2ccd80a2b62a40022dcbadfdbf69935bda657af947cea231d57b	Q6P1I3	selected_group_accession	2gnx	Q6P1I3
+T	fresh-497f84dcfdc988b29082f06b6c472f679a0ad97ec372ded4d6bccb8f85b6f3c4	O32504	selected_group_accession	6a27	O32504
+T	fresh-4997c472b9754b278d1897e2a591afc04b9a2b28b982157a3418fa3681ea7661	P54309	selected_group_accession	7z4w	P54309
+T	fresh-49b1aa45b8064724e53ee9ad7d6ea474703d40436cb41551893c44d38f9a616b	Q9T1V0	selected_group_accession	5yvq	Q9T1V0
+T	fresh-49dd036663cc221c6a50578e9182ff03b25dd17b3e07bf283058fdb082369046	P10384	selected_group_accession	3pgu	P10384
+T	fresh-4a08641f87b435b765347f426ab6c94c33af2f9739d85b95d6cdc6c15e61319b	Q96I51	selected_group_accession	5xgs	Q96I51
+T	fresh-4a3700588c771e8f81e2afa2de38aca4a12330fc053c1d4972f107986f359785	Q5U923	selected_group_accession	3o3m	Q5U923
+T	fresh-4a9be045508f2ef2bef950dc9aa5e2a590a26d1a1c228f5ca791f1d9b7990aa0	Q9UHL4	selected_group_accession	4ebb	Q9UHL4
+T	fresh-4abdf8bf4b9d8a8a4e3053bdee09b3d7a01f4574875af16de9320c848e028f2e	Q00456	selected_group_accession	3ge3	Q00456
+T	fresh-4af466eb538aedd7fec63caa853554fb6a45de6deec12d17b282f1bec6e0f7c9	P0AB24	selected_group_accession	7wgu	P0AB24
+T	fresh-4b7a930571ddf6ccdb7fe87358112a52beaf1e39b7225c9bb8d30c782b926221	P32177	selected_group_accession	4pde	P32177
+T	fresh-4b927cbc4b99eec39435561a3f2e792089fb7366af9e2c5cdd8fc9e8e66d0765	Q8GHB2	selected_group_accession	2xm5	Q8GHB2
+T	fresh-4ba96df1aa5873be0a5f2199c198a0754b2cbb76a7625730c4ce229cb9eb3818	P97328	selected_group_accession	6p2d	P97328
+T	fresh-4bee1292ceaf1a29db3df24af1d9bfa6fba157cfc7e0f280b2ac70c8012089fe	P9WFQ3	selected_group_accession	9m1q	P9WFQ3
+T	fresh-4c11bb520a1e649f1642a6bc96b3e265f528056223e700bad5427c578e5e3200	P42206	selected_group_accession	1bqg	P42206
+T	fresh-4c30e37aab0dbe87ec1c5908de914522cb4e6a9db4638e1f27926e9f1a66bb14	P49407	selected_group_accession	8as4	P49407
+T	fresh-4c60917ebc19f919321aa2d647e3e42d280da1667232fcde0fee7819471e5dbb	O66949	selected_group_accession	2yw2	O66949
+T	fresh-4cb1f467f4395730b5be347b41c6981b1fe4e1ccf089deee454b7552f981ef31	Q9HAB3	attempted_not_selected	8xsm	
+T	fresh-4d49515d0b4bb5e2f314abb993cd7e19017d6d17e06ec3adff5546c7db8168a4	P23065	selected_group_accession	1uty	P23065
+T	fresh-4d60fcc2973907c5e6dd1ea5a36325a145b93bdcdb922a92e2da5b57eef022cd	Q581Z0	selected_group_accession	8fjm	Q581Z0
+T	fresh-4d8bc2a83890f8095830dbe6ad5bd30a351d2a0b1bc8668acf4704aa042cb57f	Q99LG4	selected_group_accession	4abn	Q99LG4
+T	fresh-4d8c3a598555dd0b1dda7aa81d6406784d19e6e50b91fb68a58ae264a1a342c4	Q9UGK3	attempted_not_selected	2el8	
+T	fresh-4df227d1863b8f30b149d2f9f8a479c2fdc6f83d7619eaa76e21ea8982c8fb27	P06223	selected_group_accession	8re4,8rea	P06223
+T	fresh-4df5e6e53c6061b5a87f930277ed4b19c1d020adde8a620eaa542b6e32a3a859	O43159	selected_group_accession	2zfu	O43159
+T	fresh-4eba81eca06978306c977556068744979cece3a83ff36433a8ca9c39ce0c47ce	A0T0T0	attempted_not_selected	8iwh	
+T	fresh-4ebb21f16e87e1e2e86e6db76f8a5f99a79e96ecc92094faf34b06f90e759f6e	Q9SJE9	selected_group_accession	7voj	Q9SJE9
+T	fresh-4eeb7223b142f26897ebf30ffa8cacba2a0cbc8ea9964b40d87342747eda151a	Q9I748	attempted_not_selected	5n8n	
+T	fresh-4ef10c24f6ae9f2ab7b013daa77c8c424cc3df5a843c32ff390066bfb6774963	P38272	selected_group_accession	4ll7,5m0j	P38272
+T	fresh-4f229d41e5711813ae900d0c4bff36199228bb9f8e6e992ac4b51f0ab11499d1	O28951	selected_group_accession	6t5t	O28951
+T	fresh-4f2eba3d1571fc23530f135d45d5da1d226f35be01359f1f73b7f3fdcf50ef89	O75695	selected_group_accession	3bh7	O75695
+T	fresh-4f81fe916d54ba199433f263ca4c301f6162467c60b359a6fbdb4280a709d1e1	P17501	attempted_not_selected	8yg6	
+T	fresh-4f902237de36784927cbbbfa3b91b5c994afebff999dc1c72a2d588f603b5dd7	Q58690	selected_group_accession	7xky	Q58690
+T	fresh-4fb0d07df7bd69b15b491606857d16d51ce0970c81f6ed52064c2bfd7905d332	A8HNV0	attempted_not_selected	8glv	
+T	fresh-4ff0c340864a6c5fd8489f9e920bfaee44328effb13309531081a167fb363389	M4B6G6	selected_group_accession	3rmr,7crc	M4B6G6
+T	fresh-50283f620988bc8cbf828c9d0ba2f385bdbedfcacb189dbbe61af2a5bb5cd594	P31658	selected_group_accession	1n57	P31658
+T	fresh-50628a2a0a384a8a4c818dea9ed73318c25889067ca6bdba287fd8a6c0b322ab	Q92466	selected_group_accession	4e54	Q92466
+T	fresh-509f6654a8c4ea6311468b5287540871fc3dffe1300bcf1eeaba8ed45ab2fdee	Q9LZJ3	selected_group_accession	6bsu,6bsw	Q9LZJ3
+T	fresh-511925bc63a6d9a0acafaca951d26308dfc5f1b970ccb61eb7482c2f6fa96012	P53155	selected_group_accession	6k6l	P53155
+T	fresh-51229103d45a27818650a8f749b770762b9ede062ca58f28dfce01c5e978fadf	Q9RF12	selected_group_accession	1kho	Q9RF12
+T	fresh-512fa9ad57cb6d1de6462b53b5fc1846eebb0dcc62ac1870d92aad91c0433cde	Q9UQV4	selected_group_accession	4akm	Q9UQV4
+T	fresh-5193de06021f48f26e0698df88d52eca991af0b00062dcb5a6248adcb1387e29	A0A0H2US87	selected_group_accession	7wr2,7wr3	A0A0H2US87
+T	fresh-5199643c753559d266da1f36ecdc0f9aeb235b9162f7c8eab274e9ed62b3d01b	A0A1P8CWZ3	attempted_not_selected	8u7i	
+T	fresh-51b14700eed30af0275995b2859e9c9dc083389d18674763c89673da58c1d88b	P18259	attempted_not_selected	2btv	
+T	fresh-51d4b94dc23b6782349b173f42967bf200f6c7b78ca6b451c278af61b97a4d72	O94864	selected_group_accession	7ktr	O94864
+T	fresh-51ec2859213e1bd0c0b5753e1e4c35e2dd3a0e7d505907a17df849babc62da63	Q9J7Z0	attempted_not_selected	1f8v	
+T	fresh-522965deaaf2d232dafc323bece80daa410565f8292c8feb63f3a0e0b289d7b1	A6WW16	selected_group_accession	4k8l	A6WW16
+T	fresh-528f936644f3468e1fc699504789c026d393b3ee7bd8dc92794f718cb6747a23	P94421	selected_group_accession	3gfv	P94421
+T	fresh-52bf8f9f7371d18fd966aa8a6bf0d68a9c757f7fc3c531211d54a40954403c84	P52874	selected_group_accession	4ohx	P52874
+T	fresh-52c5b05db66d6b4e8a6e2aca631d7763820877ddb6b6ad35af60039681796fab	P83040	attempted_not_selected	1lnl	
+T	fresh-52c9357472e8ca716450e951bda5b56eb3697a5bb84492d94f188cfe48210afc	O58689	selected_group_accession	2zu9	O58689
+T	fresh-52e0e93fc44decc738748e13a80441136aaea4b54597d42837be65a5efd8d318	Q9XJR3	selected_group_accession	2vve	Q9XJR3
+T	fresh-53188979bbadff023543d25d77278514b94433cdaa86010d76541833cea7f259	Q9V2Z4	attempted_not_selected	9c0s	
+T	fresh-538061377f9f991b50c801c8268caa47e37864c8eea7e7e564e813d314601cbc	Q13426	selected_group_accession	7m3p	Q13426
+T	fresh-5382637b58adfc3c201ecc210559b861c9608de3a28dbc7bfedfa4e0a237f25e	Q148A4	attempted_not_selected	8iyj	
+T	fresh-53b1e41a15d1348fd4c42342a7fdb25a49a8a4807838256248dd2118c336be1b	P32861	attempted_not_selected	2i5k	
+T	fresh-53bc0569df3d6c1275adce74013421355a0fc1591f3bbbc27ddeccb801132480	Q06675	attempted_not_selected	8ovw	
+T	fresh-53d05db71fe0663aa80e095f7996de6212ca3ce52c4b5a37bf21b03ce3b280f7	Q8U1S7	selected_group_accession	3x1l	Q8U1S7
+T	fresh-53eaccad39b5d6715d942c51880fb08e1466f655a555a8019f8afc01ff0fe83b	Q9X1H9	selected_group_accession	1mgp	Q9X1H9
+T	fresh-540721b51b769f46d65c3cd0f771d769c21696463bafddfac389353071295ddb	P0AFF4	selected_group_accession	7dl9,7dla	P0AFF4
+T	fresh-543fa276e44fba415a7a637ab84ea9c064282e3c91246d44bca11fc10b9f9dd8	Q04659	attempted_not_selected	8kg6	
+T	fresh-548048dd93739f7688dc1bec91179a0d9cfe9f9868d24f169721e30c0ed26367	P9WGZ1	attempted_not_selected	7kin,8e82	
+T	fresh-54bce5db820b366a9fb1eb8cbd4ffaa63d2d938a4910fea5a3a97b3949772d28	Q97WG8	selected_group_accession	4d2i	Q97WG8
+T	fresh-552cf01ea4210907126fc7d58f75d0e2a46fecbc1e235c91e11e8f7a8b58e2db	O93732	selected_group_accession	8ork	O93732
+T	fresh-559061cef736470a8e0b4e2652575c663ab0d45e07603667517bc46cd00964f8	P07240	selected_group_accession	5ej0	P07240
+T	fresh-55ea33467f3ed9d7df9392fe9a8be6792d071126d3d25a55346fd90538ac0ae0	A8JHD7	attempted_not_selected	8glv	
+T	fresh-563a11990faec3a2e5699b09063acf216333102a9efdfdf976209275e72c897d	P41480	selected_group_accession	3p0k	P41480
+T	fresh-565b70924a1ac7b2f95cdce56fe49e5eb304649d9ee48ee085247dcd00877329	Q6VE93	selected_group_accession	5klp	Q6VE93
+T	fresh-5686f93b7ec982b845d272319e40652dde55ed44945b480745797413b8dd9396	A0A2B4RP11	selected_group_accession	8gjy	A0A2B4RP11
+T	fresh-56d1d412f6c00ee3f10da69b89f12f6494c9c579f2f821e4ea41ab620c6eeef5	P29723	selected_group_accession	1o75	P29723
+T	fresh-56d2e9c342252e13ad8bfa2d04887c5213a61ed16aa7759f25ef00a622fec226	O44342	selected_group_accession	2c0g	O44342
+T	fresh-572b5c00ab53e08be8d64a510b57b772f777a5ad9eb6a06fbb8e2850875b9029	P06106	selected_group_accession	8ovh	P06106
+T	fresh-577a482bda8e476dc0bde7906ed40d21cfdf18d18a095cd5e2aafebc630ca887	P12425	selected_group_accession	4lni	P12425
+T	fresh-577ec5fff36f197ff6f4a992a18c483bdc4a717819ca6ec0b76c918cd093d2be	Q9USJ7	selected_group_accession	3qtm	Q9USJ7
+T	fresh-57a1544140260674abdeb914df586096ef6d74bf4ceb69a27518c56c99a0288b	Q99LS1	selected_group_accession	5a4r	Q99LS1
+T	fresh-5825db3957ae3e1b99853f6abd81c0a860516bfd47f6c0b3b822f26bcc6ed0ab	P20986	selected_group_accession	8p0j	P20986
+T	fresh-584e7fd72bdb1262c1c86869f744be3ca0a0418249d4c8c817fc756420cf1d81	G1UBD1	selected_group_accession	7s4h	G1UBD1
+T	fresh-5852b8d4387d03a0e6ad450acfcf8883ea6d383052ad7c2b332da3e9560a7e4a	P33136	selected_group_accession	8ip2	P33136
+T	fresh-589662aea542d7ed18eefe3576a5a6a88f58b316f3155ccdaf26fc6ce88cb84f	Q9P7Y0	selected_group_accession	7k7w,7k7v	Q9P7Y0
+T	fresh-58c815220463131e0ad2fe037278c3cfa74e46f20aa76409b161b53f942104c5	P48637	selected_group_accession	8fbz	P48637
+T	fresh-5928c2643b39e2fc6d868fc60caf6216c539a64a3b3adb7b66424b7606f0eae7	O35253	selected_group_accession	7cd1	O35253
+T	fresh-594b98aed329f0e6af9b3bed4a858aea1bf5821fcaddc1e0ed3fc3c92784c175	A8AF35	selected_group_accession	6cmk	A8AF35
+T	fresh-59ac03c015a84422b293b750e8d118c80805f70f93eb8797ed77fe34e5883155	Q87M69	selected_group_accession	3ck6	Q87M69
+T	fresh-5a174e3fc07f52e5152141f002d90f1409325956681e948a11004bb4778c323f	Q12499	attempted_not_selected	9g33	
+T	fresh-5a1cbe010b808ce8e621890e8b7aba43e6c748348bd5e72f477eccaecfe056a3	Q89907	selected_group_accession	8xx5	Q89907
+T	fresh-5a211ef8fcac24418046d4d4cf12da305d3e212591bfda63a434f3e1e4a14fc7	P39581	selected_group_accession	3e7w	P39581
+T	fresh-5a4fc37cf5c5e6617bc7d30da433dbba32a8307d589fbb40f0c2cfb6c5801aaf	Q82ZE8	selected_group_accession	1u7n	Q82ZE8
+T	fresh-5a93fe927b27309e1f344786b4b460a05eab60035a0130f0f2636284891925bc	Q64374	selected_group_accession	4gn8	Q64374
+T	fresh-5aeb513835c6237902cd920ac7d0cfcb39c1b9622af1cbc055c36140c4462bcd	P30328	selected_group_accession	5tip	P30328
+T	fresh-5af95fd6a3a248c665b6d75b48a14052dfcfb372047cbd2fd0068aa91cfccc28	Q6L545	selected_group_accession	3ebl	Q6L545
+T	fresh-5b9080779b68559513ef95c7069598dfddf735f9cf5b11530a0863a8bfa0532e	Q5SIT4	selected_group_accession	1wxx	Q5SIT4
+T	fresh-5b9af27a859a19c151c245bdb556f034d24c92a04f9e1d39e0ef785717c9d7fd	P03661	selected_group_accession	2g3p	P03661
+T	fresh-5bb5c41aa8f7dfe5ba2f9366844f6c3986c6c686797bcc34d9782c89fd3ab9e9	P17105	selected_group_accession	1tzd,9gob	P17105
+T	fresh-5c2feb9e5f73c1d61b909f18321eda629e04b954463b545d0b6fafca87b97fa1	Q9NRM6	attempted_not_selected	7uwj	
+T	fresh-5c311486572916c3bf280c35d48c8fc5e4e33d1f0f48cbab65ca7c64bcedd9a6	Q7SBA0	selected_group_accession	8jyx	Q7SBA0
+T	fresh-5c4a0af6c7aa4a6788b4597edaea4d336885ff76ea593f0db13ec19da9496df3	Q12874	selected_group_accession	7evo	Q12874
+T	fresh-5c608ca6c725ddfa6b800f92ad8d30aefd94f7c5fbbf8b83544270c5a35f1ce7	I6YCP0	selected_group_accession	4q6u	I6YCP0
+T	fresh-5c669f2134ae6322aa2fe1e54870ceae29d05a6764682cf8cd6f45277ceedad7	P11112	selected_group_accession	4hud	P11112
+T	fresh-5c71cef538592113c45fdb10ad532de5b83b393de6c5145b1eb5f04085e11dfd	P22321	selected_group_accession	1c8b	P22321
+T	fresh-5c962f85b377d2ceadaced93bbbbc3e48bbb1c25cb3a413585df8082e4f263b1	P31473	selected_group_accession	3nbx	P31473
+T	fresh-5cb2c343309e42cad01c6b6d29882952ade560e53cf4464ba77cbd5694f9c492	O94707	attempted_not_selected	8i03	
+T	fresh-5d2a818b37fd3e91330c3cf756b2c0b060b1ce9120e529bd12a8f0ce1daa4025	Q6WBA1	selected_group_accession	8pdp	Q6WBA1
+T	fresh-5d3223b9c08b3c47a5614f926307aac3b068897d783ffb66a1238bc5e0686797	Q9WZV5	selected_group_accession	1stz	Q9WZV5
+T	fresh-5dff619e1222a78dc3cd876701b3e2a3b21399de5f7b78806c45a32e653c9dca	D2CVN8	selected_group_accession	7uy6	D2CVN8
+T	fresh-5e0e710f10cc6855b52373f623ce0f9462fa433ef119ef089a29cbd11abfa886	P0DXF8	selected_group_accession	6fue,5o67	P0DXF8
+T	fresh-5e2ce87c1b6399c9e2f926cc05d70ba5cfeba0bc9306960ea98bacdb179b1693	Q51344	selected_group_accession	5bnt	Q51344
+T	fresh-5ef9bff8691b1ca94c87e05291e4f3e2ea87eac6c29c5b6268f4c0c156d9bd23	Q8EHB5	selected_group_accession	3cqy	Q8EHB5
+T	fresh-5f32e4e2a4a3160353a2875adebcd240040406166b483c387718766d6810bbd8	P07102	selected_group_accession	7z2t,1dkm	P07102
+T	fresh-5f3d6ddef9e11bd20eb57436d5c09ef860147575885058d3897a65382e9f7a44	Q9H4A6	selected_group_accession	3kn1	Q9H4A6
+T	fresh-5f54bf45c270be53aa85f671cad628e8b3d14897eba8c36865f8f9d0e7de3088	Q9HC38	selected_group_accession	9csj	Q9HC38
+T	fresh-5f5658282ce6ce3b42e610b1378d2b477bd8502e1a283b1ae80eb8ca703541b7	P86791	attempted_not_selected	9l0d	
+T	fresh-5f78bc614387d528ab3df8b1ee4440fbb06011bed033dcfe422327844365430d	Q5ZUV9	selected_group_accession	5ms2	Q5ZUV9
+T	fresh-5f86f9dd423369e7e316749537984fbc2ea4a6220c02e9343498014e203a3dff	Q13137	selected_group_accession	3vvv,5z7l	Q13137
+T	fresh-5fc2055ef74ebce2e361f2d8fde382285af4b4483c22701123f2932fc16403f4	E1CG36	selected_group_accession	8t7j	E1CG36
+T	fresh-601bb9f492bf58381c4640912f1bb473e0013ed3e43900c564bfc36b310b6eec	P31602	attempted_not_selected	9lsk	
+T	fresh-60c2bc7e954f426641c4544bd3b6b7e5f9aaf4104c918d706eec0b21c79a5791	O07950	selected_group_accession	1xs5	O07950
+T	fresh-613796cc30a734072e908879af649cf6e831e661493ff37fa2cb1f6e4440d360	Q13477	selected_group_accession	4hbq	Q13477
+T	fresh-61f174303d11b6bb018de73c3fe6eaec82a6ef35af23488d3f582d9e6814e841	P36906	selected_group_accession	1uhv	P36906
+T	fresh-6264ee1915af74e46b751cb5595e104b0dbf1a637b81881bee63ac674aaa79ae	Q9K706	selected_group_accession	2o2z	Q9K706
+T	fresh-62c70ebcc1f93aa849d66c224e5290b5217c880220212e6e01af74ae2fd2e634	F2RGQ4	attempted_not_selected	8dy9	
+T	fresh-63028ae6195b377441f0bfc576115ff96deff6066fe0a21e96af4dac87a159ce	P10565	selected_group_accession	5foy	P10565
+T	fresh-63109da75a948cb0bd7688f2dc84c4bdcaa008bc09f9c29ed8626bbaf23d8a08	P69924	selected_group_accession	1mxr,1pim	P69924
+T	fresh-631f161966edf643eadf594f61f302caa61fceb06ce850244ce4e66d464c76ff	A0A853PXE5	selected_group_accession	7ljo	A0A853PXE5
+T	fresh-6360e6c545861f37816d83f2d998698382ec0ef6be230cf5fd7892f4485ab6db	O59355	selected_group_accession	3drw	O59355
+T	fresh-63bfc00fa07b5a2d52faa8fb2bf2607e46e88094b00aa5b4cb49c2a4876fa105	O94766	selected_group_accession	3cu0	O94766
+T	fresh-63d1e547768b66df40e18101b46a69303d381d35082c51eea81dadb890ef98ba	P0DW62	selected_group_accession	9i8y	P0DW62
+T	fresh-63fc456b2dc1119d368b593b3ba7f8447e8404e825bf298b52b08cfb23019acd	Q9XWJ1	selected_group_accession	5nkm	Q9XWJ1
+T	fresh-64272057816a1a6ed745c94dbc529856f0547f613934c2ba9467d8549f810c73	Q02201	selected_group_accession	9hdh	Q02201
+T	fresh-64988b7a660b2d75987ad7060343f6c8af7d6ad5f7dba4a536eeb1844834ed15	P41391	selected_group_accession	2ca6	P41391
+T	fresh-64fc5a6d36e4cebbd3e93791d03e094641c126677d4f09c442f8134d6f80e795	P52597	attempted_not_selected	2hgm,2hgn	
+T	fresh-64ffd9acc7863453c644b1f45ed655a80b35ebfd7482f17d19b0092816475650	P16639	selected_group_accession	7tif	P16639
+T	fresh-654d0feff56562bb83ada618bb28974ecd26e9badcf92a1fb9fdaf48c6e52bdb	Q0P8U5	selected_group_accession	3hbm	Q0P8U5
+T	fresh-65a0471e59b6f6a4364525f0b4a9d78def229c6083810eeb3ad864594c7d6595	Q86UY5	selected_group_accession	4urj	Q86UY5
+T	fresh-661d002ce1b466fc146acdc3979c1f385e77b9178c4a27e46a67494c93927464	Q8MNT9	selected_group_accession	8h68	Q8MNT9
+T	fresh-66c705c336737796ede20348a311815bd3a3e906eec4b164f002065660c43d3c	Q92RN7	selected_group_accession	3t69	Q92RN7
+T	fresh-66fa29d01bb35346f8ffb964828a106b22990316c616c8aded70c7db907c0824	W7FI62	attempted_not_selected	6ukj	
+T	fresh-66fba08b3252641cf0d5abd24474eefad876c022b2fa178b85151d9477669fc5	P19738	attempted_not_selected	4z5v	
+T	fresh-6720447a2d08f79a79a8f3e01638e2f0e98a5ea25c4a4817e59dac4ce3349a4e	Q03774	selected_group_accession	2vdu	Q03774
+T	fresh-67570c96df8a68a10e1d418f75d9cf9c534aa7d5a4b458c6f7f4056cbc8b7d2b	Q96D46	attempted_not_selected	6lqm	
+T	fresh-675e28bb5fbde6df7c9cbd686323f6416a118ab61adbe6959adbb524b0bea26b	P48651	selected_group_accession	9b4e,9b4f	P48651
+T	fresh-67fb4138ab168217163bc984e1b7e3e65be8d5b90b3e9f423ce2354e02a53945	P05695	selected_group_accession	2o4v	P05695
+T	fresh-6809fb2b6e3f7134724c66179007e50e9898a557029fdcbecb5dc198bf24fcdf	P26458	selected_group_accession	7oy2	P26458
+T	fresh-6815feabc7672a5bd7a43ce618f92c69025eb63ea2a8738be0c691000dd6cfbe	Q8ZNG2	selected_group_accession	5ubw	Q8ZNG2
+T	fresh-683ea5f34b72ee90d334814011c986a45cd55efef429d26e074d9ebf43600718	P24200	selected_group_accession	6t21	P24200
+T	fresh-6877389d3a1f766e78b479a40566d7c900248a03c57930a1b510558d6c020433	P69681	selected_group_accession	1u7g	P69681
+T	fresh-68834ad7e92d2ac9b00bca1f5bcb6b4e7595e22ea2b5622712f52b192ed49cfa	P39958	selected_group_accession	2bcg	P39958
+T	fresh-6939f8a4a7c82f0453c3fe53b03303f6f91ce6daeac0729071de7b01f7a51a16	Q47450	selected_group_accession	1j8r,3me0	Q47450
+T	fresh-695ed3f0dd724794b3b60f2ea0be2f62805a8f8c527dbc8687864b57532a84d5	P13988	selected_group_accession	1t0f	P13988
+T	fresh-6960c3b2640ccfd38aa48724c5679889d7706673077915c3244612c68c082361	Q8IYV9	selected_group_accession	5jk9	Q8IYV9
+T	fresh-696b6c3a706c15f5987c876e722b7337413252b0b649e70fd814f566d9fac810	Q8LTE2	attempted_not_selected	5mnt	
+T	fresh-6a2cc92ce46141a46ccc91debdcc4617179e95b0ffe6cc9e33a8e5e5844891fc	P39042	selected_group_accession	1es5	P39042
+T	fresh-6a5b5e2a9b37a2052f5ab6a94e85f8398112f830d6a90a4d3a10425bb653d32c	P18056	attempted_not_selected	8t1x	
+T	fresh-6ad1e742015a9f955f3ddab17c6a86ad24745891a5cc2d729944f64d879d80f8	A1JTP8	selected_group_accession	6b5f	A1JTP8
+T	fresh-6b62055833af586f57d081e299b243eb87fd8f3579b34d91fe4727f9847cf45d	Q10946	attempted_not_selected	8ro1	
+T	fresh-6b6a3cc6cc0a096e4d9fa1b738029c94a83c101592b9c2acd33192fa494da158	Q92SA6	selected_group_accession	6dzg	Q92SA6
+T	fresh-6b8e5766b2e3dfb0d0c5c15c38c282841a0474d1e1dfc4701d27421ec2eac2f8	Q08957	selected_group_accession	4lmg	Q08957
+T	fresh-6bc24b16aecd5784e4931b20ad0c6c2f6e8833b18d99c481bccab82f0fb1f5dc	P07065	selected_group_accession	8ylu	P07065
+T	fresh-6bc339f073987b43d8d029673e0e51c4b7101f2e284a6ad15f21e4942d100b10	P03191	selected_group_accession	2z0l	P03191
+T	fresh-6bdaebcd89629fd80ded8190ad8a5a050442f55ac39f91b42fc6fdf0b1ba66db	Q8WTW4	attempted_not_selected	8fw5	
+T	fresh-6bdf7cc0902a8ac6fd5c62f0599fdb003da463613aa2c24fe2794f9f9930ed4e	Q9NYB0	selected_group_accession	3k6g,7oz0	Q9NYB0
+T	fresh-6bf9ff3b3841c66c664827c43845d78dc64a3db4de12385c915da7b0b4db69a0	O57947	selected_group_accession	5yfj	O57947
+T	fresh-6c57bd9183d782deb897a34542f15b1e2e8ff83234b6d9d423cb301ad8ef8360	Q6P988	selected_group_accession	7bnb	Q6P988
+T	fresh-6c68171782cdb68ef6fe13d4daeebd95caf553e89086a759a9d1ce089eb3593e	P23351	selected_group_accession	6yw5	P23351
+T	fresh-6cba74b4752bce102622af0eced5de0789da92eb7019c7e8330735fb2c48752d	Q5WPU8	selected_group_accession	8eo2	Q5WPU8
+T	fresh-6cbf2b44a886b87416fef5198afdc0e6b5b2605a3172f6a9e1454dd0b29fc5ca	Q72EC8	selected_group_accession	2xvy	Q72EC8
+T	fresh-6ce60cdbe1d0ecd55eb9918c7bf28c21c2f681568129d7248ebf497f56fbf2f8	Q03760	selected_group_accession	7rdn	Q03760
+T	fresh-6d235041698a99262ad84fa7e8ff3753a40b6983c9d9d9f5a697ee7e380b2654	P83851	selected_group_accession	1ezr	P83851
+T	fresh-6d5bc074d7813b3a6817ccee056e63d1368a48b51966098a6bf06103784146cd	Q9XB61	selected_group_accession	1q15	Q9XB61
+T	fresh-6d70fe05e2b7d844eeb327dd57efadb4a508012488b8dbdeae3666700661f057	P16442	selected_group_accession	6gx2	P16442
+T	fresh-6d8734092b4d868931f7cf4a0d34f8e9904285a6b14db484c78651ebc8abd24e	A0A2T1AE85	selected_group_accession	7xrj	A0A2T1AE85
+T	fresh-6db277d512bf7a3824254a20c82db7ed100130ee47888dcf310c5ffc524c2cc7	Q9KPS1	selected_group_accession	4u9o	Q9KPS1
+T	fresh-6e0028c395f7ef125c035dcf1a943f9df19873608602398e858bae2a999f259f	P16525	selected_group_accession	2i06	P16525
+T	fresh-6e3da5bf4dc02c2aedf6d2199f210510b7c1627410d1be6639c9a8f7d8008e31	H2MCM1	attempted_not_selected	6lmt	
+T	fresh-6e44e9273e4dfa9bb48e6e9a3c46dd1de7af1a12422630f2b8aa4d2aa900628b	A0A0M3KKZ0	selected_group_accession	4w6q	A0A0M3KKZ0
+T	fresh-6e81133f3edfbb2658a1416217083dc4c5784d238144b56b419988a7add91279	P0A903	selected_group_accession	2yh6	P0A903
+T	fresh-6e8de3bc8e1d4826df4cf5d2f73af93894a246a2390974ca69c5385283bd618b	P49005	selected_group_accession	3e0j	P49005
+T	fresh-6e96a3924d409854376d2955a10b61513d7a19a8f47c72febb7c5ae8b880492f	A4D0H5	selected_group_accession	2weu	A4D0H5
+T	fresh-6ead9ca2c91b6af797bf019a9ba9d22f2e6b4c0c4f6c7ad85cba7213349235d2	P21553	selected_group_accession	2ifc	P21553
+T	fresh-6edfe44ba4bd875a9a6e5ac914acc3967bde9d57cfee4dbf2739269b03d5af93	A1B487	selected_group_accession	8qby	A1B487
+T	fresh-6f471c42d6d7f63b4dd18d6218914824f0061cd9649ca7d7cea581db7cade38f	Q5WMW5	selected_group_accession	9k1m	Q5WMW5
+T	fresh-6f5c8471342bfa2017dc217c0eb14a7cccab2be11d42c2b46f71ceccc50759d4	P15141	selected_group_accession	3exw	P15141
+T	fresh-6fb3199f0d604013df56a3773cab7a78959ed9a79912c8270bdf611654f93892	P78356	selected_group_accession	3x01	P78356
+T	fresh-6fbbfd390fce91e5a43291f628f32b0550d2bd3fee10cc4e9bfd88d7afd66713	Q50EL0	selected_group_accession	3i4z	Q50EL0
+T	fresh-6fc10c9e34f900e6f91b4e5cfd6c04a84c4794335a76a5775a7a56de1eac61e8	Q5XX06	selected_group_accession	8b3x	Q5XX06
+T	fresh-7041cd6ce31467b50c495bfbdec2eceaafe0438ea11f79a53aab7fdc7851599c	Q195N6	attempted_not_selected	5d0n	
+T	fresh-70504a44bfd8b33736cb1e36b6fb28fa5cac44a1e8fecde50bbfe5a5cb31a287	Q9NXR7	attempted_not_selected	8pvy,8py2	
+T	fresh-7065a6cb6384bc6d9955aeee5d22a4a19f6a6d3b854e8ddf333b306dd582687f	P02968	selected_group_accession	5maw	P02968
+T	fresh-7186ab7546f336b8838db49d8e6bef6fe7d407338a7d1fa5a2ba6e2ab1753d24	P31723	selected_group_accession	2ri9	P31723
+T	fresh-71ad35d73f9f982b48c272208a2188e4fa160b5b251a7a53010b31679894dc87	P0AEA2	selected_group_accession	4uv2	P0AEA2
+T	fresh-71c49e31714186adbcf5c83da01b50e198708d7108afec4df518e2e9cdd71f4c	Q5KY26	selected_group_accession	2pby	Q5KY26
+T	fresh-721b7411dd10d14f9b23e294af3e6ed849b551cec7bd86ac47f75f5485c85a22	Q819E8	selected_group_accession	3fk4	Q819E8
+T	fresh-7237d8e3aef962cb013421b1b004ec6f90a28554eff113da9699151b01f24220	P81297	selected_group_accession	1cv8	P81297
+T	fresh-7268e8416d515070c2351c10d32b8e2ed4733e5d4512a0737709be1519fe1c85	O67813	attempted_not_selected	3b1s	
+T	fresh-72763bb044dedf66d52bd21a3e6dfdc18b7404933d2083490f66ffeeb560502e	P97687	selected_group_accession	3zx3	P97687
+T	fresh-72a08d77473ff6f1869eb9ce3f792fcb86ae04a81d72d7929d2094ef85e60529	Q9NSU2	selected_group_accession	7tqo	Q9NSU2
+T	fresh-72f0c507b02919fc835f5344d2b3943c2c361c7472c1c6235c7d198b4f161100	P82349	attempted_not_selected	8yt8	
+T	fresh-731cca3192834b09931676847f36c20aef4fd02acc24ca4de4bf1a69e457aead	P10226	selected_group_accession	8oja,1dml	P10226
+T	fresh-7361a901c0d2fd4aa6eb738e1f87091188a7046c0ff9ea35586b9c947e795581	O60870	selected_group_accession	2ckk,8i0p	O60870
+T	fresh-736f788111aad4992d94c05ccd7c7b9b4b12db601b29c0a62b412b9336ce591e	P13444	selected_group_accession	1qm4	P13444
+T	fresh-73d7a55115df3e1cd22dd1eeea9632b696c388f6474884c679e912f8f0977f21	Q9C9G4	selected_group_accession	4cxp	Q9C9G4
+T	fresh-73f686af70c179f442db0854d7cacd07988b42af53c9938c7cc11457675958a9	P03467	selected_group_accession	7nt8	P03467
+T	fresh-742ba162b00717bc787e5a15946d300e8d1f1441f9d5287cf1707801f6222214	P82350	attempted_not_selected	8yt8	
+T	fresh-74376049ad3db3e96f339e21f000253544ab1e531c3ed2723c9ceb2f7fa84b8d	Q8EG04	selected_group_accession	6nz4	Q8EG04
+T	fresh-74c0aecce2bdca52f27792488342ac4e473650713c8e212daa803c8eb6aec146	Q04430	selected_group_accession	6uj5,7t1h	Q04430
+T	fresh-751d3faaa5a794082a458befe3a3a9acb4793b0f06f79bf5aa9c67962294839e	Q16543	selected_group_accession	2w0g,2n5x	Q16543
+T	fresh-7547367b02dc89b6a8a7594ed53c116a05971a81721868dfcb7512ea7f10c24d	Q9PY93	selected_group_accession	2gu0	Q9PY93
+T	fresh-7557b233457fcc7caf0d3d51280082521e5bf35580810f7824d518d2d27a7ebc	P10909	selected_group_accession	7zet	P10909
+T	fresh-756d32f25420ef5ead450e5f8cb3cc82da0b594a7b99ccd97c121fbd31d72eaf	Q9JXV4	selected_group_accession	8up2	Q9JXV4
+T	fresh-757794aec7927b6ca95a63a15f2754d47341bb30e0d1e0718a48057281f2e13d	P13835	selected_group_accession	8txf	P13835
+T	fresh-757c4f025dc5185a255878d2123303d471e2496dce82bd7ad2b7a97598dab4c0	P39371	selected_group_accession	2uvk	P39371
+T	fresh-75c6a3cfd1bdad332ca047efa657e66c7fece78f4be39fbab88237377f2fc1f9	Q46393	selected_group_accession	5h8z	Q46393
+T	fresh-75d4ff87587d12fc613878f82b1150e87cc98ee134a6eeb87a570286dbacd11e	P9WFX1	selected_group_accession	8qn5,3log	P9WFX1
+T	fresh-75d50f0387f6be24ea73cfad4f33e2c789bebc6d82329a0c9410d1e581ff3187	Q65196	selected_group_accession	8i6g	Q65196
+T	fresh-75f2c92be1e430469f7db36207a537810dce4f5b232d77eb59247d0bb7bd8c9f	P00969	selected_group_accession	1a0i	P00969
+T	fresh-7606cbfb0c24a5d1b7a3b67363a7294eab2f9772108a999d7ea8d62f063868cd	P9WL63	attempted_not_selected	8v9k	
+T	fresh-761d93c76d2f32f59f7c176022e6306c21c0e163c5fcd6f76c40c4806968198a	P20351	selected_group_accession	9esd	P20351
+T	fresh-7659ec5eac1c6e598105d9db47447ce4554bd106483d692febbd0ba423b9b94a	Q61733	attempted_not_selected	7pnu	
+T	fresh-76750d8708afb6edcb310f96108296c850bbb953fce7bdf519f3606234d114ad	O75794	selected_group_accession	8phv	O75794
+T	fresh-7681368c7bbab0cdff59aa1ddf38509e97e1aaf99ef2813595f2ebb0031e2696	Q2U852	selected_group_accession	3wxy	Q2U852
+T	fresh-769debc5ed38b334dd6b2bdcd3cbe48bbff0a3a84753ebdc50fed946f98c0497	P31026	selected_group_accession	5ijz	P31026
+T	fresh-76f9e6f5b95ef3d7e8f4b37e2c512ccb4b64aca69e577480eda081add40236f6	E4Q361	selected_group_accession	8ztw	E4Q361
+T	fresh-770ce2a674dabc87e111b3ee02a8cfb872912d1ca9c06eece8d0e5bf304237bb	P61420	attempted_not_selected	6xbw	
+T	fresh-770f4c9c3e9cb8350cc4f719018a113a3935b59524b550944f98176673849edd	Q5IW40	selected_group_accession	4yar	Q5IW40
+T	fresh-774badf645b3c8bc0af2e4f2884b92b7584c6d1b27d1923d7061173cb9d9e936	P0AFA1	attempted_not_selected	6s8n	
+T	fresh-775172199280061c4071e02c6896ed2903a727d0a95f8314e675bf810c23b824	Q9S5E2	selected_group_accession	2gru	Q9S5E2
+T	fresh-7767e4b68bbbcfc9eb940b2a60427911a2beb5d2772f05ddc399c563da9e095e	B6YWC1	selected_group_accession	6o7b	B6YWC1
+T	fresh-777b25f7d39c07c418078329c1d76131ea18b04dd8950105aff4446614ca15ab	P05521	selected_group_accession	1tht	P05521
+T	fresh-77a201b936a6dc980778356d170063972f76218f3c13a8366a7d64faead33565	P60066	attempted_not_selected	3ncy	
+T	fresh-77e7826632ff74232aa3d09df0254f7ce54c9d1b3714b1a69e73deb31fecb033	Q5KYP7	selected_group_accession	4r1q	Q5KYP7
+T	fresh-7867cf127408610eceb425a84cdfe88dc3540b5d1ac07a0a702a0cb33b9f4fb9	Q9XTW2	selected_group_accession	4kqa	Q9XTW2
+T	fresh-78c21e530f59970dd3f2a1a5f131416e5b2f8ed0c7f79e74b288b5e7506db3de	Q5JGJ6	selected_group_accession	7cns	Q5JGJ6
+T	fresh-78e28d8bdad873379ca35c731d5eaa80998bfdf492b193f303f68f76a6fa0070	Q9LCQ7	selected_group_accession	3wwc,3wl6	Q9LCQ7
+T	fresh-7903eec4d986b0df483176618163c8a58fe3a4032f67612ebb563cc07fe45e09	C5DRQ1	selected_group_accession	5yk6	C5DRQ1
+T	fresh-798d9f1cadbe79fee2f17ab9ce75cf1c2a41c92a708cb2739b1fbb3962ce8cf3	P40161	selected_group_accession	3fss	P40161
+T	fresh-7991ba06a3803f429d5cc07ee244a4e329c249be5bee943f3411d8423c6fe328	C7QJ42	selected_group_accession	6f2e	C7QJ42
+T	fresh-79de1f84ade8e8737aef5a3144deb628036536459fbd4ae607b2baff43867b5b	P49638	selected_group_accession	1r5l	P49638
+T	fresh-7a0c3001676571c2f357ac00c03111a3440bdedc00fab345e6b5639f711978af	Q9LEW8	selected_group_accession	6oid	Q9LEW8
+T	fresh-7a198518dede6ac45aade9efde401bdbf3fc8d74a7073867f117138bb70e1f1c	Q3V4T6	selected_group_accession	4art	Q3V4T6
+T	fresh-7a3b5e3a69737d0c31d9d563ed0072bb914a76e298801ff8bc750d6dbcf2541b	Q6LX42	attempted_not_selected	6cse,6csf	
+T	fresh-7a6fa6b143af7c8d8429605bc27d059eec83b5975c70d35cba428c09792a8bc1	A4XXY9	selected_group_accession	5lte	A4XXY9
+T	fresh-7b3d304514fae1ef12368240092351cf7e2bebd825830d71996b3bf0e83fc5cf	Q8ZQT5	selected_group_accession	6pnv	Q8ZQT5
+T	fresh-7b55c9dfaef8a6808b86196fce00253154afdd77971901b0b52d0520d71b52e6	Q17R31	selected_group_accession	2y1h	Q17R31
+T	fresh-7b5b196ed8c0befe83b54afbb5582e27c84c81cc8cf007f3c71e68f6a6bca77e	Q05778	selected_group_accession	8rvl	Q05778
+T	fresh-7b949432004116926b3a1b8cefbcc81e8ba37a3dc017897fc10e932678fd55ed	Q9UH03	selected_group_accession	4z54	Q9UH03
+T	fresh-7be278eb1fbddc003cbe7a9413b3cd5b4c147517ac93bb527f4b0b01078a0881	P04520	attempted_not_selected	8dvi	
+T	fresh-7be7f6b3f87604bc7ce9acff85f8a063c2b84f6ddb47d926c1f34e404a4f6cbb	Q9VDE4	selected_group_accession	4it6,4it4	Q9VDE4
+T	fresh-7bf55ce79e22105d68db7b32be281c8fe1bf4e26235e3c02fcb46d4fd8022474	P9WJD9	selected_group_accession	4xxx,7p13	P9WJD9
+T	fresh-7c117b54283566d59266c7f8bdc463dc99fb44236877e7aa2b7358472d756538	Q52430	selected_group_accession	1ukf	Q52430
+T	fresh-7c13d3d46544deba99784f87df53642b22259e2572059165030354048271982d	P26749	selected_group_accession	8tvr	P26749
+T	fresh-7c141862ed64fda69f8e7ca2055cbc03e657ba16ba404753fff2af9e6aaad07c	P13702	selected_group_accession	4i6y	P13702
+T	fresh-7cb979b7f0562bf4f899dc1d536c32cc2d89b9a8b1eef92bf367bce0c0acb3c7	Q9I6N0	selected_group_accession	8yz3	Q9I6N0
+T	fresh-7ce62d625e4995b8181bac7eb5636dfe2bac6ac5692b7addf80518cbea059eb5	G2IQS8	selected_group_accession	7xg9	G2IQS8
+T	fresh-7d645c1ea97ea4eb634fea0b0afe621f842657ee487888797790aa969477a106	B2ACC7	selected_group_accession	2wvo	B2ACC7
+T	fresh-7d8aa9e5117d45cdc42a7bf5ffbeffebdaaf6ba3f21eedd4008e4ae972000948	O25294	selected_group_accession	4zla	O25294
+T	fresh-7d8c940b562df390713a77cd94d1e57731884c24dd5e7464c2b70a253e433f8a	Q03790	selected_group_accession	5uaz	Q03790
+T	fresh-7dd2207b7577f34f6fd24186ce6162a6ac52b81b852bf3bd1701eded117eb402	Q9HLI6	selected_group_accession	7tqr	Q9HLI6
+T	fresh-7e279a1061301468f0152bdc4e597164832c18b407ff852e8e68117ad2a6b4ec	O96693	selected_group_accession	8zxx	O96693
+T	fresh-7eb930811f7d2e3e80e1f442511c815d78f770d1c8d4dc1ae1510d306b4c8ea8	Q8N371	selected_group_accession	4gjz	Q8N371
+T	fresh-7f41a998a812b40836a723614a95ad045dc5a90de7749d4658b3d88c1768b89a	P53262	selected_group_accession	8eas	P53262
+T	fresh-7f6ff5762918dd33dc02ea4cb04731d63bef419c02bdeff3933fd4d66cd67a8a	Q9JHJ3	selected_group_accession	6nyq	Q9JHJ3
+T	fresh-7f7d0949429d2821ba08c55c4812af435c9bb0077386e134b59b9b490768514e	O67998	selected_group_accession	3k8g	O67998
+T	fresh-7fab2898e4a401dbbf125cf661acc16586fb049287b6745308c2f7babc4e76dd	P45741	selected_group_accession	3thi,4thi	P45741
+T	fresh-80321d51b9f1821501f064ce38ff60a774295ed08b83eb954eba4daac12a2cd1	P25554	selected_group_accession	3mp6	P25554
+T	fresh-803a4b4bc14f4203259b38d0d204666a2b0a05a66ded332349b0e716f3d8ba6a	P11014	selected_group_accession	5hd9,7cnb	P11014
+T	fresh-80524b9131dd509993dbdbf6eadcbd9b89a8c295b73f2fd17f7bc7a339bc05ce	Q8NE86	selected_group_accession	5kui,6wdn	Q8NE86
+T	fresh-8052f8201e20d58d84bf0f490f378d32012a70b51a3ff2cfcab83376d2c1dc7d	P02930	selected_group_accession	1ek9	P02930
+T	fresh-80cb2f37ca15de4144ab0c4089bef6ba999af236111fa066c24c7780233e69ac	Q9X1H2	selected_group_accession	5y82	Q9X1H2
+T	fresh-80e1ac76244bf8f17f7a0e4b08e590e0f547bb1515435b38b3bb5be37dc37710	Q04230	selected_group_accession	1e9r,1e9s	Q04230
+T	fresh-8114b6c7fc4761370d96e1aac3e98020f26453cb9947cb8dea01d7b35ee5b04d	Q9HYZ3	selected_group_accession	3wt4	Q9HYZ3
+T	fresh-811ccdc6343de43a8f85064e97a1bc4b83a4fc6480958b200e08352a158fc763	Q588Z2	selected_group_accession	3wla	Q588Z2
+T	fresh-813687cb69779b0dced20343be8c66ca9687d39d5ea08301d8f0c0d02f210749	Q9H4B8	selected_group_accession	6vgo	Q9H4B8
+T	fresh-813692492757bace860661a2e17c72ae47c2eb45ddd4fcd37e39e5e851b56720	P44862	selected_group_accession	1nri	P44862
+T	fresh-815c6fcf2081e8d8d7d92014eb66ad1da55e7adecefd4603bce63c1804ae2d82	P23006	selected_group_accession	3c75	P23006
+T	fresh-81c81d683850c18a51915ed2fd334d5f70e72da6e3cd75d87e1cc959b44bba22	Q13093	selected_group_accession	3d59	Q13093
+T	fresh-81fbd555e8df47a964f6a5a98939f827c6fa6da3c73fb231df4c1fe35217c5d2	Q8SDC3	selected_group_accession	3zbq	Q8SDC3
+T	fresh-829b20c99ba23b1572ece89ba41a7e891c8f79150c3ec585e9028c14d459f625	P02774	selected_group_accession	1kxp,1kw2	P02774
+T	fresh-82a595f7970ff9a7b92ad5c0ec444c2e414ac08d4d1808429ca71cdc6bb36d4c	P49424	selected_group_accession	1odz	P49424
+T	fresh-82e1c57018a52e8d731a11815e7fc9f9419f9a37b00f60f22d3d6a12b0c7c86a	Q9NP92	selected_group_accession	7of0,8qu5	Q9NP92
+T	fresh-8315fdbf34e751a21f44a1ff2f15d8461cddf13de9ea77d5f62740cbac020e0f	P0A8I3	selected_group_accession	5caj	P0A8I3
+T	fresh-831d62f16b4c93c8cd71d5fd5a90ab2bacb09919f534796ff36eca14a7771f47	O50333	selected_group_accession	8rt9	O50333
+T	fresh-83402b65e0e016b83a6cab8b9322e637aa8daae5ba5786dcb000fb0b86f6c054	P09291	attempted_not_selected	8x9x	
+T	fresh-8368615a1fda7089a369e1636aa4ba51d97c2f9bd0780cf47665729eca9a9fb7	Q8ZKT7	selected_group_accession	2zbl	Q8ZKT7
+T	fresh-837e14388363cc46ed55a96ebd6826afccd2a48949cbe5cc401beb63f89cad31	Q9BS16	selected_group_accession	7r5s	Q9BS16
+T	fresh-83a8252d4b0f1bbcf6839ddabb41768f617191425ddcc090f49c7d65aeb9cc9b	Q7Z144	selected_group_accession	5ujc	Q7Z144
+T	fresh-83b8e303e0898f0593b71e9339c6e631ab5f5aac205b7162610f379794c65168	Q06168	attempted_not_selected	6v8o,6k15	
+T	fresh-83cd3bc9ac360b17dfc02d824853537118b875f1321c28ad4060b3bc5c0e46fd	Q16656	selected_group_accession	8k4l	Q16656
+T	fresh-83f142751bb57f8e9a4d26c5a1157eebd83fb9f34dee0da071d962299e623e6b	P0DV93	selected_group_accession	9o4a,9e90	P0DV93
+T	fresh-840164801f821ef1c5be8ba0d4c56aab12e3b330cc3c02fae5c83583cb0d3972	P11411	selected_group_accession	1dpg	P11411
+T	fresh-8424deeb95e8c34620f3fa3db9c3f72d072a67dac75944c8a1375d6090a9247d	P21873	selected_group_accession	1w85	P21873
+T	fresh-843415db6f58a086fab6f976bcbaae6d3e187a080b6b7ec9d33848361ee1c75a	Q96A49	attempted_not_selected	1x3a	
+T	fresh-8487e7994a7a2a533409744030e17ce853442207f6046f7be177ef8f93800fb8	P39656	attempted_not_selected	6s7o,6s7t	
+T	fresh-84a9346691daf4861380156cc4780491670a0279efb024a8f536a7a8a8a40b2e	A0A2S3XLU2	selected_group_accession	7rfq	A0A2S3XLU2
+T	fresh-84ac0394d4c4c49011ac7ba12680779d6df44a62ffa65beefcf51da1dc5528a2	P50440	selected_group_accession	1jdw	P50440
+T	fresh-8502e6f701a6bd18512f22e87ae41b1b25ada1c137744857cb3e72e448dc8d95	Q992I2	selected_group_accession	2vrs	Q992I2
+T	fresh-8547190edd6bdf73883a66b9b2b13e0ba5a7f2a3d5813d2302b35d07da3f2223	Q8L9J9	selected_group_accession	2apj	Q8L9J9
+T	fresh-854f2e4a1958eec97e08ce9eb8913797c0635015b9861ec16e6074d2a6435dd1	P56109	selected_group_accession	5ucs	P56109
+T	fresh-8572175f04adb3c500ccf1121f174d8efe38002da7b5c1d11074df2b7e45171a	Q03433	attempted_not_selected	9b1d,8qyv	
+T	fresh-860afba3db37ae609298a8180a8c5bf0bb8bb68c040c65281349ab5a6d7f047f	Q8U2E5	attempted_not_selected	9nf0	
+T	fresh-868d677da88d19abd501749751f587fe5f7a1687f3c6d91c3c18d13e92bfed50	P37105	selected_group_accession	7o9f	P37105
+T	fresh-869cd8754c956d755835f6c9e0d19830e77103d5677829f6e1e150ca54be85fc	Q8ZQ79	selected_group_accession	4g29	Q8ZQ79
+T	fresh-86a72d1c54583b84ffcc1c5f09d4b5bf625a3d0ea8730b637b861d87848fb8c9	P32722	selected_group_accession	3sy7	P32722
+T	fresh-86bc2a32afb5dce3c481440d5c98e7fa8657d239a7f77491518ee64da4e6f5d7	A1JUB7	attempted_not_selected	2lme	
+T	fresh-86d6fe683dddb710ed38bd871e4f1671edc76f5a544680668d5f626da56c5dcb	Q4WHW0	selected_group_accession	5hvo	Q4WHW0
+T	fresh-86e058d4ddb0ccd0de0b106deec937402b6768febfcdb6bd4d10739c785a89fd	P43366	selected_group_accession	6r7t	P43366
+T	fresh-872b297ae50cfcca5a8160183f1fd7710f6c37f7a8a4735c2da337274e3741ff	P39072	selected_group_accession	6gz8	P39072
+T	fresh-88531b5b31929fbb7e179c1599a0fb4b53db331896fd52881b09b81366c09f42	P34209	selected_group_accession	3ca8	P34209
+T	fresh-88763128c4e35987e801d478f4686f0a4a31ef54e866034fc85b0a8c10ef1296	P0AD61	selected_group_accession	1e0t	P0AD61
+T	fresh-888681a95c676af14d6ca0343ad61d74039a0a9d28d56688eb8d9b0595ea3e00	Q5T280	selected_group_accession	4rg1	Q5T280
+T	fresh-88cb72ae11c37e147ee8dad8c236dc6fc2c2622a637d0f35bf1e67e698ae9165	Q08495	attempted_not_selected	1qzp	
+T	fresh-88dedbc6b5b5108310b1dae25ae7a8f1667f5b3e33dca6f85c4b862d514aa462	Q2CEE3	selected_group_accession	7khs	Q2CEE3
+T	fresh-88f0324de00bcf534ad8162a7f942ac21b45a0d13a9f1c876691244dce8b7e6c	P32561	selected_group_accession	8hpo	P32561
+T	fresh-892028ade98e53ebe8f2c8bb1845888dc58e90c9c6c8447580c40af944fbd6ee	B2UP57	selected_group_accession	6jeb	B2UP57
+T	fresh-8920f3a157d6379e57e6bb25d98bfa242df6cfb0a5ff48f107f8a7ce3c30457a	Q8R6L9	attempted_not_selected	3udc	
+T	fresh-895d9a65e81b6747ce79e6bb0af6638668dfee8a06acca202760f433c1083bab	Q9BQ65	selected_group_accession	4h7w	Q9BQ65
+T	fresh-896d973e09c7647de705c2a68bf7fa384c0c9e098fb934319ee869d0661bda7a	A7RS11	selected_group_accession	6tx1,6tvh	A7RS11
+T	fresh-89877ccea54380cbf614458067c2b355366e9820912576930e69d5d327005306	D2ZZC1	attempted_not_selected	4qtn	
+T	fresh-8a1ec001041151b5398222d1bd8050cbdb7fee9d179206e672f1437968f2b590	P21087	selected_group_accession	8p0j	P21087
+T	fresh-8a948e160fd9fc95390b78683e17c3fd12e07b9c00d2999ef5130e0f3aeda9ce	P13991	attempted_not_selected	8vcj	
+T	fresh-8a9ea666efcc376a32c5d8918f116eaf2a48d830d9159fad66f54ab17b5d632a	Q3TBW2	selected_group_accession	9hcf	Q3TBW2
+T	fresh-8abf4a8463b1dacf046e646c36b85c19bfc985fe7a03383b1a6f300b81e0b5f5	P57098	selected_group_accession	1to6	P57098
+T	fresh-8af6b273881915d316f302eb248f668f0184890d9e3b025cfef02b2a26c7ff47	P29460	selected_group_accession	5mj3,1f45	P29460
+T	fresh-8b3b9e2d3a6d72aae946397fccef37bd3f63733fe48294657a506f617fc2052e	Q9XI47	selected_group_accession	4iup,4iur	Q9XI47
+T	fresh-8bf8a15e6284983ecbf14e9c18d94916cecd525aff7a0599b7c63da87dacb55b	Q9FI78	selected_group_accession	5kjs	Q9FI78
+T	fresh-8c133b55c44ddf0a26f3dbbf6f3020c19d7af777ee93a2ab0686b025fc7702ea	Q0P8I9	selected_group_accession	4n3o	Q0P8I9
+T	fresh-8c1de9dab6ff11e1a655ceb4393e925dd9cbaca77fd518d10f2bf6bfba2fe554	B4XC07	selected_group_accession	4oou	B4XC07
+T	fresh-8c410a02bfab23d35872ed90f357f3a5e5a6fafa3c33cf0a89de4cd56edf827a	E6MVV9	selected_group_accession	5xvr	E6MVV9
+T	fresh-8c71553ece3a42d63219dfaa0fe43d99f21fc6e2bfc84a209df4581e0bc39a82	P05133	attempted_not_selected	5fsg	
+T	fresh-8c754ce24c58e6c045151a101b4fa6dd2f6339eebe7bca6f683482fffa63927d	O86309	selected_group_accession	1w5r	O86309
+T	fresh-8c875ed8b665b80287ee3d8bcb5a7ee7e6d76a314570514b671731ba6362a376	Q92DF6	selected_group_accession	5b0r,5b0q	Q92DF6
+T	fresh-8ca505b9d3c15a44e131d3c6d2b798c6b2029523c07af9cab8d2d8b6eb95172d	O76036	selected_group_accession	1oll	O76036
+T	fresh-8ccd4d79c9132aecc885b92335240a1619541aa3640b9f45cdf24ce42bea73be	Q0P8H3	selected_group_accession	7kws	Q0P8H3
+T	fresh-8ce29d2387590e4142032094196dd49275819b6f63b313e2da5b78b73770fd1b	P77173	selected_group_accession	1f46,9iue	P77173
+T	fresh-8d03efa2e1924233ebeabc92475153e938238959e460906a37e047d62a234b82	Q5SSF7	selected_group_accession	7cqz	Q5SSF7
+T	fresh-8dd787f8cd851ffcd61e47338e488807f6936bd9f731172d80a85db7bacc06b9	P64201	selected_group_accession	3ip4	P64201
+T	fresh-8dfa9a1a116797f2b5caa28b459fe5de3fe68a8dab00c60c151067eaa126cf69	O13833	selected_group_accession	4ud4,4ep7	O13833
+T	fresh-8dff651e18d5ebc8a12091d8fa468c995b2beb4635551fb956f940fe6b1a75d0	P0A6V9	selected_group_accession	1sz2	P0A6V9
+T	fresh-8e44c6244097d119e71d4318c64a82fff8a064707a8cb77caf0e17358e6190a2	P0C2X0	selected_group_accession	5i2m	P0C2X0
+T	fresh-8e57e9e264a3d13eee1b1afad488994fb029c720cde4c386dcdb421038e2ab48	P54654	selected_group_accession	1s0p	P54654
+T	fresh-8e74b9cb0f011db5fa46832703f2f23cadfce091af524a59bc6c5ef3d9c04833	P0ACN4	selected_group_accession	1tf1	P0ACN4
+T	fresh-8e8622237a8b439f837b8c7c32b30598c649adae74d8e76e2cfaa4ac3739475e	P36534	attempted_not_selected	3j6b	
+T	fresh-8edd1021bb4716a18b71a647fd36ad55b350b5a73a93e27a024065f746de0407	O34825	selected_group_accession	5dz6	O34825
+T	fresh-8eddea867c0da2ee3ccbab63b27fedc63129aedb18452b03d4db5e53388dda55	Q87XG5	selected_group_accession	4p7c	Q87XG5
+T	fresh-8ef16a83e9e02f492ade17818c5db00c9b1a074b4503d8defec5874c16866da7	P13664	selected_group_accession	1kzq	P13664
+T	fresh-8f24cc18d4fb221085aa4a5e4296d99254ab3dff2f34aa856e73b9714875148c	Q337M4	selected_group_accession	6w1k	Q337M4
+T	fresh-8f4551f46467a4695b98e71da91f0ab2e725c6980b88d39f36650d06e4e33865	Q9JKF7	selected_group_accession	9hcf	Q9JKF7
+T	fresh-8f501dca7bfd2d183f227c559d427aad699b5e5ce50c515191a1a8a6e936182c	Q58820	selected_group_accession	2x06	Q58820
+T	fresh-8f5a01b4dcc56e4266a36009d83b586884e13bc83ee44319c8871e2f911b250c	Q08231	selected_group_accession	5ubp,8u8d	Q08231
+T	fresh-8fe1844cffe6f535ee2a199a295530f522a52fe9ed8a57ee2393ea917e99bf29	Q8NCC3	selected_group_accession	4x90	Q8NCC3
+T	fresh-90571b9d4e9709e4a99bc6e4e0c911009ca52c2af1a84c9d13373db40a8790cc	P11405	selected_group_accession	1sa3	P11405
+T	fresh-90a35425dd14ed2d2d7f682b6866175eab1715ee99d925de2a1b2b016aec40c0	P21953	selected_group_accession	2bfd	P21953
+T	fresh-90d62a795c3f559c78ab36c658a4de5396804927599f8e11599b7002e0fae82d	A0A0H3LX82	selected_group_accession	4xg0	A0A0H3LX82
+T	fresh-90dc20a8060ffab3f1626ffc904f189008b9acba6d5206bded8aec0036644374	Q9Y6R9	selected_group_accession	6hxt	Q9Y6R9
+T	fresh-91311b1c5fc6c4eb113ee95734c602a4af7b7cac91f04c1b4aa91d0b7079d2c8	A0A1E3M8P2	attempted_not_selected	7lrn	
+T	fresh-9143dfaf4405ef9fcaa660f3af8507e3710f8659a72ea75214a8e8002e3a4810	Q16254	selected_group_accession	5tuu	Q16254
+T	fresh-91aff21ca88c31969bf3b942c70bb0d4d17ab8f7b35c38788e009d8b9aa785d7	P54308	selected_group_accession	2wbn	P54308
+T	fresh-91fc1b077ae9b91a699164c0fbd56d2150236c14fd1f9b78f07e3ecaed3af228	Q57815	selected_group_accession	1d3y	Q57815
+T	fresh-92061bc9dddc29f0c6c77f532db1227b2103970d1bff8cb8da0d3023f6df18a6	P53941	attempted_not_selected	9g33	
+T	fresh-923d6016a99e4cfb207ca229d175bf770fcbcb5634b6cb5e5afece9aab0a2bac	O86428	selected_group_accession	6nst	O86428
+T	fresh-9262387119eab4eeef0553768f84383f585ae92353ffff9b7adaab168210017a	Q3L8N0	selected_group_accession	5o1l	Q3L8N0
+T	fresh-928da94785ceec205fbe31b1ff13f615ae26d4161ece3332aaf01b06d9004a73	P80357	selected_group_accession	1yle	P80357
+T	fresh-9294d54d67dac5eb6f0a611b24f1ea94d2de3175b49e2a4ca3a815e5d64c97b9	P84908	selected_group_accession	5fzp	P84908
+T	fresh-92cd5c4b59967f8d769197e0e87e8a316eac6aa0c36adf549f2a84bc54d641a3	Q5SRI9	selected_group_accession	6zfn	Q5SRI9
+T	fresh-92d0cdaf6d8bf96703ae2e76e6b36b5c6d865a3e946595adfd22507fd319bbc0	P51058	selected_group_accession	1ii2	P51058
+T	fresh-9356bc4ecbdf0c438d4eedb00e5d295cf898457380520993169a656a6731b82a	A0A0H2X5R2	selected_group_accession	7yqo	A0A0H2X5R2
+T	fresh-936d4649d0b4806d43ec0b68263763ae4b986db9bbc3ad1a5e8c93a344f9e150	P56182	selected_group_accession	8fkv	P56182
+T	fresh-9384135e92b260fe826b12735ab0b5baa3c12248573b10a6d83b3906199944fd	Q9LY46	selected_group_accession	6cci	Q9LY46
+T	fresh-93a1578e33afe3ade36d118f937a42bc17dfc12902c215d828cab27acea0cc90	P86325	selected_group_accession	7w1k,7w1j	P86325
+T	fresh-93a1943dced66140db8dfdad68865e9f0bdb98b3558c4dd0c6fd9ab62e1ea2b9	P18895	selected_group_accession	8rqp	P18895
+T	fresh-93f27977906eec1886e510aca7dffaf6e5a8621bb1ea96cc0686bbe940f0d9b8	P08160	selected_group_accession	1p35	P08160
+T	fresh-944a0f52f9c7423bd0d328d7473587c4ba05ae50313050b0e39f57c6442e30e9	Q9AQQ8	selected_group_accession	2zk9	Q9AQQ8
+T	fresh-94ae3b7fec5f87887f82a251531e7b48ede8e1a24e317521b52cd0f10a45c815	O66663	selected_group_accession	2xci	O66663
+T	fresh-9543ef49270c1d72b9cdf59ab2d6ba5e2df6f56b2161fcdc180515323bb675f9	A0A2I1BSX0	selected_group_accession	7de2	A0A2I1BSX0
+T	fresh-955f13b334f0154c5a279a84b5516f206f3d7b8f1272d368e8ee6bdb978876fc	P19841	selected_group_accession	7xc6	P19841
+T	fresh-9593f6f15ec5d7f55fa9408065eacda181dba5bb667443aa3ffac3ac49a3ac13	Q8BGL3	selected_group_accession	7d1x	Q8BGL3
+T	fresh-95f42a455487e051de77d14d271a307e488b2135f5becc645b7ccf88cff408f5	P48362	selected_group_accession	6hb1	P48362
+T	fresh-964de0c89d14d74d6867dbcb155d7f8af98b04b55fe1c7ee813551e70d077bb0	Q99848	selected_group_accession	8fkv	Q99848
+T	fresh-968ef0ec349e97cbaaf0f804ad2b58e026fea65077e864328fc9987575b1a741	Q9KX08	selected_group_accession	6zjo	Q9KX08
+T	fresh-96ba0e082af68b5a488ce3b8f42851c42818f3b5078ab304fe348e0d0894a77a	P19843	attempted_not_selected	7znq	
+T	fresh-96d61dce90e2c955b4fc6457a4af4a85314025db15d6f2a973257fa41d35c6e3	P0A433	selected_group_accession	1p6b	P0A433
+T	fresh-972874c197ef9aecb6ccc68b74b2521524877d9bda7b06a6a35c7851b352ff35	Q14331	attempted_not_selected	6zym,8i0w	
+T	fresh-9792f8b11a20482adb0d8c7c38699c84874aea73a67badd7dc585cb267ae183a	Q5HGD2	selected_group_accession	3g25	Q5HGD2
+T	fresh-979388ec72a294f698219b51eece572eaeb7468f601c4832d831e2a6eb80afe6	P38867	selected_group_accession	4m8b	P38867
+T	fresh-97f7412cadd2ee36a263ed25dba65f49ba895b9bc54b88751266b07a1713b424	Q9M158	attempted_not_selected	1vee	
+T	fresh-986731d1102fdc1f00eb8403d44e71cf3063be5ec8ef67fb038f7cda5aa1ea3b	P05655	selected_group_accession	1oyg	P05655
+T	fresh-98d0d8784dc1d2df8d37d1ec97f97e24ed43b7ff878a6d8aee6aba12ad79d8fe	I6Y3Q0	selected_group_accession	4x28	I6Y3Q0
+T	fresh-98d78fe9e7a09ae318cf2bed0ec1ad66dbf80e60a403e405f5f699f090774216	P16750	selected_group_accession	8tco	P16750
+T	fresh-98f3b380ffb0a3f957dded41bcc9bf5026f86d172d3fae8ab2bb0f640c609a2d	P28269	selected_group_accession	3a8u	P28269
+T	fresh-98f8210e78f9c7c67e4e7aad03ef8b93edb4005456b3157f91adb875f36aab75	Q5MIU2	selected_group_accession	7tds	Q5MIU2
+T	fresh-997dc56fba76a50cf0d6a6317d094e946ace1a867e83f619cab5c67f22341eb7	Q8WWA0	selected_group_accession	6usc	Q8WWA0
+T	fresh-998930a7cb520342d8d51e9483846ccec857df1917d23714fc4f14d23a4d51ba	A0MGZ7	attempted_not_selected	5t0a	
+T	fresh-998e3cf8f41bdcb4f1a6d3cfddce23a1f8c5c793787ca85b01dd325a096d1c32	A0QQF4	selected_group_accession	6t84	A0QQF4
+T	fresh-9994b256240d838570cb23530713f11542c9a01c1bab2d2e9dd00b251972a541	Q8TWU6	selected_group_accession	3g8q	Q8TWU6
+T	fresh-999d16b6657e83ebf183dd3c74ef99710b337241ebbdf685037cc568269dc9cf	Q7M0R2	selected_group_accession	3lcv	Q7M0R2
+T	fresh-99a894274fd09a34c53fc4d5d7449f053dbfae2cf6eab083f91aeb5952029398	Q18014	selected_group_accession	3zy2	Q18014
+T	fresh-9a2dfdc75caf80c0309b488dfff22d0efd68354d727254f589c2dd238511da95	O52793	selected_group_accession	4j7h	O52793
+T	fresh-9a5615cb12183b92dbe9c23e398e2798537a746d06306f179cfd3882b3bb5471	Q9Y259	selected_group_accession	3feg,2ig7	Q9Y259
+T	fresh-9a7a385e1459de9d32ef616dda1c212e0303c22ee5c3604632a8bf4e2d637be0	P78972	selected_group_accession	4aez	P78972
+T	fresh-9a87fc73866182863b9f440c7d090fd3568f09a981cc1e68d287677fd4f0fe76	Q65CX5	selected_group_accession	1ur4	Q65CX5
+T	fresh-9a97664ecfc108c8cee37fd5dcc4083b508ade9a857224c60def79f2fb7286e6	A0QVL2	attempted_not_selected	9dm1	
+T	fresh-9abb5b010a8a7c8407f5eabe3c568d3cadfc1ddfa30348cba7e8226a52ccd6b4	P03520	attempted_not_selected	2k47	
+T	fresh-9abd2bd79f80d7d48b4b13cb1734bd78638e2586ec2f5806427ffece9a1e6b4f	A0QNJ0	attempted_not_selected	5cyu	
+T	fresh-9acb14f9b17632f5367d821361ccc32710513eaa2f82c8d8b645d077c9d80c17	P56704	attempted_not_selected	7drt	
+T	fresh-9b19276c4d8797029b5f089e2d032f3a2626177f6e697884b6391bb3aef27068	P28907	selected_group_accession	3f6y	P28907
+T	fresh-9b208fc18b6dcae056793d7c5ece7c2d6d0d52619b92f5062bb8a9cbe6d02d90	Q9UMY1	attempted_not_selected	7mqa	
+T	fresh-9b43b38cc0b8583606a54b5265b83a1c3a038a0887b45dfd8813dfb3fb52119b	Q24SP6	selected_group_accession	6sk4	Q24SP6
+T	fresh-9b66c94db0969143a89832672eb30c176059c8f717c8bb13e027b19ef0ba6ba6	O67572	selected_group_accession	4ehx	O67572
+T	fresh-9bb193752e0b453455b4c9ada8d8811a1c8598706979c1d7d1e39e1caf0cb303	P15291	selected_group_accession	2fy7	P15291
+T	fresh-9bf206c3b9c1686b30e6cd03828ecdccab42e8fb56f2855d77f4eeaebb657b67	Q8ZIE7	selected_group_accession	5bph	Q8ZIE7
+T	fresh-9bf2a4fc1b6b7ab3b487851a04fd4afdfd47adad580ceff91b5bda2633ee95ad	Q2UNX8	selected_group_accession	5eo8	Q2UNX8
+T	fresh-9bf862e89812a33f2aeb63fe047c9f69f1fd5386f2cc8225614a4c4d90673489	P46076	selected_group_accession	1eb6	P46076
+T	fresh-9bfc9b6246b9a47603f5eee50bcfea92482d09997d12da8ee64118ee13033396	P10927	selected_group_accession	1qex	P10927
+T	fresh-9c0745336ea57ba77db10e09d03dce72bb2152d73d562c5101848302f3b08953	Q9HAD4	selected_group_accession	8w3v	Q9HAD4
+T	fresh-9c8515950b6817fcf247a4f3bca43ebe430d33e5f5cc0843a87b2ef1dbce01d8	B0VHH0	selected_group_accession	2y7e	B0VHH0
+T	fresh-9cd23e32e295903eda171ff0e56452f0c539c85983cddc40fe6de7ccb82c974d	P05364	selected_group_accession	1rgz	P05364
+T	fresh-9ce4aea41026b410e71b88cb1fb770268ce6cff40275832abe9626dc0eed77ba	Q9NW38	selected_group_accession	3zqs	Q9NW38
+T	fresh-9cee0f867fed8dd92e6fff20e19bf5fe6bb4ed9e9f3cafb06b49cd02c9be3134	Q5U780	selected_group_accession	4fkb	Q5U780
+T	fresh-9cf9052a79444b63b9c1b8ad45616a690cf155192503954728949b610cb2621b	Q91WD5	selected_group_accession	8om1	Q91WD5
+T	fresh-9d0b301ea6e88c6ebd6523bbb77805f2ac42c3f2d614dabd282f9a66c1d32888	P36121	selected_group_accession	7z0h	P36121
+T	fresh-9d245762715f3e8df001a42297bfe2d83f7f11827c3c1c86ae765d9a088666a0	P03526	selected_group_accession	8tka	P03526
+T	fresh-9d37eadd63eb7ac9a22c021be7e4e9ae91c1affce8060ed6b2a41e2e4887cf52	Q81LV7	selected_group_accession	4mwa	Q81LV7
+T	fresh-9d5d131fa50489f9ac05f94b61570ba415db1678788ad5fea097ef533a66ae5b	P17743	selected_group_accession	2gig	P17743
+T	fresh-9d76ed3f5999f4fb340ec04e961c421bfb02398be72dc0b1ccdf9ef34055d34b	Q54S83	selected_group_accession	5zzw	Q54S83
+T	fresh-9d9ee3e4c14dfd0aa9f9bcb325b3407f53b4f2067e82501494932f9832c3b567	P55081	selected_group_accession	5f5s,8h6k	P55081
+T	fresh-9dc204603fdf32fbf8f9ac71b6996b193a5b97ed1c9566358745f68c47f8b9b1	P17811	selected_group_accession	2x55	P17811
+T	fresh-9e33f55684060a785344c3bc8e3abf3fdcea1826bc10090ffd784c61e7a1cb3a	P17172	selected_group_accession	1wth	P17172
+T	fresh-9e39ff8af20b7b05b0ff92de0449cd247029a933d4749bac4f3bcf4c6b86bc87	Q7NY09	selected_group_accession	8htd	Q7NY09
+T	fresh-9e3cdfc6fc7f9ac6d6a57878f66127050e3a598eb82b6f7c9a30e40f0162c3ea	B7HFR2	attempted_not_selected	8tia	
+T	fresh-9e86e77ea2d284a8f71b6f137a9569d26d03fc688f4e66111d9b7f4b14573558	Q88ND0	selected_group_accession	7ula	Q88ND0
+T	fresh-9ed019f0f279b72ff1852570d996aca4ac201297664e76d60021fc15cf64ad57	Q9H790	selected_group_accession	7lw7	Q9H790
+T	fresh-9ee47e24a3ff83d3e7a2df92a94f495b70e26f481f6577d9e4e9dac4f0df419a	P40261	selected_group_accession	9gvw	P40261
+T	fresh-9efc097cd53a3fabea8816617c227c28a2e1e124b19b2fb7daa9a49907005131	Q46899	selected_group_accession	5h9f	Q46899
+T	fresh-9f00b26243a749b3d831d4310670d6877a295f2961e2c99fdf1f81edb6480f56	P50607	selected_group_accession	1s31	P50607
+T	fresh-9f9017a8fe445f04f004a7b6076c7e6bafc3ef29ad7835472907c7b0046b56e7	P47110	selected_group_accession	8tlt	P47110
+T	fresh-9fbdfcd9380f930db3c9b60642e220c7ff724e4cd1c7d8ad66a4ee2a458edb99	Q60349	selected_group_accession	9hbl	Q60349
+T	fresh-9fc368cdf4f2d0595df46c2967e7a63661dd4258aae3712e2cdeae868885f54d	Q9P4R4	selected_group_accession	1ff9	Q9P4R4
+T	fresh-9fda27928cca9de3e8564256153ec977ded1e93aeb52f9731fdfe3c5602abf6f	P25441	selected_group_accession	7z0h,6tut	P25441
+T	fresh-a0399eff58f13aada059883891da03feecd5a001b781dde8e58abef3fe0d1b1b	P9WJC7	selected_group_accession	5xkl	P9WJC7
+T	fresh-a049aff0b4b756dabd2054d09234cec81019aba22dd6aca80aca94e695ad9643	P58004	selected_group_accession	5dj4,5cuf	P58004
+T	fresh-a0558cf6ef4dbadaf6768e98126b11a4ca09bb6de8a8672f4a12a0222b49c44f	P37268	selected_group_accession	3vj8,3vjc	P37268
+T	fresh-a0757addb520263a1adfe423ef84687acf1771735ac3452e02e92ff78af6bf90	P22434	selected_group_accession	4ojv	P22434
+T	fresh-a09b4c1346815c63cdcb9bea72756bcdeb3aa9c99e7828dfebf43d40d74a5aac	Q07021	selected_group_accession	7te3	Q07021
+T	fresh-a1238ecd841a19a65c9287f1d28ba06c41c0340b9c82dffcdfd3163246947251	P28790	selected_group_accession	1wdk	P28790
+T	fresh-a123cb9a3b2a1fa8bbb44531282c2024fa6433a5c1f2529b5430ef5202e48781	Q8KNP3	selected_group_accession	3m89	Q8KNP3
+T	fresh-a13537cf7556c3d0874cabe94903c2dd1bed204012929e48e136e0d55c6d9311	Q9NWV8	attempted_not_selected	8pvy	
+T	fresh-a140b373ddb48da8451a6f679763d8104c317c526e7b547ac8c701376bc21dc6	Q8LDU4	selected_group_accession	3agc	Q8LDU4
+T	fresh-a157db8c6cc6a1f877860df358096245631a9a5dd61e50f25a8e8d74c3db3b94	Q9X1K1	selected_group_accession	5y0t	Q9X1K1
+T	fresh-a206bfeff9158e24aa857729385bb21d3b98e85ea974bf8a8839d4695636dc9b	P27254	selected_group_accession	2p67	P27254
+T	fresh-a25fc7790fa484d34f21ca6ad32f47241624f7bead8a0a44fe72edf33baef6ea	P27115	selected_group_accession	1fo8	P27115
+T	fresh-a27b0282bce5229ce9f740863adb9cd3dfaab627baa476c4afe491bdc13e03f7	Q8U919	selected_group_accession	3db9	Q8U919
+T	fresh-a2b7d414a5bfa0f177c5fcc97341954d6ad8f1277cefed32f14deacc7a616f35	Q6P6M7	selected_group_accession	3bc8	Q6P6M7
+T	fresh-a342c14ac8ce539ebfbf6877eefc29ebb363e4652203a7d167ece8e0dbb1e00b	Q9T1V2	attempted_not_selected	9ki1	
+T	fresh-a347effedfed55f64d8f17fd2acb89b38e0c318ebad51512f5a3c602b96de1de	Q5TBB1	attempted_not_selected	3puf	
+T	fresh-a361969a7632cb54cb38966a20a0aa396a5f9443d54c8e6418642626d65479c2	Q9T1W1	attempted_not_selected	9jod	
+T	fresh-a383dd79dba11f2ffb2e50784eeb6f70e4938b5d9c61a258a87877c14dd02c5a	P30566	selected_group_accession	2j91	P30566
+T	fresh-a3a0bebff3752d24d783c57b654090291eecb1136ddd7f639921b43ab2c52238	Q9UT27	selected_group_accession	5ax7	Q9UT27
+T	fresh-a3fbf54ab7c99c963732e48b10c7203bdbaafe3db4e53dcd8b83d443d76cbeb9	P77649	selected_group_accession	6lna	P77649
+T	fresh-a42d754cbd74c174db614af671a66d0cd401780de5a86eefce80512eed0469f7	O60779	attempted_not_selected	8z7z	
+T	fresh-a450070f0c53beed6e88171e94806065bf46a8679e526623be065297b6fbd88b	Q8CB27	attempted_not_selected	2kzr	
+T	fresh-a4501779d7e057861aeef81c25e748e1837bdeef226a750f435ed1bca8f3f798	G3XD28	selected_group_accession	5eou	G3XD28
+T	fresh-a4a7991611d3a38cf3e749d2835e0d1969e39d031bcb73319dd2030fda2a3dc0	Q9F5I8	selected_group_accession	1h80	Q9F5I8
+T	fresh-a505e737413fb5ac8d53c5026bc15b384a1de1510e54189c402da3e36ba1e513	O68557	selected_group_accession	1dmu	O68557
+T	fresh-a50ef56773e09b24c970fb8233766f10da5bc8d1d77472e508712a73f9010687	P0C0V9	selected_group_accession	3i26	P0C0V9
+T	fresh-a53a52001e239ead70f41f1a1c55893fc621610abaaaf88efe1ef9501ed3b4b8	P0A8K1	selected_group_accession	7cnw	P0A8K1
+T	fresh-a549b33ac65f0476a2aa0829c7d8e42daae4f018c9b206ea763560e5b742339d	Q99538	selected_group_accession	7fqi	Q99538
+T	fresh-a58c81e68bee53d93dc5e46eba63136ea0687c546d64de7dd66658dd4cb706cb	P89522	selected_group_accession	3u3i	P89522
+T	fresh-a5942b8c21350de12242e1640fad585103cb86539cdcb7ffe25ccfdb22a83242	P05026	selected_group_accession	8zyj	P05026
+T	fresh-a5b07ee785f46b4e0951858697654fa15127639d9a79cc2d12ed15e762ed4cd3	Q9BHM6	selected_group_accession	3c7a	Q9BHM6
+T	fresh-a5be49dc74102fac8e08ffd7da9e0e0ae9bc818d5eae5f20b6e670ca05c32dcb	P21281	selected_group_accession	6wlz	P21281
+T	fresh-a623deb24dea7e64acfe30310d9efd377157bcd9da70c6f3c832f1256cfb866c	P28585	selected_group_accession	7u48	P28585
+T	fresh-a63e9729405ab24f31e675540a3c8f0468958443f194e82b3f9439b0f513d58e	Q51548	selected_group_accession	3s5w	Q51548
+T	fresh-a679ff96763d9bdfaaebab85e48b73957f08e135c7967668e92450c164c5460e	P23184	selected_group_accession	6grh	P23184
+T	fresh-a67f02141378df5e89c7c9d17d9bace6f8e623f1e15be31afa88e306ba3ef7e8	Q97ST4	selected_group_accession	2ha9	Q97ST4
+T	fresh-a6919186d46e048d684ede4b56eccce4247d8c9f44e2a1e4b9f8b29769c26780	Q2YRJ0	selected_group_accession	6ntr	Q2YRJ0
+T	fresh-a73fa1886fcfc509754c5528fa8c27956a13f6c4937e91798c92ceaab9557e5b	Q5SKW7	selected_group_accession	1wyu	Q5SKW7
+T	fresh-a77f043d2728293a8b4f9e8a1156cf8e7a9a3bb74a014f4ec2cc8648ca779196	Q46N53	selected_group_accession	9cp8	Q46N53
+T	fresh-a7c1f17bc3fe47bac4479a4a350475e1c3f38523b4626ba06ad63bdb861ef7cc	Q06208	selected_group_accession	4bj1	Q06208
+T	fresh-a7f37d71346a84dd7cc8f2a0dc63091cffc88c5bd3edaff88a89651fc95016db	A0A1H7TQR5	selected_group_accession	6hwj	A0A1H7TQR5
+T	fresh-a80b0c63b5d9c1313b54841023b7dc9e1f819b3893a247a885cf152212086d77	P26466	selected_group_accession	2mpr	P26466
+T	fresh-a811a0fb48fb884833248f22ccdfba8316eea00efa2f0afac63160330c406bc7	Q94A79	attempted_not_selected	6oit	
+T	fresh-a813f2f561308331d9a3888ba885c26e28fa372df0092e1c17f6298a6d8f142a	P01558	selected_group_accession	8u5e,3ziw	P01558
+T	fresh-a81ad9cbbfa0eb8c01683060b63cf3213939846918fd9e4c0df579d19ccf001f	P0C6Q5	selected_group_accession	3oc8,3oc5	P0C6Q5
+T	fresh-a843937990e39159435703004dc208b01e87d2c48c73f145360d1fc04b31fdec	Q03290	selected_group_accession	7o4j,7ml0	Q03290
+T	fresh-a84dfc492e84f1d3202c61246b9148dabd105772abc45849ca30547224f6f7b1	Q9P6Q6	selected_group_accession	4pn0	Q9P6Q6
+T	fresh-a85fd68d8246e17799201c796b322f8652e715266a99be6428120a44996f4c8f	P04816	selected_group_accession	1usg	P04816
+T	fresh-a877d686b7356cb858cb3dc293a370429f197421f1696c16fd0067ad8a28b4c2	P52041	selected_group_accession	6aa8	P52041
+T	fresh-a87c835ad324a45df0cc63e453a2512c6f1b10083987e019fffe979a67d152a1	Q53VY1	selected_group_accession	4an8	Q53VY1
+T	fresh-a902e0298992818f2f6a16bdf780f422f64c3bfc07c0e5a8d8e0197fe20ea7eb	Q58122	selected_group_accession	4rfl	Q58122
+T	fresh-a924477252eda57d6bab2873473c46c6a25672b8cdc58e4766333d62e9eeede8	E2AB17	selected_group_accession	5cw4	E2AB17
+T	fresh-a927f890a120bd0ebb7a617640d3108212a7e24552da61e779ba9544735b2840	Q7BU69	selected_group_accession	3eb8	Q7BU69
+T	fresh-a94a5d1f816b11a0a5235e0a5d86a9bbe5811b7e6eb8167d1063bdb515eb7833	Q96LT7	attempted_not_selected	6lt0	
+T	fresh-a9712a5fb9047086943a406b08740ed53ca6fc1697c82fd042bcaa008f43f8b0	Q9VAC8	selected_group_accession	5al7	Q9VAC8
+T	fresh-a9a9327301db3e13d1886ba948fe4777639c03bf359e02f4bfc5ff049bc8c48e	P41772	attempted_not_selected	1co4	
+T	fresh-aa593ed2f028b878cce480baee5c9e9a2ab73aedcf45aebf841837136fd4705a	I7H0H9	attempted_not_selected	7dn2	
+T	fresh-aa620119633af3a20691429270fa1c7941b8675a046aa20bcfb2b32324e780c6	P04425	selected_group_accession	1gsa	P04425
+T	fresh-aa6b185ef19d86cceed9bbb87a7befa855e005fb73551e7c55242e04df928b6f	O50337	selected_group_accession	8rt4	O50337
+T	fresh-aa6d4c7e472dd97f585a7d13ecb5a1454ae72190d42451abb896ebf750479e36	Q6CUC3	selected_group_accession	5h5a	Q6CUC3
+T	fresh-aa7b80cc68c5087b98cc1001a6e6097e6305cdf5f3324b848b577fbc293fab46	Q23229	selected_group_accession	1mg7	Q23229
+T	fresh-aa7e93eb8c5eb4411293d97a7afc53c84caf5b0e19d6607a68137d2f8239acef	A0Q5J9	attempted_not_selected	9no2	
+T	fresh-aa94f2013ea746ebd276171d3acba49670a92419bb0f6d9eeaca2f94a1ad4e79	Q5SIY4	selected_group_accession	2y3z	Q5SIY4
+T	fresh-aaee7e0601e496b948b16a1eb80905a00e45bbabd5de04a5e46c886441b237d6	Q8WPJ2	selected_group_accession	2c0h	Q8WPJ2
+T	fresh-ab10f617deb77fb832b33c9271c7ded371a6d4f18aff4db0f8101e2262232987	P27170	selected_group_accession	9r0q	P27170
+T	fresh-ab36cee056ff4403fdce8a2f8c0538126a8444a8cc6eed5d0f9904b4fc85ca91	O53507	selected_group_accession	8f8f	O53507
+T	fresh-ab4bae25542cb2e047178585f264a42c22ea47c04fefdb2782d8d83abc6c2db1	Q97H19	selected_group_accession	3k9t	Q97H19
+T	fresh-ab5e72ca8f621eec23fd8616033df4f20c055069c6c5bdb3d3c79208e980f9d5	P0AEJ2	selected_group_accession	3hwo	P0AEJ2
+T	fresh-ab857977a11c691526555373b8662cfeeb284eee2d985f21fdc5d2c6e357fe2b	Q716G6	selected_group_accession	3rwn	Q716G6
+T	fresh-ab94b72c3ac2ea3c06ec58477c1080932297dbebc6830e8147a2da6ca23938f7	O13539	attempted_not_selected	7v2w	
+T	fresh-abaf1aa233539f93b0047197d22a24608be66c1bfcce40d267f4bf6e08fecf37	Q8JL80	selected_group_accession	3nvn	Q8JL80
+T	fresh-abe0e950569751d6e0fca4279acfbab972cd5d68c3a5c58c7e95887a7e1dfd2f	P0AEZ3	selected_group_accession	3q9l	P0AEZ3
+T	fresh-abe1c26d3c6976e014ad668fde04b9b63ff26ea98d5aa39ad1c3e8c9287f71d3	Q9D0Q7	selected_group_accession	9hcf	Q9D0Q7
+T	fresh-ac04bd46443c7d78cedeae7bf0e80b29bd3fe5c6c66b3c7eb5433dd3b9dbda5c	Q14894	selected_group_accession	2i99	Q14894
+T	fresh-ac3ecaffa6e37840ae2d4b422112b5369571b3cfc3be5db8cb461fbae4243d29	P19934	selected_group_accession	1tol,1s62	P19934
+T	fresh-ac488b46ddd0a0e756689deada7de8f831377afdc3bad4d53c2ad760cdd46e2e	O57746	selected_group_accession	3u4g	O57746
+T	fresh-ac66fd698940e4802fef4d4dcb5f028fbf56a7831357bfe5191bc17310c9179a	A0A2I6QB00	attempted_not_selected	5no7	
+T	fresh-ad3364def99e6c3a92de3859ebd7e20bfcb5778fbd946c411a2fb7d02619813b	P24197	selected_group_accession	2pw6	P24197
+T	fresh-ad36c2746adf101737856f4d2000417523095f93e4276828da0e9adf1e118b8f	P93594	selected_group_accession	6ger	P93594
+T	fresh-adab93e70f16a8e0f3e2aaca4ee9819f3b960b7cf1daff5cd3358dcc082651c5	Q9UJW0	attempted_not_selected	9b85	
+T	fresh-aded7c71394b908b2795f5ec66589e5b7c46a2f82b6df52e583e653d8e67d4aa	Q5WPU9	selected_group_accession	3q6k	Q5WPU9
+T	fresh-ae12c93e443648939cc70aa0c19e60645dc4c70827739a3290f0a16f10bbd8a3	Q12017	attempted_not_selected	7yly	
+T	fresh-ae29fc262484c6a45cb5cfd130a0e948d64c24be5860b07f540695896243d9cd	Q9PM41	selected_group_accession	1sq1	Q9PM41
+T	fresh-ae36c38e700a3909fd0861d9575eedb5e0243df70ea95c61e2db6280f0db8453	P03528	selected_group_accession	2oj5,6gap	P03528
+T	fresh-ae45381806cafef97a3a37aecbd5123b629b1e10857c9dc25e8df0c293304680	Q8NBL1	selected_group_accession	5l0v	Q8NBL1
+T	fresh-aec256d19e17936d8cce9fa902308322334a8d95ea4cb3bf9fb5da35b37a3a8e	A8NS89	selected_group_accession	4ofz	A8NS89
+T	fresh-af095b471af5e9dba5573822cd975e182170d4cf6ddf6a88bfe9091f4d294b42	P29549	selected_group_accession	1jb7	P29549
+T	fresh-af1485a08a2921252b13779ff68fd51dbbf26a09b0759e2e9081f9c8271019ec	Q8CG72	selected_group_accession	2qty	Q8CG72
+T	fresh-af23d4562dada99bc95f9daada3b2c43ffa2cf1ce2d2ff62cac7c1a0f5b24cc8	L7N6B0	selected_group_accession	6gfv	L7N6B0
+T	fresh-af8249d6937053ffaf21f9a48e2e6546ab1aef08dd50c3a71dca8df05f5a7b15	Q9H1Y0	selected_group_accession	4tq1,4gdl	Q9H1Y0
+T	fresh-af8fb8f767b9a3f4a68dffcf1f94121b19f03ee2f1e426ac9fa83136d4461415	Q949X7	selected_group_accession	6n2a	Q949X7
+T	fresh-afc0351c1dab3b688f080de97f68710a35ea1041855a64f32fba6a0c3e02a53b	P10104	attempted_not_selected	8udn	
+T	fresh-aff583cec17c1d72f7b000e9a182c26ff88cbe5bfc8f51b864661cfc621e1f9d	P03122	selected_group_accession	2bop,2jex	P03122
+T	fresh-affa83e532b56ed168c448d65176ebf979cb97212898fd8c4ff937be3b2864ef	P50247	selected_group_accession	5axa	P50247
+T	fresh-b01b21b0cae1e4c8be96ee2f0a1a6608f75cf83aab4b536d22f14db1c3d2fea7	Q2G2P5	selected_group_accession	3rqt	Q2G2P5
+T	fresh-b06caa2a012312cb46e792f258db5c55344f5b2c61e381bbddc3ced0a474d27b	A5F5X0	selected_group_accession	8a1w,8a1y	A5F5X0
+T	fresh-b09925764e4dde179f759f2d70988d0071275a8cca25f3ee7a2dbee2240322f2	P43870	selected_group_accession	2e52	P43870
+T	fresh-b0abff896356452e3d7ed741f1c1f29f508290841e4d0c6877240a5175ac8bcf	Q50755	selected_group_accession	8rwn	Q50755
+T	fresh-b0c6a6bd513482876ea5cefb5f92f2078b259c03d587b87310fe4c375b5ff860	Q9HTR2	selected_group_accession	4as2	Q9HTR2
+T	fresh-b113cd8a8c7b43ebaa62afe16e637f1e559c159218856213f8b2e92e55b2b010	P30419	selected_group_accession	5o6h,5o9v	P30419
+T	fresh-b1351d9aa12ceabc84b4e75255cf1d26eae7be67225c4595aacdcf0f11379f4f	Q5JF22	selected_group_accession	4l4q	Q5JF22
+T	fresh-b1493be53823d848f5d46ae56ceedc387484bc41f61d67420208e7f45f7c7372	A0AAE9G628	attempted_not_selected	8xff,8ztr	
+T	fresh-b194f38139b69721120868fde9195a394212bb7442d37ba99b96672575780312	P0DJY6	selected_group_accession	8ju3	P0DJY6
+T	fresh-b1bd0d66f17dec93f65780a033fe65081ca1db16d7b7b7ce7a67fbb736377b19	O60704	selected_group_accession	3ap1	O60704
+T	fresh-b24da657f05488dcbff8df162cef76b34df74152f03ac40af477123a88f9bc60	T2KPK5	selected_group_accession	6hhm	T2KPK5
+T	fresh-b25f0a3c7f259087826d41df77f2daf1e623e92543f28b71742f412d1e45b1d8	O74339	selected_group_accession	6ig4	O74339
+T	fresh-b30e03747d425eb119633a544447170509f0a7e22a223b945239592d3fb9e723	Q5UQ62	selected_group_accession	9crz	Q5UQ62
+T	fresh-b39ea2b9534fe3f60545c27f0e44418c4793e7349c989b7bbdd3a31e546f72d8	Q12723	selected_group_accession	6bka	Q12723
+T	fresh-b4684f5e8f006505f0fd93c9ff4e9f72cbe7969727fd2d9fc3e11da1019e247b	P33222	selected_group_accession	7uk6	P33222
+T	fresh-b5143b10f61bb21a01f6eb1937f076fb0508260d64258bc826c34bfe5aa555d6	B7J3C9	selected_group_accession	6l8a	B7J3C9
+T	fresh-b58711f3729d627aaeba569f4741b700a35ec303d93c1a3bf6b53b758f77e4bc	Q83BL7	selected_group_accession	3tqo	Q83BL7
+T	fresh-b5f4459a0937f0a3186584c452e9cea66f74546f3b04516287135479594183e2	Q03940	attempted_not_selected	9c9z	
+T	fresh-b695973b6f1b8d206c728cf672c374bc68583c39915af0ea579473feb2d898b7	P11456	selected_group_accession	2rl8	P11456
+T	fresh-b6c269886ca08082508d88093171f0fe0798ad9437d6f3c79e1326c5a5466787	F5HCH8	selected_group_accession	7lbg,7lbe	F5HCH8
+T	fresh-b720037c7f0d84a256539a651e0f57657a398a81bf461fec88a5f73bdd550325	O74958	selected_group_accession	6fpq	O74958
+T	fresh-b735e2d0a563c7686680109817b245ddac25f7f0f5c5d7219f65d87e23cc41c6	P80040	selected_group_accession	1ur5	P80040
+T	fresh-b745e0e5f632321c4f9bd15798384622a8eb85575a8f5a6b5f10f55a981a63cc	P39301	selected_group_accession	4rp9	P39301
+T	fresh-b7587407724528eeb4d125c864a673093689714d0b02c9dbaa84dbaa8219273d	P23476	selected_group_accession	7w64	P23476
+T	fresh-b75d210fa17cb09ff95e92a477e5db0957ef3e9836daee240f2a4cd2d1a31852	Q9BRQ3	selected_group_accession	5rkz	Q9BRQ3
+T	fresh-b75fc66ef06998d1178d2f24459392a86fb9fd8ef33c6d45251719cdab181e96	Q97UL5	selected_group_accession	5gmd	Q97UL5
+T	fresh-b7b210624cab9d4999ff70770cbdbe370d9a76d12911f830cc7f0d35002adf62	Q97Y91	selected_group_accession	3ps0	Q97Y91
+T	fresh-b7e0b373220b7fa66ef9f524c1d11015c33a66c9aeac25869c1351aa07b39819	Q9ZVL6	selected_group_accession	3pvh	Q9ZVL6
+T	fresh-b7f99f4187c16f1118e8d3bc3846616d6b2d0030e0429d845b6794cc6144cb05	P07902	selected_group_accession	6gqd	P07902
+T	fresh-b84217196d6efde7b5b4e9c2619e8a1786cc6532724dc781d0a002ea73de5897	Q62384	selected_group_accession	2qkd	Q62384
+T	fresh-b845b33f27f066e3b225a318bccbe4b63775dc3365380c8f7674d53e40786026	Q13261	selected_group_accession	2z3q	Q13261
+T	fresh-b847cda830b073d1b37c40a8c282b641b70f321d610e1812ed61ead7dbc8014e	P52907	selected_group_accession	8f8q	P52907
+T	fresh-b8a61441e98c1fe41d623fc16b75be0321d8e8eef9d07b212c5673e3dbb230b4	P54459	selected_group_accession	3zh9	P54459
+T	fresh-b8fd6b9ec270f8723825e533ed3b387de32c3746910f143e82c5fd6ca4aafbe0	P75791	selected_group_accession	2dbn	P75791
+T	fresh-b91ae01cbd3b764446a84b5e26b0dacb8412c5eec1a27533b082fb6bd49b8152	Q9ERA0	selected_group_accession	8y7v	Q9ERA0
+T	fresh-b9812d94fd81e26c3c0640b28a46b277e25c7ebaeb7d0e2a93dfbd7abb23c3b1	Q5SL87	selected_group_accession	8efv	Q5SL87
+T	fresh-b983aa9b5bc300c3f5366d63f45b337bd1c2b829d1132970785c2f3d0a50072c	Q02MM0	selected_group_accession	6vqv	Q02MM0
+T	fresh-b9a050e3dbfd25e17796ec3118219946cc63f14065269752c0bb9573ca72671b	Q93CA6	selected_group_accession	7ylq	Q93CA6
+T	fresh-ba23d4374d939d20762a47bff8babfba865397fc6204026b56abe00c5f53a300	K5BDL0	selected_group_accession	5oi0	K5BDL0
+T	fresh-ba306583e7a1039143b5c7440ca1ccbf825fdf32e3642524f9a9d434b7871248	Q09067	attempted_not_selected	8hc1	
+T	fresh-ba3f49b39db55de0de7bd97cd7a875ed66849018360d28169f3cd13cf69740fa	Q15013	selected_group_accession	2qyf	Q15013
+T	fresh-ba51593da0c8cf81ebf43fb660d7cf02d378a12bd91dfb484103abdcffc2bddf	Q46731	selected_group_accession	1mus	Q46731
+T	fresh-babfe0373db76f9a253cea13d1728087d3acf638da1c68fb7e0073cc368557a6	O87681	attempted_not_selected	7dqx	
+T	fresh-bac1bbd726e78cd0318fe6e0c69916d905386d634a6b4826000116ad2d703fe1	Q88435	selected_group_accession	5wkn	Q88435
+T	fresh-bade27368667d979dfebc4b93cd9e9a11411ca47febf5a1cbf0dc4461ed83d07	A9CB96	selected_group_accession	4umi	A9CB96
+T	fresh-bb5e7023f320cb7049957d46e22aaa7b2c48da55f098794a13052b661981932a	P54987	selected_group_accession	6r6t	P54987
+T	fresh-bb9baba6f2e239260b744801f2441b40f0263355c405290a96b1c289abfda461	P18548	selected_group_accession	1dcs	P18548
+T	fresh-bbab1dccf843b1654c5e1d5aecd11b35f5dbc92f9f929efaaa345dff4a245028	P50600	selected_group_accession	1lr0	P50600
+T	fresh-bbffcef92ce8142a2ece04ed1c054d2c06fbd2d7e34b54604347c95ade8a47db	Q82VD1	attempted_not_selected	2r5r	
+T	fresh-bc281f5ca292396e10c6802860fa35bbe209c41e2d440fbe6a6871e9163b7d84	P37634	selected_group_accession	6qe0	P37634
+T	fresh-bc40394fd5c78ff0d0aef643ab1a884e5823dc15be981918fc80b8441b4c6a5d	Q03782	attempted_not_selected	6n7r	
+T	fresh-bc45868eafd30b522781cc25b729e5c86a2c45d23772268685812ccc51dacd35	P03065	selected_group_accession	4cwc	P03065
+T	fresh-bc4fdfd9c86b2dc54d9a430000e9509383ee51fc696906ce522cad39e9aa8a61	P03713	selected_group_accession	7sj5	P03713
+T	fresh-bc5c794769de0cf5933b3a8c448f159c55c66802745262a0c096571363da2d0b	P03087	selected_group_accession	3bwr	P03087
+T	fresh-bc6b9cd3625e6af8bf3ffc6c92ebd4d5a60ef873dbe1a21a94883acea4395633	Q47690	selected_group_accession	5dmm	Q47690
+T	fresh-bc84f349d9ba7534a62ae868ef37aef7948debeacb88ce93e070847ab413ccc3	Q47453	selected_group_accession	7pge	Q47453
+T	fresh-bcdaa2c524dbf156dc034aa6637f4fd6d0e336230f07ca216b28fa611f4cacfe	Q9WXR9	selected_group_accession	1j5s	Q9WXR9
+T	fresh-bcdba351ea5cb96cfa6f89041077440850324e6d4b113429a0126b1e87b55756	P9WIN5	selected_group_accession	1q9j	P9WIN5
+T	fresh-bcf27c252a79f2c98b02dc819a13b88ca5c1736f86d886737211be4bb0611b4b	Q9WZX6	selected_group_accession	1m6y	Q9WZX6
+T	fresh-bd0a75d780bfc3c8df8d8a75b9e3b61c1e3191547a0a0d9de5c9369cc969a947	P46327	selected_group_accession	7zcc	P46327
+T	fresh-bd26aa6fd9589828dde5221aed7a175918158d0bc7c83e0382c746bfc690bff8	P82649	attempted_not_selected	6neq	
+T	fresh-bd36ccb203a1442e314767321f8b584d3b83c855dd240415cf9a50551d9e2355	Q9Y231	selected_group_accession	8d0p	Q9Y231
+T	fresh-bd547ea7ad7e716cfa3a08c5b41deec4b49e5394228ff37f2d9810ed09faba58	Q8U3L0	selected_group_accession	1ka2	Q8U3L0
+T	fresh-bd5dc27e72a794d2354f4dd645e77481693c270da418228f8731f39ff8320389	P12792	attempted_not_selected	7vlk	
+T	fresh-bd6e6c675cd27b019f782c4ba5645a7bf9187c3accc6adbdc6fe950803b8ad21	P03958	selected_group_accession	3mvi	P03958
+T	fresh-bdb76775751de0f5a571d44be13365a19a010ed175d257e4862535ffa15d7cd4	Q9W4J9	selected_group_accession	8dmu	Q9W4J9
+T	fresh-bdd7579c28e146d4f64db12d86edd855d6295955b8664a5d2a4145944c33f4c3	P15930	selected_group_accession	7bgl	P15930
+T	fresh-bdd86c2cd80689e6149684a727fecaf94232e1a37c76f647080c71a1ff5b56a7	P25335	selected_group_accession	1o59	P25335
+T	fresh-bddd8d3a9a35c0a9b202d108bdf9e3b88938a312615871d15f164d45ca56454c	P86927	selected_group_accession	1xdn	P86927
+T	fresh-be1c406b63a05abf8f1b682ae88bb7f0b239c5d1f6a15f9ed9f6bc166483b2f8	P09467	selected_group_accession	7wjv	P09467
+T	fresh-be33d9037c755f046e5176060c9d599d46b9cbf12dbcf0715a60328fa3fab872	O43148	selected_group_accession	8q69	O43148
+T	fresh-be94e18eb9004910b163f2a10032349925496282887de466f2fb9c34f08db346	Q8CII9	selected_group_accession	4nn5	Q8CII9
+T	fresh-bf03c471935a1e41bd40062dc83476e7185324495ccc582ac8e80f0b183a714f	Q01564	attempted_not_selected	2lnv	
+T	fresh-bf10e435e7592ddf00b8892956400243a15283292949a8d00e6f8868b967f820	A0A084JZF2	selected_group_accession	6d2c	A0A084JZF2
+T	fresh-bf34e9fb92033960db1c071bad1c7156a999eccd4c39fe4bcae85a3cf117796c	Q9D020	selected_group_accession	4fe3	Q9D020
+T	fresh-bf40b56db4f2afb5357a47249cac48593b8ee3660adbcc5ab6aac9807854292f	Q5ZSQ2	selected_group_accession	4iik,6rp4	Q5ZSQ2
+T	fresh-bf7154dad5967feda28af908a03577eb22dc4c1e2fed9482c00801ae99e04315	Q7SD06	selected_group_accession	6yw5	Q7SD06
+T	fresh-bf8041bdcb888cf7f07ed545808269498c9bcbfb6761960e54406519ffaf6a8e	P70985	selected_group_accession	1dc1	P70985
+T	fresh-bf873e0c3662590dc8a98f0c96707ad1bd991c14f08dedc969a0d683381087a7	Q05947	selected_group_accession	8gre	Q05947
+T	fresh-bfafe5db9651a50cc7ea327cc41ca9a28be975603dbf0d1d46f41fb2b93a6059	O13716	selected_group_accession	8yfh	O13716
+T	fresh-c0bf2ac28ca788828cff6f964b0d1a14fff85b4bfa59ae6efb8b6ba43c51bab6	P19726	attempted_not_selected	3j7w	
+T	fresh-c11319efa35f0876bfd3112b631731f9bb4091923131fa7f534408f781bd036f	P41543	selected_group_accession	8age,7oci	P41543
+T	fresh-c1541cb9aa3d9e39f3b866a2d2334df935bb23120c3b1e5238c6401374b2a050	Q9C0B1	selected_group_accession	4ie5	Q9C0B1
+T	fresh-c192650bb4ae8c27f6ee038e3f3b75b247971bcd778365095b6d2360c52548dd	Q57913	selected_group_accession	5d4v	Q57913
+T	fresh-c1a16d2fcb5d7b045ea1c477ea0795ea4eac6e173d8a2bcc5668e796e8e59218	P43351	selected_group_accession	8bjm	P43351
+T	fresh-c1a283f903f54cb4e16f4f0ff2d9b4d60980987c75929f02b19d62dc60411476	G2Q1N4	selected_group_accession	7ncx	G2Q1N4
+T	fresh-c1bb7f9b1e91c960b0723f317e64a6c4e138141d759aee77a0d0f3282a08ceff	P80428	selected_group_accession	5i9e,7vvy	P80428
+T	fresh-c1d78dbea54ccb814138e95b0985ec9b5615785c37ba430a44b998d4dd93187b	Q12794	selected_group_accession	2pe4	Q12794
+T	fresh-c20cf98859d5b16503b70124a490d9e52a86fa17a15ec996c99ab2453c150819	Q9KHV6	selected_group_accession	5dwa	Q9KHV6
+T	fresh-c26a5fa5eedd04abc2ad333dd5c2f12cc5532d854a8be8668f163334b30f2f88	P83293	selected_group_accession	8jme,8ze0	P83293
+T	fresh-c29157f3af8d5527a383cd23822c32858e6e6f5d588e2a19fcb941d632110c69	P37093	selected_group_accession	1p9r	P37093
+T	fresh-c2b992579816a6f068b2a4dd1e2f4cbeea844a396a5edcef15021883c215962e	P55792	selected_group_accession	1u8v	P55792
+T	fresh-c2c2cf6677a8c23d06b94f69b4f061df534eb2a663d600ed3e79f35af95d795b	Q58542	selected_group_accession	3ug7	Q58542
+T	fresh-c317a33000fea6d94d0300ecd99e805436f8d55e2251910509e3ea5c52e1cfa3	P16967	selected_group_accession	8rjd	P16967
+T	fresh-c33529ba42242a6fb156e00b974a8ccbd1ccaafdc32047ff809cc7dec1db8037	O76745	selected_group_accession	2imq	O76745
+T	fresh-c3711a0204128b3af98bd2f110a67193b54c46d37fe4bfe726e3c0fa4eedd097	P76621	selected_group_accession	8cdf	P76621
+T	fresh-c38b6ea8061395d7c53649588f9f55e86973b6ef9e7548b7b6e097439808d1ef	Q6U6J0	selected_group_accession	4qla	Q6U6J0
+T	fresh-c38d584ef0679fc274adb7bfbc352537cb1ea1b90bac1517e741d8caf323019f	Q97ML3	selected_group_accession	8zpo	Q97ML3
+T	fresh-c3995b014a8f155d34692fba7a172b19d5cea2164bb2b01f9c65662a6c878f37	O13836	selected_group_accession	6wug,3fqd	O13836
+T	fresh-c3de16d7415f3b743f7f44e6b369938d16ee95d149374a2fc9587549bf5258bd	P47122	attempted_not_selected	5hcn	
+T	fresh-c4154939b9e9873e564526f3e90db8e40488de725b599ec841a8e87a24636715	A0A7J6KBZ0	selected_group_accession	4eiv	A0A7J6KBZ0
+T	fresh-c4416cc5fe7e36a815d0db9c30d59c212f0b1a9216854ee770924951c25b43e0	Q9ES89	selected_group_accession	1omz	Q9ES89
+T	fresh-c44469695eea738bbd95eef9bfe3934d9a859be31fcd2373758afb8c674fb2b9	P54997	selected_group_accession	2de3	P54997
+T	fresh-c46e973326d7fb67a6acf8414f7feca0de303484bd6a20ab705923f546526bd9	Q9D8T2	selected_group_accession	6ao3,6n9n	Q9D8T2
+T	fresh-c4b0bd0f875edab9869658ec26adf05fcd71c41172fe9d64f9666344148f873d	Q57600	selected_group_accession	2r7k	Q57600
+T	fresh-c4b198823e1cae4983e25e1136df92b206a98a90d6918877842e4d98b4ca96be	P10238	selected_group_accession	4yxp	P10238
+T	fresh-c4e57a2961c20dddf57cc7a4719d4e116f01d493203f08355e5b6bb2a7061840	Q9BSQ5	selected_group_accession	4wj7	Q9BSQ5
+T	fresh-c4fc384a75d976b6081f091c4eb4ceb3e5c0e1a70b7fa2cb28b6e8398120634c	Q02293	selected_group_accession	3e33,1ni1	Q02293
+T	fresh-c5060520c1a3a7708f37dae4a072d5df8862258c3e92db1654a4a540352e41b5	Q96RI1	selected_group_accession	6hl1,8hbm	Q96RI1
+T	fresh-c50de0ae7fe92794c0336532a081c3d484531c750fa5299e5850ab08c9f75fff	O14229	selected_group_accession	4bji	O14229
+T	fresh-c51ee5a17e5ba758d0dde5e4aa1ef4d5d7c7ae835887a4dd0c9440941aab5d64	Q02732	attempted_not_selected	8ovw	
+T	fresh-c543165d004d06715f1ca60452251af6a5f826b85f9f0d34527dfd217d2e9ccd	Q55835	selected_group_accession	2voz	Q55835
+T	fresh-c55db8e79eee83e6c7e64e659e4377730c6f95fc67673ebc8be2eb57e1b62aee	P04066	selected_group_accession	7pls	P04066
+T	fresh-c5a0fb93adf1a17dbb46a94308172ce21d4ea828fdbb4644cf38f1f81ba10864	P16458	selected_group_accession	1jb7	P16458
+T	fresh-c6674f592ec966e3dfb77d057a08acd5936cc5e7bcb7be12884a1a85fad188ec	Q8BVZ5	selected_group_accession	8q5r	Q8BVZ5
+T	fresh-c66aa9137af633eaddae0ecaab2986a22c1186114127818437a222b03bfb5ae0	Q4X158	selected_group_accession	5jgk	Q4X158
+T	fresh-c66f79068dadc68a7413a03ec34180d3b6efb6f550168687353e9f95833634f2	P40217	selected_group_accession	3zwl	P40217
+T	fresh-c6ccb23ac821fef06f815fb3dbd9b34194118e4398582ed03c1e16567ea7b468	P42443	selected_group_accession	1xp8	P42443
+T	fresh-c6d6658a7c4080bff0c43883b27267f32af4b4e813a479bd9ca39819a5e18e30	P9WIK7	selected_group_accession	6aef	P9WIK7
+T	fresh-c6d9d0de3e9def550c50ed5eb85b3356fe0e48bfe130b24f2281042d0504af8e	P21282	attempted_not_selected	6xbw	
+T	fresh-c7315a046920acf7c55114b2e1469c1a2721ee2693f1c7be9e8c28c49d9cf1cc	D3KFX4	selected_group_accession	2wzp	D3KFX4
+T	fresh-c73308195879174d4974d17ec35190223883be9161716ef7de2d38159c3cce56	P13925	selected_group_accession	4lvi	P13925
+T	fresh-c7b57dd6cc25226cf3afbfd1f5162846bade4eee73fa7f522c2f89936837acab	Q39249	selected_group_accession	3cqn,3cqr	Q39249
+T	fresh-c7bf8a1ea8d36214f049f98f36abc7eba9bf5164c300c5f34621223ee481920d	A0R5M8	selected_group_accession	4pio	A0R5M8
+T	fresh-c7cb12f0ee7a3aa504b98036eac339492a19d11023364e5df09ad827d1fc4d9d	Q24SP7	selected_group_accession	2qne	Q24SP7
+T	fresh-c7dca101f994a3e1d68291dc4e95547806d2e75bc45b150f5df5e621fcbce77a	P9WIL7	selected_group_accession	1oy0	P9WIL7
+T	fresh-c856d196e6e14d8f2609ab120310b55b5f1d75492f182d9eae992eb3980c9ef9	A1IIX4	selected_group_accession	3w5s	A1IIX4
+T	fresh-c88896b23e283c5b4c9cc0149b5396e720c4f34c056c2c1519e8119d3d6e1dbc	Q97Z83	selected_group_accession	5of3	Q97Z83
+T	fresh-c8d452d6e3cd017f28723b97bfdb3763bc7ea3f3f63844d0974d5204f88180b2	P19636	selected_group_accession	5ysn	P19636
+T	fresh-c96d07e58ab572e6aa35f9cb30afc2a432b9c9d2bc42acf2267db935a32c5b41	Q9HAT8	selected_group_accession	3ega,3egb	Q9HAT8
+T	fresh-c973f7f263710f9d605dbd971f33d9090a1183840783b2059d34dbb012cd44d7	P0A3F3	selected_group_accession	1rzu	P0A3F3
+T	fresh-c98841591377af76a7e4e2606cb55466cc1abd6768fb4ea6947d8879fe5aaf71	Q6NEC9	selected_group_accession	3bh1	Q6NEC9
+T	fresh-c9b6879dfe3fca697ec9104d3cda5711f0977984638cdc2b2eb2663e03512a34	Q12373	selected_group_accession	4nq0,5bt1	Q12373
+T	fresh-cab08e4c43ebdbe12b5b66ed4662c3018781d88f699187c6037f37c72de908b9	Q47526	attempted_not_selected	9e8z	
+T	fresh-cabe65565d2178a7f622d1178e8cd3476d51c8527a8de6fde6bd4dd435a7cc5d	Q47155	selected_group_accession	5yuy	Q47155
+T	fresh-cb7513386c79c51575b5b9e558449a01c3bf05adae5b574efae831be336e830b	Q96BN8	selected_group_accession	3znv	Q96BN8
+T	fresh-cbd1deb0dd241b042c38e84755784e32c862266f802b7632a18f3bda8b858e47	Q8LFA9	selected_group_accession	7cv7	Q8LFA9
+T	fresh-cc5fcc8653cd6cb947eea6795e6f280f88a0316893ec468a2a6cbd544174e651	Q9Y600	selected_group_accession	2jis	Q9Y600
+T	fresh-cc90b7bb10eb80f0f27c030f14180116006f12289159e6c1dd2e924f00a76839	Q89Z59	selected_group_accession	2okc	Q89Z59
+T	fresh-cccc712da8703381c0dde020e90bb917dd1229260107e7131ef32a2ce30acbdd	O55611	selected_group_accession	8u0a	O55611
+T	fresh-cd23892bd7d701a1adbcb27fa426086e072510bf628b036e7d95ef889a8aeac0	Q02554	selected_group_accession	5lsl,5zwm	Q02554
+T	fresh-cd747324ea97f9ce24d54ccbe51522a0b8fa8f73eeb5ef1d6d6e4b76a4590218	Q57609	selected_group_accession	2qv6	Q57609
+T	fresh-cd8d13d23eed5fe88b3af046804d33a3320d044ca0ce3a655293eb138625790e	A6TB83	selected_group_accession	3khi,3dl1	A6TB83
+T	fresh-cdb2130038195c2f62b6b25d889a2e2a514f02bf5638a73639947b6ee5048e30	D2W6T1	selected_group_accession	5cg9	D2W6T1
+T	fresh-cdc63936e7c72d5f63d55c539edbbc1b17f596ed3f68981b8f620958d8fb97cf	P23839	selected_group_accession	8ver	P23839
+T	fresh-cdd1551af4f96982f498c9189f3bd1f0b66274d6b5a474d786cf10c215591b3a	O33833	selected_group_accession	1w2t	O33833
+T	fresh-cddd5eebb19480dc0783877066ec429d6a524f87f8be9cd5f7148d03156ad027	P13516	selected_group_accession	4ymk	P13516
+T	fresh-ce305948e64315c55a014f4751acc2e079f3360c225cbcd1764df62f18bec1c8	Q8Q0M2	selected_group_accession	1z2z	Q8Q0M2
+T	fresh-ce72c6ad1a02b67497f4d02f642dce1a8af67650423a6628d93857951a1f2798	P11514	selected_group_accession	7oqy	P11514
+T	fresh-ce98a42198de8f5b206851d78a0f7f3b064011b94346edc87de4e8c04906bec7	E3JD18	selected_group_accession	5hy0	E3JD18
+T	fresh-cef5cba040d84e34bb3a9e5139bcdd1e55f5580e886bd0128e65e23fd75556bd	Q9U3N4	attempted_not_selected	5h1q	
+T	fresh-cf0fa726f917ebaa9d436b60de1b10e90b4e8ede66050fab5abcdcce28dc7fac	P0C1A9	selected_group_accession	2nsp	P0C1A9
+T	fresh-cf10ad937ae4bab20318fc3cdc859b93088cb9341121f242300183a03e67c55c	Q70KH9	selected_group_accession	3chh	Q70KH9
+T	fresh-cf20a1401ca63dda6ea0a9a7f75a74717f3e6dada581a4ac07984769fd170fec	P39107	selected_group_accession	3zf8	P39107
+T	fresh-cf3af36d0be401eede399531374b52c9b6a4316b92f6c12ca98cc97c5cfde067	P20582	selected_group_accession	3h78	P20582
+T	fresh-cf72dec68a7935bdf6fdcbcdbfe3f35ec17320eca5d5e491beb8511dc56fdc94	Q8U1N8	selected_group_accession	3tai	Q8U1N8
+T	fresh-cf747b18dc001fae6c55735ef64277be3f0f93f846a2be0e4574d3b367a9ae3e	Q9K9G5	selected_group_accession	3ix1	Q9K9G5
+T	fresh-cf7a4e51bb37c4fdc9708752cb4f233247f34ee5d52d2c807835083b7db6f621	P27830	selected_group_accession	1bxk	P27830
+T	fresh-cf9e13254a0441ae0d84c64c117bf0c1f5b1e32cf47f8d833786054b173a2a3c	Q9H255	attempted_not_selected	8f76	
+T	fresh-cfb4827fc1727a8732b41172e38f81d265366d519201c1d2aabc02a51bad3b2b	P0A6Y5	selected_group_accession	1hw7,1xjh	P0A6Y5
+T	fresh-cfc9c2046b7b5e33214e271ffae63b75ffa5f09ee3c48f4b97ab2c8ef3b897c6	G2IQS7	selected_group_accession	5tl4	G2IQS7
+T	fresh-cffab5ee3e34f5ba7d331b056177d9857b673b3009a30bbd62150d4fc3eaa254	P10182	selected_group_accession	4pga	P10182
+T	fresh-cffb8089130c6a4880ffcf82681ab763cb34371f33189b6396a6428234858a33	O87170	selected_group_accession	4di9	O87170
+T	fresh-d001e7da42e775b2474d313ab0e4ef43c49f5a6707a1fabb894db7c7e3470e82	P53201	attempted_not_selected	7vvy	
+T	fresh-d03cb42dbad0025607cd05ad86eca17fe5c45863832691811dac0855e366164c	O34559	selected_group_accession	1nc5	O34559
+T	fresh-d04ef0cab8fc6207173eafb18c9fbaae5f97fed6e4624bb6a50e8eecb01164b3	P40121	selected_group_accession	1j72	P40121
+T	fresh-d05084738c2c929798045355d042871ec26698b1911f00864521c53ff331edb0	O50406	selected_group_accession	6vpt	O50406
+T	fresh-d0af0e5b65e11dab0fb9bfdb0f232cedeb4879a47878b6d9819d7e0e4a80ea88	P0DTH5	selected_group_accession	1e2k	P0DTH5
+T	fresh-d0b7be964490daf964d00e98ff77664126b6d040ff270307223b9d5e1a9781f7	Q9K8V3	selected_group_accession	1vra	Q9K8V3
+T	fresh-d0c60981b8a097d1c4e8457be9a83ce0fcb0f3775e7c51296ae73f861d91a6cb	P76008	selected_group_accession	5z01	P76008
+T	fresh-d0fc8b6c00e14e317542f660b6acf64f8fcab1acc786b548e6d289ff9adf04b3	P08312	selected_group_accession	6p24	P08312
+T	fresh-d151ded32af92c9bc54814b405cdb414bdc19178506fba490ecdf128648d8585	P52129	selected_group_accession	7aex,4i8o	P52129
+T	fresh-d177d8e4128a6a45779765141473b179e3cc59affcae55ad4f7980cac63f8da3	Q859Q5	selected_group_accession	9e99,9ld7	Q859Q5
+T	fresh-d190c656381edc1b20d559c125bf5a86b94ee2e8539821fdc559e92855d13955	P09986	selected_group_accession	5c22	P09986
+T	fresh-d1914d970e0bf96a4512ad77189eb648150d920d1827e9c60b95179b32e29262	Q6I7B6	selected_group_accession	9ix8	Q6I7B6
+T	fresh-d1ff3254cf52185f653b4b80825b60a32254959b238953930a0eb34403b06fa2	P0AFY6	attempted_not_selected	9g3g,9g3e	
+T	fresh-d21fa06556b049dc51bc173c1c1a668ce4ecd8a65c249df59b7494a461c933b7	Q7SIC2	selected_group_accession	1juh,1gqg	Q7SIC2
+T	fresh-d2356d6df8d02a381dcefc79040c86b7a031ee9268977a5944dff1632c998477	Q77WJ4	selected_group_accession	8z4f	Q77WJ4
+T	fresh-d24f8ecd32d408b664011d1f86a5cb4c8e2a16d779d26590a93d444fdf55694c	P84155	selected_group_accession	1vju	P84155
+T	fresh-d25468602455ba168f9c888b7e3f2530a0e12a74f5dbb6a6e59d3beadfefae1c	P0DXX9	selected_group_accession	9l5u	P0DXX9
+T	fresh-d26a063f67ade34e0888cc27608e9c17d6845d24cba58b26a48c98254cdac833	P20356	selected_group_accession	1nlf	P20356
+T	fresh-d2702752e8f3ccf8e5fb48f25bdd523f2cbf65b5bce6288a185a330d735cd1ee	P9WHH3	attempted_not_selected	8rx5	
+T	fresh-d2c15f1922d66ef9127f86b4d64f2aa45d3b02174de31647b6d7b9814d184dac	P40336	selected_group_accession	4p2a	P40336
+T	fresh-d2d460e0757414f4f44a60dd1bd163a6e8b21c121ca4a00f89f7320a5f13152d	Q9KRU4	attempted_not_selected	7php	
+T	fresh-d384da592641a6c432302bc642ec1f20b2cf831b63a0977f9302c315c2f013c4	P14385	selected_group_accession	2ih2	P14385
+T	fresh-d3911e7412795a430784b30ba88c0990f61e55b7434bdbbb87a4d7e7193adbd9	P9WKI1	selected_group_accession	1gr0	P9WKI1
+T	fresh-d391717029d926beadf84abda10d455c05e523d1557763597817a0586fd6a9ee	P0C796	selected_group_accession	1n93	P0C796
+T	fresh-d3f5ba8751a81fab973e6cd08ec464bf1eae9df70d4d5d70a73b85d0806abc28	P29372	selected_group_accession	3uby	P29372
+T	fresh-d46b1f6b7b618dab62d2504ca7f0b368951d5c2cdab018c4a4a31ea1b9ab4cdf	P00971	selected_group_accession	5tt6	P00971
+T	fresh-d4934456f90be223dd4f19be246dd6d4943ddf97b72f6333d2bf2b0b8f07c647	Q3UYI6	attempted_not_selected	7q3e	
+T	fresh-d4d85c4bf8d7d4d1bfbe50067d2bec3cf1cedf2aa72c8adfe9023cba83df9d15	Q81WF0	selected_group_accession	4yiw	Q81WF0
+T	fresh-d4f91cbdfa38e9eacbe957024f75d7ddfc9a463d17145491e4af89d5a64d0cc1	Q46E79	selected_group_accession	4ffl	Q46E79
+T	fresh-d546c34f236be52fa40ea2aed77ff21f0ad647c520547dbf241f0e53eb14d80a	V6F235	selected_group_accession	6h8g	V6F235
+T	fresh-d5982baea21bac4d6042f29aa2b74eda4abebb320741adb6cfa4907597b768d2	P37019	selected_group_accession	4ene	P37019
+T	fresh-d650920cc9d47464e1e036e69a4ffa6e7e224a29e0a0b776eea3336467ec7b2f	Q5RL73	selected_group_accession	7dvq	Q5RL73
+T	fresh-d6975b823ea9a8d8f8321dd27be0fe101106318f23066d0e7c73fa6abcb52899	A8IB22	attempted_not_selected	8glv	
+T	fresh-d6fffc61d278c108091d88bdbd967d6a5b2ed0514d25eeb414020026699dd635	O66036	selected_group_accession	4dnx	O66036
+T	fresh-d730ed02a55ccf3f039382ad42ea25a344a175be7bd636658fbc9696ef2a6776	A9CJC9	selected_group_accession	4u63	A9CJC9
+T	fresh-d75709ce65eb7fbee77bb87cd3b7b726a9d4b0472eafceb4b263b9d0b145cc33	P14693	selected_group_accession	7btx,7e4h	P14693
+T	fresh-d76935102b7db5df2bf1e22fe87b5657bda3669a73bb30922e092b6fd0e84093	O95149	selected_group_accession	3gjx	O95149
+T	fresh-d793818b0cd20a8d93f56a32197222100d0bf181278b83ecfd5cc503f114b02f	Q9Y314	attempted_not_selected	8c6j	
+T	fresh-d7cd89e4924faa12e36edfd8eeba87170448acfebae59a2353e9afd42df1c712	P56200	selected_group_accession	1cfr	P56200
+T	fresh-d823ee01a242e81cd888ca9026fde7d955ec779df2b2a131b258e3a55cf519bb	Q5AAJ8	selected_group_accession	7bx0	Q5AAJ8
+T	fresh-d82aa537357723a8179c8d544cdda1181794db3bacb6661ddcbc7aaab78dd14c	Q9HZ66	selected_group_accession	4xk1	Q9HZ66
+T	fresh-d8485a8aae9dfd6927bec75e21c855375ab2d8ee998685a482183941a13ea56a	Q79F77	selected_group_accession	5y0m	Q79F77
+T	fresh-d94393e84d35c78f411ccf3b9d3922a40e609ce9882da73757ecfa5a6213727f	Q9Y316	selected_group_accession	7m8h	Q9Y316
+T	fresh-d9652dcdbf69789ca99e8bec3d3a69341d3f8bbb98f78159df2e1cc666ae6266	Q9HTZ2	selected_group_accession	7qyr	Q9HTZ2
+T	fresh-da08a4ff12bd09987257449b46e3ed533c0cd01214cbf7e3f5da9547b0199e6a	Q99638	selected_group_accession	8gnn	Q99638
+T	fresh-da29a15425a1bbfc932310c4f705977aaff38bb7158a22a9de5e66d1ecb50370	P42938	selected_group_accession	1odf	P42938
+T	fresh-da6496ab3f26ead73d7963ec598e10b42d639a538adb5f94512c17d246aee5fe	Q14165	selected_group_accession	9il3,6s7t	Q14165
+T	fresh-da90b285c68d66d55a33afb4dc75560c5200d2d56f9691947ee0b6574e16bd82	P00634	selected_group_accession	3tg0,6psi	P00634
+T	fresh-daaa6b39cbd687ebd2f67367e6e998b7291f4a705af190dc19361ade0c2a24a4	Q6IPU0	selected_group_accession	7r5s	Q6IPU0
+T	fresh-db55f50e01fd8a744acc382bb2d8c8b51598cf594fdace0023a3e8f6f4357914	Q2RI42	selected_group_accession	5exe	Q2RI42
+T	fresh-db620328d7408124848fdbad89f43388e133024b3517c736cc3c5a021fd62f5f	P9WFR5	selected_group_accession	8j8j	P9WFR5
+T	fresh-db66dfcca31e9a6fc6aabd9ec3fa9db81eaa0289252412a0481d9faf1c9d237b	A0A0K3AT66	attempted_not_selected	9ftd	
+T	fresh-db8913ae2417daaa10714b0e6f8f3289528f57baaf0279190b7f4aee5380fa68	Q06338	selected_group_accession	7c4h	Q06338
+T	fresh-db9f279a98e44b79a36b8f63dd1210058acc2fca6f2b8ebb0068685eaeddce9b	A0A5P3XKL3	selected_group_accession	8bgm	A0A5P3XKL3
+T	fresh-dba909a6492cd5f3ce330c3552b9d272c4ab203cf92de201e45f2453bce5470d	P0DN71	selected_group_accession	5a3a	P0DN71
+T	fresh-dbd53e6eda0b088a35dd28a61108d84e50f9e209519e4492620a9c50e4993a33	Q8X7H4	selected_group_accession	2fiq	Q8X7H4
+T	fresh-dbd5afba44aff712d731956dc7b0a250ad6c2bb193631bc1a5fa486f43e10de1	P0AFS5	attempted_not_selected	7nb6	
+T	fresh-dc085d6fa17f51e9eaf8513b94f404f8ed3e11a7e1363eb32410c27c5ea4a5ef	P51634	selected_group_accession	6l8d	P51634
+T	fresh-dc4b7ee4df07e62b530ce1f151bbf907d52ce89c5de0784328520910a74e5c64	P00862	selected_group_accession	1ibv	P00862
+T	fresh-dcc58d91cf649910690b79707713dcb9a5caac2c3dd89d74ec9d27a060e4c351	P29724	selected_group_accession	2fqx	P29724
+T	fresh-dd28aa391975028fa7c3577373db9a75fc19fa8f17748b6d4098607b2c2230f1	O28076	selected_group_accession	1m5h	O28076
+T	fresh-dd3e63d4142136c5ca26a20b561d9cb11da71cac09ff77260f6019ee55645298	Q9CKB3	selected_group_accession	6jdo	Q9CKB3
+T	fresh-dd4122d103fa41c89ba5beefd00126720fe6ef610ec8774abde14eba1f6b27b3	P0DX74	selected_group_accession	7tb5	P0DX74
+T	fresh-dde4e0d0b254572cd26f9c6702a6928d074a41f115bc97ee7a0f9691c6c85600	Q9S3U8	selected_group_accession	3c4a	Q9S3U8
+T	fresh-de332c94f4792790199bec5ad8650d19117f43647d7dc7a292d488163bd7614b	O48791	selected_group_accession	4dix	O48791
+T	fresh-df2a64e08cf2cb93dbbe8833dc542545ac6835c306cd03924cf989d7a28a5711	P43591	selected_group_accession	2ga8	P43591
+T	fresh-df45f6fd4b0705917fca464ab4f6ce90b33b92890de6ba97999478d3000a1021	P96877	selected_group_accession	5yx6	P96877
+T	fresh-dfc6317c1a44a176fbc64307a869ea5f42f833b954b4270e0d86518057c15aba	O34335	selected_group_accession	4r6h	O34335
+T	fresh-e02ea8c4806f2b8bee30667132d2d4438447ff63bf317f3f556af3c14691fb13	P08557	attempted_not_selected	9ki1	
+T	fresh-e02ef23074ce8f113edaeec374e1bd375902630469312886bc717327471a64e5	Q69467	selected_group_accession	3w9e	Q69467
+T	fresh-e05dc203717996020d6232025ca7314b941a8f4806f4cbf027d9de42a6dff4f0	D0ZIB5	selected_group_accession	8jbi	D0ZIB5
+T	fresh-e0a11e2e5dfa90666d8f7f005976345ce8d0cce7e3b3ad60600ec09868eda0a6	Q6PD74	selected_group_accession	9ddt	Q6PD74
+T	fresh-e0d4861cc3010df7c4cafaf7bfe05aa0081bca662826f72c7ac8e4bdf7a8a7da	B2NHN2	selected_group_accession	2d81	B2NHN2
+T	fresh-e10577752ba499f669fbe23741929cd2120624c340ca47cc45c2bc1536dc66cc	B3EY95	selected_group_accession	4eu9	B3EY95
+T	fresh-e1064cbc8ade64cc35da0948df60b252fbc1b15ae1163112c0a714c554d7ee23	P27833	selected_group_accession	4zah	P27833
+T	fresh-e1326122627592fb23bbe00ce8f5b2f936254a73dd5f41654b457bd7fd49a46b	O66937	selected_group_accession	1tz7	O66937
+T	fresh-e2090a15a3118c49347cdc141ef8c78bc2ac68f48af9ea93310fe6a927ea317a	Q5T440	selected_group_accession	6geu	Q5T440
+T	fresh-e20b895aa06f8266243384846b823c2de84d3b16324215d0b755d4b9a5628054	Q03769	selected_group_accession	5j08	Q03769
+T	fresh-e217e2318550d73710d607db32474559a9125510d9d871d1be0cabbd4540596e	Q6XGD4	selected_group_accession	9iom	Q6XGD4
+T	fresh-e2315a6dc0e072a51f5db085c00e9c5a4263df09e46b6759f7630d5c8c7fc972	Q9S7N2	selected_group_accession	3bwn	Q9S7N2
+T	fresh-e257a346ac2170b09f6db67bac01875cb563e5221642294c5684aa51e564195f	P15057	selected_group_accession	2j8g	P15057
+T	fresh-e2a5eb6a084f24c0731f615ffffbf5ce1b92405cb3d8f88b8fec6011d716e2cf	G0S156	selected_group_accession	5hb7,5hax	G0S156
+T	fresh-e2d0c11fed5739f41be8f6df5bd66e1460b034748ebfaf83e62d1134758d1d34	A0A383ZFX3	selected_group_accession	5u84	A0A383ZFX3
+T	fresh-e2d939cff600175860729d8789734ddcd41174d629202405f11a5df86ec6db78	Q6ICL3	selected_group_accession	8sv7	Q6ICL3
+T	fresh-e2ff68ebb107ce108eabb9729fadbea9e0875579c6f92cb37581728094f1437f	O29535	selected_group_accession	1sr8	O29535
+T	fresh-e3f3875899e78afec47ba9cdc7fc8d95777873c88533122999bbd4a722e6bea0	P9WJ83	selected_group_accession	9hle	P9WJ83
+T	fresh-e3f7daa8771b1af48f7be7290777eeda63e8d7b84563a295427da3300d387fc8	O76616	selected_group_accession	7ocx	O76616
+T	fresh-e3fe629619f70eb063e245ccba6e493165ad9a58d436a30f52f8be08effa38f7	Q62997	selected_group_accession	1q8d,2v5e	Q62997
+T	fresh-e40de504dd31da941e08d7edb43b2c0217fcfae8cee34538a1877167a7d988e7	Q0V9Z3	attempted_not_selected	8h8f	
+T	fresh-e431e761870e80f9570a1d8034908298fbf7c12316c8de801ea1543c0914e4cc	A0A0H3B1Q8	selected_group_accession	4f8c	A0A0H3B1Q8
+T	fresh-e432d4cc02bd9e6bcfe7f824011967718cbfd153a6615b3778f503435ab27e17	O55203	selected_group_accession	9bpo	O55203
+T	fresh-e460a1ffaf1961ee584c2f2d721a942d8f7afb806ab9d69d7a93b1fba6bc2871	A0A023YYV9	selected_group_accession	6ai4	A0A023YYV9
+T	fresh-e496989f8421564601076a3558bb569f79d166fcaeaaab13b8cabfb62fa8eb79	Q87TN7	selected_group_accession	6v4j	Q87TN7
+T	fresh-e49b0de1e6f350f8e5ea4ce8b8ba21b9c1a1c66ab7e6dad279f16eadffc97b31	P49859	selected_group_accession	8cez	P49859
+T	fresh-e4ad716dd3f6d1836f70757693f5e1f322b57f1ca8fcab6398f625aac8587a35	Q9PPK3	selected_group_accession	3rgl	Q9PPK3
+T	fresh-e4b2b3bbe5baf681bcdb7d4c2192f7485e470ee5510151910b82ea9e47055540	Q02MM1	selected_group_accession	6vqv,7taw	Q02MM1
+T	fresh-e4ba706fafe456812c968db7823b0ae7318548e82c79cde547cf1ab65d6c5b93	P26214	selected_group_accession	1czf	P26214
+T	fresh-e4d7fe3754b8c6b137bd37153825cddbb89e77dd9c9277bfa4e7cb4dd171c544	Q41635	selected_group_accession	5x04	Q41635
+T	fresh-e4de2ac4e52e894157100746bef779d52862e05ba841e539d4ca254c7776fd18	Q9NYK5	attempted_not_selected	7of0	
+T	fresh-e543ac1ec038109d66ebe2366dc9ed54b15da10bdbd58e1edc765f3af52f3c02	O34525	selected_group_accession	3rst	O34525
+T	fresh-e59e63f177151585dad9ce97004c8b922f28b92ef66fe61439c8b9e614bc42bc	P27017	selected_group_accession	1pea	P27017
+T	fresh-e5bd92ba3f3f42fbcb924e168c5ec8c5f9347bae1ea6342422651c14837c09bc	O14958	selected_group_accession	6owv	O14958
+T	fresh-e5c6dfbee36945fe6be8007ffe1606a5891848ac00fb00207f961480f3a95151	P04519	selected_group_accession	1xv5	P04519
+T	fresh-e6114d0d79d170d8ad3d563e026db3c3ea1ba412c3482a7d9899acf26e33eb45	O67648	selected_group_accession	6ih0	O67648
+T	fresh-e631f1c559d978a90815c2208d8a917d3f46c85e31c087cf760837f485e32337	P0AB67	attempted_not_selected	2bru	
+T	fresh-e6a78159c2270e7e984f1dd5201f78e03af76c47dbfdd239254e779f5f2888d6	P05820	selected_group_accession	2xmx,2xtq	P05820
+T	fresh-e6a86c76b10b670695d4262f29a26d99b0ebdf9c88f18677da262ae8676ee65b	P80172	selected_group_accession	2nrj	P80172
+T	fresh-e6b645b99f4dd674b10acf7c787619f4ff1b335f11cd2620219324e3921d76f7	Q01532	selected_group_accession	2e01,1a6r	Q01532
+T	fresh-e6b725e7e38c0ec5f2bd69b72adfeed3eb9bfa52ba5f1a0dc3802ae10856bf6d	Q55032	selected_group_accession	6x8m	Q55032
+T	fresh-e6d1427c3d8d75a54b45fbef07bfdb1d161d5e7c574d6f70e668628241b76983	Q8NX33	selected_group_accession	3wt0	Q8NX33
+T	fresh-e71d51695d2f51b3e5da8100d05d26232065ce9c451b7a78e3c40b6ba346e79c	O58877	selected_group_accession	3hpd	O58877
+T	fresh-e7226faa130f0c00286db332351f58dc95ea9398e621b3a2144e829712d78f36	O60158	selected_group_accession	5yca	O60158
+T	fresh-e72402eefdd72ab903da1e80e07b3774ce584c181836fbed72e625848cf5f4ad	P02340	selected_group_accession	2p52,3exj	P02340
+T	fresh-e7632536de35f36a382e0d9e61c4837eea5b07285156e2cadeb7c4c758d441c3	Q15274	selected_group_accession	2jbm	Q15274
+T	fresh-e7937bd61dbd6fb99cd8fcb2e9ea600d2c44c6f4441d7e8ef48fd89c6e247cc6	P22535	selected_group_accession	1hx6	P22535
+T	fresh-e7e07766c416632ec71b25bce512f015f49ae5ecc1e0ecd4f860af1ff2c911f5	B6DDQ8	selected_group_accession	7u1n,7tx8	B6DDQ8
+T	fresh-e814a33eb8807bc9c895296b3d70a7eafe5ffb7131fd0e5f980cfaa2e797e7a4	B1PUC6	selected_group_accession	4cnk	B1PUC6
+T	fresh-e83466ca76ea9c73218ba34b5693229accf4c84aa2d39287b23ecf4b1397d7f2	Q6P1C1	selected_group_accession	5mw8	Q6P1C1
+T	fresh-e8da18230120c97d19a06695ab87cd4dbf57b638d58f34e66c1ea9fecfe73ad6	Q9X1H5	selected_group_accession	1vkm	Q9X1H5
+T	fresh-e8ddbf2301eaec45508dfc7f0a528c51cca6654262df46c6933da35060d31734	P24182	selected_group_accession	2w70	P24182
+T	fresh-e8f292d5909dc45810da916596549362ef7a32a4fd404a5e3025fe089b331d12	P21583	selected_group_accession	1scf	P21583
+T	fresh-e93a04f084a5d366120eabf740aebab69ef1e236e8475f524844f186b801a5d5	Q970I1	selected_group_accession	6p4w	Q970I1
+T	fresh-e93deae5c7702f4941811621ee075d9286a5cee974c345a2a7e06ef595e2783c	B0R748	selected_group_accession	4af1	B0R748
+T	fresh-e94e4ed30487d1b100e3f5d8348649c7c1d8046aea85bfb81cb4dbb128532623	P45161	selected_group_accession	3a3d	P45161
+T	fresh-e9cc0dd3c2c6998fbbcdd32944d74fac591443b8fcd28efcb8a967eaa33563c2	Q8WVQ1	selected_group_accession	1s1d	Q8WVQ1
+T	fresh-e9cd61b241e886780b02d75a7288845cbce359e4f53ef19635237b884f5e22f9	Q03010	attempted_not_selected	8hpo	
+T	fresh-e9d89305555c0bd4d056a40f5211d635264622ed41ab7edaabdb7bf962d907f9	Q12063	selected_group_accession	6jcn	Q12063
+T	fresh-e9e58beaacaa1c9172b7b26194d5bd0e5aae0ee412f8d746c85b3b3da265b25d	O58832	selected_group_accession	3lzd	O58832
+T	fresh-ea16a4b7a3512ca460ce6b335d48bb0343b9c00720dd0bbd83e7ab0bd96e07a5	Q6DPL2	selected_group_accession	3ckz,2hty	Q6DPL2
+T	fresh-ea3df24995ce3bcc247a6a19505c43c159332e4f65a80580e5476a1b5c90586d	O07177	selected_group_accession	4o7o	O07177
+T	fresh-eb44abaa9dd69ce193c750da433c13da03f255a920dfe9de689c88e187c63bfb	P29082	selected_group_accession	6qo0	P29082
+T	fresh-eb69d20e0ed256e7162db6a8a752a63b98f7533bb160be977e50b53200bfb40c	A0A1L4BKQ4	attempted_not_selected	6ibg	
+T	fresh-eba75153f51cacbed571e40b51cfaa5a5b87ac8fe14bc733f993bbeab9e89291	P17707	selected_group_accession	1jl0	P17707
+T	fresh-eba75f141c2febb935a790063a9d38f07a9a2066928b7df2f586a3ae2ab22303	P16687	selected_group_accession	4xb6	P16687
+T	fresh-ebb16c8319925f866c56d3f7ac2e6c8d963352fb4d61d1756af6adcc0c7b2808	P26902	selected_group_accession	1hi9	P26902
+T	fresh-ebb5938b5813715490c4d0bec9a9dc04e4e318eb97a88b89865a0fba1e74bbcd	Q9H040	selected_group_accession	6mdw	Q9H040
+T	fresh-ebbe9f454674f837f8a66ea2b38e9b3ca80031785a70371abf9d6710e3f8347c	P0A9G6	selected_group_accession	1igw	P0A9G6
+T	fresh-ebc72eb1d40ed552665fab3943a7348bfa15180b53b0a0f4c4cc890ad95421eb	E1WGG9	selected_group_accession	6upb	E1WGG9
+T	fresh-ec1390f3495e5fa1170ed11adfac172f6870421e28b6236d916de8164d5594bc	Q5SI12	selected_group_accession	2czl	Q5SI12
+T	fresh-ec13d351bf32035b02d403753dbc698cce04a4a2cecb9107b12a61aceb6a861e	Q4WQY4	selected_group_accession	7rk4	Q4WQY4
+T	fresh-ec5b4a7fd7b1470e8183fb54c46ea1c89d79a2d24ed5b598478cec6973d6c3f2	Q02775	selected_group_accession	9dtr	Q02775
+T	fresh-ec9d992c261b797d9da089ee6dd6ffe8f8cce3cb5782cf862e322c6fb81f54c2	Q15750	selected_group_accession	2j4o	Q15750
+T	fresh-ecbe4f972b9823c07ddaf3b1c21dc45c66bf246a7ec92dff3595dd760d4c47c9	P9WJ61	selected_group_accession	3wql	P9WJ61
+T	fresh-ed18fb40f390680a3257838eff438bb1e8bf7ecb2226ff8ffada6c7b88ab4225	Q9X220	selected_group_accession	4kr6	Q9X220
+T	fresh-eda32704af1b3182e7d66e44a66791ecbb2cfc542e5afa2190eae241f8b61c18	Q9A1S2	selected_group_accession	3gld	Q9A1S2
+T	fresh-ee15cd4de7978f1d00fd8f2e233303988990b429f4f6b4b0a07d7954440f1ddf	Q9Y3Y4	selected_group_accession	2vpb	Q9Y3Y4
+T	fresh-ee19badc729dfd25bd93cd206b464edcfab3b8326b47f3fd42e78c688827412f	Q8N3R3	selected_group_accession	8i0k	Q8N3R3
+T	fresh-eec7de8bf04c1c916839e7a2446cf5308d3ea38f63aef6994b513c76e456827f	Q10423	selected_group_accession	1kcf	Q10423
+T	fresh-eef2386172083009803cb3725a9c04cda187f248b0f517dad9e066955f9d3b8d	P18568	selected_group_accession	3wa1	P18568
+T	fresh-ef34c1ad896ce1b03f4dacddb8e989579e15696bdaa6685b7c9b8d0d08a21410	Q88FY1	selected_group_accession	7cup	Q88FY1
+T	fresh-ef6f679dd4cea53ff5cc2bf14fe9f9771952f66fda05b37dbeafe47647e90136	Q02795	selected_group_accession	8age,8agb	Q02795
+T	fresh-ef72ccc57e3bd4d0049fa21bcb878e996c3d6affbae467f92321b41de154cb91	Q64762	selected_group_accession	2vtw	Q64762
+T	fresh-ef76ecb45dcd8a4b9445829820bf8caae9d681525cfee95a84982d8f706e58b4	A0A0F6AK91	selected_group_accession	1z82	A0A0F6AK91
+T	fresh-ef8cfeca73374214039da511cc28c9de515c0f5468706184e639a3b8c083c76d	P32524	selected_group_accession	7dco	P32524
+T	fresh-ef9ce34c950bbfe061902ef0ca7b03b842f5cf2e7dddc7e00af03a0ccc3a862f	Q06778	selected_group_accession	9ixo	Q06778
+T	fresh-efb40351038bfc4a52d09e99d8f14591486268ca566771e2fcf8ea5b624628b5	P04530	selected_group_accession	8dtp	P04530
+T	fresh-efbf00d7246634cc1a174d6242f0441a38e8d396d088a67ac462f4a5c89e337e	P71088	selected_group_accession	5cl2	P71088
+T	fresh-efd852c1d670b9edc8b1739742b2f68d9390065fbc64614a7b208b4e0ee37a33	Q12277	selected_group_accession	8qcf	Q12277
+T	fresh-f0022c2d52c8ad96a5aa3ed64281c31c9e8573f62da4fa40374b8f0a35475b85	P40454	selected_group_accession	2ixo	P40454
+T	fresh-f04e4b0886e0fe3e0b6ce7b63053bed66e39ceb1b9b9e48c37ce1efebb14a925	P69786	selected_group_accession	3bp3,9hnp	P69786
+T	fresh-f060d65d288699f277e21ddebaab0404afbb983188dbe14827ec75d52714aa88	Q57968	selected_group_accession	6zvz	Q57968
+T	fresh-f0886012153b783debe265d82dc2953e05c677cca518183952c6c164f11e93a9	Q2YDF6	attempted_not_selected	6neq	
+T	fresh-f09591bd6cd7ecc51bb2f1f3961303c1b07e779b664e5e70f41e34d167fb1888	Q3YBR2	selected_group_accession	2wzo	Q3YBR2
+T	fresh-f11df2527ebf53c9a7b18fd49a74f7e2db18c8ee0922d1d907f3fa4c5af6367c	P31517	selected_group_accession	7qxv	P31517
+T	fresh-f14906034359608b9c54fba6e55d053ae20f1fdefceb63e68350eca8e53ae400	A3DIH0	selected_group_accession	5o82	A3DIH0
+T	fresh-f1813e7d29f96462483e5dcc32c46de0fd21539cd23e0b97ed30c7cc065247b2	P0AGM8	selected_group_accession	5xls	P0AGM8
+T	fresh-f1915bb4a8e95cf4a78017c42542f2f2b89b202e26ff767a064efb701f509b70	Q8N4J0	selected_group_accession	5yf0	Q8N4J0
+T	fresh-f22d0633c5c7cc31ffb47ad8532cb861fd83824db1f7566902c356b9048a907d	Q2KIR7	selected_group_accession	7pk2	Q2KIR7
+T	fresh-f253dc1df2abab85ffd460db3f3efd6c2a4a63d37dd2b1fb08c290e6f06a8af7	P83003	selected_group_accession	5hca	P83003
+T	fresh-f25507892950fed0bd48b4b729a2e3ba3fe5d9f24a1431947ae74807b8e56bc6	P15005	selected_group_accession	6gcf,6ut6	P15005
+T	fresh-f2ab025291ed8f3935353bfc13dad61d80a9b853eccb4b0b1e1e785f1ee973ff	P29622	selected_group_accession	6f4v	P29622
+T	fresh-f312a196db82c6a893b6b322737d6f67564793667f8954fe208bd4cbec6d431b	Q2T9Q6	attempted_not_selected	7rro	
+T	fresh-f398a3863c29bb813dd0d104307406db9da788463260da68a96bd8072b4ceea8	P0DV88	selected_group_accession	7xjg,8qbl	P0DV88
+T	fresh-f3b48d139af907887e73d5933d171c77b091a9240b2adbebc7e52bc6cb24c18f	Q7SHB2	selected_group_accession	6yw5,6ywx	Q7SHB2
+T	fresh-f43b4ffc7001bd7bb2187e67035a732dd3e7ad1aa4406cfdfe017f138fb7354a	Q9H490	selected_group_accession	7wld	Q9H490
+T	fresh-f47a636de6eb15541272585c6e333461c02413f27e3eb57f339e283d878c6878	Q9UN36	selected_group_accession	2xmr	Q9UN36
+T	fresh-f4d28915a1736141b0ae17bcfb06ca4cd6fd16962e7503f156f82b30414a5316	Q7TNG8	selected_group_accession	8jdg	Q7TNG8
+T	fresh-f52f2d93f51ce31b4033c8b00413ae460ab1f074f50874283eebdf3b698f627f	Q03154	selected_group_accession	1q7l	Q03154
+T	fresh-f5490ee5653a54782ee56f1083e6173bf6773d55b374f347480bc4080e127d38	Q8GGG1	selected_group_accession	7nxg	Q8GGG1
+T	fresh-f56db37608776ea4f45e62d93c2c8d73e370213a9596a0704de754e4cebfeffc	Q9H1D9	attempted_not_selected	9k39	
+T	fresh-f58d15bc8044784ca778b2556a8220af4eb46f0606d11a95c235419fff5b3fcd	P25559	selected_group_accession	5msn,5msm	P25559
+T	fresh-f5968746ef5c6f7f2dd32bd9e9a42f32e867678b248fdd0666994550a7503aad	P06983	selected_group_accession	1gtk	P06983
+T	fresh-f59cd3e60a5d13bca1c69a6756dc2d7a57b4ecacf0d853493b923ec511982ada	P39805	selected_group_accession	1h99,1l1c	P39805
+T	fresh-f5e1f90a9ffe0eaaecd4a2a6e3bcb2b46b68eb52f52aaf503f200e32c510fcc2	Q08722	attempted_not_selected	7myz	
+T	fresh-f61dcef4fd6d8660a33f0fb8a46cc006d1a4f020f7ee82888a6bb65d34f292f0	Q9I1L5	selected_group_accession	3e59	Q9I1L5
+T	fresh-f66679702bb2fac04f091488f38d4ca1541aa29b5af45e2c1a87333c8dba084a	P75745	selected_group_accession	5dud	P75745
+T	fresh-f74025b5e2f49e9e485842d2b00e6439e5ecef826a5bc113a20c730ad1bdc6f3	Q5T6F0	selected_group_accession	8ajm	Q5T6F0
+T	fresh-f76c06632d6686911489d1513d6484e023073b4659f3addf3a3b28f87b191319	Q5HE87	selected_group_accession	3pgy	Q5HE87
+T	fresh-f7885d100b05711355e1de2ba4b94d8dc583fd2d6d40e13b4e29ebc255ee108f	P03296	selected_group_accession	8ag4,8ag3	P03296
+T	fresh-f797c09b19a696561c057b96de850e024d01dc867b3dc6c5478cd91dabe7c457	P43876	selected_group_accession	1p77	P43876
+T	fresh-f7a55750cad8d292664662f7c5f59ee16b1e3f4ecd8833194a5770ad4f963b77	A9CB85	selected_group_accession	5g5o	A9CB85
+T	fresh-f7dc2885af41e701caf68d8f8a2a99631b0a5542d49cce691ca69c87ef950dab	C0VHC9	selected_group_accession	6vm6	C0VHC9
+T	fresh-f7fc910c2011bbe943e265cfbae1391d7d19c91fa59989ffa24b7e1654fe525b	O31097	selected_group_accession	3amr	O31097
+T	fresh-f88059765030e42ae526dda6c865796ed946c7e8c225dd469b3360c02bf7d544	Q01657	selected_group_accession	7jr9	Q01657
+T	fresh-f8b6a6d6138352bcd383f2a7a8623d8d93f1db1de88b8b87f09427f4cd5af652	P08078	attempted_not_selected	1bwd	
+T	fresh-f8c8111d2c41a939626c2a5071a9e500ec0b79261dd8f7a988621615aba883f7	Q9V4K2	selected_group_accession	8jma	Q9V4K2
+T	fresh-f8cab00f3e073e4bcf1443b4d458b4c267811a56f041b44e6d54aeb9a4647677	Q15545	selected_group_accession	4rgw	Q15545
+T	fresh-f8cbc909a8e34896eceb304415ab32851be16551a33b87b2e2c9a4c26c1d5698	A4GXA9	attempted_not_selected	7f6l	
+T	fresh-f921cc029fdb0d8754a1da978b6848161b8ddf435f54c2ff68cddfe08b1449e6	P53757	selected_group_accession	1yga	P53757
+T	fresh-f92b89ac6e8f71b032e36072325589ea916cca85e9dfbdb82b83396fcff6747e	Q9H1K6	selected_group_accession	6xz3,6xz4	Q9H1K6
+T	fresh-f92d27b7b5c0cf82837960e5849b4d1ee6147e9a995cfb5de1dca729014f0eeb	Q9HV00	selected_group_accession	2fiy	Q9HV00
+T	fresh-f93a250608e74e1d82699215732843e6923e1d4b289a5fc50839ab058f85cba3	P17499	attempted_not_selected	9h1s,8i8a	
+T	fresh-f948f5aadfb7756bed66bf0f8ad55e12c75f6f325e854133947929eca8b73649	Q5MJ70	selected_group_accession	5uq2,5uq1	Q5MJ70
+T	fresh-f9b30578dc2323a5efc3bf176a4218845e53fc43a1be579b555b7a85d7d5c5c2	P75804	selected_group_accession	2g8s	P75804
+T	fresh-fa1370847d76bf538c438988fdd00f13dfd34856110f13e400f2353d5171e4ca	P49257	selected_group_accession	4ygb,3a4u	P49257
+T	fresh-fa48b06e367474db5408205080a8f08d50bf4ae2892ff9f22a0bd948b9c650c5	Q9LD14	selected_group_accession	1qyd	Q9LD14
+T	fresh-fa681fc84b6ba941f8c786b2f1dcdcb8f2ab0c5edeb5508bce9d32e649ef0ec4	Q8U3B0	attempted_not_selected	9fny	
+T	fresh-fa8616880dee4393ef6fdddc6e99bf649c28eeb5c966449304fd894d5d303902	P36438	selected_group_accession	1hcz	P36438
+T	fresh-fa869e0bb268be0cd014d182a3973b263f64e82704d4c15921717f98f25d612e	F0NID4	selected_group_accession	5yww	F0NID4
+T	fresh-fa9c62313d2ca01fd3ec6cefb0601ffb71b72edefaf74e51ef5e4f46f1184883	P26747	selected_group_accession	8i1v,8i1t	P26747
+T	fresh-fad210df8da7bb1e5169f1403e9aad6260c812e0aba19886960e8cb7afc5fb95	O43323	selected_group_accession	2wfq	O43323
+T	fresh-fad2a929e7ea1619c73db983931213ffa6fea9d98d680b1949df2c24a5155774	B5Z6I2	selected_group_accession	6b8s	B5Z6I2
+T	fresh-fb3861047b08bf5d99e67c384105a107dce66f3c7aa2cde0e163a8832fc350ce	O75818	selected_group_accession	6ahv	O75818
+T	fresh-fb51eaa7375cf59939e770091181d44765cd8d7d9873351797efda67fabcb919	Q46079	selected_group_accession	1dbg	Q46079
+T	fresh-fb9c4dc9287c45eff368a757f85d3243cfeef03a44889fc33386b62f396d8ce5	O67465	selected_group_accession	2au3	O67465
+T	fresh-fbe0c4f3aa63cbd1da94284cf69f7b7b884686fa127da456cf30f7271accdf71	Q9USH8	selected_group_accession	4xqm	Q9USH8
+T	fresh-fc0d70c737d831f0524a97aa29fced981fe852f82d62038b7ef98ef8660bea3b	P16926	selected_group_accession	7eft	P16926
+T	fresh-fc1dcd92d8151bde6492bfcbb063c7de384d2e532676dd1296b9a702c6134478	Q9UMX1	selected_group_accession	4kmd	Q9UMX1
+T	fresh-fc72ae0cea6cb0df67700b9949da93c8d6229fe39ecc6a2ca4ee273e64fb3ec8	P95458	selected_group_accession	4wsh	P95458
+T	fresh-fc7f697dedd0e07994c4b6633bb2d42faa02033b9eb307f42bf4608eadb5ad31	Q0KJL4	selected_group_accession	6p3h	Q0KJL4
+T	fresh-fca1abdd05299e47ff4c1410536775fc95df48847084bb71dd084d0ca559a14e	O25242	selected_group_accession	4s3i	O25242
+T	fresh-fcdce4fdb5c193b31ef3329ba38dfb4e89b3aa09045cc9f9651037693efc65c9	O13795	selected_group_accession	6tzn	O13795
+T	fresh-fd1686f0cee2ca6fd531839800f04a1983f78f1e6631c637df0398c989d28983	P38803	selected_group_accession	6ylg	P38803
+T	fresh-fd2e3d9ee3edcc0930ec8bba06738592c09c8308dc47b2eff30a52d865cbf59c	G0GAP6	selected_group_accession	6leo	G0GAP6
+T	fresh-fdacf7a80013056bc512c00e6518a955d8b17772f878b43c3f4e7736606cef84	P29084	selected_group_accession	5gpy,7nvu	P29084
+T	fresh-fdd9dc014e94d8d65c65f909b321bef2076fcc72d522bbea2492bf44fc0095c9	A0A7H0DN96	selected_group_accession	8jed,8y2y	A0A7H0DN96
+T	fresh-fe753caf51fa6d8412dae6328234a2e1b82285228fc2661828ac5a86e1cd6a98	Q9H9Q4	selected_group_accession	9n81,9cqc	Q9H9Q4
+T	fresh-fea4325f8b0abb7b2aaa32f3bc4b42645322ea38aa587412a6de720a42676df5	Q92194	selected_group_accession	5x6s	Q92194
+T	fresh-fed33471a1e6d02d8c37fef98982b7223afaa20f76c5a2f5a0dc53d63dcf06b6	Q8N9L9	selected_group_accession	3k2i	Q8N9L9
+T	fresh-ff489346854407bafd600b6d1fab55fc3fff7cb35d348e5caf047dc951478b72	Q8GCH2	selected_group_accession	2hy7	Q8GCH2
+T	fresh-ff4ba405d2cd01d54607d9a52de3cb0bff8ad6fae91d3747e6ffb2448f975359	P41365	selected_group_accession	5a71,3icw	P41365
+T	fresh-ffc56999c26348c4d77725e58d38007979ddd0380193473e06ebbf80102bf785	Q9MCT1	selected_group_accession	6z6d	Q9MCT1

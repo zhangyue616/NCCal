@@ -1,0 +1,12 @@
+author_row0	layer	arm	concept	best_feature	best_test_f1	model	physical_unit0	pole	direct_readout	physical_block0	same_physical_block
+6655	14	mlp_native	Domain_UmuC	3731	1.0	esmc_300	1171	negative	gate-open sign-tagged SwiGLU poles	14	False
+6970	14	mlp_native	Motif_RxLR-dEER	1171	0.8461538461538461	esmc_300	1171	positive	gate-open sign-tagged SwiGLU poles	14	False
+7291	14	mlp_poles	Domain_UmuC	3731	1.0	esmc_300	1171	negative	ReLU(z),ReLU(-z)	14	False
+7606	14	mlp_poles	Motif_RxLR-dEER	1171	0.8461538461538461	esmc_300	1171	positive	ReLU(z),ReLU(-z)	14	False
+17763	29	mlp_native	Motif_Prevents secretion from ER	3731	0.018735362997658083	esmc_300	1171	negative	gate-open sign-tagged SwiGLU poles	29	False
+17764	29	mlp_native	Motif_Microbody targeting signal	3731	0.03222836095764273	esmc_300	1171	negative	gate-open sign-tagged SwiGLU poles	29	False
+18399	29	mlp_poles	Motif_Prevents secretion from ER	3731	0.018735362997658083	esmc_300	1171	negative	ReLU(z),ReLU(-z)	29	False
+18400	29	mlp_poles	Motif_Microbody targeting signal	3731	0.03222836095764273	esmc_300	1171	negative	ReLU(z),ReLU(-z)	29	False
+22234	14	mlp_positive	Motif_RxLR-dEER	1171	0.8461538461538461	esmc_300	1171	positive	ReLU(z)	14	False
+22309	22	mlp_positive	Modified residue_Phosphothreonine	1171	0.027575020275750206	esmc_300	1171	positive	ReLU(z)	22	False
+22872	22	mlp_positive	Motif_TXY	1171	0.12377850162866448	esmc_300	1171	positive	ReLU(z)	22	False

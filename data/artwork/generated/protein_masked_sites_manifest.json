@@ -1,0 +1,125 @@
+[
+ {
+  "file": "prot_gray_one_site.png",
+  "kind": "protein",
+  "size_px": [
+   935,
+   792
+  ],
+  "note": "ribbon of PDB 2CZL chain A in gray; dark windows; orange spheres = masked residues",
+  "geometry_file": "protein_masked_geometry.json",
+  "geometry_sha256": "acbeaae1e903c9da137c1839c10e435b08358f81fb7d5ae80f644ce128f88afc",
+  "pdb_id": "2CZL",
+  "chain": "A",
+  "residues": [
+   3,
+   272,
+   270
+  ],
+  "view": "front",
+  "proper_rotation": true,
+  "sites": {
+   "A164": {
+    "residue": "ALA164",
+    "class": "H",
+    "window": [
+     161,
+     169
+    ],
+    "window_sequence": "DLGAWWEER"
+   }
+  },
+  "colours": {
+   "chain": [
+    0.8,
+    0.83,
+    0.87
+   ],
+   "window": [
+    0.29,
+    0.33,
+    0.38
+   ],
+   "masked_residue": [
+    0.9333333333333333,
+    0.4666666666666667,
+    0.2
+   ]
+  },
+  "px_per_angstrom": 18.0,
+  "anchor_xy_px": {
+   "A164": [
+    295.4,
+    442.5
+   ]
+  }
+ },
+ {
+  "file": "prot_gray_two_sites.png",
+  "kind": "protein",
+  "size_px": [
+   935,
+   792
+  ],
+  "note": "ribbon of PDB 2CZL chain A in gray; dark windows; orange spheres = masked residues",
+  "geometry_file": "protein_masked_geometry.json",
+  "geometry_sha256": "acbeaae1e903c9da137c1839c10e435b08358f81fb7d5ae80f644ce128f88afc",
+  "pdb_id": "2CZL",
+  "chain": "A",
+  "residues": [
+   3,
+   272,
+   270
+  ],
+  "view": "front",
+  "proper_rotation": true,
+  "sites": {
+   "A164": {
+    "residue": "ALA164",
+    "class": "H",
+    "window": [
+     161,
+     169
+    ],
+    "window_sequence": "DLGAWWEER"
+   },
+   "A178": {
+    "residue": "ALA178",
+    "class": "E",
+    "window": [
+     174,
+     182
+    ],
+    "window_sequence": "LPLGAILAR"
+   }
+  },
+  "colours": {
+   "chain": [
+    0.8,
+    0.83,
+    0.87
+   ],
+   "window": [
+    0.29,
+    0.33,
+    0.38
+   ],
+   "masked_residue": [
+    0.9333333333333333,
+    0.4666666666666667,
+    0.2
+   ]
+  },
+  "px_per_angstrom": 18.0,
+  "anchor_xy_px": {
+   "A164": [
+    295.4,
+    442.5
+   ],
+   "A178": [
+    586.5,
+    462.3
+   ]
+  }
+ }
+]

@@ -1,0 +1,431 @@
+unit_id	frame	exactconcept	masked	AUC_groups	auc_scope	full_protein_residue_auc	raw_group_AUC_path	own_NEW_excluded_previously_used_groups
+Hallee|esm2_650m|b8|u3993|positive|aa0006a8d3	T	Active site_S-palmitoyl cysteine intermediate	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esm2_650m|b8|u3993|positive|aa0006a8d3	NEW	Active site_S-palmitoyl cysteine intermediate	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esm2_650m|b17|u4004|positive|aa0006a8d3	T	Active site_S-palmitoyl cysteine intermediate	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esm2_650m|b17|u4004|positive|aa0006a8d3	NEW	Active site_S-palmitoyl cysteine intermediate	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esm2_650m|b32|u982|positive|7018dbf7b6	T	Active site_For autocatalytic cleavage activity	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esm2_650m|b32|u982|positive|7018dbf7b6	NEW	Active site_For autocatalytic cleavage activity	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esm2_650m|b29|u920|positive|7f34900e5e	T	Active site_Thioimide intermediate	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esm2_650m|b29|u920|positive|7f34900e5e	NEW	Active site_Thioimide intermediate	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esm2_650m|b29|u3133|negative|1700b43dc4	T	Active site_Phosphoserine intermediate	False	3	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/bd895449eac19849d8e352b3/T_group_AUC.tsv	
+Hallee|esm2_650m|b29|u3133|negative|1700b43dc4	NEW	Active site_Phosphoserine intermediate	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esm2_650m|b23|u2793|negative|56765ba4cb	T	Active site_O-(3'-phospho-DNA)-tyrosine intermediate	False	2	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/001a589f5ac48b08b46f68ca/T_group_AUC.tsv	
+Hallee|esm2_650m|b23|u2793|negative|56765ba4cb	NEW	Active site_O-(3'-phospho-DNA)-tyrosine intermediate	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esm2_650m|b29|u1195|positive|e771ec3e40	T	Active site_Acyl-ester intermediate	False	8	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/002f4969b8eea193c96ee008/T_group_AUC.tsv	
+Hallee|esm2_650m|b29|u1195|positive|e771ec3e40	NEW	Active site_Acyl-ester intermediate	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esm2_650m|b32|u2276|positive|071ca9b977	T	Active site_S-methylcysteine intermediate	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esm2_650m|b32|u2276|positive|071ca9b977	NEW	Active site_S-methylcysteine intermediate	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esm2_650m|b32|u335|negative|2fe17ca6c1	T	Active site_Schiff-base intermediate with DXP	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esm2_650m|b32|u335|negative|2fe17ca6c1	NEW	Active site_Schiff-base intermediate with DXP	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esm2_650m|b29|u2987|positive|0927da96d9	T	Active site_Schiff-base intermediate with substrate	False	1	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/4c6b25ac6863190cf636bec0/T_group_AUC.tsv	
+Hallee|esm2_650m|b29|u2987|positive|0927da96d9	NEW	Active site_Schiff-base intermediate with substrate	False	1	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/4c6b25ac6863190cf636bec0/NEW_group_AUC.tsv	
+Hallee|esm2_650m|b29|u1843|negative|c4a77c799e	T	Helix	False	1056	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/507e5989139a327880dcef60/T_group_AUC.tsv	0
+Hallee|esm2_650m|b29|u1843|negative|c4a77c799e	NEW	Helix	False	157	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/507e5989139a327880dcef60/NEW_group_AUC.tsv	0
+Hallee|esm2_650m|b8|u3267|negative|c4a77c799e	T	Helix	False	1056	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/ae9650ba5503e70aec10dfe6/T_group_AUC.tsv	0
+Hallee|esm2_650m|b8|u3267|negative|c4a77c799e	NEW	Helix	False	157	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/ae9650ba5503e70aec10dfe6/NEW_group_AUC.tsv	0
+Hallee|esm2_650m|b32|u2359|positive|c4a77c799e	T	Helix	False	1056	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/248993147f9c422ca67f809f/T_group_AUC.tsv	0
+Hallee|esm2_650m|b32|u2359|positive|c4a77c799e	NEW	Helix	False	157	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/248993147f9c422ca67f809f/NEW_group_AUC.tsv	0
+Hallee|esm2_650m|b29|u4906|positive|c4a77c799e	T	Helix	False	1056	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/c65daf2d9e79b1434ddc8d91/T_group_AUC.tsv	0
+Hallee|esm2_650m|b29|u4906|positive|c4a77c799e	NEW	Helix	False	157	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/c65daf2d9e79b1434ddc8d91/NEW_group_AUC.tsv	0
+Hallee|esm2_650m|b23|u3393|negative|c4a77c799e	T	Helix	False	1056	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/79ca529c396a0b1061fd6a72/T_group_AUC.tsv	0
+Hallee|esm2_650m|b23|u3393|negative|c4a77c799e	NEW	Helix	False	157	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/79ca529c396a0b1061fd6a72/NEW_group_AUC.tsv	0
+Hallee|esm2_650m|b23|u3294|positive|c4a77c799e	T	Helix	False	1056	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/630347f5022e8182243d4363/T_group_AUC.tsv	0
+Hallee|esm2_650m|b23|u3294|positive|c4a77c799e	NEW	Helix	False	157	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/630347f5022e8182243d4363/NEW_group_AUC.tsv	0
+Hallee|esm2_650m|b17|u1220|negative|c4a77c799e	T	Helix	False	1056	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/e61aeacdedde488be8496bd3/T_group_AUC.tsv	0
+Hallee|esm2_650m|b17|u1220|negative|c4a77c799e	NEW	Helix	False	157	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/e61aeacdedde488be8496bd3/NEW_group_AUC.tsv	0
+Hallee|esm2_650m|b17|u423|positive|c4a77c799e	T	Helix	False	1056	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/e74e81414a2f06136f0f606b/T_group_AUC.tsv	0
+Hallee|esm2_650m|b17|u423|positive|c4a77c799e	NEW	Helix	False	157	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/e74e81414a2f06136f0f606b/NEW_group_AUC.tsv	0
+Hallee|esm2_650m|b8|u4452|positive|c4a77c799e	T	Helix	False	1056	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/962c11a4c15e2bb238378df6/T_group_AUC.tsv	0
+Hallee|esm2_650m|b8|u4452|positive|c4a77c799e	NEW	Helix	False	157	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/962c11a4c15e2bb238378df6/NEW_group_AUC.tsv	0
+Hallee|esm2_650m|b0|u4283|positive|c4a77c799e	T	Helix	False	1056	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/4e09e60648e7a6a4138dfc87/T_group_AUC.tsv	0
+Hallee|esm2_650m|b0|u4283|positive|c4a77c799e	NEW	Helix	False	157	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/4e09e60648e7a6a4138dfc87/NEW_group_AUC.tsv	0
+Hallee|esm2_650m|b29|u171|positive|4557c562f3	T	Beta strand	False	1041	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/3ea950ca006b77457b6cbb82/T_group_AUC.tsv	0
+Hallee|esm2_650m|b29|u171|positive|4557c562f3	NEW	Beta strand	False	152	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/3ea950ca006b77457b6cbb82/NEW_group_AUC.tsv	0
+Hallee|esm2_650m|b32|u1469|positive|4557c562f3	T	Beta strand	False	1041	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/71d7dfdd2ad7b47d84f0b1fd/T_group_AUC.tsv	0
+Hallee|esm2_650m|b32|u1469|positive|4557c562f3	NEW	Beta strand	False	152	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/71d7dfdd2ad7b47d84f0b1fd/NEW_group_AUC.tsv	0
+Hallee|esm2_650m|b17|u1290|positive|4557c562f3	T	Beta strand	False	1041	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/73e4c727180a07520c121155/T_group_AUC.tsv	0
+Hallee|esm2_650m|b17|u1290|positive|4557c562f3	NEW	Beta strand	False	152	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/73e4c727180a07520c121155/NEW_group_AUC.tsv	0
+Hallee|esm2_650m|b23|u2007|positive|4557c562f3	T	Beta strand	False	1041	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/d06b350e9703bd4a5f7ac75a/T_group_AUC.tsv	0
+Hallee|esm2_650m|b23|u2007|positive|4557c562f3	NEW	Beta strand	False	152	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/d06b350e9703bd4a5f7ac75a/NEW_group_AUC.tsv	0
+Hallee|esm2_650m|b8|u2918|positive|4557c562f3	T	Beta strand	False	1041	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/0b89d9060ac5ba56338c83a0/T_group_AUC.tsv	0
+Hallee|esm2_650m|b8|u2918|positive|4557c562f3	NEW	Beta strand	False	152	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/0b89d9060ac5ba56338c83a0/NEW_group_AUC.tsv	0
+Hallee|esm2_650m|b0|u354|negative|4557c562f3	T	Beta strand	False	1041	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/5046ee57561b5ea16e939b7b/T_group_AUC.tsv	0
+Hallee|esm2_650m|b0|u354|negative|4557c562f3	NEW	Beta strand	False	152	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/5046ee57561b5ea16e939b7b/NEW_group_AUC.tsv	0
+Hallee|esm2_650m|b0|u3862|positive|4557c562f3	T	Beta strand	False	1041	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/c7485f5b81d9e9fd3538f971/T_group_AUC.tsv	0
+Hallee|esm2_650m|b0|u3862|positive|4557c562f3	NEW	Beta strand	False	152	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/c7485f5b81d9e9fd3538f971/NEW_group_AUC.tsv	0
+Hallee|esm2_650m|b0|u3072|positive|64483abdf1	T	Region_Disordered	False	223	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/5da00c7b63d279f9a7afba9b/T_group_AUC.tsv	0
+Hallee|esm2_650m|b0|u3072|positive|64483abdf1	NEW	Region_Disordered	False	53	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/5da00c7b63d279f9a7afba9b/NEW_group_AUC.tsv	0
+Hallee|esm2_650m|b8|u2566|positive|64483abdf1	T	Region_Disordered	False	223	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/92284696a46705702735f8da/T_group_AUC.tsv	0
+Hallee|esm2_650m|b8|u2566|positive|64483abdf1	NEW	Region_Disordered	False	53	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/92284696a46705702735f8da/NEW_group_AUC.tsv	0
+Hallee|esm2_650m|b17|u1067|positive|64483abdf1	T	Region_Disordered	False	223	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/063e90ddbc6ed2877120a199/T_group_AUC.tsv	0
+Hallee|esm2_650m|b17|u1067|positive|64483abdf1	NEW	Region_Disordered	False	53	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/063e90ddbc6ed2877120a199/NEW_group_AUC.tsv	0
+Hallee|esm2_650m|b23|u1136|negative|64483abdf1	T	Region_Disordered	False	223	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/c2657b690756d750427f8855/T_group_AUC.tsv	0
+Hallee|esm2_650m|b23|u1136|negative|64483abdf1	NEW	Region_Disordered	False	53	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/c2657b690756d750427f8855/NEW_group_AUC.tsv	0
+Hallee|esm2_650m|b29|u2070|positive|64483abdf1	T	Region_Disordered	False	223	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/1146a07b4bc9704fa24def85/T_group_AUC.tsv	0
+Hallee|esm2_650m|b29|u2070|positive|64483abdf1	NEW	Region_Disordered	False	53	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/1146a07b4bc9704fa24def85/NEW_group_AUC.tsv	0
+Hallee|esm2_650m|b23|u5080|positive|64483abdf1	T	Region_Disordered	False	223	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/c26ba01cd7f251816a577b47/T_group_AUC.tsv	0
+Hallee|esm2_650m|b23|u5080|positive|64483abdf1	NEW	Region_Disordered	False	53	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/c26ba01cd7f251816a577b47/NEW_group_AUC.tsv	0
+Hallee|esm2_650m|b32|u806|negative|64483abdf1	T	Region_Disordered	False	223	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/cf00e8198d7c8b16e466e142/T_group_AUC.tsv	0
+Hallee|esm2_650m|b32|u806|negative|64483abdf1	NEW	Region_Disordered	False	53	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/cf00e8198d7c8b16e466e142/NEW_group_AUC.tsv	0
+Hallee|esm2_650m|b32|u4927|positive|64483abdf1	T	Region_Disordered	False	223	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/c8edaaf8367c830c61027dc3/T_group_AUC.tsv	0
+Hallee|esm2_650m|b32|u4927|positive|64483abdf1	NEW	Region_Disordered	False	53	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/c8edaaf8367c830c61027dc3/NEW_group_AUC.tsv	0
+Hallee|esm2_650m|b29|u858|positive|d35e284bd3	T	Disulfide bond	False	120	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/1c36ff6346eaa438cbc26a01/T_group_AUC.tsv	
+Hallee|esm2_650m|b29|u858|positive|d35e284bd3	NEW	Disulfide bond	False	29	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/1c36ff6346eaa438cbc26a01/NEW_group_AUC.tsv	
+Hallee|esm2_650m|b32|u3225|positive|d35e284bd3	T	Disulfide bond	False	120	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/69d478d111fb58eee37a706f/T_group_AUC.tsv	
+Hallee|esm2_650m|b32|u3225|positive|d35e284bd3	NEW	Disulfide bond	False	29	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/69d478d111fb58eee37a706f/NEW_group_AUC.tsv	
+Hallee|esm2_650m|b23|u2361|positive|d35e284bd3	T	Disulfide bond	False	120	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/e4a5e9466e1698ad37c13bf4/T_group_AUC.tsv	
+Hallee|esm2_650m|b23|u2361|positive|d35e284bd3	NEW	Disulfide bond	False	29	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/e4a5e9466e1698ad37c13bf4/NEW_group_AUC.tsv	
+Hallee|esm2_650m|b0|u1879|positive|d35e284bd3	T	Disulfide bond	False	120	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/e5b2fd7f820de4bcda3c6b19/T_group_AUC.tsv	
+Hallee|esm2_650m|b0|u1879|positive|d35e284bd3	NEW	Disulfide bond	False	29	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/e5b2fd7f820de4bcda3c6b19/NEW_group_AUC.tsv	
+Hallee|esm2_650m|b17|u779|positive|d35e284bd3	T	Disulfide bond	False	120	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/25078ea79a1738d9e7b7be80/T_group_AUC.tsv	
+Hallee|esm2_650m|b17|u779|positive|d35e284bd3	NEW	Disulfide bond	False	29	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/25078ea79a1738d9e7b7be80/NEW_group_AUC.tsv	
+Hallee|esm2_650m|b8|u3130|positive|d35e284bd3	T	Disulfide bond	False	120	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/8b5c98600ff93f60d1af478b/T_group_AUC.tsv	
+Hallee|esm2_650m|b8|u3130|positive|d35e284bd3	NEW	Disulfide bond	False	29	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/8b5c98600ff93f60d1af478b/NEW_group_AUC.tsv	
+Hallee|esm2_650m|b8|u990|positive|0e122ce85f	T	Glycosylation_N-linked (GlcNAc...) asparagine	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esm2_650m|b8|u990|positive|0e122ce85f	NEW	Glycosylation_N-linked (GlcNAc...) asparagine	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esm2_650m|b32|u2311|positive|0e122ce85f	T	Glycosylation_N-linked (GlcNAc...) asparagine	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esm2_650m|b32|u2311|positive|0e122ce85f	NEW	Glycosylation_N-linked (GlcNAc...) asparagine	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esm2_650m|b23|u4843|positive|0e122ce85f	T	Glycosylation_N-linked (GlcNAc...) asparagine	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esm2_650m|b23|u4843|positive|0e122ce85f	NEW	Glycosylation_N-linked (GlcNAc...) asparagine	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esm2_650m|b29|u685|positive|53c0effe3b	T	Modified residue_2-(S-cysteinyl)pyruvic acid O-phosphothioketal	False	1	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/5a2bf927c792672f987d1149/T_group_AUC.tsv	
+Hallee|esm2_650m|b29|u685|positive|53c0effe3b	NEW	Modified residue_2-(S-cysteinyl)pyruvic acid O-phosphothioketal	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esm2_650m|b29|u2116|positive|0e122ce85f	T	Glycosylation_N-linked (GlcNAc...) asparagine	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esm2_650m|b29|u2116|positive|0e122ce85f	NEW	Glycosylation_N-linked (GlcNAc...) asparagine	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esm2_650m|b8|u2440|positive|d7e44b5628	T	Modified residue_Cysteine methyl ester	False	1	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/f2e5a4834ab98355ccaabd47/T_group_AUC.tsv	
+Hallee|esm2_650m|b8|u2440|positive|d7e44b5628	NEW	Modified residue_Cysteine methyl ester	False	1	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/f2e5a4834ab98355ccaabd47/NEW_group_AUC.tsv	
+Hallee|esm2_650m|b17|u5030|positive|d7e44b5628	T	Modified residue_Cysteine methyl ester	False	1	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/94b2af1347da233e01e857d6/T_group_AUC.tsv	
+Hallee|esm2_650m|b17|u5030|positive|d7e44b5628	NEW	Modified residue_Cysteine methyl ester	False	1	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/94b2af1347da233e01e857d6/NEW_group_AUC.tsv	
+Hallee|esm2_650m|b8|u1011|positive|8c8afc4ba5	T	Glycosylation_O-linked (GlcNAc) threonine	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esm2_650m|b8|u1011|positive|8c8afc4ba5	NEW	Glycosylation_O-linked (GlcNAc) threonine	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esm2_650m|b8|u3360|positive|735cb4b085	T	Modified residue_Hydroxyproline	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esm2_650m|b8|u3360|positive|735cb4b085	NEW	Modified residue_Hydroxyproline	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esm2_650m|b32|u2981|negative|0019924fab	T	Modified residue_N6-(pyridoxal phosphate)lysine	False	13	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/4cc90672eb41abc1de741fee/T_group_AUC.tsv	
+Hallee|esm2_650m|b32|u2981|negative|0019924fab	NEW	Modified residue_N6-(pyridoxal phosphate)lysine	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esm2_650m|b17|u879|positive|e1522d7f25	T	Signal peptide_Tat-type signal	False	4	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/db3d9efd743493e3d0dba4f7/T_group_AUC.tsv	
+Hallee|esm2_650m|b17|u879|positive|e1522d7f25	NEW	Signal peptide_Tat-type signal	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esm2_650m|b8|u1707|positive|e1522d7f25	T	Signal peptide_Tat-type signal	False	4	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/794ebb4774235181e2f6d2a9/T_group_AUC.tsv	
+Hallee|esm2_650m|b8|u1707|positive|e1522d7f25	NEW	Signal peptide_Tat-type signal	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esm2_650m|b23|u4476|positive|e1522d7f25	T	Signal peptide_Tat-type signal	False	4	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/0e3a935c6ad22b53686dc311/T_group_AUC.tsv	
+Hallee|esm2_650m|b23|u4476|positive|e1522d7f25	NEW	Signal peptide_Tat-type signal	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esm2_650m|b29|u3716|positive|e1522d7f25	T	Signal peptide_Tat-type signal	False	4	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/07ea04403df95b958b55fc1e/T_group_AUC.tsv	
+Hallee|esm2_650m|b29|u3716|positive|e1522d7f25	NEW	Signal peptide_Tat-type signal	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esm2_650m|b32|u3679|positive|e1522d7f25	T	Signal peptide_Tat-type signal	False	4	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/56dd9d4da62f6d096619b8a2/T_group_AUC.tsv	
+Hallee|esm2_650m|b32|u3679|positive|e1522d7f25	NEW	Signal peptide_Tat-type signal	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esm2_650m|b0|u2876|positive|e1522d7f25	T	Signal peptide_Tat-type signal	False	4	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/c86cee9a435c5cb84e217306/T_group_AUC.tsv	
+Hallee|esm2_650m|b0|u2876|positive|e1522d7f25	NEW	Signal peptide_Tat-type signal	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esm2_650m|b29|u5076|positive|b823d5f9d1	T	Turn	False	760	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/65c9389f28d621c1d7ddfba7/T_group_AUC.tsv	0
+Hallee|esm2_650m|b29|u5076|positive|b823d5f9d1	NEW	Turn	False	112	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/65c9389f28d621c1d7ddfba7/NEW_group_AUC.tsv	0
+Hallee|esm2_650m|b32|u3530|positive|b823d5f9d1	T	Turn	False	760	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/bd63510698727937390181c8/T_group_AUC.tsv	0
+Hallee|esm2_650m|b32|u3530|positive|b823d5f9d1	NEW	Turn	False	112	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/bd63510698727937390181c8/NEW_group_AUC.tsv	0
+Hallee|esm2_650m|b23|u2885|negative|b823d5f9d1	T	Turn	False	760	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/c560602529c1ffbebf86d484/T_group_AUC.tsv	0
+Hallee|esm2_650m|b23|u2885|negative|b823d5f9d1	NEW	Turn	False	112	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/c560602529c1ffbebf86d484/NEW_group_AUC.tsv	0
+Hallee|esm2_650m|b8|u961|positive|b823d5f9d1	T	Turn	False	760	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/9cfec2d4ac6830fbaef04f3b/T_group_AUC.tsv	0
+Hallee|esm2_650m|b8|u961|positive|b823d5f9d1	NEW	Turn	False	112	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/9cfec2d4ac6830fbaef04f3b/NEW_group_AUC.tsv	0
+Hallee|esm2_650m|b23|u710|positive|b823d5f9d1	T	Turn	False	760	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/05ed2c08a08c7a785df7d82a/T_group_AUC.tsv	0
+Hallee|esm2_650m|b23|u710|positive|b823d5f9d1	NEW	Turn	False	112	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/05ed2c08a08c7a785df7d82a/NEW_group_AUC.tsv	0
+Hallee|esm2_650m|b0|u2968|positive|b823d5f9d1	T	Turn	False	760	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/9a2eeeec1f5ea672e3eb9d5b/T_group_AUC.tsv	0
+Hallee|esm2_650m|b0|u2968|positive|b823d5f9d1	NEW	Turn	False	112	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/9a2eeeec1f5ea672e3eb9d5b/NEW_group_AUC.tsv	0
+Hallee|esm2_650m|b17|u3912|positive|b823d5f9d1	T	Turn	False	760	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/9d2c4cc97b4e847654b262e0/T_group_AUC.tsv	0
+Hallee|esm2_650m|b17|u3912|positive|b823d5f9d1	NEW	Turn	False	112	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/9d2c4cc97b4e847654b262e0/NEW_group_AUC.tsv	0
+Hallee|esm2_8m|b1|u311|positive|d331db1fab	T	Active site_Tele-phosphohistidine intermediate	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esm2_8m|b1|u311|positive|d331db1fab	NEW	Active site_Tele-phosphohistidine intermediate	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esm2_8m|b5|u864|positive|d331db1fab	T	Active site_Tele-phosphohistidine intermediate	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esm2_8m|b5|u864|positive|d331db1fab	NEW	Active site_Tele-phosphohistidine intermediate	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esm2_8m|b4|u545|positive|d331db1fab	T	Active site_Tele-phosphohistidine intermediate	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esm2_8m|b4|u545|positive|d331db1fab	NEW	Active site_Tele-phosphohistidine intermediate	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esm2_8m|b2|u31|negative|d331db1fab	T	Active site_Tele-phosphohistidine intermediate	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esm2_8m|b2|u31|negative|d331db1fab	NEW	Active site_Tele-phosphohistidine intermediate	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esm2_8m|b1|u682|positive|597978bcfe	T	Active site_Lowers pKa of active site Tyr	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esm2_8m|b1|u682|positive|597978bcfe	NEW	Active site_Lowers pKa of active site Tyr	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esm2_8m|b4|u1235|negative|56765ba4cb	T	Active site_O-(3'-phospho-DNA)-tyrosine intermediate	False	2	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/a6002dd53cade29bd2e2fd9e/T_group_AUC.tsv	
+Hallee|esm2_8m|b4|u1235|negative|56765ba4cb	NEW	Active site_O-(3'-phospho-DNA)-tyrosine intermediate	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esm2_8m|b4|u706|positive|b8fa44595c	T	Active site_4-aspartylphosphate intermediate	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esm2_8m|b4|u706|positive|b8fa44595c	NEW	Active site_4-aspartylphosphate intermediate	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esm2_8m|b5|u371|positive|56765ba4cb	T	Active site_O-(3'-phospho-DNA)-tyrosine intermediate	False	2	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/f89bcbe7550a61a70d1633b2/T_group_AUC.tsv	
+Hallee|esm2_8m|b5|u371|positive|56765ba4cb	NEW	Active site_O-(3'-phospho-DNA)-tyrosine intermediate	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esm2_8m|b3|u1177|positive|58003d13df	T	Active site_Proton acceptor	False	87	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/353808a7d7fb4156d165a7fe/T_group_AUC.tsv	
+Hallee|esm2_8m|b3|u1177|positive|58003d13df	NEW	Active site_Proton acceptor	False	11	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/353808a7d7fb4156d165a7fe/NEW_group_AUC.tsv	
+Hallee|esm2_8m|b2|u826|positive|58003d13df	T	Active site_Proton acceptor	False	87	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/03a25ac515bc6981c7cc55d1/T_group_AUC.tsv	
+Hallee|esm2_8m|b2|u826|positive|58003d13df	NEW	Active site_Proton acceptor	False	11	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/03a25ac515bc6981c7cc55d1/NEW_group_AUC.tsv	
+Hallee|esm2_8m|b4|u786|positive|c4a77c799e	T	Helix	False	1056	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/465e83b90fb6ecb07ebccb1e/T_group_AUC.tsv	0
+Hallee|esm2_8m|b4|u786|positive|c4a77c799e	NEW	Helix	False	157	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/465e83b90fb6ecb07ebccb1e/NEW_group_AUC.tsv	0
+Hallee|esm2_8m|b5|u36|positive|c4a77c799e	T	Helix	False	1056	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/0e40c9609027cb41f56d383a/T_group_AUC.tsv	0
+Hallee|esm2_8m|b5|u36|positive|c4a77c799e	NEW	Helix	False	157	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/0e40c9609027cb41f56d383a/NEW_group_AUC.tsv	0
+Hallee|esm2_8m|b3|u26|positive|c4a77c799e	T	Helix	False	1056	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/4a90f499e6455a82d009943f/T_group_AUC.tsv	0
+Hallee|esm2_8m|b3|u26|positive|c4a77c799e	NEW	Helix	False	157	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/4a90f499e6455a82d009943f/NEW_group_AUC.tsv	0
+Hallee|esm2_8m|b2|u1139|positive|c4a77c799e	T	Helix	False	1056	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/4748b97e7998dd0ab73c81e7/T_group_AUC.tsv	0
+Hallee|esm2_8m|b2|u1139|positive|c4a77c799e	NEW	Helix	False	157	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/4748b97e7998dd0ab73c81e7/NEW_group_AUC.tsv	0
+Hallee|esm2_8m|b1|u964|positive|c4a77c799e	T	Helix	False	1056	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/38cdc38944bb94cd261a047c/T_group_AUC.tsv	0
+Hallee|esm2_8m|b1|u964|positive|c4a77c799e	NEW	Helix	False	157	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/38cdc38944bb94cd261a047c/NEW_group_AUC.tsv	0
+Hallee|esm2_8m|b0|u1216|positive|c4a77c799e	T	Helix	False	1056	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/32d784fa91f6aae96c8cf48f/T_group_AUC.tsv	0
+Hallee|esm2_8m|b0|u1216|positive|c4a77c799e	NEW	Helix	False	157	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/32d784fa91f6aae96c8cf48f/NEW_group_AUC.tsv	0
+Hallee|esm2_8m|b1|u822|positive|4557c562f3	T	Beta strand	False	1041	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/125921e3e83c6113d89d7593/T_group_AUC.tsv	0
+Hallee|esm2_8m|b1|u822|positive|4557c562f3	NEW	Beta strand	False	152	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/125921e3e83c6113d89d7593/NEW_group_AUC.tsv	0
+Hallee|esm2_8m|b4|u850|positive|4557c562f3	T	Beta strand	False	1041	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/c97a2fe377bf0df5190f68ad/T_group_AUC.tsv	0
+Hallee|esm2_8m|b4|u850|positive|4557c562f3	NEW	Beta strand	False	152	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/c97a2fe377bf0df5190f68ad/NEW_group_AUC.tsv	0
+Hallee|esm2_8m|b5|u333|positive|4557c562f3	T	Beta strand	False	1041	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/45f0cba157f807f0ac1ea3fe/T_group_AUC.tsv	0
+Hallee|esm2_8m|b5|u333|positive|4557c562f3	NEW	Beta strand	False	152	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/45f0cba157f807f0ac1ea3fe/NEW_group_AUC.tsv	0
+Hallee|esm2_8m|b3|u370|positive|4557c562f3	T	Beta strand	False	1041	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/534cbe253f68deb0f93dde82/T_group_AUC.tsv	0
+Hallee|esm2_8m|b3|u370|positive|4557c562f3	NEW	Beta strand	False	152	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/534cbe253f68deb0f93dde82/NEW_group_AUC.tsv	0
+Hallee|esm2_8m|b2|u197|negative|4557c562f3	T	Beta strand	False	1041	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/45bbd014c3fcadf71d53d2d1/T_group_AUC.tsv	0
+Hallee|esm2_8m|b2|u197|negative|4557c562f3	NEW	Beta strand	False	152	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/45bbd014c3fcadf71d53d2d1/NEW_group_AUC.tsv	0
+Hallee|esm2_8m|b2|u1147|positive|4557c562f3	T	Beta strand	False	1041	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/bc36728ee7145271846be18b/T_group_AUC.tsv	0
+Hallee|esm2_8m|b2|u1147|positive|4557c562f3	NEW	Beta strand	False	152	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/bc36728ee7145271846be18b/NEW_group_AUC.tsv	0
+Hallee|esm2_8m|b0|u558|positive|4557c562f3	T	Beta strand	False	1041	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/d7d92ad0470144e135bfc4ac/T_group_AUC.tsv	0
+Hallee|esm2_8m|b0|u558|positive|4557c562f3	NEW	Beta strand	False	152	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/d7d92ad0470144e135bfc4ac/NEW_group_AUC.tsv	0
+Hallee|esm2_8m|b0|u980|positive|64483abdf1	T	Region_Disordered	False	223	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/87627849a6b790a87bf13b5f/T_group_AUC.tsv	0
+Hallee|esm2_8m|b0|u980|positive|64483abdf1	NEW	Region_Disordered	False	53	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/87627849a6b790a87bf13b5f/NEW_group_AUC.tsv	0
+Hallee|esm2_8m|b5|u742|positive|64483abdf1	T	Region_Disordered	False	223	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/c96ef4c7e0b70e65cc6c9286/T_group_AUC.tsv	0
+Hallee|esm2_8m|b5|u742|positive|64483abdf1	NEW	Region_Disordered	False	53	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/c96ef4c7e0b70e65cc6c9286/NEW_group_AUC.tsv	0
+Hallee|esm2_8m|b1|u863|positive|64483abdf1	T	Region_Disordered	False	223	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/8c2e35e08ae8e59d4ed6ac77/T_group_AUC.tsv	0
+Hallee|esm2_8m|b1|u863|positive|64483abdf1	NEW	Region_Disordered	False	53	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/8c2e35e08ae8e59d4ed6ac77/NEW_group_AUC.tsv	0
+Hallee|esm2_8m|b2|u683|positive|64483abdf1	T	Region_Disordered	False	223	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/34402d1d4eb77351e0b96bc3/T_group_AUC.tsv	0
+Hallee|esm2_8m|b2|u683|positive|64483abdf1	NEW	Region_Disordered	False	53	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/34402d1d4eb77351e0b96bc3/NEW_group_AUC.tsv	0
+Hallee|esm2_8m|b3|u1136|positive|64483abdf1	T	Region_Disordered	False	223	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/b17cd078f3758a644e08b1ea/T_group_AUC.tsv	0
+Hallee|esm2_8m|b3|u1136|positive|64483abdf1	NEW	Region_Disordered	False	53	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/b17cd078f3758a644e08b1ea/NEW_group_AUC.tsv	0
+Hallee|esm2_8m|b4|u558|positive|64483abdf1	T	Region_Disordered	False	223	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/c2535d5d72c6c98997b57735/T_group_AUC.tsv	0
+Hallee|esm2_8m|b4|u558|positive|64483abdf1	NEW	Region_Disordered	False	53	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/c2535d5d72c6c98997b57735/NEW_group_AUC.tsv	0
+Hallee|esm2_8m|b1|u361|positive|d35e284bd3	T	Disulfide bond	False	120	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/6ff8f168e653f4dabacad0ab/T_group_AUC.tsv	
+Hallee|esm2_8m|b1|u361|positive|d35e284bd3	NEW	Disulfide bond	False	29	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/6ff8f168e653f4dabacad0ab/NEW_group_AUC.tsv	
+Hallee|esm2_8m|b3|u646|positive|d35e284bd3	T	Disulfide bond	False	120	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/50ae371298b774f6d7de057e/T_group_AUC.tsv	
+Hallee|esm2_8m|b3|u646|positive|d35e284bd3	NEW	Disulfide bond	False	29	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/50ae371298b774f6d7de057e/NEW_group_AUC.tsv	
+Hallee|esm2_8m|b0|u667|positive|d35e284bd3	T	Disulfide bond	False	120	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/d9a138c9eb304d94553eb3fc/T_group_AUC.tsv	
+Hallee|esm2_8m|b0|u667|positive|d35e284bd3	NEW	Disulfide bond	False	29	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/d9a138c9eb304d94553eb3fc/NEW_group_AUC.tsv	
+Hallee|esm2_8m|b2|u261|positive|d35e284bd3	T	Disulfide bond	False	120	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/98a9f89a5abac84c091915fb/T_group_AUC.tsv	
+Hallee|esm2_8m|b2|u261|positive|d35e284bd3	NEW	Disulfide bond	False	29	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/98a9f89a5abac84c091915fb/NEW_group_AUC.tsv	
+Hallee|esm2_8m|b4|u587|positive|d35e284bd3	T	Disulfide bond	False	120	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/cfee220cc6260837a9ae2988/T_group_AUC.tsv	
+Hallee|esm2_8m|b4|u587|positive|d35e284bd3	NEW	Disulfide bond	False	29	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/cfee220cc6260837a9ae2988/NEW_group_AUC.tsv	
+Hallee|esm2_8m|b5|u415|positive|d35e284bd3	T	Disulfide bond	False	120	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/6612ee62ce1b95d965659ba4/T_group_AUC.tsv	
+Hallee|esm2_8m|b5|u415|positive|d35e284bd3	NEW	Disulfide bond	False	29	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/6612ee62ce1b95d965659ba4/NEW_group_AUC.tsv	
+Hallee|esm2_8m|b5|u471|positive|0019924fab	T	Modified residue_N6-(pyridoxal phosphate)lysine	False	13	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/7b1312ef9bc466d72b8907f2/T_group_AUC.tsv	
+Hallee|esm2_8m|b5|u471|positive|0019924fab	NEW	Modified residue_N6-(pyridoxal phosphate)lysine	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esm2_8m|b1|u153|positive|3317ef31b5	T	Modified residue_Phosphohistidine	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esm2_8m|b1|u153|positive|3317ef31b5	NEW	Modified residue_Phosphohistidine	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esm2_8m|b2|u993|positive|0e122ce85f	T	Glycosylation_N-linked (GlcNAc...) asparagine	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esm2_8m|b2|u993|positive|0e122ce85f	NEW	Glycosylation_N-linked (GlcNAc...) asparagine	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esm2_8m|b5|u170|negative|0f91268fa4	T	Modified residue_4-aspartylphosphate	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esm2_8m|b5|u170|negative|0f91268fa4	NEW	Modified residue_4-aspartylphosphate	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esm2_8m|b3|u360|positive|0e122ce85f	T	Glycosylation_N-linked (GlcNAc...) asparagine	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esm2_8m|b3|u360|positive|0e122ce85f	NEW	Glycosylation_N-linked (GlcNAc...) asparagine	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esm2_8m|b4|u641|positive|0e122ce85f	T	Glycosylation_N-linked (GlcNAc...) asparagine	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esm2_8m|b4|u641|positive|0e122ce85f	NEW	Glycosylation_N-linked (GlcNAc...) asparagine	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esm2_8m|b3|u548|positive|3317ef31b5	T	Modified residue_Phosphohistidine	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esm2_8m|b3|u548|positive|3317ef31b5	NEW	Modified residue_Phosphohistidine	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esm2_8m|b3|u501|positive|d1d115c21f	T	Lipidation	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esm2_8m|b3|u501|positive|d1d115c21f	NEW	Lipidation	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esm2_8m|b2|u1253|positive|d1d115c21f	T	Lipidation	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esm2_8m|b2|u1253|positive|d1d115c21f	NEW	Lipidation	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esm2_8m|b4|u1037|negative|3317ef31b5	T	Modified residue_Phosphohistidine	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esm2_8m|b4|u1037|negative|3317ef31b5	NEW	Modified residue_Phosphohistidine	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esm2_8m|b2|u770|positive|e1522d7f25	T	Signal peptide_Tat-type signal	False	4	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/2e8d26c54b7ab88edb83a4e7/T_group_AUC.tsv	
+Hallee|esm2_8m|b2|u770|positive|e1522d7f25	NEW	Signal peptide_Tat-type signal	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esm2_8m|b3|u1162|positive|e1522d7f25	T	Signal peptide_Tat-type signal	False	4	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/6fad51f9323496149e4c98c7/T_group_AUC.tsv	
+Hallee|esm2_8m|b3|u1162|positive|e1522d7f25	NEW	Signal peptide_Tat-type signal	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esm2_8m|b3|u877|negative|e1522d7f25	T	Signal peptide_Tat-type signal	False	4	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/a2ab096a1699937c42c14aa6/T_group_AUC.tsv	
+Hallee|esm2_8m|b3|u877|negative|e1522d7f25	NEW	Signal peptide_Tat-type signal	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esm2_8m|b5|u988|positive|e1522d7f25	T	Signal peptide_Tat-type signal	False	4	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/d58bddbc31e45abffdc3986b/T_group_AUC.tsv	
+Hallee|esm2_8m|b5|u988|positive|e1522d7f25	NEW	Signal peptide_Tat-type signal	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esm2_8m|b4|u708|positive|e1522d7f25	T	Signal peptide_Tat-type signal	False	4	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/a900bd286ffa8506231ed83d/T_group_AUC.tsv	
+Hallee|esm2_8m|b4|u708|positive|e1522d7f25	NEW	Signal peptide_Tat-type signal	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esm2_8m|b1|u364|positive|e1522d7f25	T	Signal peptide_Tat-type signal	False	4	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/7052332640b8088bd3d30d88/T_group_AUC.tsv	
+Hallee|esm2_8m|b1|u364|positive|e1522d7f25	NEW	Signal peptide_Tat-type signal	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esm2_8m|b0|u553|positive|e1522d7f25	T	Signal peptide_Tat-type signal	False	4	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/3ea3483aa46d758fc135d39b/T_group_AUC.tsv	
+Hallee|esm2_8m|b0|u553|positive|e1522d7f25	NEW	Signal peptide_Tat-type signal	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esm2_8m|b5|u1166|positive|b823d5f9d1	T	Turn	False	760	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/64278c2ac595f2e5684a9c1b/T_group_AUC.tsv	0
+Hallee|esm2_8m|b5|u1166|positive|b823d5f9d1	NEW	Turn	False	112	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/64278c2ac595f2e5684a9c1b/NEW_group_AUC.tsv	0
+Hallee|esm2_8m|b2|u80|positive|b823d5f9d1	T	Turn	False	760	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/fee5e2d99bb81f062b26e75d/T_group_AUC.tsv	0
+Hallee|esm2_8m|b2|u80|positive|b823d5f9d1	NEW	Turn	False	112	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/fee5e2d99bb81f062b26e75d/NEW_group_AUC.tsv	0
+Hallee|esm2_8m|b4|u204|positive|b823d5f9d1	T	Turn	False	760	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/09dea6bd9b22083682e10e79/T_group_AUC.tsv	0
+Hallee|esm2_8m|b4|u204|positive|b823d5f9d1	NEW	Turn	False	112	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/09dea6bd9b22083682e10e79/NEW_group_AUC.tsv	0
+Hallee|esm2_8m|b3|u946|negative|b823d5f9d1	T	Turn	False	760	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/bb7c55d591c4245b7a99cf24/T_group_AUC.tsv	0
+Hallee|esm2_8m|b3|u946|negative|b823d5f9d1	NEW	Turn	False	112	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/bb7c55d591c4245b7a99cf24/NEW_group_AUC.tsv	0
+Hallee|esm2_8m|b1|u997|positive|b823d5f9d1	T	Turn	False	760	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/4dbf736e215f12851346c5b7/T_group_AUC.tsv	0
+Hallee|esm2_8m|b1|u997|positive|b823d5f9d1	NEW	Turn	False	112	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/4dbf736e215f12851346c5b7/NEW_group_AUC.tsv	0
+Hallee|esm2_8m|b3|u979|positive|b823d5f9d1	T	Turn	False	760	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/42ce85c9f3a40a582e0acfa0/T_group_AUC.tsv	0
+Hallee|esm2_8m|b3|u979|positive|b823d5f9d1	NEW	Turn	False	112	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/42ce85c9f3a40a582e0acfa0/NEW_group_AUC.tsv	0
+Hallee|esm2_8m|b0|u377|positive|b823d5f9d1	T	Turn	False	760	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/9267e4b1bda34f8062916b68/T_group_AUC.tsv	0
+Hallee|esm2_8m|b0|u377|positive|b823d5f9d1	NEW	Turn	False	112	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/9267e4b1bda34f8062916b68/NEW_group_AUC.tsv	0
+Hallee|esmc_600|b25|u2513|negative|56765ba4cb	T	Active site_O-(3'-phospho-DNA)-tyrosine intermediate	False	2	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/30cf6b34d12a1b82bfd84056/T_group_AUC.tsv	
+Hallee|esmc_600|b25|u2513|negative|56765ba4cb	NEW	Active site_O-(3'-phospho-DNA)-tyrosine intermediate	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esmc_600|b21|u12|negative|56765ba4cb	T	Active site_O-(3'-phospho-DNA)-tyrosine intermediate	False	2	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/282381f5f98cb2530b153758/T_group_AUC.tsv	
+Hallee|esmc_600|b21|u12|negative|56765ba4cb	NEW	Active site_O-(3'-phospho-DNA)-tyrosine intermediate	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esmc_600|b8|u484|negative|aa0006a8d3	T	Active site_S-palmitoyl cysteine intermediate	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esmc_600|b8|u484|negative|aa0006a8d3	NEW	Active site_S-palmitoyl cysteine intermediate	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esmc_600|b7|u2740|positive|aa0006a8d3	T	Active site_S-palmitoyl cysteine intermediate	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esmc_600|b7|u2740|positive|aa0006a8d3	NEW	Active site_S-palmitoyl cysteine intermediate	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esmc_600|b31|u2883|positive|e75b740c62	T	Active site_N6-AMP-lysine intermediate	False	3	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/013239892a66407f2dccc4c1/T_group_AUC.tsv	
+Hallee|esmc_600|b31|u2883|positive|e75b740c62	NEW	Active site_N6-AMP-lysine intermediate	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esmc_600|b32|u2983|negative|071ca9b977	T	Active site_S-methylcysteine intermediate	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esmc_600|b32|u2983|negative|071ca9b977	NEW	Active site_S-methylcysteine intermediate	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esmc_600|b23|u883|negative|256bad3eb7	T	Active site_Amidino-cysteine intermediate	False	2	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/0bb6d4e1caeb1a069a0eb087/T_group_AUC.tsv	
+Hallee|esmc_600|b23|u883|negative|256bad3eb7	NEW	Active site_Amidino-cysteine intermediate	False	1	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/0bb6d4e1caeb1a069a0eb087/NEW_group_AUC.tsv	
+Hallee|esmc_600|b32|u1919|negative|02867d5331	T	Active site_Pros-phosphohistidine intermediate	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esmc_600|b32|u1919|negative|02867d5331	NEW	Active site_Pros-phosphohistidine intermediate	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esmc_600|b18|u2493|positive|aa0006a8d3	T	Active site_S-palmitoyl cysteine intermediate	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esmc_600|b18|u2493|positive|aa0006a8d3	NEW	Active site_S-palmitoyl cysteine intermediate	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esmc_600|b23|u18|negative|071ca9b977	T	Active site_S-methylcysteine intermediate	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esmc_600|b23|u18|negative|071ca9b977	NEW	Active site_S-methylcysteine intermediate	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esmc_600|b33|u2928|negative|c4a77c799e	T	Helix	False	1056	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/211a3d16b909c617f1ad8c2e/T_group_AUC.tsv	0
+Hallee|esmc_600|b33|u2928|negative|c4a77c799e	NEW	Helix	False	157	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/211a3d16b909c617f1ad8c2e/NEW_group_AUC.tsv	0
+Hallee|esmc_600|b29|u2870|negative|c4a77c799e	T	Helix	False	1056	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/a27c34c19873c59c32b63077/T_group_AUC.tsv	0
+Hallee|esmc_600|b29|u2870|negative|c4a77c799e	NEW	Helix	False	157	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/a27c34c19873c59c32b63077/NEW_group_AUC.tsv	0
+Hallee|esmc_600|b7|u108|negative|c4a77c799e	T	Helix	False	1056	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/9ca1e8037323626e6571cce3/T_group_AUC.tsv	0
+Hallee|esmc_600|b7|u108|negative|c4a77c799e	NEW	Helix	False	157	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/9ca1e8037323626e6571cce3/NEW_group_AUC.tsv	0
+Hallee|esmc_600|b35|u2386|positive|c4a77c799e	T	Helix	False	1056	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/8c11aa30674b5a7f2a8d144b/T_group_AUC.tsv	0
+Hallee|esmc_600|b35|u2386|positive|c4a77c799e	NEW	Helix	False	157	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/8c11aa30674b5a7f2a8d144b/NEW_group_AUC.tsv	0
+Hallee|esmc_600|b28|u965|positive|c4a77c799e	T	Helix	False	1056	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/b51d9abdc4ced0a659ab7507/T_group_AUC.tsv	0
+Hallee|esmc_600|b28|u965|positive|c4a77c799e	NEW	Helix	False	157	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/b51d9abdc4ced0a659ab7507/NEW_group_AUC.tsv	0
+Hallee|esmc_600|b34|u1394|positive|c4a77c799e	T	Helix	False	1056	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/e25de2c473280ae09aa674fd/T_group_AUC.tsv	0
+Hallee|esmc_600|b34|u1394|positive|c4a77c799e	NEW	Helix	False	157	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/e25de2c473280ae09aa674fd/NEW_group_AUC.tsv	0
+Hallee|esmc_600|b26|u26|negative|c4a77c799e	T	Helix	False	1056	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/4d0b85c3e8eb9bd81bf18f48/T_group_AUC.tsv	0
+Hallee|esmc_600|b26|u26|negative|c4a77c799e	NEW	Helix	False	157	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/4d0b85c3e8eb9bd81bf18f48/NEW_group_AUC.tsv	0
+Hallee|esmc_600|b25|u152|negative|c4a77c799e	T	Helix	False	1056	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/c512b07f9fd10ba62e10f2e8/T_group_AUC.tsv	0
+Hallee|esmc_600|b25|u152|negative|c4a77c799e	NEW	Helix	False	157	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/c512b07f9fd10ba62e10f2e8/NEW_group_AUC.tsv	0
+Hallee|esmc_600|b18|u306|negative|c4a77c799e	T	Helix	False	1056	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/69e34fe3969637063c60ec70/T_group_AUC.tsv	0
+Hallee|esmc_600|b18|u306|negative|c4a77c799e	NEW	Helix	False	157	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/69e34fe3969637063c60ec70/NEW_group_AUC.tsv	0
+Hallee|esmc_600|b1|u1083|positive|c4a77c799e	T	Helix	False	1056	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/4a0da3cffc942eec169ebaf9/T_group_AUC.tsv	0
+Hallee|esmc_600|b1|u1083|positive|c4a77c799e	NEW	Helix	False	157	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/4a0da3cffc942eec169ebaf9/NEW_group_AUC.tsv	0
+Hallee|esmc_600|b35|u1066|negative|4557c562f3	T	Beta strand	False	1041	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/184c41726245f9abae02d337/T_group_AUC.tsv	0
+Hallee|esmc_600|b35|u1066|negative|4557c562f3	NEW	Beta strand	False	152	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/184c41726245f9abae02d337/NEW_group_AUC.tsv	0
+Hallee|esmc_600|b34|u596|positive|4557c562f3	T	Beta strand	False	1041	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/baa4dcb6376262a218b6cd3f/T_group_AUC.tsv	0
+Hallee|esmc_600|b34|u596|positive|4557c562f3	NEW	Beta strand	False	152	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/baa4dcb6376262a218b6cd3f/NEW_group_AUC.tsv	0
+Hallee|esmc_600|b29|u235|negative|4557c562f3	T	Beta strand	False	1041	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/bb1350d3b982bedd9a3f2b46/T_group_AUC.tsv	0
+Hallee|esmc_600|b29|u235|negative|4557c562f3	NEW	Beta strand	False	152	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/bb1350d3b982bedd9a3f2b46/NEW_group_AUC.tsv	0
+Hallee|esmc_600|b19|u3023|positive|4557c562f3	T	Beta strand	False	1041	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/aec582b1dc11e952770dfa7c/T_group_AUC.tsv	0
+Hallee|esmc_600|b19|u3023|positive|4557c562f3	NEW	Beta strand	False	152	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/aec582b1dc11e952770dfa7c/NEW_group_AUC.tsv	0
+Hallee|esmc_600|b21|u1750|negative|4557c562f3	T	Beta strand	False	1041	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/0688695e309ee3d3c28d27e6/T_group_AUC.tsv	0
+Hallee|esmc_600|b21|u1750|negative|4557c562f3	NEW	Beta strand	False	152	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/0688695e309ee3d3c28d27e6/NEW_group_AUC.tsv	0
+Hallee|esmc_600|b32|u819|negative|4557c562f3	T	Beta strand	False	1041	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/db0fe47465078b213bb219d0/T_group_AUC.tsv	0
+Hallee|esmc_600|b32|u819|negative|4557c562f3	NEW	Beta strand	False	152	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/db0fe47465078b213bb219d0/NEW_group_AUC.tsv	0
+Hallee|esmc_600|b25|u2215|positive|4557c562f3	T	Beta strand	False	1041	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/78871b92091c324efe807223/T_group_AUC.tsv	0
+Hallee|esmc_600|b25|u2215|positive|4557c562f3	NEW	Beta strand	False	152	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/78871b92091c324efe807223/NEW_group_AUC.tsv	0
+Hallee|esmc_600|b23|u1713|positive|4557c562f3	T	Beta strand	False	1041	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/a92173fb3c3bd4429fab5065/T_group_AUC.tsv	0
+Hallee|esmc_600|b23|u1713|positive|4557c562f3	NEW	Beta strand	False	152	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/a92173fb3c3bd4429fab5065/NEW_group_AUC.tsv	0
+Hallee|esmc_600|b33|u2771|negative|4557c562f3	T	Beta strand	False	1041	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/3ab514f8a26733b49f7d453e/T_group_AUC.tsv	0
+Hallee|esmc_600|b33|u2771|negative|4557c562f3	NEW	Beta strand	False	152	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/3ab514f8a26733b49f7d453e/NEW_group_AUC.tsv	0
+Hallee|esmc_600|b30|u224|negative|4557c562f3	T	Beta strand	False	1041	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/86453c61d46f35f0abfd9f32/T_group_AUC.tsv	0
+Hallee|esmc_600|b30|u224|negative|4557c562f3	NEW	Beta strand	False	152	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/86453c61d46f35f0abfd9f32/NEW_group_AUC.tsv	0
+Hallee|esmc_600|b1|u2590|positive|64483abdf1	T	Region_Disordered	False	223	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/a05fef034a3a6b25f0d23e15/T_group_AUC.tsv	0
+Hallee|esmc_600|b1|u2590|positive|64483abdf1	NEW	Region_Disordered	False	53	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/a05fef034a3a6b25f0d23e15/NEW_group_AUC.tsv	0
+Hallee|esmc_600|b2|u680|negative|64483abdf1	T	Region_Disordered	False	223	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/022bd9f2ee80fad34e7ba137/T_group_AUC.tsv	0
+Hallee|esmc_600|b2|u680|negative|64483abdf1	NEW	Region_Disordered	False	53	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/022bd9f2ee80fad34e7ba137/NEW_group_AUC.tsv	0
+Hallee|esmc_600|b0|u2308|negative|64483abdf1	T	Region_Disordered	False	223	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/57246920bbea18900f666d66/T_group_AUC.tsv	0
+Hallee|esmc_600|b0|u2308|negative|64483abdf1	NEW	Region_Disordered	False	53	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/57246920bbea18900f666d66/NEW_group_AUC.tsv	0
+Hallee|esmc_600|b17|u1887|negative|64483abdf1	T	Region_Disordered	False	223	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/cb3c5d5a1c71fb3f09c023a6/T_group_AUC.tsv	0
+Hallee|esmc_600|b17|u1887|negative|64483abdf1	NEW	Region_Disordered	False	53	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/cb3c5d5a1c71fb3f09c023a6/NEW_group_AUC.tsv	0
+Hallee|esmc_600|b7|u2178|negative|64483abdf1	T	Region_Disordered	False	223	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/175edea1701f8a57614bc93c/T_group_AUC.tsv	0
+Hallee|esmc_600|b7|u2178|negative|64483abdf1	NEW	Region_Disordered	False	53	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/175edea1701f8a57614bc93c/NEW_group_AUC.tsv	0
+Hallee|esmc_600|b8|u2803|negative|64483abdf1	T	Region_Disordered	False	223	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/7de6e39cd6404bc8897ee0ad/T_group_AUC.tsv	0
+Hallee|esmc_600|b8|u2803|negative|64483abdf1	NEW	Region_Disordered	False	53	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/7de6e39cd6404bc8897ee0ad/NEW_group_AUC.tsv	0
+Hallee|esmc_600|b9|u1775|negative|64483abdf1	T	Region_Disordered	False	223	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/5b29f0cfe0d99f25294defcd/T_group_AUC.tsv	0
+Hallee|esmc_600|b9|u1775|negative|64483abdf1	NEW	Region_Disordered	False	53	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/5b29f0cfe0d99f25294defcd/NEW_group_AUC.tsv	0
+Hallee|esmc_600|b4|u537|negative|64483abdf1	T	Region_Disordered	False	223	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/4b82c6b19ca996a932b576e9/T_group_AUC.tsv	0
+Hallee|esmc_600|b4|u537|negative|64483abdf1	NEW	Region_Disordered	False	53	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/4b82c6b19ca996a932b576e9/NEW_group_AUC.tsv	0
+Hallee|esmc_600|b18|u1387|positive|64483abdf1	T	Region_Disordered	False	223	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/4306cfc6071f1d352bc6ef42/T_group_AUC.tsv	0
+Hallee|esmc_600|b18|u1387|positive|64483abdf1	NEW	Region_Disordered	False	53	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/4306cfc6071f1d352bc6ef42/NEW_group_AUC.tsv	0
+Hallee|esmc_600|b6|u1468|positive|64483abdf1	T	Region_Disordered	False	223	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/b57ab1445c7ddb89ab3917d2/T_group_AUC.tsv	0
+Hallee|esmc_600|b6|u1468|positive|64483abdf1	NEW	Region_Disordered	False	53	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/b57ab1445c7ddb89ab3917d2/NEW_group_AUC.tsv	0
+Hallee|esmc_600|b6|u294|negative|d35e284bd3	T	Disulfide bond	False	120	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/491902e7a82e487193ee3ee1/T_group_AUC.tsv	
+Hallee|esmc_600|b6|u294|negative|d35e284bd3	NEW	Disulfide bond	False	29	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/491902e7a82e487193ee3ee1/NEW_group_AUC.tsv	
+Hallee|esmc_600|b19|u1991|positive|d35e284bd3	T	Disulfide bond	False	120	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/d0ceeeae1118247a3ca68102/T_group_AUC.tsv	
+Hallee|esmc_600|b19|u1991|positive|d35e284bd3	NEW	Disulfide bond	False	29	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/d0ceeeae1118247a3ca68102/NEW_group_AUC.tsv	
+Hallee|esmc_600|b30|u2863|negative|d35e284bd3	T	Disulfide bond	False	120	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/b4471ceb7b9f31f54a3be070/T_group_AUC.tsv	
+Hallee|esmc_600|b30|u2863|negative|d35e284bd3	NEW	Disulfide bond	False	29	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/b4471ceb7b9f31f54a3be070/NEW_group_AUC.tsv	
+Hallee|esmc_600|b33|u1688|positive|d35e284bd3	T	Disulfide bond	False	120	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/09d88d0f6e2450d9565e7a46/T_group_AUC.tsv	
+Hallee|esmc_600|b33|u1688|positive|d35e284bd3	NEW	Disulfide bond	False	29	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/09d88d0f6e2450d9565e7a46/NEW_group_AUC.tsv	
+Hallee|esmc_600|b34|u944|positive|d35e284bd3	T	Disulfide bond	False	120	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/ea58fde6ab019d4528e451cd/T_group_AUC.tsv	
+Hallee|esmc_600|b34|u944|positive|d35e284bd3	NEW	Disulfide bond	False	29	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/ea58fde6ab019d4528e451cd/NEW_group_AUC.tsv	
+Hallee|esmc_600|b4|u2449|positive|d35e284bd3	T	Disulfide bond	False	120	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/994dffc41b00a2a5a334e51e/T_group_AUC.tsv	
+Hallee|esmc_600|b4|u2449|positive|d35e284bd3	NEW	Disulfide bond	False	29	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/994dffc41b00a2a5a334e51e/NEW_group_AUC.tsv	
+Hallee|esmc_600|b22|u1043|positive|d35e284bd3	T	Disulfide bond	False	120	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/2be11bd96748c60ab614f6c5/T_group_AUC.tsv	
+Hallee|esmc_600|b22|u1043|positive|d35e284bd3	NEW	Disulfide bond	False	29	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/2be11bd96748c60ab614f6c5/NEW_group_AUC.tsv	
+Hallee|esmc_600|b28|u192|negative|d35e284bd3	T	Disulfide bond	False	120	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/34c79df09f79ef86ebfca880/T_group_AUC.tsv	
+Hallee|esmc_600|b28|u192|negative|d35e284bd3	NEW	Disulfide bond	False	29	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/34c79df09f79ef86ebfca880/NEW_group_AUC.tsv	
+Hallee|esmc_600|b5|u1196|negative|d35e284bd3	T	Disulfide bond	False	120	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/d65878982ede31b0dfe70c43/T_group_AUC.tsv	
+Hallee|esmc_600|b5|u1196|negative|d35e284bd3	NEW	Disulfide bond	False	29	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/d65878982ede31b0dfe70c43/NEW_group_AUC.tsv	
+Hallee|esmc_600|b32|u262|negative|d35e284bd3	T	Disulfide bond	False	120	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/a3e2690dc13c43cbedc1324a/T_group_AUC.tsv	
+Hallee|esmc_600|b32|u262|negative|d35e284bd3	NEW	Disulfide bond	False	29	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/a3e2690dc13c43cbedc1324a/NEW_group_AUC.tsv	
+Hallee|esmc_600|b27|u347|positive|92430e7106	T	Modified residue_3-methylthioaspartic acid	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esmc_600|b27|u347|positive|92430e7106	NEW	Modified residue_3-methylthioaspartic acid	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esmc_600|b19|u2422|negative|0e122ce85f	T	Glycosylation_N-linked (GlcNAc...) asparagine	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esmc_600|b19|u2422|negative|0e122ce85f	NEW	Glycosylation_N-linked (GlcNAc...) asparagine	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esmc_600|b14|u2714|negative|0e122ce85f	T	Glycosylation_N-linked (GlcNAc...) asparagine	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esmc_600|b14|u2714|negative|0e122ce85f	NEW	Glycosylation_N-linked (GlcNAc...) asparagine	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esmc_600|b34|u317|positive|0e122ce85f	T	Glycosylation_N-linked (GlcNAc...) asparagine	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esmc_600|b34|u317|positive|0e122ce85f	NEW	Glycosylation_N-linked (GlcNAc...) asparagine	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esmc_600|b17|u2069|negative|0e122ce85f	T	Glycosylation_N-linked (GlcNAc...) asparagine	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esmc_600|b17|u2069|negative|0e122ce85f	NEW	Glycosylation_N-linked (GlcNAc...) asparagine	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esmc_600|b15|u2290|positive|0e122ce85f	T	Glycosylation_N-linked (GlcNAc...) asparagine	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esmc_600|b15|u2290|positive|0e122ce85f	NEW	Glycosylation_N-linked (GlcNAc...) asparagine	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esmc_600|b32|u3067|positive|a0d437f231	T	Modified residue_N5-methylglutamine	False	1	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/e4de7f2053445db7f4ea5328/T_group_AUC.tsv	
+Hallee|esmc_600|b32|u3067|positive|a0d437f231	NEW	Modified residue_N5-methylglutamine	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esmc_600|b2|u1709|positive|83f51a3753	T	Modified residue_Valine amide	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esmc_600|b2|u1709|positive|83f51a3753	NEW	Modified residue_Valine amide	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esmc_600|b35|u1460|negative|0e122ce85f	T	Glycosylation_N-linked (GlcNAc...) asparagine	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esmc_600|b35|u1460|negative|0e122ce85f	NEW	Glycosylation_N-linked (GlcNAc...) asparagine	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esmc_600|b31|u1024|negative|1d8f4bfc69	T	Modified residue_O-(pantetheine 4'-phosphoryl)serine	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esmc_600|b31|u1024|negative|1d8f4bfc69	NEW	Modified residue_O-(pantetheine 4'-phosphoryl)serine	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esmc_600|b23|u942|negative|e1522d7f25	T	Signal peptide_Tat-type signal	False	4	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/74e6cbd823085d6e92427948/T_group_AUC.tsv	
+Hallee|esmc_600|b23|u942|negative|e1522d7f25	NEW	Signal peptide_Tat-type signal	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esmc_600|b18|u2129|positive|e1522d7f25	T	Signal peptide_Tat-type signal	False	4	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/418d1d827e8819b842caf83b/T_group_AUC.tsv	
+Hallee|esmc_600|b18|u2129|positive|e1522d7f25	NEW	Signal peptide_Tat-type signal	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esmc_600|b3|u2544|positive|e1522d7f25	T	Signal peptide_Tat-type signal	False	4	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/f3c6c6202b630a660c324031/T_group_AUC.tsv	
+Hallee|esmc_600|b3|u2544|positive|e1522d7f25	NEW	Signal peptide_Tat-type signal	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esmc_600|b1|u1872|positive|e1522d7f25	T	Signal peptide_Tat-type signal	False	4	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/e3d38af68c48f77e90e2a490/T_group_AUC.tsv	
+Hallee|esmc_600|b1|u1872|positive|e1522d7f25	NEW	Signal peptide_Tat-type signal	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esmc_600|b16|u1200|positive|e1522d7f25	T	Signal peptide_Tat-type signal	False	4	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/ccd679f8da041727324181a5/T_group_AUC.tsv	
+Hallee|esmc_600|b16|u1200|positive|e1522d7f25	NEW	Signal peptide_Tat-type signal	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esmc_600|b4|u828|negative|e1522d7f25	T	Signal peptide_Tat-type signal	False	4	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/08448ade9a3097dfc993598a/T_group_AUC.tsv	
+Hallee|esmc_600|b4|u828|negative|e1522d7f25	NEW	Signal peptide_Tat-type signal	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esmc_600|b5|u636|negative|e1522d7f25	T	Signal peptide_Tat-type signal	False	4	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/3e4a813bfd0cdb23073ca5b1/T_group_AUC.tsv	
+Hallee|esmc_600|b5|u636|negative|e1522d7f25	NEW	Signal peptide_Tat-type signal	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esmc_600|b2|u1769|positive|e1522d7f25	T	Signal peptide_Tat-type signal	False	4	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/2a14607b756841db5a68c0cc/T_group_AUC.tsv	
+Hallee|esmc_600|b2|u1769|positive|e1522d7f25	NEW	Signal peptide_Tat-type signal	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esmc_600|b21|u11|positive|e1522d7f25	T	Signal peptide_Tat-type signal	False	4	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/e0883e8b330bd52c06981824/T_group_AUC.tsv	
+Hallee|esmc_600|b21|u11|positive|e1522d7f25	NEW	Signal peptide_Tat-type signal	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esmc_600|b17|u1914|negative|e1522d7f25	T	Signal peptide_Tat-type signal	False	4	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/9b7a280e3cf9b41e6e95def4/T_group_AUC.tsv	
+Hallee|esmc_600|b17|u1914|negative|e1522d7f25	NEW	Signal peptide_Tat-type signal	False	0	frozen LABELS positive0/negative0 domain; no scope expansion	NOT_EXPLICITLY_DECLARED		
+Hallee|esmc_600|b32|u155|positive|b823d5f9d1	T	Turn	False	760	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/52be1b2e8d62d258436bf567/T_group_AUC.tsv	0
+Hallee|esmc_600|b32|u155|positive|b823d5f9d1	NEW	Turn	False	112	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/52be1b2e8d62d258436bf567/NEW_group_AUC.tsv	0
+Hallee|esmc_600|b31|u1246|negative|b823d5f9d1	T	Turn	False	760	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/dd5738e1cc719c20cef1d951/T_group_AUC.tsv	0
+Hallee|esmc_600|b31|u1246|negative|b823d5f9d1	NEW	Turn	False	112	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/dd5738e1cc719c20cef1d951/NEW_group_AUC.tsv	0
+Hallee|esmc_600|b25|u2755|positive|b823d5f9d1	T	Turn	False	760	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/56fbe2c7302a293fa695c999/T_group_AUC.tsv	0
+Hallee|esmc_600|b25|u2755|positive|b823d5f9d1	NEW	Turn	False	112	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/56fbe2c7302a293fa695c999/NEW_group_AUC.tsv	0
+Hallee|esmc_600|b34|u1262|negative|b823d5f9d1	T	Turn	False	760	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/e4cf6c009176c0afbb85dbe7/T_group_AUC.tsv	0
+Hallee|esmc_600|b34|u1262|negative|b823d5f9d1	NEW	Turn	False	112	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/e4cf6c009176c0afbb85dbe7/NEW_group_AUC.tsv	0
+Hallee|esmc_600|b35|u25|negative|b823d5f9d1	T	Turn	False	760	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/183e238481d56140f9009438/T_group_AUC.tsv	0
+Hallee|esmc_600|b35|u25|negative|b823d5f9d1	NEW	Turn	False	112	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/183e238481d56140f9009438/NEW_group_AUC.tsv	0
+Hallee|esmc_600|b30|u2954|negative|b823d5f9d1	T	Turn	False	760	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/6b3032df29ec31d6f66ffd83/T_group_AUC.tsv	0
+Hallee|esmc_600|b30|u2954|negative|b823d5f9d1	NEW	Turn	False	112	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/6b3032df29ec31d6f66ffd83/NEW_group_AUC.tsv	0
+Hallee|esmc_600|b29|u449|negative|b823d5f9d1	T	Turn	False	760	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/f67ec3c5b1dc2df1c23756f0/T_group_AUC.tsv	0
+Hallee|esmc_600|b29|u449|negative|b823d5f9d1	NEW	Turn	False	112	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/f67ec3c5b1dc2df1c23756f0/NEW_group_AUC.tsv	0
+Hallee|esmc_600|b33|u2259|negative|b823d5f9d1	T	Turn	False	760	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/c73bd318aed98e07bd71c721/T_group_AUC.tsv	0
+Hallee|esmc_600|b33|u2259|negative|b823d5f9d1	NEW	Turn	False	112	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/c73bd318aed98e07bd71c721/NEW_group_AUC.tsv	0
+Hallee|esmc_600|b27|u2992|positive|b823d5f9d1	T	Turn	False	760	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/62a19088e39869d3158b1e1d/T_group_AUC.tsv	0
+Hallee|esmc_600|b27|u2992|positive|b823d5f9d1	NEW	Turn	False	112	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/62a19088e39869d3158b1e1d/NEW_group_AUC.tsv	0
+Hallee|esmc_600|b24|u272|negative|b823d5f9d1	T	Turn	False	760	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/c5e1c4e490eeb73e945c0321/T_group_AUC.tsv	0
+Hallee|esmc_600|b24|u272|negative|b823d5f9d1	NEW	Turn	False	112	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/c5e1c4e490eeb73e945c0321/NEW_group_AUC.tsv	0
+NCCal|esm2_8m|b2|u801|OWN_EXPOSURE	T	OWN_EXPOSURE	False	1052	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/c3a0a12ecf249e7d71083c6b/T_group_AUC.tsv	0
+NCCal|esm2_8m|b2|u801|OWN_EXPOSURE	NEW	OWN_EXPOSURE	False	154	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/c3a0a12ecf249e7d71083c6b/NEW_group_AUC.tsv	5
+NCCal|esm2_35m|b5|u814|OWN_EXPOSURE	T	OWN_EXPOSURE	False	1052	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/e3dcd2a24dfb8b1a4dcdafb2/T_group_AUC.tsv	0
+NCCal|esm2_35m|b5|u814|OWN_EXPOSURE	NEW	OWN_EXPOSURE	False	154	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/e3dcd2a24dfb8b1a4dcdafb2/NEW_group_AUC.tsv	5
+NCCal|esm2_650m|b15|u4566|OWN_EXPOSURE	T	OWN_EXPOSURE	False	1052	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/b81541c84895f75761d2aa5e/T_group_AUC.tsv	0
+NCCal|esm2_650m|b15|u4566|OWN_EXPOSURE	NEW	OWN_EXPOSURE	False	154	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/b81541c84895f75761d2aa5e/NEW_group_AUC.tsv	5
+NCCal|esm2_8m|b2|u1246|masked|OWN_ALA_HELIX_VS_BETA	T	OWN_ALA_HELIX_VS_BETA	True	796	all_eligible_Ala_Helix_vs_Beta_centres_individually_masked	False	label_audit/cpu/unit_results/da0ea5f7844f6ed25ae4d5e7/T_group_AUC.tsv	0
+NCCal|esm2_8m|b2|u1246|masked|OWN_ALA_HELIX_VS_BETA	NEW	OWN_ALA_HELIX_VS_BETA	True	111	all_eligible_Ala_Helix_vs_Beta_centres_individually_masked	False	label_audit/cpu/unit_results/da0ea5f7844f6ed25ae4d5e7/NEW_group_AUC.tsv	5
+NCCal|e1_150m|b14|u2192|OWN_HELIX_START	T	OWN_HELIX_START	False	432	fixed_same_helix_pair_descriptive_only	False	label_audit/cpu/unit_results/9ab03e095c25f20793fe04c4/T_group_AUC.tsv	0
+NCCal|e1_150m|b14|u2192|OWN_HELIX_START	NEW	OWN_HELIX_START	False	53	fixed_same_helix_pair_descriptive_only	False	label_audit/cpu/unit_results/9ab03e095c25f20793fe04c4/NEW_group_AUC.tsv	1
+NCCal|e1_150m|b14|u2192|OWN_HELIX_VS_BETA	T	OWN_HELIX_VS_BETA	False	1019	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/3b401c6020180ae791fe5d8c/T_group_AUC.tsv	0
+NCCal|e1_150m|b14|u2192|OWN_HELIX_VS_BETA	NEW	OWN_HELIX_VS_BETA	False	145	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/3b401c6020180ae791fe5d8c/NEW_group_AUC.tsv	5
+NCCal|e1_150m|b14|u735|OWN_HELIX_START	T	OWN_HELIX_START	False	432	fixed_same_helix_pair_descriptive_only	False	label_audit/cpu/unit_results/bd322306ca14dcc754f7ecf1/T_group_AUC.tsv	0
+NCCal|e1_150m|b14|u735|OWN_HELIX_START	NEW	OWN_HELIX_START	False	53	fixed_same_helix_pair_descriptive_only	False	label_audit/cpu/unit_results/bd322306ca14dcc754f7ecf1/NEW_group_AUC.tsv	1
+NCCal|e1_150m|b14|u735|OWN_HELIX_VS_BETA	T	OWN_HELIX_VS_BETA	False	1019	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/464904501ffbe81073962c61/T_group_AUC.tsv	0
+NCCal|e1_150m|b14|u735|OWN_HELIX_VS_BETA	NEW	OWN_HELIX_VS_BETA	False	145	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/464904501ffbe81073962c61/NEW_group_AUC.tsv	5
+NCCal|e1_150m|b19|u2062|OWN_HELIX_START	T	OWN_HELIX_START	False	432	fixed_same_helix_pair_descriptive_only	False	label_audit/cpu/unit_results/42ed8cf20a09d60834d8cb58/T_group_AUC.tsv	0
+NCCal|e1_150m|b19|u2062|OWN_HELIX_START	NEW	OWN_HELIX_START	False	53	fixed_same_helix_pair_descriptive_only	False	label_audit/cpu/unit_results/42ed8cf20a09d60834d8cb58/NEW_group_AUC.tsv	1
+NCCal|e1_150m|b19|u2062|OWN_HELIX_VS_BETA	T	OWN_HELIX_VS_BETA	False	1019	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/58d5b204a1372d2d000c9cc1/T_group_AUC.tsv	0
+NCCal|e1_150m|b19|u2062|OWN_HELIX_VS_BETA	NEW	OWN_HELIX_VS_BETA	False	145	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/58d5b204a1372d2d000c9cc1/NEW_group_AUC.tsv	5
+NCCal|e1_150m|b19|u1900|OWN_HELIX_START	T	OWN_HELIX_START	False	432	fixed_same_helix_pair_descriptive_only	False	label_audit/cpu/unit_results/9abaede40982f9bacc094aee/T_group_AUC.tsv	0
+NCCal|e1_150m|b19|u1900|OWN_HELIX_START	NEW	OWN_HELIX_START	False	53	fixed_same_helix_pair_descriptive_only	False	label_audit/cpu/unit_results/9abaede40982f9bacc094aee/NEW_group_AUC.tsv	1
+NCCal|e1_150m|b19|u1900|OWN_HELIX_VS_BETA	T	OWN_HELIX_VS_BETA	False	1019	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/98b1b59372a0c916bde2eff9/T_group_AUC.tsv	0
+NCCal|e1_150m|b19|u1900|OWN_HELIX_VS_BETA	NEW	OWN_HELIX_VS_BETA	False	145	all_eligible_observed_or_annotated_domain_residues	True	label_audit/cpu/unit_results/98b1b59372a0c916bde2eff9/NEW_group_AUC.tsv	5

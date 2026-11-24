@@ -1,0 +1,35 @@
+group	accession	original_pdb	original_chain	early	late	target	taxid	structure_status	second_pdb	second_chain	original_deposited_length	native_length	pair_state	secondary_match	quality_atom_match	full_length_native	all_protein_entities_native_verified
+external30-0b5765aae34fb268fa53b9418eead56416887e5bb261b679940ec9b25ede7df2	Q9UKK9	9g6y	B	71	117	0	9606	no_eligible_second_entry			219	219	no_second_structure		False	True	False
+external30-10100b8fb3f82a71086c21a9ccfdb8182ee6e1cc3c3a0122da3b7aecf574e978	P11926	9b8n	A	173	390	0	9606	features_computed	7s3g	A	424	461	retained_extremes	True	True	False	True
+external30-153063beabcbe95ece7b0164cf13926016bf4884e36df38ce10050fe3fc58db4	Q92600	9jnj	A	140	177	1	9606	features_computed	2fv2	A	268	299	retained_extremes	True	True	False	True
+external30-15a8de56eae2c6b0f3804595a853552afa88e2fcd3b7676b479f362a5f3542f8	Q15819	9lhj	D	53	104	1	9606	features_computed	9biv	A	145	145	non_native_or_unverified_companion		False	True	False
+external30-1cd3896e8e1010a168205e943a104118a814d6cc42f7941d4fbcae602c395d0e	O43766	8tsk	A	190	291	1	9606	features_computed	8v0j	A	368	372	retained_extremes	True	True	False	True
+external30-1d4eddbc2abf8767f6dd7b0b660a6dd48331b10f754d57f958db0f5139195946	O70348	11ao	A	106	181	1	10090	features_computed	11ap	A	358	397	intermediate	True	True	False	True
+external30-1d8775b901d2abde259fb7b88a84a356a4fd22d5ed86d435b804618f234ab3aa	Q16186	8vwo	A	63	115	1	9606	no_eligible_second_entry			150	407	non_native_or_unverified_companion		False	False	False
+external30-1eca39e98c95f0b1f3153941e8893888874e5be4e5f679ff7fa2ade5274e2015	Q08708	9z0m	A	53	99	1	9606	no_eligible_second_entry			113	224	no_second_structure		False	False	False
+external30-338e547f65aa0aa26465386b7a09def48df52b405af9bc436d59a9e0cc4c1400	Q15465	8z3a	A	57	143	0	9606	features_computed	6pjv	A	169	462	non_native_or_unverified_companion		False	False	False
+external30-4114c1545250070917d6db7b16adf1a3102cbefbb342ed460f653041fd138760	Q99640	23fw	A	173	346	1	9606	features_computed	23es	A	286	499	retained_extremes	True	True	False	True
+external30-49ee94382e90443960263249b8428adc2425b6aa6088c5fda77b328450ca269b	P15104	9nm5	D	94	126	1	9606	features_computed	9nlr	B	373	373	non_native_or_unverified_companion		False	True	False
+external30-532efd69fb9862d05d041466778ea40e7f174f016739f6e2946ef77243f7d433	Q16658	9gs6	A	373	409	0	9606	features_computed	6i18	A	493	493	intermediate	True	True	True	True
+external30-591965baede799ce4671482a923976452d10dfa663e2e1a0c69fdf10f2e1b20d	P10276	9gfe	A	270	396	1	9606	no_eligible_second_entry			235	462	non_native_or_unverified_companion		False	False	False
+external30-5f46c5ca1b95fb58ed3e74d6288f71c0dd5b33e606121cd058188b3001d5a978	Q9UI30	9ohl	D	16	93	0	9606	no_eligible_second_entry			125	125	no_second_structure		False	True	False
+external30-615f71509ce2b9c62997f726769d507e92cb8bc1aa94a72b86ce1ed441f43a6f	Q8IVV7	9qdz	A	153	265	1	9606	features_computed	9qzg	A	166	300	window_quality_or_interface_failure		False	False	True
+external30-68f5ca33a7509b7fac28cbb82a9120c28b8240cdb2f44b96c338ad60baf0badb	P09564	12hp	D	56	92	1	9606	features_computed	12np	D	120	240	window_quality_or_interface_failure		False	False	True
+external30-6d80636d674b28f5094d300b9c2f4cd79fa41ad5d15fdb9d11b808b9aaeecbbd	O00560	9v90	A	155	248	1	9606	no_eligible_second_entry			163	298	no_second_structure		False	False	False
+external30-6f5a795ac6e11fa84c6f9647a382df4372744e60286f1258381044bc93766092	P00558	9fdf	A	55	135	1	9606	features_computed	9fdn	A	417	417	retained_extremes	True	True	True	True
+external30-7012b11e2829585d4297c6b059784d71bd7bab4993d4cfa3d71f1b87181aaaeb	Q58NB6	9b2f	A	116	275	1	10090	features_computed	9b2g	A	319	319	missing_or_center_quality_failure		False	True	True
+external30-72cdcaa5f7e0c26b174cc726e21bb19b4b56b2889b995afaef51f012fc740977	Q12834	9i69	A	377	450	0	9606	features_computed	9i68	A	499	499	non_native_or_unverified_companion		False	True	False
+external30-92dd5123a23dcd455c31351ccab3d09827df45688ba2a3bb9eca80e10823d678	Q16539	8yd9	A	43	294	1	9606	no_eligible_second_entry			360	360	no_second_structure		False	True	False
+external30-954b0f4cd75fd30707e5a27eb86351e561aae7489a730c95e4326c6753144a97	P40337	9gio	C	126	190	1	9606	features_computed	6i7q	V	160	213	non_native_or_unverified_companion		False	False	False
+external30-b02cd032f2c658fdce0b2707ad349b571a0d384ed477028f7714ef6c8addde83	P00439	9z5z	A	319	353	0	9606	no_eligible_second_entry			316	452	no_second_structure		False	False	False
+external30-b2964dc387fe391d13ad4051e975dc04f18d3d71fca1de2675f63119722cd087	P04181	12av	B	164	233	0	9606	features_computed	10lx	A	439	439	retained_extremes	True	True	True	True
+external30-b749d7f07d084e1f5f0aa8efcc4b8b31b84c58b48b8632d5d61dd459fa6093fa	P08246	9si4	A	73	166	0	9606	features_computed	8vk5	E	218	267	retained_extremes	True	True	False	True
+external30-bee3391ac0ed652266c97d84f9cd603b10f9213eeaf5ac71b5bb85ed25a1d49b	P08263	9slw	B	56	200	1	9606	features_computed	1pl1	A	222	222	non_native_or_unverified_companion		False	True	False
+external30-c30b7b6b392e1eb49982e5b01c7d435790bc7e55bb5242cec26ec2b4218525cc	O00214	9fyj	A	81	125	1	9606	no_eligible_second_entry			153	317	no_second_structure		False	False	False
+external30-d0c58db117d8e818d210ca306f69a391392f6c46ada06ce59f20ee0d442bcd0e	P78417	9nad	A	28	121	1	9606	features_computed	6pnm	A	240	241	retained_extremes	True	True	False	True
+external30-d3a825c6bfe100b662cbb86be66da5f5e334cfc8ee9d7cf1dbbc6acd25f51c5f	P69905	9hba	A	22	54	1	9606	features_computed	1ird	A	141	142	intermediate	True	True	False	True
+external30-e12c5a2573b376a0166ed8df2921387b4b7cf880a4538c29545c88df328e277d	P43320	9d1v	A	82	151	0	9606	no_eligible_second_entry			205	205	no_second_structure		False	True	False
+external30-e2b01803f5d67b90d5b09ee5e14269867e66f6f3fbca206f3e576ef261b5c0d8	Q15116	9q8l	A	50	132	1	9606	no_eligible_second_entry			147	288	non_native_or_unverified_companion		False	False	False
+external30-e811f26d03a85ac1bf2444f6971a9a35ca2ddb38e5f78d2d020dad644287e741	P04406	27fm	A	136	225	1	9606	features_computed	1u8f	O	335	335	retained_extremes	True	True	True	True
+external30-f2fb3b431ae45c55170f99e714ab50d1125260c15ed8654d0ba94e9ac6c5218f	Q9H773	9yso	C	40	95	0	9606	features_computed	9ysp	B	110	170	intermediate	True	True	False	True
+external30-febe8d4a87288c95d12d341ddec8f5604730fd475a50e7e1819d0a1f70f2bb57	P17947	9oa4	F	192	241	0	9606	features_computed	8ee9	F	106	270	retained_extremes	True	True	False	True

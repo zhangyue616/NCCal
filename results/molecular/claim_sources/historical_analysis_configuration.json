@@ -1,0 +1,10 @@
+{
+  "heavy_atom_minimum": 5,
+  "heavy_atom_maximum": 50,
+  "pilot_minimum_lift": 3,
+  "pilot_bh_q": 0.05,
+  "calibration_lower_percentile": 2.5,
+  "calibration_upper_percentile": 97.5,
+  "molformer_alpha": 0.05,
+  "basis_high_R2_threshold": 0.8
+}

@@ -1,0 +1,4 @@
+model	n_pairs	correct	incorrect	tie	correct_percent_all_pairs	tie_definition	target
+sequence	967	537	430	0	55.53257497414684	stored probability == 0.5 exactly; excluded from correct count	later residue exposed; earlier/later ordered by sequence position
+8m	967	532	435	0	55.015511892450874	stored probability == 0.5 exactly; excluded from correct count	later residue exposed; earlier/later ordered by sequence position
+35m	967	632	335	0	65.35677352637022	stored probability == 0.5 exactly; excluded from correct count	later residue exposed; earlier/later ordered by sequence position

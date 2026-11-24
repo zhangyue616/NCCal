@@ -1,0 +1,3714 @@
+[
+  {
+    "unit": "0",
+    "canonical_R2": "0.483979210876732",
+    "rewritten_R2": "0.3943725930352807",
+    "canonical_usable": "False",
+    "rewritten_status": "retained",
+    "Pearson": "0.725795545599907"
+  },
+  {
+    "unit": "1",
+    "canonical_R2": "0.18825918426106591",
+    "rewritten_R2": "0.15488551738909995",
+    "canonical_usable": "False",
+    "rewritten_status": "retained",
+    "Pearson": "0.6566590524015792"
+  },
+  {
+    "unit": "2",
+    "canonical_R2": "0.6174431357954413",
+    "rewritten_R2": "0.5870759166579845",
+    "canonical_usable": "True",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.8939204903268917"
+  },
+  {
+    "unit": "3",
+    "canonical_R2": "0.8110992879695955",
+    "rewritten_R2": "0.708787942346738",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.8712786247461747"
+  },
+  {
+    "unit": "4",
+    "canonical_R2": "0.2359378729335121",
+    "rewritten_R2": "-0.5039728325079997",
+    "canonical_usable": "False",
+    "rewritten_status": "failed",
+    "Pearson": "0.26486338385966196"
+  },
+  {
+    "unit": "5",
+    "canonical_R2": "0.1853899214867769",
+    "rewritten_R2": "0.17869794157038643",
+    "canonical_usable": "False",
+    "rewritten_status": "retained",
+    "Pearson": "0.649600446518535"
+  },
+  {
+    "unit": "6",
+    "canonical_R2": "0.018133378287824353",
+    "rewritten_R2": "0.025033587805789237",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.2642268984128761"
+  },
+  {
+    "unit": "7",
+    "canonical_R2": "0.35286018780957873",
+    "rewritten_R2": "0.27850985214616597",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.4197569387360038"
+  },
+  {
+    "unit": "8",
+    "canonical_R2": "0.40139501664248467",
+    "rewritten_R2": "0.37021666725144753",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.6992448220520777"
+  },
+  {
+    "unit": "9",
+    "canonical_R2": "0.25329016520416736",
+    "rewritten_R2": "0.1953465117813139",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.6310852826168155"
+  },
+  {
+    "unit": "10",
+    "canonical_R2": "0.939753833847022",
+    "rewritten_R2": "0.5994323333927445",
+    "canonical_usable": "True",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.8274291050918908"
+  },
+  {
+    "unit": "11",
+    "canonical_R2": "0.46853336636778786",
+    "rewritten_R2": "0.4316697157526691",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.7269307287317716"
+  },
+  {
+    "unit": "12",
+    "canonical_R2": "0.1444212667082604",
+    "rewritten_R2": "0.12410879454005186",
+    "canonical_usable": "False",
+    "rewritten_status": "failed",
+    "Pearson": "0.6492130552174574"
+  },
+  {
+    "unit": "13",
+    "canonical_R2": "0.2957091536821377",
+    "rewritten_R2": "0.27051768427943",
+    "canonical_usable": "False",
+    "rewritten_status": "retained",
+    "Pearson": "0.7418940302874063"
+  },
+  {
+    "unit": "14",
+    "canonical_R2": "0.3287056762689543",
+    "rewritten_R2": "0.3004305364304939",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.6763807477227763"
+  },
+  {
+    "unit": "15",
+    "canonical_R2": "0.4050018209166417",
+    "rewritten_R2": "0.2436234369118725",
+    "canonical_usable": "False",
+    "rewritten_status": "retained",
+    "Pearson": "0.6219014603496487"
+  },
+  {
+    "unit": "16",
+    "canonical_R2": "0.27426116171151715",
+    "rewritten_R2": "0.19695060084722882",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.7253035799208303"
+  },
+  {
+    "unit": "17",
+    "canonical_R2": "0.3482705554153378",
+    "rewritten_R2": "0.057454524938949425",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.2925284358893984"
+  },
+  {
+    "unit": "18",
+    "canonical_R2": "0.4411464734749806",
+    "rewritten_R2": "0.4226010945624532",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.8496300917480918"
+  },
+  {
+    "unit": "19",
+    "canonical_R2": "0.2412409888339373",
+    "rewritten_R2": "0.2132640471012638",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.8482092585160411"
+  },
+  {
+    "unit": "20",
+    "canonical_R2": "0.9855218936327025",
+    "rewritten_R2": "0.8262590276784229",
+    "canonical_usable": "True",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.9221145817685988"
+  },
+  {
+    "unit": "21",
+    "canonical_R2": "0.7089496139234686",
+    "rewritten_R2": "0.7008289452653029",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.9186079485978462"
+  },
+  {
+    "unit": "22",
+    "canonical_R2": "0.3386073970829111",
+    "rewritten_R2": "0.19112104715819522",
+    "canonical_usable": "False",
+    "rewritten_status": "retained",
+    "Pearson": "0.5679040893838175"
+  },
+  {
+    "unit": "23",
+    "canonical_R2": "0.5598814301672499",
+    "rewritten_R2": "0.5289107663282121",
+    "canonical_usable": "False",
+    "rewritten_status": "retained",
+    "Pearson": "0.8653441263318253"
+  },
+  {
+    "unit": "24",
+    "canonical_R2": "0.8972312919873087",
+    "rewritten_R2": "0.7806662100418241",
+    "canonical_usable": "True",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.9104403590583793"
+  },
+  {
+    "unit": "25",
+    "canonical_R2": "0.5127857777033192",
+    "rewritten_R2": "0.4753973801914877",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.8833628260960579"
+  },
+  {
+    "unit": "26",
+    "canonical_R2": "0.7652158601840918",
+    "rewritten_R2": "0.64751768078929",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.8976787915130865"
+  },
+  {
+    "unit": "27",
+    "canonical_R2": "0.5183546176927776",
+    "rewritten_R2": "0.44667142224197964",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.7887276658004481"
+  },
+  {
+    "unit": "28",
+    "canonical_R2": "0.6700857726331086",
+    "rewritten_R2": "0.685420667363335",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.8975091980770648"
+  },
+  {
+    "unit": "29",
+    "canonical_R2": "0.5053249409645142",
+    "rewritten_R2": "0.5000121257657405",
+    "canonical_usable": "True",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.8732930068261843"
+  },
+  {
+    "unit": "30",
+    "canonical_R2": "0.7452278831955392",
+    "rewritten_R2": "0.6750417218057758",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.8634345612808482"
+  },
+  {
+    "unit": "31",
+    "canonical_R2": "0.2053856009338797",
+    "rewritten_R2": "0.1908885764192969",
+    "canonical_usable": "False",
+    "rewritten_status": "retained",
+    "Pearson": "0.3401164977899594"
+  },
+  {
+    "unit": "32",
+    "canonical_R2": "0.35632227475206824",
+    "rewritten_R2": "0.2309087122382959",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.9035364182404538"
+  },
+  {
+    "unit": "33",
+    "canonical_R2": "0.05288971492873995",
+    "rewritten_R2": "0.006796674435574079",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.3527762121937471"
+  },
+  {
+    "unit": "34",
+    "canonical_R2": "0.4508654642384491",
+    "rewritten_R2": "0.09240820940297079",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.4577887609289578"
+  },
+  {
+    "unit": "35",
+    "canonical_R2": "0.4978722208340902",
+    "rewritten_R2": "0.3974647289203066",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.8505157799723625"
+  },
+  {
+    "unit": "36",
+    "canonical_R2": "0.43006401995237553",
+    "rewritten_R2": "0.4117297812530947",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.8412892254070009"
+  },
+  {
+    "unit": "37",
+    "canonical_R2": "0.5742372523978072",
+    "rewritten_R2": "0.27569239598878015",
+    "canonical_usable": "True",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.71543781108955"
+  },
+  {
+    "unit": "38",
+    "canonical_R2": "0.7902870669147534",
+    "rewritten_R2": "-0.08681038265823693",
+    "canonical_usable": "False",
+    "rewritten_status": "failed",
+    "Pearson": "0.6936908947611128"
+  },
+  {
+    "unit": "39",
+    "canonical_R2": "0.17438877927558205",
+    "rewritten_R2": "0.191231533803203",
+    "canonical_usable": "False",
+    "rewritten_status": "failed",
+    "Pearson": "0.8711155417662316"
+  },
+  {
+    "unit": "40",
+    "canonical_R2": "0.7881398495482009",
+    "rewritten_R2": "0.7554220140476452",
+    "canonical_usable": "True",
+    "rewritten_status": "retained",
+    "Pearson": "0.9369604769126397"
+  },
+  {
+    "unit": "41",
+    "canonical_R2": "0.16570695639220634",
+    "rewritten_R2": "0.11560276525584501",
+    "canonical_usable": "False",
+    "rewritten_status": "retained",
+    "Pearson": "0.6289728039647681"
+  },
+  {
+    "unit": "42",
+    "canonical_R2": "0.05459061718282798",
+    "rewritten_R2": "0.03282510689885554",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.7156407824904811"
+  },
+  {
+    "unit": "43",
+    "canonical_R2": "0.5486425163101831",
+    "rewritten_R2": "0.09705239697658385",
+    "canonical_usable": "False",
+    "rewritten_status": "failed",
+    "Pearson": "0.6678143264749999"
+  },
+  {
+    "unit": "44",
+    "canonical_R2": "0.06895082888259607",
+    "rewritten_R2": "0.05828761564378182",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.7907829345327894"
+  },
+  {
+    "unit": "45",
+    "canonical_R2": "0.5340488859752281",
+    "rewritten_R2": "0.2660187162183154",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.5351718197143222"
+  },
+  {
+    "unit": "46",
+    "canonical_R2": "0.7011808515769666",
+    "rewritten_R2": "0.6230785303921831",
+    "canonical_usable": "True",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.8388913927474649"
+  },
+  {
+    "unit": "47",
+    "canonical_R2": "0.8218971277327103",
+    "rewritten_R2": "0.7508281775481537",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.897472751294805"
+  },
+  {
+    "unit": "48",
+    "canonical_R2": "0.2956783252808648",
+    "rewritten_R2": "0.2058334678581868",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.6165811870377581"
+  },
+  {
+    "unit": "49",
+    "canonical_R2": "0.37284353153053285",
+    "rewritten_R2": "0.2966100019769118",
+    "canonical_usable": "False",
+    "rewritten_status": "failed",
+    "Pearson": "0.5095198522941577"
+  },
+  {
+    "unit": "50",
+    "canonical_R2": "0.5428605502436931",
+    "rewritten_R2": "0.46019217057630135",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.7650340356686255"
+  },
+  {
+    "unit": "51",
+    "canonical_R2": "0.7522773893999306",
+    "rewritten_R2": "0.6987398505050069",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.8859947220408617"
+  },
+  {
+    "unit": "52",
+    "canonical_R2": "0.49047015059069055",
+    "rewritten_R2": "-0.005928902732611263",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.6547518388295023"
+  },
+  {
+    "unit": "53",
+    "canonical_R2": "0.3917064583430043",
+    "rewritten_R2": "0.31697082630651685",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.7116111561915189"
+  },
+  {
+    "unit": "54",
+    "canonical_R2": "0.3017314194997587",
+    "rewritten_R2": "0.2881091428257405",
+    "canonical_usable": "False",
+    "rewritten_status": "retained",
+    "Pearson": "0.8910650061294665"
+  },
+  {
+    "unit": "55",
+    "canonical_R2": "0.13054126370156194",
+    "rewritten_R2": "0.06178777889034892",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.49102956423671923"
+  },
+  {
+    "unit": "56",
+    "canonical_R2": "0.18230183544755663",
+    "rewritten_R2": "0.1584828115475121",
+    "canonical_usable": "False",
+    "rewritten_status": "retained",
+    "Pearson": "0.6338027826868745"
+  },
+  {
+    "unit": "57",
+    "canonical_R2": "0.08489668169714337",
+    "rewritten_R2": "0.07272076499867042",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.5993196706124704"
+  },
+  {
+    "unit": "58",
+    "canonical_R2": "0.47544337083919075",
+    "rewritten_R2": "0.11796251796855484",
+    "canonical_usable": "False",
+    "rewritten_status": "failed",
+    "Pearson": "0.745233828236172"
+  },
+  {
+    "unit": "59",
+    "canonical_R2": "0.3335493423662763",
+    "rewritten_R2": "0.2702919055193108",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.7817845637461039"
+  },
+  {
+    "unit": "60",
+    "canonical_R2": "0.2594083261410042",
+    "rewritten_R2": "0.31429086001527606",
+    "canonical_usable": "False",
+    "rewritten_status": "retained",
+    "Pearson": "0.7679642647157148"
+  },
+  {
+    "unit": "61",
+    "canonical_R2": "0.31413442533361735",
+    "rewritten_R2": "0.27705908967167303",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.6210849577944904"
+  },
+  {
+    "unit": "62",
+    "canonical_R2": "0.17834320495328493",
+    "rewritten_R2": "0.1254507070051234",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.41106761171808476"
+  },
+  {
+    "unit": "63",
+    "canonical_R2": "0.3370934431916931",
+    "rewritten_R2": "0.29919146942443275",
+    "canonical_usable": "False",
+    "rewritten_status": "retained",
+    "Pearson": "0.7837684973423024"
+  },
+  {
+    "unit": "64",
+    "canonical_R2": "0.9225551642393156",
+    "rewritten_R2": "0.6748050930291936",
+    "canonical_usable": "True",
+    "rewritten_status": "retained",
+    "Pearson": "0.9243061208414017"
+  },
+  {
+    "unit": "65",
+    "canonical_R2": "0.25914570262281367",
+    "rewritten_R2": "0.268524201235374",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.8940947911403998"
+  },
+  {
+    "unit": "66",
+    "canonical_R2": "0.6476321639510175",
+    "rewritten_R2": "0.5916021792403128",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.7885275217103718"
+  },
+  {
+    "unit": "67",
+    "canonical_R2": "0.026346705949279903",
+    "rewritten_R2": "0.025198499505766914",
+    "canonical_usable": "False",
+    "rewritten_status": "failed",
+    "Pearson": "0.5888627139777058"
+  },
+  {
+    "unit": "68",
+    "canonical_R2": "0.19594017153584709",
+    "rewritten_R2": "0.2001297081918879",
+    "canonical_usable": "False",
+    "rewritten_status": "failed",
+    "Pearson": "0.7408276616832409"
+  },
+  {
+    "unit": "69",
+    "canonical_R2": "0.9036164255410735",
+    "rewritten_R2": "0.801786358584786",
+    "canonical_usable": "True",
+    "rewritten_status": "retained",
+    "Pearson": "0.9140787580282671"
+  },
+  {
+    "unit": "70",
+    "canonical_R2": "0.6083986214591961",
+    "rewritten_R2": "0.544783359833174",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.8242606229187804"
+  },
+  {
+    "unit": "71",
+    "canonical_R2": "0.08250177408269754",
+    "rewritten_R2": "0.04417491388153716",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.44426423022982264"
+  },
+  {
+    "unit": "72",
+    "canonical_R2": "0.1659584745110263",
+    "rewritten_R2": "0.16140197505442166",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.44709536582812826"
+  },
+  {
+    "unit": "73",
+    "canonical_R2": "0.3782131410304833",
+    "rewritten_R2": "0.378242180106374",
+    "canonical_usable": "False",
+    "rewritten_status": "retained",
+    "Pearson": "0.8559598567634402"
+  },
+  {
+    "unit": "74",
+    "canonical_R2": "0.706107583868808",
+    "rewritten_R2": "0.6855120370456746",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.9395278008069553"
+  },
+  {
+    "unit": "75",
+    "canonical_R2": "0.07740976691763368",
+    "rewritten_R2": "0.04205018169015928",
+    "canonical_usable": "False",
+    "rewritten_status": "failed",
+    "Pearson": "0.42522917418526884"
+  },
+  {
+    "unit": "76",
+    "canonical_R2": "0.3148028466465439",
+    "rewritten_R2": "0.10114652531123192",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.4862072743500258"
+  },
+  {
+    "unit": "77",
+    "canonical_R2": "0.1752514694914099",
+    "rewritten_R2": "0.15924864694765406",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.751385044244109"
+  },
+  {
+    "unit": "78",
+    "canonical_R2": "0.18847010273430354",
+    "rewritten_R2": "0.2646205503950644",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.7574509794743812"
+  },
+  {
+    "unit": "79",
+    "canonical_R2": "0.8846803512181382",
+    "rewritten_R2": "0.5313228188458574",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.8073297309176937"
+  },
+  {
+    "unit": "80",
+    "canonical_R2": "0.765136101233931",
+    "rewritten_R2": "-0.49329216366977624",
+    "canonical_usable": "True",
+    "rewritten_status": "retained",
+    "Pearson": "0.5894102233630932"
+  },
+  {
+    "unit": "81",
+    "canonical_R2": "0.4751453510486783",
+    "rewritten_R2": "0.41667025716428463",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.7071867877877881"
+  },
+  {
+    "unit": "82",
+    "canonical_R2": "0.5039500756309858",
+    "rewritten_R2": "0.4712030266040895",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.8538950525317018"
+  },
+  {
+    "unit": "83",
+    "canonical_R2": "0.30835240696569133",
+    "rewritten_R2": "0.2728049659346038",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.6887358058290646"
+  },
+  {
+    "unit": "84",
+    "canonical_R2": "0.352744909170974",
+    "rewritten_R2": "0.18730998794820963",
+    "canonical_usable": "False",
+    "rewritten_status": "failed",
+    "Pearson": "0.4450840848435285"
+  },
+  {
+    "unit": "85",
+    "canonical_R2": "0.2266937019201828",
+    "rewritten_R2": "0.1879722301924669",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.7658649895811784"
+  },
+  {
+    "unit": "86",
+    "canonical_R2": "0.14839551207914103",
+    "rewritten_R2": "0.11275337835870658",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.6671123391590136"
+  },
+  {
+    "unit": "87",
+    "canonical_R2": "0.9123827231358341",
+    "rewritten_R2": "0.8751402882569425",
+    "canonical_usable": "True",
+    "rewritten_status": "retained",
+    "Pearson": "0.963516760423132"
+  },
+  {
+    "unit": "88",
+    "canonical_R2": "0.6953704248746331",
+    "rewritten_R2": "0.6289629697698264",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.8566110638474866"
+  },
+  {
+    "unit": "89",
+    "canonical_R2": "0.0556095768084276",
+    "rewritten_R2": "0.0365504489519507",
+    "canonical_usable": "False",
+    "rewritten_status": "failed",
+    "Pearson": "0.44602808163833535"
+  },
+  {
+    "unit": "90",
+    "canonical_R2": "0.14568743097344505",
+    "rewritten_R2": "0.07854864211768486",
+    "canonical_usable": "False",
+    "rewritten_status": "failed",
+    "Pearson": "0.46520838037867684"
+  },
+  {
+    "unit": "91",
+    "canonical_R2": "0.06497828029997721",
+    "rewritten_R2": "0.04254637012098306",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.4700250892877518"
+  },
+  {
+    "unit": "92",
+    "canonical_R2": "0.3313343333614338",
+    "rewritten_R2": "0.33986652687185304",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.9033088427148162"
+  },
+  {
+    "unit": "93",
+    "canonical_R2": "0.38120880558974624",
+    "rewritten_R2": "0.3887085699690813",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.8657041974090998"
+  },
+  {
+    "unit": "94",
+    "canonical_R2": "0.48957828070772147",
+    "rewritten_R2": "0.4706436547888072",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.8050462651839823"
+  },
+  {
+    "unit": "95",
+    "canonical_R2": "0.23949485265646275",
+    "rewritten_R2": "0.1586812314656616",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.41094213838944343"
+  },
+  {
+    "unit": "96",
+    "canonical_R2": "0.23012927246643666",
+    "rewritten_R2": "0.1774623338720187",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.7037359927981851"
+  },
+  {
+    "unit": "97",
+    "canonical_R2": "0.8583138174891345",
+    "rewritten_R2": "0.8403575374020695",
+    "canonical_usable": "True",
+    "rewritten_status": "retained",
+    "Pearson": "0.9612806649383159"
+  },
+  {
+    "unit": "98",
+    "canonical_R2": "0.542536277280885",
+    "rewritten_R2": "0.41973867354273153",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.8146128865508417"
+  },
+  {
+    "unit": "99",
+    "canonical_R2": "0.5311550634038953",
+    "rewritten_R2": "-0.003790935283116026",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.6382088760414808"
+  },
+  {
+    "unit": "100",
+    "canonical_R2": "0.6290926035614103",
+    "rewritten_R2": "0.5287967654335977",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.9014651216739414"
+  },
+  {
+    "unit": "101",
+    "canonical_R2": "0.3086270332753286",
+    "rewritten_R2": "0.06324579581054413",
+    "canonical_usable": "False",
+    "rewritten_status": "failed",
+    "Pearson": "0.37691594510981524"
+  },
+  {
+    "unit": "102",
+    "canonical_R2": "0.27261906397460445",
+    "rewritten_R2": "0.273226679122076",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.635558971983101"
+  },
+  {
+    "unit": "103",
+    "canonical_R2": "0.3843381370339596",
+    "rewritten_R2": "0.38855935513538864",
+    "canonical_usable": "False",
+    "rewritten_status": "retained",
+    "Pearson": "0.8314719053390125"
+  },
+  {
+    "unit": "104",
+    "canonical_R2": "0.3702108458635692",
+    "rewritten_R2": "0.21336438345055408",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.732199724621015"
+  },
+  {
+    "unit": "105",
+    "canonical_R2": "0.46305396910749563",
+    "rewritten_R2": "0.4704836326501085",
+    "canonical_usable": "False",
+    "rewritten_status": "retained",
+    "Pearson": "0.7180561351596884"
+  },
+  {
+    "unit": "106",
+    "canonical_R2": "0.16501165595266554",
+    "rewritten_R2": "0.12368331374804131",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.5567254462875237"
+  },
+  {
+    "unit": "107",
+    "canonical_R2": "0.5309475367154002",
+    "rewritten_R2": "0.3503649112234346",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.6460243714179859"
+  },
+  {
+    "unit": "108",
+    "canonical_R2": "0.16576834005661845",
+    "rewritten_R2": "0.171609609305996",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.6826245110485287"
+  },
+  {
+    "unit": "109",
+    "canonical_R2": "0.7757131862950462",
+    "rewritten_R2": "0.6907651133011603",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.9078852753378361"
+  },
+  {
+    "unit": "110",
+    "canonical_R2": "0.22758377568114263",
+    "rewritten_R2": "0.12264394465225326",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.3548128147665167"
+  },
+  {
+    "unit": "111",
+    "canonical_R2": "0.04520830147346233",
+    "rewritten_R2": "0.04281816404052741",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.8155974162659724"
+  },
+  {
+    "unit": "112",
+    "canonical_R2": "0.08422905304042028",
+    "rewritten_R2": "0.015596454457086795",
+    "canonical_usable": "False",
+    "rewritten_status": "failed",
+    "Pearson": "0.24206936475856028"
+  },
+  {
+    "unit": "113",
+    "canonical_R2": "0.1906750578755686",
+    "rewritten_R2": "0.1457062183805813",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.5341801804416979"
+  },
+  {
+    "unit": "114",
+    "canonical_R2": "0.48846776642653233",
+    "rewritten_R2": "0.43023252792848166",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.8214526921487428"
+  },
+  {
+    "unit": "115",
+    "canonical_R2": "0.7412758040577188",
+    "rewritten_R2": "0.32035466463825646",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.7326424994722313"
+  },
+  {
+    "unit": "116",
+    "canonical_R2": "0.29139941889337184",
+    "rewritten_R2": "0.3077019826696712",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.8889740902479843"
+  },
+  {
+    "unit": "117",
+    "canonical_R2": "0.45518101924805465",
+    "rewritten_R2": "0.42226446661164196",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.935752412783564"
+  },
+  {
+    "unit": "118",
+    "canonical_R2": "0.6751556583866569",
+    "rewritten_R2": "0.5893113205050943",
+    "canonical_usable": "True",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.836531894887017"
+  },
+  {
+    "unit": "119",
+    "canonical_R2": "0.7490824582737101",
+    "rewritten_R2": "0.27358253015560063",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.7198319674865672"
+  },
+  {
+    "unit": "120",
+    "canonical_R2": "0.518616160624874",
+    "rewritten_R2": "0.2036514025503553",
+    "canonical_usable": "True",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.7576872900182663"
+  },
+  {
+    "unit": "121",
+    "canonical_R2": "0.604882997547681",
+    "rewritten_R2": "0.5781990038362179",
+    "canonical_usable": "False",
+    "rewritten_status": "retained",
+    "Pearson": "0.8566587680158506"
+  },
+  {
+    "unit": "122",
+    "canonical_R2": "0.019067874617459735",
+    "rewritten_R2": "0.03812295363550233",
+    "canonical_usable": "False",
+    "rewritten_status": "failed",
+    "Pearson": "0.4645951634522534"
+  },
+  {
+    "unit": "123",
+    "canonical_R2": "0.9239459346616622",
+    "rewritten_R2": "0.6112402794907359",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.8331265517518274"
+  },
+  {
+    "unit": "124",
+    "canonical_R2": "0.3667824345054077",
+    "rewritten_R2": "0.2454638135563163",
+    "canonical_usable": "False",
+    "rewritten_status": "retained",
+    "Pearson": "0.6278176141601357"
+  },
+  {
+    "unit": "125",
+    "canonical_R2": "0.557403392870542",
+    "rewritten_R2": "0.384669727535911",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.6633705319004455"
+  },
+  {
+    "unit": "126",
+    "canonical_R2": "0.1392642344900027",
+    "rewritten_R2": "0.08048633770612168",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.5403259781360638"
+  },
+  {
+    "unit": "127",
+    "canonical_R2": "0.3330041092942587",
+    "rewritten_R2": "0.2847366575088657",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.7771298361092221"
+  },
+  {
+    "unit": "128",
+    "canonical_R2": "0.3722623192967456",
+    "rewritten_R2": "0.3207647984082801",
+    "canonical_usable": "False",
+    "rewritten_status": "retained",
+    "Pearson": "0.7814286267967463"
+  },
+  {
+    "unit": "129",
+    "canonical_R2": "0.3186397958780314",
+    "rewritten_R2": "0.27959276102502684",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.7012822847889124"
+  },
+  {
+    "unit": "130",
+    "canonical_R2": "0.1489274639157231",
+    "rewritten_R2": "0.11341428706296619",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.6208130744300429"
+  },
+  {
+    "unit": "131",
+    "canonical_R2": "0.462586984558954",
+    "rewritten_R2": "0.39304725892236114",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.8469192891120295"
+  },
+  {
+    "unit": "132",
+    "canonical_R2": "0.40780609658753675",
+    "rewritten_R2": "0.36917304099626436",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.8283458572941594"
+  },
+  {
+    "unit": "133",
+    "canonical_R2": "0.5322674868099294",
+    "rewritten_R2": "0.48146378854507454",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.8174132757461411"
+  },
+  {
+    "unit": "134",
+    "canonical_R2": "0.4205852187423781",
+    "rewritten_R2": "0.001952460691021063",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.21671799218204496"
+  },
+  {
+    "unit": "135",
+    "canonical_R2": "0.08652875094868184",
+    "rewritten_R2": "0.09524862013577517",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.6619698098597092"
+  },
+  {
+    "unit": "136",
+    "canonical_R2": "4.827775832461079e-05",
+    "rewritten_R2": "2.6541933721646593e-05",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.9916986897587793"
+  },
+  {
+    "unit": "137",
+    "canonical_R2": "0.4051114785849038",
+    "rewritten_R2": "0.23749435537332397",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.6425925085180516"
+  },
+  {
+    "unit": "138",
+    "canonical_R2": "0.2340137478465364",
+    "rewritten_R2": "0.1623061127388733",
+    "canonical_usable": "False",
+    "rewritten_status": "retained",
+    "Pearson": "0.6764384488520481"
+  },
+  {
+    "unit": "139",
+    "canonical_R2": "0.4281190544248513",
+    "rewritten_R2": "0.180446016674648",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.5713122909070021"
+  },
+  {
+    "unit": "140",
+    "canonical_R2": "0.31890497397686435",
+    "rewritten_R2": "0.30704258289299946",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.7670393983268777"
+  },
+  {
+    "unit": "141",
+    "canonical_R2": "0.02443523129791003",
+    "rewritten_R2": "0.0028720238974734302",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.4594648762145108"
+  },
+  {
+    "unit": "142",
+    "canonical_R2": "0.9334520293932527",
+    "rewritten_R2": "0.8823053251331747",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.956684251103527"
+  },
+  {
+    "unit": "143",
+    "canonical_R2": "0.8014068801494597",
+    "rewritten_R2": "0.7680117388845561",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.9050648755209899"
+  },
+  {
+    "unit": "144",
+    "canonical_R2": "0.3024886230350493",
+    "rewritten_R2": "0.23191392184672066",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.8297633415092086"
+  },
+  {
+    "unit": "145",
+    "canonical_R2": "0.3212180970035615",
+    "rewritten_R2": "0.27504136698651827",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.7155684338290683"
+  },
+  {
+    "unit": "146",
+    "canonical_R2": "0.618372470283362",
+    "rewritten_R2": "0.4806944238896761",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.8081800762781947"
+  },
+  {
+    "unit": "147",
+    "canonical_R2": "0.01759738934944477",
+    "rewritten_R2": "-0.0002383322568515478",
+    "canonical_usable": "False",
+    "rewritten_status": "failed",
+    "Pearson": "0.16405215456247843"
+  },
+  {
+    "unit": "148",
+    "canonical_R2": "0.9486405141331961",
+    "rewritten_R2": "0.8661725668377938",
+    "canonical_usable": "True",
+    "rewritten_status": "retained",
+    "Pearson": "0.9387550021083548"
+  },
+  {
+    "unit": "149",
+    "canonical_R2": "0.09431545544678921",
+    "rewritten_R2": "0.07266396161821709",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.5993574848614366"
+  },
+  {
+    "unit": "150",
+    "canonical_R2": "0.08529131146005486",
+    "rewritten_R2": "0.09167593459303425",
+    "canonical_usable": "False",
+    "rewritten_status": "retained",
+    "Pearson": "0.6575008028273127"
+  },
+  {
+    "unit": "151",
+    "canonical_R2": "0.8687487585851812",
+    "rewritten_R2": "0.5717490412860875",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.8095352335233093"
+  },
+  {
+    "unit": "152",
+    "canonical_R2": "0.3744532787827366",
+    "rewritten_R2": "0.2689389975965355",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.575560703984006"
+  },
+  {
+    "unit": "153",
+    "canonical_R2": "0.42990385927165276",
+    "rewritten_R2": "0.44488884560311515",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.89395437812117"
+  },
+  {
+    "unit": "154",
+    "canonical_R2": "0.6560884579745629",
+    "rewritten_R2": "0.5721947768130218",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.8721072148292996"
+  },
+  {
+    "unit": "155",
+    "canonical_R2": "0.034305019556791994",
+    "rewritten_R2": "0.029648200428255667",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.3617500317947026"
+  },
+  {
+    "unit": "156",
+    "canonical_R2": "0.0354611245154014",
+    "rewritten_R2": "0.04184053462874271",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.6511685474347134"
+  },
+  {
+    "unit": "157",
+    "canonical_R2": "0.6220583827386164",
+    "rewritten_R2": "0.5334435779431692",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.7883978290577955"
+  },
+  {
+    "unit": "158",
+    "canonical_R2": "0.6393714239864889",
+    "rewritten_R2": "0.39205048550999944",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.754828217435394"
+  },
+  {
+    "unit": "159",
+    "canonical_R2": "0.2181924733517543",
+    "rewritten_R2": "0.16781633315904187",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.6917607942624379"
+  },
+  {
+    "unit": "160",
+    "canonical_R2": "0.29874466679570344",
+    "rewritten_R2": "0.14708848820248366",
+    "canonical_usable": "False",
+    "rewritten_status": "failed",
+    "Pearson": "0.6082194879030657"
+  },
+  {
+    "unit": "161",
+    "canonical_R2": "0.10823169442772029",
+    "rewritten_R2": "0.051110419030905185",
+    "canonical_usable": "False",
+    "rewritten_status": "failed",
+    "Pearson": "0.49943519561576794"
+  },
+  {
+    "unit": "162",
+    "canonical_R2": "0.3865745207590311",
+    "rewritten_R2": "0.24152414319803173",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.8035948085849108"
+  },
+  {
+    "unit": "163",
+    "canonical_R2": "0.6522134407265778",
+    "rewritten_R2": "0.5567694130632765",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.8979775779725852"
+  },
+  {
+    "unit": "164",
+    "canonical_R2": "0.32127637539737375",
+    "rewritten_R2": "0.2336647160900679",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.7594287230190947"
+  },
+  {
+    "unit": "165",
+    "canonical_R2": "0.14319560295095568",
+    "rewritten_R2": "0.14869703251295208",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.512118389222885"
+  },
+  {
+    "unit": "166",
+    "canonical_R2": "0.2509683563835732",
+    "rewritten_R2": "0.15991571390357417",
+    "canonical_usable": "False",
+    "rewritten_status": "failed",
+    "Pearson": "0.5915079926445383"
+  },
+  {
+    "unit": "167",
+    "canonical_R2": "0.21957250736982703",
+    "rewritten_R2": "0.0697870398776057",
+    "canonical_usable": "False",
+    "rewritten_status": "failed",
+    "Pearson": "0.37519964963343505"
+  },
+  {
+    "unit": "168",
+    "canonical_R2": "0.046139793544040075",
+    "rewritten_R2": "0.03550660821887108",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.41498350185066796"
+  },
+  {
+    "unit": "169",
+    "canonical_R2": "0.6786748673181289",
+    "rewritten_R2": "0.610690308804517",
+    "canonical_usable": "True",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.8066640206728694"
+  },
+  {
+    "unit": "170",
+    "canonical_R2": "0.10125880234689488",
+    "rewritten_R2": "-0.009981910307964359",
+    "canonical_usable": "False",
+    "rewritten_status": "failed",
+    "Pearson": "-0.0001814279472128919"
+  },
+  {
+    "unit": "171",
+    "canonical_R2": "0.37050435902585566",
+    "rewritten_R2": "0.28468372619347926",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.5133021714313362"
+  },
+  {
+    "unit": "172",
+    "canonical_R2": "0.3578888251260335",
+    "rewritten_R2": "0.20526458233252898",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.5929624857914643"
+  },
+  {
+    "unit": "173",
+    "canonical_R2": "0.622332462732852",
+    "rewritten_R2": "0.44324263376029793",
+    "canonical_usable": "True",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.8381612389834228"
+  },
+  {
+    "unit": "174",
+    "canonical_R2": "0.10830610970894816",
+    "rewritten_R2": "0.10425236114117176",
+    "canonical_usable": "False",
+    "rewritten_status": "failed",
+    "Pearson": "0.6644983000745782"
+  },
+  {
+    "unit": "175",
+    "canonical_R2": "0.9544652680388718",
+    "rewritten_R2": "0.533676750300104",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.8236744383905686"
+  },
+  {
+    "unit": "176",
+    "canonical_R2": "0.38617989613656434",
+    "rewritten_R2": "0.27242774428183936",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.6867326161756535"
+  },
+  {
+    "unit": "177",
+    "canonical_R2": "0.5853345614814374",
+    "rewritten_R2": "0.6006647675847885",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.8566679839938743"
+  },
+  {
+    "unit": "178",
+    "canonical_R2": "0.675926308583024",
+    "rewritten_R2": "0.7107972796743554",
+    "canonical_usable": "True",
+    "rewritten_status": "retained",
+    "Pearson": "0.7555159405215467"
+  },
+  {
+    "unit": "179",
+    "canonical_R2": "0.1352350440132798",
+    "rewritten_R2": "0.12196067543435829",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.6111469286110802"
+  },
+  {
+    "unit": "180",
+    "canonical_R2": "0.8087115530438853",
+    "rewritten_R2": "0.7763532166389764",
+    "canonical_usable": "False",
+    "rewritten_status": "retained",
+    "Pearson": "0.957381128139717"
+  },
+  {
+    "unit": "181",
+    "canonical_R2": "0.2392398832005237",
+    "rewritten_R2": "0.19825050091972285",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.8216878482578862"
+  },
+  {
+    "unit": "182",
+    "canonical_R2": "0.4059613438179016",
+    "rewritten_R2": "0.12991506854285995",
+    "canonical_usable": "False",
+    "rewritten_status": "failed",
+    "Pearson": "0.5736067947500468"
+  },
+  {
+    "unit": "183",
+    "canonical_R2": "0.8930656418073222",
+    "rewritten_R2": "0.8520680699317518",
+    "canonical_usable": "True",
+    "rewritten_status": "retained",
+    "Pearson": "0.9206962468308126"
+  },
+  {
+    "unit": "184",
+    "canonical_R2": "0.23129171449671404",
+    "rewritten_R2": "0.19357416021784102",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.7207661812141136"
+  },
+  {
+    "unit": "185",
+    "canonical_R2": "0.4519104285265123",
+    "rewritten_R2": "0.4227600328431117",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.8563594221232336"
+  },
+  {
+    "unit": "186",
+    "canonical_R2": "0.13776599332952766",
+    "rewritten_R2": "0.10971971323282925",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.5605860702348557"
+  },
+  {
+    "unit": "187",
+    "canonical_R2": "0.545433902934036",
+    "rewritten_R2": "0.4375919003628139",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.7621274500102944"
+  },
+  {
+    "unit": "188",
+    "canonical_R2": "0.16854439950458755",
+    "rewritten_R2": "0.17952559271706203",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.8594140651015936"
+  },
+  {
+    "unit": "189",
+    "canonical_R2": "0.4173043633082464",
+    "rewritten_R2": "0.3976537397926757",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.8936000058051086"
+  },
+  {
+    "unit": "190",
+    "canonical_R2": "0.4749962859120991",
+    "rewritten_R2": "0.263407154483275",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.5686265017250918"
+  },
+  {
+    "unit": "191",
+    "canonical_R2": "0.058056404356860214",
+    "rewritten_R2": "0.040989963753311875",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.31450946850450107"
+  },
+  {
+    "unit": "192",
+    "canonical_R2": "0.6887456481903624",
+    "rewritten_R2": "0.6621724108934139",
+    "canonical_usable": "False",
+    "rewritten_status": "retained",
+    "Pearson": "0.9292671254944167"
+  },
+  {
+    "unit": "193",
+    "canonical_R2": "0.27021738328969913",
+    "rewritten_R2": "0.2421133960536116",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.8449063514777213"
+  },
+  {
+    "unit": "194",
+    "canonical_R2": "0.13091218905744506",
+    "rewritten_R2": "0.10726303366688006",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.5788374230666451"
+  },
+  {
+    "unit": "195",
+    "canonical_R2": "0.10245735924101007",
+    "rewritten_R2": "0.009815050638136702",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.19484513644509305"
+  },
+  {
+    "unit": "196",
+    "canonical_R2": "0.32970608313813443",
+    "rewritten_R2": "0.2981237551277146",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.7660539560512801"
+  },
+  {
+    "unit": "197",
+    "canonical_R2": "0.05577463205208144",
+    "rewritten_R2": "0.039453912935339064",
+    "canonical_usable": "False",
+    "rewritten_status": "failed",
+    "Pearson": "0.6210915510479749"
+  },
+  {
+    "unit": "198",
+    "canonical_R2": "0.301470959177758",
+    "rewritten_R2": "0.25832919953714084",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.7715578513217812"
+  },
+  {
+    "unit": "199",
+    "canonical_R2": "0.18906615395378024",
+    "rewritten_R2": "0.17135917000799838",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.6313779580978833"
+  },
+  {
+    "unit": "200",
+    "canonical_R2": "0.32436813152854826",
+    "rewritten_R2": "0.21218616613020047",
+    "canonical_usable": "False",
+    "rewritten_status": "failed",
+    "Pearson": "0.3602094870534061"
+  },
+  {
+    "unit": "201",
+    "canonical_R2": "0.380610616778725",
+    "rewritten_R2": "0.27196351935498375",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.773079344022591"
+  },
+  {
+    "unit": "202",
+    "canonical_R2": "0.8252730150068119",
+    "rewritten_R2": "0.7820000227673656",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.9480402061191215"
+  },
+  {
+    "unit": "203",
+    "canonical_R2": "0.371787303559852",
+    "rewritten_R2": "0.3259568116805025",
+    "canonical_usable": "False",
+    "rewritten_status": "retained",
+    "Pearson": "0.6933472926915335"
+  },
+  {
+    "unit": "204",
+    "canonical_R2": "0.41887035036506115",
+    "rewritten_R2": "0.26990978102354246",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.6023813074399811"
+  },
+  {
+    "unit": "205",
+    "canonical_R2": "0.2374776873670339",
+    "rewritten_R2": "0.16977819811439776",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.8446439138153535"
+  },
+  {
+    "unit": "206",
+    "canonical_R2": "0.8437277505063507",
+    "rewritten_R2": "0.7703694631670486",
+    "canonical_usable": "True",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.905438269092707"
+  },
+  {
+    "unit": "207",
+    "canonical_R2": "0.35075176668612273",
+    "rewritten_R2": "0.299301483324123",
+    "canonical_usable": "False",
+    "rewritten_status": "retained",
+    "Pearson": "0.4765322813075885"
+  },
+  {
+    "unit": "208",
+    "canonical_R2": "0.8356478886729223",
+    "rewritten_R2": "0.8202079405433649",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.94345484972782"
+  },
+  {
+    "unit": "209",
+    "canonical_R2": "0.13040234375853998",
+    "rewritten_R2": "0.13021311042444694",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.6241327864405479"
+  },
+  {
+    "unit": "210",
+    "canonical_R2": "0.7840437327645885",
+    "rewritten_R2": "-1.1479604808381052",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.5572008406582246"
+  },
+  {
+    "unit": "211",
+    "canonical_R2": "0.522639821176957",
+    "rewritten_R2": "0.44938871439785966",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.8218437404859726"
+  },
+  {
+    "unit": "212",
+    "canonical_R2": "0.8151025963343044",
+    "rewritten_R2": "0.7031055068262142",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.8672891858809042"
+  },
+  {
+    "unit": "213",
+    "canonical_R2": "0.22153255652449122",
+    "rewritten_R2": "0.19710955324612356",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.8344751874938354"
+  },
+  {
+    "unit": "214",
+    "canonical_R2": "0.6605229556620954",
+    "rewritten_R2": "0.6237571740746832",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.8811308150547253"
+  },
+  {
+    "unit": "215",
+    "canonical_R2": "0.3944748594238615",
+    "rewritten_R2": "0.3967467673479479",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.7687898416516769"
+  },
+  {
+    "unit": "216",
+    "canonical_R2": "0.5047541600496808",
+    "rewritten_R2": "0.4715952926476106",
+    "canonical_usable": "True",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.8320776578386009"
+  },
+  {
+    "unit": "217",
+    "canonical_R2": "0.8289926494402604",
+    "rewritten_R2": "0.797994803436051",
+    "canonical_usable": "True",
+    "rewritten_status": "retained",
+    "Pearson": "0.9294715086736028"
+  },
+  {
+    "unit": "218",
+    "canonical_R2": "0.42713160608652834",
+    "rewritten_R2": "0.3980152176200564",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.9102549916734952"
+  },
+  {
+    "unit": "219",
+    "canonical_R2": "0.20035520562088138",
+    "rewritten_R2": "0.18501233668588501",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.6746362620126609"
+  },
+  {
+    "unit": "220",
+    "canonical_R2": "0.86195935562055",
+    "rewritten_R2": "0.8418561824954878",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.9634765184678896"
+  },
+  {
+    "unit": "221",
+    "canonical_R2": "0.4203509894226507",
+    "rewritten_R2": "0.3657810449109714",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.8970920908918659"
+  },
+  {
+    "unit": "222",
+    "canonical_R2": "0.047380869915429225",
+    "rewritten_R2": "0.029382245336196156",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.3553047162728208"
+  },
+  {
+    "unit": "223",
+    "canonical_R2": "0.29789755576918464",
+    "rewritten_R2": "0.0567077990622884",
+    "canonical_usable": "False",
+    "rewritten_status": "failed",
+    "Pearson": "0.49847903025167645"
+  },
+  {
+    "unit": "224",
+    "canonical_R2": "0.6548266733939694",
+    "rewritten_R2": "0.613152030360028",
+    "canonical_usable": "True",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.8566224561114337"
+  },
+  {
+    "unit": "225",
+    "canonical_R2": "0.7255777534863403",
+    "rewritten_R2": "0.2782150518142773",
+    "canonical_usable": "True",
+    "rewritten_status": "retained",
+    "Pearson": "0.6704197268009843"
+  },
+  {
+    "unit": "226",
+    "canonical_R2": "0.762761174456846",
+    "rewritten_R2": "0.7312652613252609",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.9172637324982947"
+  },
+  {
+    "unit": "227",
+    "canonical_R2": "0.48429330173895757",
+    "rewritten_R2": "0.44300445638026853",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.6554664041220692"
+  },
+  {
+    "unit": "228",
+    "canonical_R2": "0.30292090406804795",
+    "rewritten_R2": "0.23059731247073267",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.7344676995407499"
+  },
+  {
+    "unit": "229",
+    "canonical_R2": "0.8574204787189024",
+    "rewritten_R2": "0.7776496614110363",
+    "canonical_usable": "True",
+    "rewritten_status": "retained",
+    "Pearson": "0.8849259270492689"
+  },
+  {
+    "unit": "230",
+    "canonical_R2": "0.4164422998213857",
+    "rewritten_R2": "0.3667283388744199",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.7082860613702625"
+  },
+  {
+    "unit": "231",
+    "canonical_R2": "0.4164289834965883",
+    "rewritten_R2": "0.42738170055186064",
+    "canonical_usable": "False",
+    "rewritten_status": "retained",
+    "Pearson": "0.8791819007789644"
+  },
+  {
+    "unit": "232",
+    "canonical_R2": "0.7402758487085659",
+    "rewritten_R2": "0.7154300542217147",
+    "canonical_usable": "True",
+    "rewritten_status": "retained",
+    "Pearson": "0.9248043723810326"
+  },
+  {
+    "unit": "233",
+    "canonical_R2": "0.3249997886697964",
+    "rewritten_R2": "0.2903638265510424",
+    "canonical_usable": "False",
+    "rewritten_status": "retained",
+    "Pearson": "0.7839327771573029"
+  },
+  {
+    "unit": "234",
+    "canonical_R2": "0.25102861529542086",
+    "rewritten_R2": "0.20789568733791608",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.7089839809372092"
+  },
+  {
+    "unit": "235",
+    "canonical_R2": "0.4433391100138241",
+    "rewritten_R2": "0.3573145224359551",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.6999922937287756"
+  },
+  {
+    "unit": "236",
+    "canonical_R2": "0.586167788145755",
+    "rewritten_R2": "0.4963772755663095",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.7432643261539079"
+  },
+  {
+    "unit": "237",
+    "canonical_R2": "0.12647565697961005",
+    "rewritten_R2": "0.10038050416012545",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.5636963556980763"
+  },
+  {
+    "unit": "238",
+    "canonical_R2": "0.3533411651051537",
+    "rewritten_R2": "0.33108761332324377",
+    "canonical_usable": "False",
+    "rewritten_status": "retained",
+    "Pearson": "0.7094303543600268"
+  },
+  {
+    "unit": "239",
+    "canonical_R2": "0.19378424735975974",
+    "rewritten_R2": "0.12158837546940127",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.33692688513378644"
+  },
+  {
+    "unit": "240",
+    "canonical_R2": "0.096601554221043",
+    "rewritten_R2": "0.07405742928538539",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.2796642769189129"
+  },
+  {
+    "unit": "241",
+    "canonical_R2": "0.7026078279821681",
+    "rewritten_R2": "0.5560209827157121",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.7954365766773839"
+  },
+  {
+    "unit": "242",
+    "canonical_R2": "0.08835931735616054",
+    "rewritten_R2": "0.03779919365362261",
+    "canonical_usable": "False",
+    "rewritten_status": "failed",
+    "Pearson": "0.22857004766806244"
+  },
+  {
+    "unit": "243",
+    "canonical_R2": "0.19627270635572558",
+    "rewritten_R2": "0.10897457799169907",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.4409319182476267"
+  },
+  {
+    "unit": "244",
+    "canonical_R2": "0.08430445360607985",
+    "rewritten_R2": "0.060179160125377495",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.702113598622419"
+  },
+  {
+    "unit": "245",
+    "canonical_R2": "0.5656449508933759",
+    "rewritten_R2": "0.3736679854259104",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.7059632048782842"
+  },
+  {
+    "unit": "246",
+    "canonical_R2": "0.03933827064497397",
+    "rewritten_R2": "0.01256751703349801",
+    "canonical_usable": "False",
+    "rewritten_status": "failed",
+    "Pearson": "0.2752415680058174"
+  },
+  {
+    "unit": "247",
+    "canonical_R2": "0.3668038036484135",
+    "rewritten_R2": "0.2937482205601971",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.7373499975067858"
+  },
+  {
+    "unit": "248",
+    "canonical_R2": "0.18353829967567792",
+    "rewritten_R2": "0.2201513612057433",
+    "canonical_usable": "False",
+    "rewritten_status": "retained",
+    "Pearson": "0.41166919215369535"
+  },
+  {
+    "unit": "249",
+    "canonical_R2": "0.024102725291829996",
+    "rewritten_R2": "0.040979939147807176",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.899947558456623"
+  },
+  {
+    "unit": "250",
+    "canonical_R2": "0.5716274990448869",
+    "rewritten_R2": "0.4886414760632949",
+    "canonical_usable": "True",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.8591029820148112"
+  },
+  {
+    "unit": "251",
+    "canonical_R2": "0.5086540819685097",
+    "rewritten_R2": "0.36483318929343567",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.6766961993827527"
+  },
+  {
+    "unit": "252",
+    "canonical_R2": "0.42014474904404575",
+    "rewritten_R2": "0.3662793391413336",
+    "canonical_usable": "False",
+    "rewritten_status": "retained",
+    "Pearson": "0.7362891424690076"
+  },
+  {
+    "unit": "253",
+    "canonical_R2": "0.3804965856845165",
+    "rewritten_R2": "0.302640609192274",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.6630569921398133"
+  },
+  {
+    "unit": "254",
+    "canonical_R2": "0.3572076506562112",
+    "rewritten_R2": "0.09216641226753686",
+    "canonical_usable": "False",
+    "rewritten_status": "failed",
+    "Pearson": "0.42260212928560714"
+  },
+  {
+    "unit": "255",
+    "canonical_R2": "0.25706096848474536",
+    "rewritten_R2": "0.25723072337748587",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.4701307389227817"
+  },
+  {
+    "unit": "256",
+    "canonical_R2": "0.4162396425318502",
+    "rewritten_R2": "0.15221169997561923",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.639954340969582"
+  },
+  {
+    "unit": "257",
+    "canonical_R2": "0.40769947126888895",
+    "rewritten_R2": "0.3564831382993763",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.7691000625148532"
+  },
+  {
+    "unit": "258",
+    "canonical_R2": "0.4208718364516417",
+    "rewritten_R2": "0.3837252935478369",
+    "canonical_usable": "False",
+    "rewritten_status": "retained",
+    "Pearson": "0.7637441823462566"
+  },
+  {
+    "unit": "259",
+    "canonical_R2": "0.18899443727441934",
+    "rewritten_R2": "0.11413553543425992",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.6230357197425463"
+  },
+  {
+    "unit": "260",
+    "canonical_R2": "0.5225022372368845",
+    "rewritten_R2": "0.34072064163473736",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.7077465130570135"
+  },
+  {
+    "unit": "261",
+    "canonical_R2": "0.837971304679727",
+    "rewritten_R2": "0.636913388184192",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.8396576658670343"
+  },
+  {
+    "unit": "262",
+    "canonical_R2": "0.4223054427654116",
+    "rewritten_R2": "0.10613697252556786",
+    "canonical_usable": "False",
+    "rewritten_status": "failed",
+    "Pearson": "0.4756325698049454"
+  },
+  {
+    "unit": "263",
+    "canonical_R2": "0.9563604473143518",
+    "rewritten_R2": "0.7958848090795546",
+    "canonical_usable": "True",
+    "rewritten_status": "retained",
+    "Pearson": "0.8868615157427857"
+  },
+  {
+    "unit": "264",
+    "canonical_R2": "0.16419228261316077",
+    "rewritten_R2": "0.15001004220121383",
+    "canonical_usable": "False",
+    "rewritten_status": "retained",
+    "Pearson": "0.3698737630745345"
+  },
+  {
+    "unit": "265",
+    "canonical_R2": "0.3303844753638725",
+    "rewritten_R2": "0.2811680015674879",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.7363744854338296"
+  },
+  {
+    "unit": "266",
+    "canonical_R2": "0.646935061159842",
+    "rewritten_R2": "-0.027057453864129277",
+    "canonical_usable": "True",
+    "rewritten_status": "retained",
+    "Pearson": "0.6408624407776339"
+  },
+  {
+    "unit": "267",
+    "canonical_R2": "0.20233014727180254",
+    "rewritten_R2": "0.050676772747328847",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.4530208482433186"
+  },
+  {
+    "unit": "268",
+    "canonical_R2": "0.34696790417005186",
+    "rewritten_R2": "0.1877892520064015",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.8155576355334954"
+  },
+  {
+    "unit": "269",
+    "canonical_R2": "0.03379006769881343",
+    "rewritten_R2": "-0.05398859849025728",
+    "canonical_usable": "False",
+    "rewritten_status": "failed",
+    "Pearson": "0.08962777077105165"
+  },
+  {
+    "unit": "270",
+    "canonical_R2": "0.6874926993172846",
+    "rewritten_R2": "0.6574674624437877",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.8885852356493927"
+  },
+  {
+    "unit": "271",
+    "canonical_R2": "0.8640514439885258",
+    "rewritten_R2": "-0.054563893936148355",
+    "canonical_usable": "True",
+    "rewritten_status": "failed",
+    "Pearson": "0.6893630493329551"
+  },
+  {
+    "unit": "272",
+    "canonical_R2": "0.38311490095666334",
+    "rewritten_R2": "0.31482841531830197",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.8818017773630038"
+  },
+  {
+    "unit": "273",
+    "canonical_R2": "0.9148191563160655",
+    "rewritten_R2": "0.8337985220810502",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.934369972802859"
+  },
+  {
+    "unit": "274",
+    "canonical_R2": "0.2832173274968046",
+    "rewritten_R2": "0.2324132228229393",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.5586909344988321"
+  },
+  {
+    "unit": "275",
+    "canonical_R2": "0.4059749624656759",
+    "rewritten_R2": "0.3617647812998064",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.8914589801814411"
+  },
+  {
+    "unit": "276",
+    "canonical_R2": "0.2201063489787527",
+    "rewritten_R2": "0.21644740095340698",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.7932760992113433"
+  },
+  {
+    "unit": "277",
+    "canonical_R2": "0.3682518797938522",
+    "rewritten_R2": "0.14413703417436308",
+    "canonical_usable": "False",
+    "rewritten_status": "failed",
+    "Pearson": "0.6515364753521166"
+  },
+  {
+    "unit": "278",
+    "canonical_R2": "0.07981177555395091",
+    "rewritten_R2": "0.06846345621772953",
+    "canonical_usable": "False",
+    "rewritten_status": "retained",
+    "Pearson": "0.4516875679008115"
+  },
+  {
+    "unit": "279",
+    "canonical_R2": "0.5022987329511177",
+    "rewritten_R2": "0.21765784966586044",
+    "canonical_usable": "True",
+    "rewritten_status": "failed",
+    "Pearson": "0.7283460061398611"
+  },
+  {
+    "unit": "280",
+    "canonical_R2": "0.46004029456187123",
+    "rewritten_R2": "0.21858438712323702",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.6315024992035465"
+  },
+  {
+    "unit": "281",
+    "canonical_R2": "0.5083959556230221",
+    "rewritten_R2": "0.4924909848179141",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.8813804008761199"
+  },
+  {
+    "unit": "282",
+    "canonical_R2": "0.11686202506260024",
+    "rewritten_R2": "0.1203289830087797",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.8686706136912564"
+  },
+  {
+    "unit": "283",
+    "canonical_R2": "0.46860377074029547",
+    "rewritten_R2": "0.36997871096843005",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.7115554661142288"
+  },
+  {
+    "unit": "284",
+    "canonical_R2": "0.05190738312286791",
+    "rewritten_R2": "0.03620118634312586",
+    "canonical_usable": "False",
+    "rewritten_status": "failed",
+    "Pearson": "0.7611416222678105"
+  },
+  {
+    "unit": "285",
+    "canonical_R2": "0.2869490772728722",
+    "rewritten_R2": "0.20585130155023046",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.6923433914478189"
+  },
+  {
+    "unit": "286",
+    "canonical_R2": "0.5326390900365623",
+    "rewritten_R2": "0.42492540336069484",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.8278178718409356"
+  },
+  {
+    "unit": "287",
+    "canonical_R2": "0.5412730929065117",
+    "rewritten_R2": "0.3971429656892176",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.7002984073075074"
+  },
+  {
+    "unit": "288",
+    "canonical_R2": "0.30060169528925107",
+    "rewritten_R2": "-0.3219198819117328",
+    "canonical_usable": "False",
+    "rewritten_status": "failed",
+    "Pearson": "0.45985773911156586"
+  },
+  {
+    "unit": "289",
+    "canonical_R2": "0.3891487698645876",
+    "rewritten_R2": "0.3963932144194713",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.924077578780366"
+  },
+  {
+    "unit": "290",
+    "canonical_R2": "-0.05884354698513761",
+    "rewritten_R2": "-0.034788918293906956",
+    "canonical_usable": "False",
+    "rewritten_status": "failed",
+    "Pearson": "0.1650755294280334"
+  },
+  {
+    "unit": "291",
+    "canonical_R2": "0.40509395673902326",
+    "rewritten_R2": "0.2760553335807452",
+    "canonical_usable": "False",
+    "rewritten_status": "retained",
+    "Pearson": "0.7144794024004393"
+  },
+  {
+    "unit": "292",
+    "canonical_R2": "0.21470041164868392",
+    "rewritten_R2": "0.19584151511687287",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.5188697077233624"
+  },
+  {
+    "unit": "293",
+    "canonical_R2": "0.8422113968152719",
+    "rewritten_R2": "0.6625217258588667",
+    "canonical_usable": "True",
+    "rewritten_status": "retained",
+    "Pearson": "0.8314401889584382"
+  },
+  {
+    "unit": "294",
+    "canonical_R2": "0.3970430713444203",
+    "rewritten_R2": "0.36149810335305943",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.7139847045528656"
+  },
+  {
+    "unit": "295",
+    "canonical_R2": "0.17854446127152546",
+    "rewritten_R2": "0.14749398262186486",
+    "canonical_usable": "False",
+    "rewritten_status": "retained",
+    "Pearson": "0.4002820669146222"
+  },
+  {
+    "unit": "296",
+    "canonical_R2": "0.6641363484931866",
+    "rewritten_R2": "0.5472096116363085",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.7800029029165173"
+  },
+  {
+    "unit": "297",
+    "canonical_R2": "0.7386614187197537",
+    "rewritten_R2": "0.7035487883520973",
+    "canonical_usable": "True",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.9139427446884216"
+  },
+  {
+    "unit": "298",
+    "canonical_R2": "0.13663334994303755",
+    "rewritten_R2": "0.12597288249888228",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.49813722258068605"
+  },
+  {
+    "unit": "299",
+    "canonical_R2": "0.008269650556195773",
+    "rewritten_R2": "0.008476560853367232",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.25321258443929523"
+  },
+  {
+    "unit": "300",
+    "canonical_R2": "0.7203243078630459",
+    "rewritten_R2": "0.6895027736253564",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.8836230435842711"
+  },
+  {
+    "unit": "301",
+    "canonical_R2": "0.09082971632858572",
+    "rewritten_R2": "0.08047448860411288",
+    "canonical_usable": "False",
+    "rewritten_status": "failed",
+    "Pearson": "0.4087569157261103"
+  },
+  {
+    "unit": "302",
+    "canonical_R2": "0.3837603488235788",
+    "rewritten_R2": "0.36598753922659355",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.8287813419810257"
+  },
+  {
+    "unit": "303",
+    "canonical_R2": "0.44840169951133035",
+    "rewritten_R2": "0.3722189676571096",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.8071473988343789"
+  },
+  {
+    "unit": "304",
+    "canonical_R2": "0.6570667814506339",
+    "rewritten_R2": "0.5366167044334249",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.8156828591370077"
+  },
+  {
+    "unit": "305",
+    "canonical_R2": "0.04137038445393282",
+    "rewritten_R2": "0.025255662767985076",
+    "canonical_usable": "False",
+    "rewritten_status": "retained",
+    "Pearson": "0.2404000611290257"
+  },
+  {
+    "unit": "306",
+    "canonical_R2": "0.5226530920991688",
+    "rewritten_R2": "0.4927119833108202",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.7958037511062543"
+  },
+  {
+    "unit": "307",
+    "canonical_R2": "0.9194445788911262",
+    "rewritten_R2": "0.8483973811600026",
+    "canonical_usable": "True",
+    "rewritten_status": "retained",
+    "Pearson": "0.9431550157573955"
+  },
+  {
+    "unit": "308",
+    "canonical_R2": "0.24935947916201096",
+    "rewritten_R2": "0.2349755913593552",
+    "canonical_usable": "False",
+    "rewritten_status": "retained",
+    "Pearson": "0.7832615702781113"
+  },
+  {
+    "unit": "309",
+    "canonical_R2": "0.3952429452371754",
+    "rewritten_R2": "0.336237474147978",
+    "canonical_usable": "False",
+    "rewritten_status": "retained",
+    "Pearson": "0.7660061107089216"
+  },
+  {
+    "unit": "310",
+    "canonical_R2": "0.1552489730314014",
+    "rewritten_R2": "0.1339238605458215",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.6002635565616273"
+  },
+  {
+    "unit": "311",
+    "canonical_R2": "0.27824281584878807",
+    "rewritten_R2": "0.2327998848773697",
+    "canonical_usable": "False",
+    "rewritten_status": "retained",
+    "Pearson": "0.745544386601782"
+  },
+  {
+    "unit": "312",
+    "canonical_R2": "0.06503725832122209",
+    "rewritten_R2": "0.006245663550820568",
+    "canonical_usable": "False",
+    "rewritten_status": "failed",
+    "Pearson": "0.4010116554825192"
+  },
+  {
+    "unit": "313",
+    "canonical_R2": "0.25223636691563467",
+    "rewritten_R2": "0.2234513485383557",
+    "canonical_usable": "False",
+    "rewritten_status": "retained",
+    "Pearson": "0.8218504112063258"
+  },
+  {
+    "unit": "314",
+    "canonical_R2": "0.23306765694226017",
+    "rewritten_R2": "0.04560734528055099",
+    "canonical_usable": "False",
+    "rewritten_status": "retained",
+    "Pearson": "0.5894340647879511"
+  },
+  {
+    "unit": "315",
+    "canonical_R2": "0.30188342893433207",
+    "rewritten_R2": "0.1981808198946221",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.5460073470155291"
+  },
+  {
+    "unit": "316",
+    "canonical_R2": "0.5950449421598829",
+    "rewritten_R2": "0.4598988463257686",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.7504794664086688"
+  },
+  {
+    "unit": "317",
+    "canonical_R2": "0.981179552622704",
+    "rewritten_R2": "0.9554779811735095",
+    "canonical_usable": "True",
+    "rewritten_status": "retained",
+    "Pearson": "0.9806927779907745"
+  },
+  {
+    "unit": "318",
+    "canonical_R2": "0.28127824805582",
+    "rewritten_R2": "0.2334529940002611",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.6727160634642576"
+  },
+  {
+    "unit": "319",
+    "canonical_R2": "0.02649694937340452",
+    "rewritten_R2": "0.02182261253572315",
+    "canonical_usable": "False",
+    "rewritten_status": "failed",
+    "Pearson": "0.4937121507638315"
+  },
+  {
+    "unit": "320",
+    "canonical_R2": "0.5574479307900311",
+    "rewritten_R2": "0.5203930038249643",
+    "canonical_usable": "False",
+    "rewritten_status": "retained",
+    "Pearson": "0.7658526520700987"
+  },
+  {
+    "unit": "321",
+    "canonical_R2": "0.5878430607205445",
+    "rewritten_R2": "0.5010557058432136",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.752083273427987"
+  },
+  {
+    "unit": "322",
+    "canonical_R2": "0.43529728343320595",
+    "rewritten_R2": "0.4105689086967137",
+    "canonical_usable": "False",
+    "rewritten_status": "retained",
+    "Pearson": "0.7479636693247711"
+  },
+  {
+    "unit": "323",
+    "canonical_R2": "0.3463547984778511",
+    "rewritten_R2": "0.27100625795456346",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.5506982142060644"
+  },
+  {
+    "unit": "324",
+    "canonical_R2": "0.42229118188545456",
+    "rewritten_R2": "0.41033563999942213",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.8178961536765119"
+  },
+  {
+    "unit": "325",
+    "canonical_R2": "0.5414477137796088",
+    "rewritten_R2": "0.5003826879129111",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.7818171458211547"
+  },
+  {
+    "unit": "326",
+    "canonical_R2": "0.3275328174917045",
+    "rewritten_R2": "0.2377407647357116",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.8503433455998759"
+  },
+  {
+    "unit": "327",
+    "canonical_R2": "0.6537199959582334",
+    "rewritten_R2": "0.010854716283535626",
+    "canonical_usable": "False",
+    "rewritten_status": "failed",
+    "Pearson": "0.6770798974269708"
+  },
+  {
+    "unit": "328",
+    "canonical_R2": "0.5071140751000003",
+    "rewritten_R2": "0.41875668401572397",
+    "canonical_usable": "False",
+    "rewritten_status": "retained",
+    "Pearson": "0.732612257793433"
+  },
+  {
+    "unit": "329",
+    "canonical_R2": "0.567647638966813",
+    "rewritten_R2": "0.5730118159258702",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.8705626296878098"
+  },
+  {
+    "unit": "330",
+    "canonical_R2": "0.40052486143334887",
+    "rewritten_R2": "0.29856003744132054",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.8573369474648511"
+  },
+  {
+    "unit": "331",
+    "canonical_R2": "0.5926882481973659",
+    "rewritten_R2": "0.5179281896124901",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.911333776455944"
+  },
+  {
+    "unit": "332",
+    "canonical_R2": "0.14449876811145967",
+    "rewritten_R2": "0.10846177291821746",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.569429524183268"
+  },
+  {
+    "unit": "333",
+    "canonical_R2": "0.26775908625995004",
+    "rewritten_R2": "0.23436981899334697",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.5328767928876054"
+  },
+  {
+    "unit": "334",
+    "canonical_R2": "0.4938374013691851",
+    "rewritten_R2": "0.3200562847452918",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.7360352819093207"
+  },
+  {
+    "unit": "335",
+    "canonical_R2": "0.5426520976874403",
+    "rewritten_R2": "0.47224137275100353",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.9058490837574013"
+  },
+  {
+    "unit": "336",
+    "canonical_R2": "0.33471671393342906",
+    "rewritten_R2": "0.27470001559917423",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.5958278501965771"
+  },
+  {
+    "unit": "337",
+    "canonical_R2": "0.6347121674041893",
+    "rewritten_R2": "0.5760884727190476",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.8367590833303088"
+  },
+  {
+    "unit": "338",
+    "canonical_R2": "0.29247373213902916",
+    "rewritten_R2": "0.09668088563083532",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.3905280704720855"
+  },
+  {
+    "unit": "339",
+    "canonical_R2": "0.46637367822298725",
+    "rewritten_R2": "0.37442551311003747",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.6680760409012941"
+  },
+  {
+    "unit": "340",
+    "canonical_R2": "0.9379522776328723",
+    "rewritten_R2": "-0.08005649138911086",
+    "canonical_usable": "False",
+    "rewritten_status": "failed",
+    "Pearson": "0.7662326727660678"
+  },
+  {
+    "unit": "341",
+    "canonical_R2": "0.688102061665369",
+    "rewritten_R2": "0.516624241635268",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.7317275747571672"
+  },
+  {
+    "unit": "342",
+    "canonical_R2": "0.11301691892517529",
+    "rewritten_R2": "0.0017307670753324844",
+    "canonical_usable": "False",
+    "rewritten_status": "failed",
+    "Pearson": "0.892383558662452"
+  },
+  {
+    "unit": "343",
+    "canonical_R2": "0.24046134226913418",
+    "rewritten_R2": "0.18397278044664933",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.7189870958633836"
+  },
+  {
+    "unit": "344",
+    "canonical_R2": "0.3282704968119722",
+    "rewritten_R2": "0.31099653470955513",
+    "canonical_usable": "False",
+    "rewritten_status": "retained",
+    "Pearson": "0.787718032453001"
+  },
+  {
+    "unit": "345",
+    "canonical_R2": "0.40578880544476603",
+    "rewritten_R2": "0.2678061434245411",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.7387601514197084"
+  },
+  {
+    "unit": "346",
+    "canonical_R2": "0.10306603221600186",
+    "rewritten_R2": "0.08228181684669444",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.5948480500859605"
+  },
+  {
+    "unit": "347",
+    "canonical_R2": "0.038851504540001636",
+    "rewritten_R2": "0.03406416039952287",
+    "canonical_usable": "False",
+    "rewritten_status": "failed",
+    "Pearson": "0.459984000248059"
+  },
+  {
+    "unit": "348",
+    "canonical_R2": "0.16050346679727057",
+    "rewritten_R2": "0.13976382739887072",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.7751789979816301"
+  },
+  {
+    "unit": "349",
+    "canonical_R2": "0.35376346472111053",
+    "rewritten_R2": "0.30100525874822237",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.7802487588692784"
+  },
+  {
+    "unit": "350",
+    "canonical_R2": "0.17493171963282894",
+    "rewritten_R2": "0.1092777857436732",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.47035020752522727"
+  },
+  {
+    "unit": "351",
+    "canonical_R2": "0.37713678658740224",
+    "rewritten_R2": "0.2955669687758622",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.5583168460905719"
+  },
+  {
+    "unit": "352",
+    "canonical_R2": "0.0067872499414392",
+    "rewritten_R2": "0.008400707911267569",
+    "canonical_usable": "False",
+    "rewritten_status": "failed",
+    "Pearson": "0.39381804673163534"
+  },
+  {
+    "unit": "353",
+    "canonical_R2": "0.3124324328642245",
+    "rewritten_R2": "0.35208131144021315",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.8915146920459913"
+  },
+  {
+    "unit": "354",
+    "canonical_R2": "0.314579579512028",
+    "rewritten_R2": "0.08090636271120111",
+    "canonical_usable": "False",
+    "rewritten_status": "failed",
+    "Pearson": "0.41297666848058867"
+  },
+  {
+    "unit": "355",
+    "canonical_R2": "0.33639575329152127",
+    "rewritten_R2": "0.3328444892263327",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.8283576636579091"
+  },
+  {
+    "unit": "356",
+    "canonical_R2": "0.3881315628023281",
+    "rewritten_R2": "0.27651583910925925",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.6555599796470731"
+  },
+  {
+    "unit": "357",
+    "canonical_R2": "0.0271436014573172",
+    "rewritten_R2": "0.023133565967106695",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.7277779064321268"
+  },
+  {
+    "unit": "358",
+    "canonical_R2": "0.36740408731612206",
+    "rewritten_R2": "0.3910003619181919",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.9352331189003144"
+  },
+  {
+    "unit": "359",
+    "canonical_R2": "0.5061462350022032",
+    "rewritten_R2": "0.3064270029079895",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.6593056565142358"
+  },
+  {
+    "unit": "360",
+    "canonical_R2": "-0.0017318495696521108",
+    "rewritten_R2": "0.001806913713395808",
+    "canonical_usable": "False",
+    "rewritten_status": "failed",
+    "Pearson": "0.3953242207246225"
+  },
+  {
+    "unit": "361",
+    "canonical_R2": "0.21397095577273362",
+    "rewritten_R2": "0.17589193434408656",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.8147066439539608"
+  },
+  {
+    "unit": "362",
+    "canonical_R2": "0.8011795604723992",
+    "rewritten_R2": "0.6519143715794997",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.874072552831159"
+  },
+  {
+    "unit": "363",
+    "canonical_R2": "0.5451188372713776",
+    "rewritten_R2": "0.4602458194728589",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.7719291772186619"
+  },
+  {
+    "unit": "364",
+    "canonical_R2": "0.07235287013172353",
+    "rewritten_R2": "0.03581740433913572",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.4831518840914561"
+  },
+  {
+    "unit": "365",
+    "canonical_R2": "0.34100770916406664",
+    "rewritten_R2": "0.07357691247408615",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.404105751466437"
+  },
+  {
+    "unit": "366",
+    "canonical_R2": "0.1698970833024156",
+    "rewritten_R2": "0.08614316181196424",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.6324269000051588"
+  },
+  {
+    "unit": "367",
+    "canonical_R2": "0.15876561976130288",
+    "rewritten_R2": "0.1624785336289417",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.7351560543997325"
+  },
+  {
+    "unit": "368",
+    "canonical_R2": "0.6429962198395063",
+    "rewritten_R2": "0.4802261467055984",
+    "canonical_usable": "True",
+    "rewritten_status": "retained",
+    "Pearson": "0.7915253122721212"
+  },
+  {
+    "unit": "369",
+    "canonical_R2": "0.6343068631156706",
+    "rewritten_R2": "0.5509117435366206",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.8240429018702001"
+  },
+  {
+    "unit": "370",
+    "canonical_R2": "0.2836054744609926",
+    "rewritten_R2": "0.27585775185404005",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.8720323550077541"
+  },
+  {
+    "unit": "371",
+    "canonical_R2": "0.2971132922955948",
+    "rewritten_R2": "0.29267518301420703",
+    "canonical_usable": "False",
+    "rewritten_status": "retained",
+    "Pearson": "0.8167564051853885"
+  },
+  {
+    "unit": "372",
+    "canonical_R2": "0.18839035278850624",
+    "rewritten_R2": "0.10578324168760289",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.45853682559833014"
+  },
+  {
+    "unit": "373",
+    "canonical_R2": "0.25242511053255556",
+    "rewritten_R2": "0.28101474248524794",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.8438327420989944"
+  },
+  {
+    "unit": "374",
+    "canonical_R2": "0.1684255827178649",
+    "rewritten_R2": "0.08235683561698859",
+    "canonical_usable": "False",
+    "rewritten_status": "failed",
+    "Pearson": "0.5030920919451349"
+  },
+  {
+    "unit": "375",
+    "canonical_R2": "0.516271644626638",
+    "rewritten_R2": "0.30029440811651076",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.7110698810004246"
+  },
+  {
+    "unit": "376",
+    "canonical_R2": "0.774417972220288",
+    "rewritten_R2": "0.5773840681613672",
+    "canonical_usable": "True",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.7907184999301657"
+  },
+  {
+    "unit": "377",
+    "canonical_R2": "0.6208228993905571",
+    "rewritten_R2": "0.3570081693557561",
+    "canonical_usable": "True",
+    "rewritten_status": "retained",
+    "Pearson": "0.594811313113622"
+  },
+  {
+    "unit": "378",
+    "canonical_R2": "0.38774095913480133",
+    "rewritten_R2": "0.10436524371351696",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.6841827313901853"
+  },
+  {
+    "unit": "379",
+    "canonical_R2": "0.042143206799570954",
+    "rewritten_R2": "0.03212206960909336",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.7152342977016759"
+  },
+  {
+    "unit": "380",
+    "canonical_R2": "0.7472769337570639",
+    "rewritten_R2": "0.68075362905669",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.869779313596884"
+  },
+  {
+    "unit": "381",
+    "canonical_R2": "0.9103239523587054",
+    "rewritten_R2": "0.8391641690812319",
+    "canonical_usable": "True",
+    "rewritten_status": "retained",
+    "Pearson": "0.936396686547933"
+  },
+  {
+    "unit": "382",
+    "canonical_R2": "0.7578004555121598",
+    "rewritten_R2": "0.7375586022515461",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.9165300025151217"
+  },
+  {
+    "unit": "383",
+    "canonical_R2": "0.5746595657938944",
+    "rewritten_R2": "0.11514329953270364",
+    "canonical_usable": "True",
+    "rewritten_status": "failed",
+    "Pearson": "0.7092910787864104"
+  },
+  {
+    "unit": "384",
+    "canonical_R2": "0.9336154197199474",
+    "rewritten_R2": "-0.15715097241506903",
+    "canonical_usable": "True",
+    "rewritten_status": "failed",
+    "Pearson": "0.6982939286412816"
+  },
+  {
+    "unit": "385",
+    "canonical_R2": "0.5262757270849181",
+    "rewritten_R2": "0.5324476628845547",
+    "canonical_usable": "True",
+    "rewritten_status": "retained",
+    "Pearson": "0.8808910310993723"
+  },
+  {
+    "unit": "386",
+    "canonical_R2": "0.20658032553591055",
+    "rewritten_R2": "0.17898470280947587",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.5259926413912286"
+  },
+  {
+    "unit": "387",
+    "canonical_R2": "0.5247767539004583",
+    "rewritten_R2": "0.3443916951665015",
+    "canonical_usable": "True",
+    "rewritten_status": "retained",
+    "Pearson": "0.7862354984196573"
+  },
+  {
+    "unit": "388",
+    "canonical_R2": "0.9226192279928189",
+    "rewritten_R2": "0.8243298349880266",
+    "canonical_usable": "True",
+    "rewritten_status": "retained",
+    "Pearson": "0.9308047220427996"
+  },
+  {
+    "unit": "389",
+    "canonical_R2": "0.2680787734775185",
+    "rewritten_R2": "0.11432310387630296",
+    "canonical_usable": "False",
+    "rewritten_status": "failed",
+    "Pearson": "0.6099887822429598"
+  },
+  {
+    "unit": "390",
+    "canonical_R2": "0.4337019217325817",
+    "rewritten_R2": "0.4504524441909745",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.8551505043000918"
+  },
+  {
+    "unit": "391",
+    "canonical_R2": "0.09434593291432303",
+    "rewritten_R2": "0.081103296308764",
+    "canonical_usable": "False",
+    "rewritten_status": "retained",
+    "Pearson": "0.39844574831897445"
+  },
+  {
+    "unit": "392",
+    "canonical_R2": "0.9124679013405015",
+    "rewritten_R2": "0.8984904597819064",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.9788889799613417"
+  },
+  {
+    "unit": "393",
+    "canonical_R2": "0.20704210627042385",
+    "rewritten_R2": "0.20456752680878498",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.884915708141234"
+  },
+  {
+    "unit": "394",
+    "canonical_R2": "0.48995798952956293",
+    "rewritten_R2": "0.23629995834937334",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.7206181623653617"
+  },
+  {
+    "unit": "395",
+    "canonical_R2": "0.31623456099697755",
+    "rewritten_R2": "0.1625244059501041",
+    "canonical_usable": "False",
+    "rewritten_status": "failed",
+    "Pearson": "0.4375955954409695"
+  },
+  {
+    "unit": "396",
+    "canonical_R2": "0.340961412654751",
+    "rewritten_R2": "0.1719544131416485",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.6920144084704183"
+  },
+  {
+    "unit": "397",
+    "canonical_R2": "0.09304030014709186",
+    "rewritten_R2": "0.07269195575214016",
+    "canonical_usable": "False",
+    "rewritten_status": "failed",
+    "Pearson": "0.3440855204015325"
+  },
+  {
+    "unit": "398",
+    "canonical_R2": "0.20136382560854527",
+    "rewritten_R2": "0.24267666536344845",
+    "canonical_usable": "False",
+    "rewritten_status": "retained",
+    "Pearson": "0.3400020034253553"
+  },
+  {
+    "unit": "399",
+    "canonical_R2": "0.3471241924307319",
+    "rewritten_R2": "0.11064358163795562",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.6945460116574145"
+  },
+  {
+    "unit": "400",
+    "canonical_R2": "0.7946872510321207",
+    "rewritten_R2": "0.3438584008017874",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.741035486125734"
+  },
+  {
+    "unit": "401",
+    "canonical_R2": "0.4974792574744852",
+    "rewritten_R2": "0.3911696073112714",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.7611379920345689"
+  },
+  {
+    "unit": "402",
+    "canonical_R2": "0.1488965522926452",
+    "rewritten_R2": "0.07978323504775298",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.31433721281131105"
+  },
+  {
+    "unit": "403",
+    "canonical_R2": "0.798198414378003",
+    "rewritten_R2": "0.723571686914789",
+    "canonical_usable": "True",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.9007059330956809"
+  },
+  {
+    "unit": "404",
+    "canonical_R2": "0.20754127957325064",
+    "rewritten_R2": "0.12447942626111386",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.6221268613579519"
+  },
+  {
+    "unit": "405",
+    "canonical_R2": "0.5383072492076175",
+    "rewritten_R2": "0.39789376834243717",
+    "canonical_usable": "True",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.7741777942867837"
+  },
+  {
+    "unit": "406",
+    "canonical_R2": "0.22407518003680393",
+    "rewritten_R2": "0.10223562852737766",
+    "canonical_usable": "False",
+    "rewritten_status": "failed",
+    "Pearson": "0.36208917245864863"
+  },
+  {
+    "unit": "407",
+    "canonical_R2": "0.33003984985948753",
+    "rewritten_R2": "0.1740777430020325",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.6790398059723995"
+  },
+  {
+    "unit": "408",
+    "canonical_R2": "0.6662560179997521",
+    "rewritten_R2": "0.6343466563009975",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.9180429774929527"
+  },
+  {
+    "unit": "409",
+    "canonical_R2": "0.2951909011167574",
+    "rewritten_R2": "0.3166532746844426",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.7736143296630766"
+  },
+  {
+    "unit": "410",
+    "canonical_R2": "0.5663589932706246",
+    "rewritten_R2": "0.02722691261609167",
+    "canonical_usable": "True",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.6754626193545725"
+  },
+  {
+    "unit": "411",
+    "canonical_R2": "0.06422785416685417",
+    "rewritten_R2": "0.01769586209436047",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.3519601966677416"
+  },
+  {
+    "unit": "412",
+    "canonical_R2": "0.34063026809941765",
+    "rewritten_R2": "0.15984174039833177",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.5050190041104299"
+  },
+  {
+    "unit": "413",
+    "canonical_R2": "0.4721777549803067",
+    "rewritten_R2": "0.41756515883038015",
+    "canonical_usable": "False",
+    "rewritten_status": "retained",
+    "Pearson": "0.6019066601880555"
+  },
+  {
+    "unit": "414",
+    "canonical_R2": "0.2241906167222738",
+    "rewritten_R2": "0.19232809360087633",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.45526395454093743"
+  },
+  {
+    "unit": "415",
+    "canonical_R2": "0.9142426271783605",
+    "rewritten_R2": "0.9056219455672199",
+    "canonical_usable": "True",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.9839356943730725"
+  },
+  {
+    "unit": "416",
+    "canonical_R2": "0.07345993374400406",
+    "rewritten_R2": "0.06151887361221853",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.6897034466313267"
+  },
+  {
+    "unit": "417",
+    "canonical_R2": "0.16330665913846965",
+    "rewritten_R2": "0.15552244775772484",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.7454883046355436"
+  },
+  {
+    "unit": "418",
+    "canonical_R2": "0.7637114297002128",
+    "rewritten_R2": "0.7059033020585253",
+    "canonical_usable": "True",
+    "rewritten_status": "retained",
+    "Pearson": "0.9000988371622444"
+  },
+  {
+    "unit": "419",
+    "canonical_R2": "0.05845704089821424",
+    "rewritten_R2": "0.0701883564358784",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.28498917835376913"
+  },
+  {
+    "unit": "420",
+    "canonical_R2": "0.49671807977944626",
+    "rewritten_R2": "0.4741576184102406",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.823436648587688"
+  },
+  {
+    "unit": "421",
+    "canonical_R2": "0.28034998485440643",
+    "rewritten_R2": "0.2337847365732758",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.6129549048329982"
+  },
+  {
+    "unit": "422",
+    "canonical_R2": "0.4604906688378926",
+    "rewritten_R2": "0.44107084589081225",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.9424037877651114"
+  },
+  {
+    "unit": "423",
+    "canonical_R2": "0.5209955536279693",
+    "rewritten_R2": "0.3776987706492312",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.8158280754022593"
+  },
+  {
+    "unit": "424",
+    "canonical_R2": "0.7162574916861225",
+    "rewritten_R2": "0.3447676108687774",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.7815816118024892"
+  },
+  {
+    "unit": "425",
+    "canonical_R2": "0.7009123592868465",
+    "rewritten_R2": "0.3193937863783608",
+    "canonical_usable": "True",
+    "rewritten_status": "retained",
+    "Pearson": "0.7185663889163331"
+  },
+  {
+    "unit": "426",
+    "canonical_R2": "0.7713979195992093",
+    "rewritten_R2": "0.60672542606797",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.765486654971569"
+  },
+  {
+    "unit": "427",
+    "canonical_R2": "0.22592024786415088",
+    "rewritten_R2": "0.2183308725232428",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.6338673566476047"
+  },
+  {
+    "unit": "428",
+    "canonical_R2": "0.3141654434117086",
+    "rewritten_R2": "0.275893812777373",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.6506942964407141"
+  },
+  {
+    "unit": "429",
+    "canonical_R2": "0.07304822845890224",
+    "rewritten_R2": "0.07773363904325203",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.5491280877084257"
+  },
+  {
+    "unit": "430",
+    "canonical_R2": "0.30330917701023485",
+    "rewritten_R2": "0.3144390307327065",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.7578250950437498"
+  },
+  {
+    "unit": "431",
+    "canonical_R2": "0.04851166994181777",
+    "rewritten_R2": "0.03563741479461513",
+    "canonical_usable": "False",
+    "rewritten_status": "failed",
+    "Pearson": "0.7628828149107127"
+  },
+  {
+    "unit": "432",
+    "canonical_R2": "0.3787349232465349",
+    "rewritten_R2": "0.34318149905470097",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.8281421369902574"
+  },
+  {
+    "unit": "433",
+    "canonical_R2": "0.3048523403181169",
+    "rewritten_R2": "0.2968704843133464",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.8351146093275646"
+  },
+  {
+    "unit": "434",
+    "canonical_R2": "0.15661289409128987",
+    "rewritten_R2": "0.1283466115746853",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.5548273687286301"
+  },
+  {
+    "unit": "435",
+    "canonical_R2": "0.39895827896541414",
+    "rewritten_R2": "0.46511089068743794",
+    "canonical_usable": "False",
+    "rewritten_status": "retained",
+    "Pearson": "0.9179847330460869"
+  },
+  {
+    "unit": "436",
+    "canonical_R2": "0.110341832554815",
+    "rewritten_R2": "0.08333010619988201",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.5424417943670934"
+  },
+  {
+    "unit": "437",
+    "canonical_R2": "0.875995746420938",
+    "rewritten_R2": "0.8018503574444397",
+    "canonical_usable": "False",
+    "rewritten_status": "retained",
+    "Pearson": "0.9061780135105452"
+  },
+  {
+    "unit": "438",
+    "canonical_R2": "0.2321613243951809",
+    "rewritten_R2": "0.2248236701295745",
+    "canonical_usable": "False",
+    "rewritten_status": "retained",
+    "Pearson": "0.41496205596880203"
+  },
+  {
+    "unit": "439",
+    "canonical_R2": "0.4696089814844815",
+    "rewritten_R2": "0.4451370480724307",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.9335906823629667"
+  },
+  {
+    "unit": "440",
+    "canonical_R2": "0.29168409248072547",
+    "rewritten_R2": "0.22774616022079575",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.6626811197206126"
+  },
+  {
+    "unit": "441",
+    "canonical_R2": "0.346274325133491",
+    "rewritten_R2": "0.30087203739839974",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.7199305529959069"
+  },
+  {
+    "unit": "442",
+    "canonical_R2": "0.2616573399445188",
+    "rewritten_R2": "0.16894809066063254",
+    "canonical_usable": "False",
+    "rewritten_status": "retained",
+    "Pearson": "0.610875959220918"
+  },
+  {
+    "unit": "443",
+    "canonical_R2": "0.2823734764663782",
+    "rewritten_R2": "0.21959382981376585",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.6330634454811518"
+  },
+  {
+    "unit": "444",
+    "canonical_R2": "0.15137654533535705",
+    "rewritten_R2": "0.08360138589081878",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.7269906970913904"
+  },
+  {
+    "unit": "445",
+    "canonical_R2": "0.3893309837640274",
+    "rewritten_R2": "0.3400879583832822",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.7947850769200462"
+  },
+  {
+    "unit": "446",
+    "canonical_R2": "0.47308055712917574",
+    "rewritten_R2": "0.14410137363419318",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.33573943107371745"
+  },
+  {
+    "unit": "447",
+    "canonical_R2": "0.3065791265126492",
+    "rewritten_R2": "0.28114085960245094",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.8189643786056495"
+  },
+  {
+    "unit": "448",
+    "canonical_R2": "0.2851526158864772",
+    "rewritten_R2": "0.2998427091251554",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.6075145478155533"
+  },
+  {
+    "unit": "449",
+    "canonical_R2": "0.7472579744228279",
+    "rewritten_R2": "0.5689243407933565",
+    "canonical_usable": "True",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.7747313012305354"
+  },
+  {
+    "unit": "450",
+    "canonical_R2": "0.12927932606929837",
+    "rewritten_R2": "0.11779050744327413",
+    "canonical_usable": "False",
+    "rewritten_status": "failed",
+    "Pearson": "0.6580585603465651"
+  },
+  {
+    "unit": "451",
+    "canonical_R2": "0.28011704380020497",
+    "rewritten_R2": "0.27103872433376375",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.7317359477515843"
+  },
+  {
+    "unit": "452",
+    "canonical_R2": "0.1691538466686342",
+    "rewritten_R2": "0.15785715326432304",
+    "canonical_usable": "False",
+    "rewritten_status": "failed",
+    "Pearson": "0.7171497715843952"
+  },
+  {
+    "unit": "453",
+    "canonical_R2": "0.8522997823564911",
+    "rewritten_R2": "0.3231632260311672",
+    "canonical_usable": "True",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.6597039227103809"
+  },
+  {
+    "unit": "454",
+    "canonical_R2": "0.6362607263094091",
+    "rewritten_R2": "0.4002525104190132",
+    "canonical_usable": "True",
+    "rewritten_status": "failed",
+    "Pearson": "0.7551656225324899"
+  },
+  {
+    "unit": "455",
+    "canonical_R2": "0.6627790745847258",
+    "rewritten_R2": "0.5535247874279181",
+    "canonical_usable": "False",
+    "rewritten_status": "retained",
+    "Pearson": "0.763232714099954"
+  },
+  {
+    "unit": "456",
+    "canonical_R2": "0.36668528154286295",
+    "rewritten_R2": "0.2978084336610074",
+    "canonical_usable": "False",
+    "rewritten_status": "retained",
+    "Pearson": "0.738754747435263"
+  },
+  {
+    "unit": "457",
+    "canonical_R2": "0.1331077561877564",
+    "rewritten_R2": "0.09444515905043216",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.4864778528177812"
+  },
+  {
+    "unit": "458",
+    "canonical_R2": "0.572964222787417",
+    "rewritten_R2": "0.4631115743057599",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.7927028005153094"
+  },
+  {
+    "unit": "459",
+    "canonical_R2": "0.3102126942778396",
+    "rewritten_R2": "0.23058169399545247",
+    "canonical_usable": "False",
+    "rewritten_status": "retained",
+    "Pearson": "0.8182978044747775"
+  },
+  {
+    "unit": "460",
+    "canonical_R2": "0.03630776962602422",
+    "rewritten_R2": "0.032814542077166275",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.2394394731672857"
+  },
+  {
+    "unit": "461",
+    "canonical_R2": "0.22271129851895555",
+    "rewritten_R2": "-0.05422019288210489",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.6775388814677534"
+  },
+  {
+    "unit": "462",
+    "canonical_R2": "0.1690928867054139",
+    "rewritten_R2": "0.12224074033668564",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.8580285021128174"
+  },
+  {
+    "unit": "463",
+    "canonical_R2": "0.636062926945199",
+    "rewritten_R2": "0.5742689458856826",
+    "canonical_usable": "False",
+    "rewritten_status": "undetermined",
+    "Pearson": "0.8041450783339984"
+  }
+]

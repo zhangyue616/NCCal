@@ -1,0 +1,119 @@
+{
+  "status": "COMPLETED",
+  "selection_lock_sha256": "9e382587d4a708e31da74a3dc19bb0215ea713aa3822f266be08e3d1d1a7c3e2",
+  "selections": [
+    {
+      "task": "helix_vs_strand",
+      "layer0": 19,
+      "layer1": 20,
+      "unit0": 1900,
+      "unit1": 1901,
+      "sign": 1,
+      "development_group_equal_accuracy": 0.8895478085133257,
+      "development_groups": 29,
+      "development_pairs": 445,
+      "physical_units": 46080,
+      "signed_candidates": 92160
+    },
+    {
+      "task": "helix_start_vs_internal",
+      "layer0": 14,
+      "layer1": 15,
+      "unit0": 2192,
+      "unit1": 2193,
+      "sign": -1,
+      "development_group_equal_accuracy": 0.9315972222222222,
+      "development_groups": 24,
+      "development_pairs": 123,
+      "physical_units": 46080,
+      "signed_candidates": 92160
+    }
+  ],
+  "summary": [
+    {
+      "task": "helix_vs_strand",
+      "split": "D",
+      "n_groups": 29,
+      "n_pairs": 445,
+      "group_equal_accuracy": 0.8895478085133257,
+      "pair_pooled_accuracy": 0.8898876404494382,
+      "ties": 0,
+      "layer0": 19,
+      "layer1": 20,
+      "unit0": 1900,
+      "unit1": 1901,
+      "sign": 1
+    },
+    {
+      "task": "helix_vs_strand",
+      "split": "T",
+      "n_groups": 70,
+      "n_pairs": 1054,
+      "group_equal_accuracy": 0.8842796092796094,
+      "pair_pooled_accuracy": 0.8842504743833017,
+      "ties": 0,
+      "layer0": 19,
+      "layer1": 20,
+      "unit0": 1900,
+      "unit1": 1901,
+      "sign": 1
+    },
+    {
+      "task": "helix_vs_strand",
+      "split": "E",
+      "n_groups": 22,
+      "n_pairs": 329,
+      "group_equal_accuracy": 0.9018127705627705,
+      "pair_pooled_accuracy": 0.9027355623100304,
+      "ties": 0,
+      "layer0": 19,
+      "layer1": 20,
+      "unit0": 1900,
+      "unit1": 1901,
+      "sign": 1
+    },
+    {
+      "task": "helix_start_vs_internal",
+      "split": "D",
+      "n_groups": 24,
+      "n_pairs": 123,
+      "group_equal_accuracy": 0.9315972222222223,
+      "pair_pooled_accuracy": 0.9186991869918699,
+      "ties": 0,
+      "layer0": 14,
+      "layer1": 15,
+      "unit0": 2192,
+      "unit1": 2193,
+      "sign": -1
+    },
+    {
+      "task": "helix_start_vs_internal",
+      "split": "T",
+      "n_groups": 59,
+      "n_pairs": 488,
+      "group_equal_accuracy": 0.8951744818270242,
+      "pair_pooled_accuracy": 0.8790983606557377,
+      "ties": 0,
+      "layer0": 14,
+      "layer1": 15,
+      "unit0": 2192,
+      "unit1": 2193,
+      "sign": -1
+    },
+    {
+      "task": "helix_start_vs_internal",
+      "split": "E",
+      "n_groups": 20,
+      "n_pairs": 154,
+      "group_equal_accuracy": 0.8903985597735599,
+      "pair_pooled_accuracy": 0.8571428571428571,
+      "ties": 0,
+      "layer0": 14,
+      "layer1": 15,
+      "unit0": 2192,
+      "unit1": 2193,
+      "sign": -1
+    }
+  ],
+  "formal_forwards": 142
+}

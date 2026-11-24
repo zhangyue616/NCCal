@@ -1,0 +1,216 @@
+unit_id	source	model	concept	family	masked	D_pairs	T_pairs	RESERVE_pairs	FRESH_pairs	NEW_pairs	T_AUC_groups	T_formal_pair_evaluable	NEW_formal_pair_evaluable
+Hallee|esm2_650m|b8|u3993|positive|aa0006a8d3	Hallee	esm2_650m	Active site_S-palmitoyl cysteine intermediate	pre_pole	False	0	0	0	0	0	0	False	False
+Hallee|esm2_650m|b17|u4004|positive|aa0006a8d3	Hallee	esm2_650m	Active site_S-palmitoyl cysteine intermediate	pre_pole	False	0	0	0	0	0	0	False	False
+Hallee|esm2_650m|b32|u982|positive|7018dbf7b6	Hallee	esm2_650m	Active site_For autocatalytic cleavage activity	pre_pole	False	0	0	0	0	0	0	False	False
+Hallee|esm2_650m|b29|u920|positive|7f34900e5e	Hallee	esm2_650m	Active site_Thioimide intermediate	pre_pole	False	1	0	0	0	0	0	False	False
+Hallee|esm2_650m|b29|u3133|negative|1700b43dc4	Hallee	esm2_650m	Active site_Phosphoserine intermediate	pre_pole	False	0	3	0	0	0	3	False	False
+Hallee|esm2_650m|b23|u2793|negative|56765ba4cb	Hallee	esm2_650m	Active site_O-(3'-phospho-DNA)-tyrosine intermediate	pre_pole	False	0	1	0	0	0	2	False	False
+Hallee|esm2_650m|b29|u1195|positive|e771ec3e40	Hallee	esm2_650m	Active site_Acyl-ester intermediate	pre_pole	False	0	8	0	0	0	8	False	False
+Hallee|esm2_650m|b32|u2276|positive|071ca9b977	Hallee	esm2_650m	Active site_S-methylcysteine intermediate	pre_pole	False	0	0	0	0	0	0	False	False
+Hallee|esm2_650m|b32|u335|negative|2fe17ca6c1	Hallee	esm2_650m	Active site_Schiff-base intermediate with DXP	pre_pole	False	0	0	0	0	0	0	False	False
+Hallee|esm2_650m|b29|u2987|positive|0927da96d9	Hallee	esm2_650m	Active site_Schiff-base intermediate with substrate	pre_pole	False	2	1	1	0	1	1	False	False
+Hallee|esm2_650m|b29|u1843|negative|c4a77c799e	Hallee	esm2_650m	Helix	pre_pole	False	249	1032	149	4	153	1056	True	True
+Hallee|esm2_650m|b8|u3267|negative|c4a77c799e	Hallee	esm2_650m	Helix	pre_pole	False	249	1032	149	4	153	1056	True	True
+Hallee|esm2_650m|b32|u2359|positive|c4a77c799e	Hallee	esm2_650m	Helix	pre_pole	False	249	1032	149	4	153	1056	True	True
+Hallee|esm2_650m|b29|u4906|positive|c4a77c799e	Hallee	esm2_650m	Helix	pre_pole	False	249	1032	149	4	153	1056	True	True
+Hallee|esm2_650m|b23|u3393|negative|c4a77c799e	Hallee	esm2_650m	Helix	pre_pole	False	249	1032	149	4	153	1056	True	True
+Hallee|esm2_650m|b23|u3294|positive|c4a77c799e	Hallee	esm2_650m	Helix	pre_pole	False	249	1032	149	4	153	1056	True	True
+Hallee|esm2_650m|b17|u1220|negative|c4a77c799e	Hallee	esm2_650m	Helix	pre_pole	False	249	1032	149	4	153	1056	True	True
+Hallee|esm2_650m|b17|u423|positive|c4a77c799e	Hallee	esm2_650m	Helix	pre_pole	False	249	1032	149	4	153	1056	True	True
+Hallee|esm2_650m|b8|u4452|positive|c4a77c799e	Hallee	esm2_650m	Helix	pre_pole	False	249	1032	149	4	153	1056	True	True
+Hallee|esm2_650m|b0|u4283|positive|c4a77c799e	Hallee	esm2_650m	Helix	pre_pole	False	249	1032	149	4	153	1056	True	True
+Hallee|esm2_650m|b29|u171|positive|4557c562f3	Hallee	esm2_650m	Beta strand	pre_pole	False	250	1013	145	3	148	1041	True	True
+Hallee|esm2_650m|b32|u1469|positive|4557c562f3	Hallee	esm2_650m	Beta strand	pre_pole	False	250	1013	145	3	148	1041	True	True
+Hallee|esm2_650m|b17|u1290|positive|4557c562f3	Hallee	esm2_650m	Beta strand	pre_pole	False	250	1013	145	3	148	1041	True	True
+Hallee|esm2_650m|b23|u2007|positive|4557c562f3	Hallee	esm2_650m	Beta strand	pre_pole	False	250	1013	145	3	148	1041	True	True
+Hallee|esm2_650m|b8|u2918|positive|4557c562f3	Hallee	esm2_650m	Beta strand	pre_pole	False	250	1013	145	3	148	1041	True	True
+Hallee|esm2_650m|b0|u354|negative|4557c562f3	Hallee	esm2_650m	Beta strand	pre_pole	False	250	1013	145	3	148	1041	True	True
+Hallee|esm2_650m|b0|u3862|positive|4557c562f3	Hallee	esm2_650m	Beta strand	pre_pole	False	250	1013	145	3	148	1041	True	True
+Hallee|esm2_650m|b0|u3072|positive|64483abdf1	Hallee	esm2_650m	Region_Disordered	pre_pole	False	28	223	44	9	53	223	True	True
+Hallee|esm2_650m|b8|u2566|positive|64483abdf1	Hallee	esm2_650m	Region_Disordered	pre_pole	False	28	223	44	9	53	223	True	True
+Hallee|esm2_650m|b17|u1067|positive|64483abdf1	Hallee	esm2_650m	Region_Disordered	pre_pole	False	28	223	44	9	53	223	True	True
+Hallee|esm2_650m|b23|u1136|negative|64483abdf1	Hallee	esm2_650m	Region_Disordered	pre_pole	False	28	223	44	9	53	223	True	True
+Hallee|esm2_650m|b29|u2070|positive|64483abdf1	Hallee	esm2_650m	Region_Disordered	pre_pole	False	28	223	44	9	53	223	True	True
+Hallee|esm2_650m|b23|u5080|positive|64483abdf1	Hallee	esm2_650m	Region_Disordered	pre_pole	False	28	223	44	9	53	223	True	True
+Hallee|esm2_650m|b32|u806|negative|64483abdf1	Hallee	esm2_650m	Region_Disordered	pre_pole	False	28	223	44	9	53	223	True	True
+Hallee|esm2_650m|b32|u4927|positive|64483abdf1	Hallee	esm2_650m	Region_Disordered	pre_pole	False	28	223	44	9	53	223	True	True
+Hallee|esm2_650m|b29|u858|positive|d35e284bd3	Hallee	esm2_650m	Disulfide bond	pre_pole	False	14	76	14	4	18	120	False	False
+Hallee|esm2_650m|b32|u3225|positive|d35e284bd3	Hallee	esm2_650m	Disulfide bond	pre_pole	False	14	76	14	4	18	120	False	False
+Hallee|esm2_650m|b23|u2361|positive|d35e284bd3	Hallee	esm2_650m	Disulfide bond	pre_pole	False	14	76	14	4	18	120	False	False
+Hallee|esm2_650m|b0|u1879|positive|d35e284bd3	Hallee	esm2_650m	Disulfide bond	pre_pole	False	14	76	14	4	18	120	False	False
+Hallee|esm2_650m|b17|u779|positive|d35e284bd3	Hallee	esm2_650m	Disulfide bond	pre_pole	False	14	76	14	4	18	120	False	False
+Hallee|esm2_650m|b8|u3130|positive|d35e284bd3	Hallee	esm2_650m	Disulfide bond	pre_pole	False	14	76	14	4	18	120	False	False
+Hallee|esm2_650m|b8|u990|positive|0e122ce85f	Hallee	esm2_650m	Glycosylation_N-linked (GlcNAc...) asparagine	pre_pole	False	0	0	0	0	0	0	False	False
+Hallee|esm2_650m|b32|u2311|positive|0e122ce85f	Hallee	esm2_650m	Glycosylation_N-linked (GlcNAc...) asparagine	pre_pole	False	0	0	0	0	0	0	False	False
+Hallee|esm2_650m|b23|u4843|positive|0e122ce85f	Hallee	esm2_650m	Glycosylation_N-linked (GlcNAc...) asparagine	pre_pole	False	0	0	0	0	0	0	False	False
+Hallee|esm2_650m|b29|u685|positive|53c0effe3b	Hallee	esm2_650m	Modified residue_2-(S-cysteinyl)pyruvic acid O-phosphothioketal	pre_pole	False	0	1	0	0	0	1	False	False
+Hallee|esm2_650m|b29|u2116|positive|0e122ce85f	Hallee	esm2_650m	Glycosylation_N-linked (GlcNAc...) asparagine	pre_pole	False	0	0	0	0	0	0	False	False
+Hallee|esm2_650m|b8|u2440|positive|d7e44b5628	Hallee	esm2_650m	Modified residue_Cysteine methyl ester	pre_pole	False	0	0	0	0	0	1	False	False
+Hallee|esm2_650m|b17|u5030|positive|d7e44b5628	Hallee	esm2_650m	Modified residue_Cysteine methyl ester	pre_pole	False	0	0	0	0	0	1	False	False
+Hallee|esm2_650m|b8|u1011|positive|8c8afc4ba5	Hallee	esm2_650m	Glycosylation_O-linked (GlcNAc) threonine	pre_pole	False	0	0	0	0	0	0	False	False
+Hallee|esm2_650m|b8|u3360|positive|735cb4b085	Hallee	esm2_650m	Modified residue_Hydroxyproline	pre_pole	False	0	0	0	0	0	0	False	False
+Hallee|esm2_650m|b32|u2981|negative|0019924fab	Hallee	esm2_650m	Modified residue_N6-(pyridoxal phosphate)lysine	pre_pole	False	1	13	0	0	0	13	False	False
+Hallee|esm2_650m|b17|u879|positive|e1522d7f25	Hallee	esm2_650m	Signal peptide_Tat-type signal	pre_pole	False	0	4	0	0	0	4	False	False
+Hallee|esm2_650m|b8|u1707|positive|e1522d7f25	Hallee	esm2_650m	Signal peptide_Tat-type signal	pre_pole	False	0	4	0	0	0	4	False	False
+Hallee|esm2_650m|b23|u4476|positive|e1522d7f25	Hallee	esm2_650m	Signal peptide_Tat-type signal	pre_pole	False	0	4	0	0	0	4	False	False
+Hallee|esm2_650m|b29|u3716|positive|e1522d7f25	Hallee	esm2_650m	Signal peptide_Tat-type signal	pre_pole	False	0	4	0	0	0	4	False	False
+Hallee|esm2_650m|b32|u3679|positive|e1522d7f25	Hallee	esm2_650m	Signal peptide_Tat-type signal	pre_pole	False	0	4	0	0	0	4	False	False
+Hallee|esm2_650m|b0|u2876|positive|e1522d7f25	Hallee	esm2_650m	Signal peptide_Tat-type signal	pre_pole	False	0	4	0	0	0	4	False	False
+Hallee|esm2_650m|b29|u5076|positive|b823d5f9d1	Hallee	esm2_650m	Turn	pre_pole	False	118	744	105	4	109	760	True	True
+Hallee|esm2_650m|b32|u3530|positive|b823d5f9d1	Hallee	esm2_650m	Turn	pre_pole	False	118	744	105	4	109	760	True	True
+Hallee|esm2_650m|b23|u2885|negative|b823d5f9d1	Hallee	esm2_650m	Turn	pre_pole	False	118	744	105	4	109	760	True	True
+Hallee|esm2_650m|b8|u961|positive|b823d5f9d1	Hallee	esm2_650m	Turn	pre_pole	False	118	744	105	4	109	760	True	True
+Hallee|esm2_650m|b23|u710|positive|b823d5f9d1	Hallee	esm2_650m	Turn	pre_pole	False	118	744	105	4	109	760	True	True
+Hallee|esm2_650m|b0|u2968|positive|b823d5f9d1	Hallee	esm2_650m	Turn	pre_pole	False	118	744	105	4	109	760	True	True
+Hallee|esm2_650m|b17|u3912|positive|b823d5f9d1	Hallee	esm2_650m	Turn	pre_pole	False	118	744	105	4	109	760	True	True
+Hallee|esm2_8m|b1|u311|positive|d331db1fab	Hallee	esm2_8m	Active site_Tele-phosphohistidine intermediate	pre_pole	False	1	0	0	0	0	0	False	False
+Hallee|esm2_8m|b5|u864|positive|d331db1fab	Hallee	esm2_8m	Active site_Tele-phosphohistidine intermediate	pre_pole	False	1	0	0	0	0	0	False	False
+Hallee|esm2_8m|b4|u545|positive|d331db1fab	Hallee	esm2_8m	Active site_Tele-phosphohistidine intermediate	pre_pole	False	1	0	0	0	0	0	False	False
+Hallee|esm2_8m|b2|u31|negative|d331db1fab	Hallee	esm2_8m	Active site_Tele-phosphohistidine intermediate	pre_pole	False	1	0	0	0	0	0	False	False
+Hallee|esm2_8m|b1|u682|positive|597978bcfe	Hallee	esm2_8m	Active site_Lowers pKa of active site Tyr	pre_pole	False	0	0	0	0	0	0	False	False
+Hallee|esm2_8m|b4|u1235|negative|56765ba4cb	Hallee	esm2_8m	Active site_O-(3'-phospho-DNA)-tyrosine intermediate	pre_pole	False	0	1	0	0	0	2	False	False
+Hallee|esm2_8m|b4|u706|positive|b8fa44595c	Hallee	esm2_8m	Active site_4-aspartylphosphate intermediate	pre_pole	False	0	0	0	0	0	0	False	False
+Hallee|esm2_8m|b5|u371|positive|56765ba4cb	Hallee	esm2_8m	Active site_O-(3'-phospho-DNA)-tyrosine intermediate	pre_pole	False	0	1	0	0	0	2	False	False
+Hallee|esm2_8m|b3|u1177|positive|58003d13df	Hallee	esm2_8m	Active site_Proton acceptor	pre_pole	False	12	85	11	0	11	87	False	False
+Hallee|esm2_8m|b2|u826|positive|58003d13df	Hallee	esm2_8m	Active site_Proton acceptor	pre_pole	False	12	85	11	0	11	87	False	False
+Hallee|esm2_8m|b4|u786|positive|c4a77c799e	Hallee	esm2_8m	Helix	pre_pole	False	249	1032	149	4	153	1056	True	True
+Hallee|esm2_8m|b5|u36|positive|c4a77c799e	Hallee	esm2_8m	Helix	pre_pole	False	249	1032	149	4	153	1056	True	True
+Hallee|esm2_8m|b3|u26|positive|c4a77c799e	Hallee	esm2_8m	Helix	pre_pole	False	249	1032	149	4	153	1056	True	True
+Hallee|esm2_8m|b2|u1139|positive|c4a77c799e	Hallee	esm2_8m	Helix	pre_pole	False	249	1032	149	4	153	1056	True	True
+Hallee|esm2_8m|b1|u964|positive|c4a77c799e	Hallee	esm2_8m	Helix	pre_pole	False	249	1032	149	4	153	1056	True	True
+Hallee|esm2_8m|b0|u1216|positive|c4a77c799e	Hallee	esm2_8m	Helix	pre_pole	False	249	1032	149	4	153	1056	True	True
+Hallee|esm2_8m|b1|u822|positive|4557c562f3	Hallee	esm2_8m	Beta strand	pre_pole	False	250	1013	145	3	148	1041	True	True
+Hallee|esm2_8m|b4|u850|positive|4557c562f3	Hallee	esm2_8m	Beta strand	pre_pole	False	250	1013	145	3	148	1041	True	True
+Hallee|esm2_8m|b5|u333|positive|4557c562f3	Hallee	esm2_8m	Beta strand	pre_pole	False	250	1013	145	3	148	1041	True	True
+Hallee|esm2_8m|b3|u370|positive|4557c562f3	Hallee	esm2_8m	Beta strand	pre_pole	False	250	1013	145	3	148	1041	True	True
+Hallee|esm2_8m|b2|u197|negative|4557c562f3	Hallee	esm2_8m	Beta strand	pre_pole	False	250	1013	145	3	148	1041	True	True
+Hallee|esm2_8m|b2|u1147|positive|4557c562f3	Hallee	esm2_8m	Beta strand	pre_pole	False	250	1013	145	3	148	1041	True	True
+Hallee|esm2_8m|b0|u558|positive|4557c562f3	Hallee	esm2_8m	Beta strand	pre_pole	False	250	1013	145	3	148	1041	True	True
+Hallee|esm2_8m|b0|u980|positive|64483abdf1	Hallee	esm2_8m	Region_Disordered	pre_pole	False	28	223	44	9	53	223	True	True
+Hallee|esm2_8m|b5|u742|positive|64483abdf1	Hallee	esm2_8m	Region_Disordered	pre_pole	False	28	223	44	9	53	223	True	True
+Hallee|esm2_8m|b1|u863|positive|64483abdf1	Hallee	esm2_8m	Region_Disordered	pre_pole	False	28	223	44	9	53	223	True	True
+Hallee|esm2_8m|b2|u683|positive|64483abdf1	Hallee	esm2_8m	Region_Disordered	pre_pole	False	28	223	44	9	53	223	True	True
+Hallee|esm2_8m|b3|u1136|positive|64483abdf1	Hallee	esm2_8m	Region_Disordered	pre_pole	False	28	223	44	9	53	223	True	True
+Hallee|esm2_8m|b4|u558|positive|64483abdf1	Hallee	esm2_8m	Region_Disordered	pre_pole	False	28	223	44	9	53	223	True	True
+Hallee|esm2_8m|b1|u361|positive|d35e284bd3	Hallee	esm2_8m	Disulfide bond	pre_pole	False	14	76	14	4	18	120	False	False
+Hallee|esm2_8m|b3|u646|positive|d35e284bd3	Hallee	esm2_8m	Disulfide bond	pre_pole	False	14	76	14	4	18	120	False	False
+Hallee|esm2_8m|b0|u667|positive|d35e284bd3	Hallee	esm2_8m	Disulfide bond	pre_pole	False	14	76	14	4	18	120	False	False
+Hallee|esm2_8m|b2|u261|positive|d35e284bd3	Hallee	esm2_8m	Disulfide bond	pre_pole	False	14	76	14	4	18	120	False	False
+Hallee|esm2_8m|b4|u587|positive|d35e284bd3	Hallee	esm2_8m	Disulfide bond	pre_pole	False	14	76	14	4	18	120	False	False
+Hallee|esm2_8m|b5|u415|positive|d35e284bd3	Hallee	esm2_8m	Disulfide bond	pre_pole	False	14	76	14	4	18	120	False	False
+Hallee|esm2_8m|b5|u471|positive|0019924fab	Hallee	esm2_8m	Modified residue_N6-(pyridoxal phosphate)lysine	pre_pole	False	1	13	0	0	0	13	False	False
+Hallee|esm2_8m|b1|u153|positive|3317ef31b5	Hallee	esm2_8m	Modified residue_Phosphohistidine	pre_pole	False	1	0	0	0	0	0	False	False
+Hallee|esm2_8m|b2|u993|positive|0e122ce85f	Hallee	esm2_8m	Glycosylation_N-linked (GlcNAc...) asparagine	pre_pole	False	0	0	0	0	0	0	False	False
+Hallee|esm2_8m|b5|u170|negative|0f91268fa4	Hallee	esm2_8m	Modified residue_4-aspartylphosphate	pre_pole	False	0	0	0	0	0	0	False	False
+Hallee|esm2_8m|b3|u360|positive|0e122ce85f	Hallee	esm2_8m	Glycosylation_N-linked (GlcNAc...) asparagine	pre_pole	False	0	0	0	0	0	0	False	False
+Hallee|esm2_8m|b4|u641|positive|0e122ce85f	Hallee	esm2_8m	Glycosylation_N-linked (GlcNAc...) asparagine	pre_pole	False	0	0	0	0	0	0	False	False
+Hallee|esm2_8m|b3|u548|positive|3317ef31b5	Hallee	esm2_8m	Modified residue_Phosphohistidine	pre_pole	False	1	0	0	0	0	0	False	False
+Hallee|esm2_8m|b3|u501|positive|d1d115c21f	Hallee	esm2_8m	Lipidation	pre_pole	False	0	0	0	0	0	0	False	False
+Hallee|esm2_8m|b2|u1253|positive|d1d115c21f	Hallee	esm2_8m	Lipidation	pre_pole	False	0	0	0	0	0	0	False	False
+Hallee|esm2_8m|b4|u1037|negative|3317ef31b5	Hallee	esm2_8m	Modified residue_Phosphohistidine	pre_pole	False	1	0	0	0	0	0	False	False
+Hallee|esm2_8m|b2|u770|positive|e1522d7f25	Hallee	esm2_8m	Signal peptide_Tat-type signal	pre_pole	False	0	4	0	0	0	4	False	False
+Hallee|esm2_8m|b3|u1162|positive|e1522d7f25	Hallee	esm2_8m	Signal peptide_Tat-type signal	pre_pole	False	0	4	0	0	0	4	False	False
+Hallee|esm2_8m|b3|u877|negative|e1522d7f25	Hallee	esm2_8m	Signal peptide_Tat-type signal	pre_pole	False	0	4	0	0	0	4	False	False
+Hallee|esm2_8m|b5|u988|positive|e1522d7f25	Hallee	esm2_8m	Signal peptide_Tat-type signal	pre_pole	False	0	4	0	0	0	4	False	False
+Hallee|esm2_8m|b4|u708|positive|e1522d7f25	Hallee	esm2_8m	Signal peptide_Tat-type signal	pre_pole	False	0	4	0	0	0	4	False	False
+Hallee|esm2_8m|b1|u364|positive|e1522d7f25	Hallee	esm2_8m	Signal peptide_Tat-type signal	pre_pole	False	0	4	0	0	0	4	False	False
+Hallee|esm2_8m|b0|u553|positive|e1522d7f25	Hallee	esm2_8m	Signal peptide_Tat-type signal	pre_pole	False	0	4	0	0	0	4	False	False
+Hallee|esm2_8m|b5|u1166|positive|b823d5f9d1	Hallee	esm2_8m	Turn	pre_pole	False	118	744	105	4	109	760	True	True
+Hallee|esm2_8m|b2|u80|positive|b823d5f9d1	Hallee	esm2_8m	Turn	pre_pole	False	118	744	105	4	109	760	True	True
+Hallee|esm2_8m|b4|u204|positive|b823d5f9d1	Hallee	esm2_8m	Turn	pre_pole	False	118	744	105	4	109	760	True	True
+Hallee|esm2_8m|b3|u946|negative|b823d5f9d1	Hallee	esm2_8m	Turn	pre_pole	False	118	744	105	4	109	760	True	True
+Hallee|esm2_8m|b1|u997|positive|b823d5f9d1	Hallee	esm2_8m	Turn	pre_pole	False	118	744	105	4	109	760	True	True
+Hallee|esm2_8m|b3|u979|positive|b823d5f9d1	Hallee	esm2_8m	Turn	pre_pole	False	118	744	105	4	109	760	True	True
+Hallee|esm2_8m|b0|u377|positive|b823d5f9d1	Hallee	esm2_8m	Turn	pre_pole	False	118	744	105	4	109	760	True	True
+Hallee|esmc_600|b25|u2513|negative|56765ba4cb	Hallee	esmc_600	Active site_O-(3'-phospho-DNA)-tyrosine intermediate	gate_tagged	False	0	1	0	0	0	2	False	False
+Hallee|esmc_600|b21|u12|negative|56765ba4cb	Hallee	esmc_600	Active site_O-(3'-phospho-DNA)-tyrosine intermediate	gate_tagged	False	0	1	0	0	0	2	False	False
+Hallee|esmc_600|b8|u484|negative|aa0006a8d3	Hallee	esmc_600	Active site_S-palmitoyl cysteine intermediate	gate_tagged	False	0	0	0	0	0	0	False	False
+Hallee|esmc_600|b7|u2740|positive|aa0006a8d3	Hallee	esmc_600	Active site_S-palmitoyl cysteine intermediate	gate_tagged	False	0	0	0	0	0	0	False	False
+Hallee|esmc_600|b31|u2883|positive|e75b740c62	Hallee	esmc_600	Active site_N6-AMP-lysine intermediate	gate_tagged	False	0	3	0	0	0	3	False	False
+Hallee|esmc_600|b32|u2983|negative|071ca9b977	Hallee	esmc_600	Active site_S-methylcysteine intermediate	gate_tagged	False	0	0	0	0	0	0	False	False
+Hallee|esmc_600|b23|u883|negative|256bad3eb7	Hallee	esmc_600	Active site_Amidino-cysteine intermediate	gate_tagged	False	0	1	1	0	1	2	False	False
+Hallee|esmc_600|b32|u1919|negative|02867d5331	Hallee	esmc_600	Active site_Pros-phosphohistidine intermediate	gate_tagged	False	0	0	0	0	0	0	False	False
+Hallee|esmc_600|b18|u2493|positive|aa0006a8d3	Hallee	esmc_600	Active site_S-palmitoyl cysteine intermediate	gate_tagged	False	0	0	0	0	0	0	False	False
+Hallee|esmc_600|b23|u18|negative|071ca9b977	Hallee	esmc_600	Active site_S-methylcysteine intermediate	gate_tagged	False	0	0	0	0	0	0	False	False
+Hallee|esmc_600|b33|u2928|negative|c4a77c799e	Hallee	esmc_600	Helix	gate_tagged	False	249	1032	149	4	153	1056	True	True
+Hallee|esmc_600|b29|u2870|negative|c4a77c799e	Hallee	esmc_600	Helix	gate_tagged	False	249	1032	149	4	153	1056	True	True
+Hallee|esmc_600|b7|u108|negative|c4a77c799e	Hallee	esmc_600	Helix	gate_tagged	False	249	1032	149	4	153	1056	True	True
+Hallee|esmc_600|b35|u2386|positive|c4a77c799e	Hallee	esmc_600	Helix	gate_tagged	False	249	1032	149	4	153	1056	True	True
+Hallee|esmc_600|b28|u965|positive|c4a77c799e	Hallee	esmc_600	Helix	gate_tagged	False	249	1032	149	4	153	1056	True	True
+Hallee|esmc_600|b34|u1394|positive|c4a77c799e	Hallee	esmc_600	Helix	gate_tagged	False	249	1032	149	4	153	1056	True	True
+Hallee|esmc_600|b26|u26|negative|c4a77c799e	Hallee	esmc_600	Helix	gate_tagged	False	249	1032	149	4	153	1056	True	True
+Hallee|esmc_600|b25|u152|negative|c4a77c799e	Hallee	esmc_600	Helix	gate_tagged	False	249	1032	149	4	153	1056	True	True
+Hallee|esmc_600|b18|u306|negative|c4a77c799e	Hallee	esmc_600	Helix	gate_tagged	False	249	1032	149	4	153	1056	True	True
+Hallee|esmc_600|b1|u1083|positive|c4a77c799e	Hallee	esmc_600	Helix	gate_tagged	False	249	1032	149	4	153	1056	True	True
+Hallee|esmc_600|b35|u1066|negative|4557c562f3	Hallee	esmc_600	Beta strand	gate_tagged	False	250	1013	145	3	148	1041	True	True
+Hallee|esmc_600|b34|u596|positive|4557c562f3	Hallee	esmc_600	Beta strand	gate_tagged	False	250	1013	145	3	148	1041	True	True
+Hallee|esmc_600|b29|u235|negative|4557c562f3	Hallee	esmc_600	Beta strand	gate_tagged	False	250	1013	145	3	148	1041	True	True
+Hallee|esmc_600|b19|u3023|positive|4557c562f3	Hallee	esmc_600	Beta strand	gate_tagged	False	250	1013	145	3	148	1041	True	True
+Hallee|esmc_600|b21|u1750|negative|4557c562f3	Hallee	esmc_600	Beta strand	gate_tagged	False	250	1013	145	3	148	1041	True	True
+Hallee|esmc_600|b32|u819|negative|4557c562f3	Hallee	esmc_600	Beta strand	gate_tagged	False	250	1013	145	3	148	1041	True	True
+Hallee|esmc_600|b25|u2215|positive|4557c562f3	Hallee	esmc_600	Beta strand	gate_tagged	False	250	1013	145	3	148	1041	True	True
+Hallee|esmc_600|b23|u1713|positive|4557c562f3	Hallee	esmc_600	Beta strand	gate_tagged	False	250	1013	145	3	148	1041	True	True
+Hallee|esmc_600|b33|u2771|negative|4557c562f3	Hallee	esmc_600	Beta strand	gate_tagged	False	250	1013	145	3	148	1041	True	True
+Hallee|esmc_600|b30|u224|negative|4557c562f3	Hallee	esmc_600	Beta strand	gate_tagged	False	250	1013	145	3	148	1041	True	True
+Hallee|esmc_600|b1|u2590|positive|64483abdf1	Hallee	esmc_600	Region_Disordered	gate_tagged	False	28	223	44	9	53	223	True	True
+Hallee|esmc_600|b2|u680|negative|64483abdf1	Hallee	esmc_600	Region_Disordered	gate_tagged	False	28	223	44	9	53	223	True	True
+Hallee|esmc_600|b0|u2308|negative|64483abdf1	Hallee	esmc_600	Region_Disordered	gate_tagged	False	28	223	44	9	53	223	True	True
+Hallee|esmc_600|b17|u1887|negative|64483abdf1	Hallee	esmc_600	Region_Disordered	gate_tagged	False	28	223	44	9	53	223	True	True
+Hallee|esmc_600|b7|u2178|negative|64483abdf1	Hallee	esmc_600	Region_Disordered	gate_tagged	False	28	223	44	9	53	223	True	True
+Hallee|esmc_600|b8|u2803|negative|64483abdf1	Hallee	esmc_600	Region_Disordered	gate_tagged	False	28	223	44	9	53	223	True	True
+Hallee|esmc_600|b9|u1775|negative|64483abdf1	Hallee	esmc_600	Region_Disordered	gate_tagged	False	28	223	44	9	53	223	True	True
+Hallee|esmc_600|b4|u537|negative|64483abdf1	Hallee	esmc_600	Region_Disordered	gate_tagged	False	28	223	44	9	53	223	True	True
+Hallee|esmc_600|b18|u1387|positive|64483abdf1	Hallee	esmc_600	Region_Disordered	gate_tagged	False	28	223	44	9	53	223	True	True
+Hallee|esmc_600|b6|u1468|positive|64483abdf1	Hallee	esmc_600	Region_Disordered	gate_tagged	False	28	223	44	9	53	223	True	True
+Hallee|esmc_600|b6|u294|negative|d35e284bd3	Hallee	esmc_600	Disulfide bond	gate_tagged	False	14	76	14	4	18	120	False	False
+Hallee|esmc_600|b19|u1991|positive|d35e284bd3	Hallee	esmc_600	Disulfide bond	gate_tagged	False	14	76	14	4	18	120	False	False
+Hallee|esmc_600|b30|u2863|negative|d35e284bd3	Hallee	esmc_600	Disulfide bond	gate_tagged	False	14	76	14	4	18	120	False	False
+Hallee|esmc_600|b33|u1688|positive|d35e284bd3	Hallee	esmc_600	Disulfide bond	gate_tagged	False	14	76	14	4	18	120	False	False
+Hallee|esmc_600|b34|u944|positive|d35e284bd3	Hallee	esmc_600	Disulfide bond	gate_tagged	False	14	76	14	4	18	120	False	False
+Hallee|esmc_600|b4|u2449|positive|d35e284bd3	Hallee	esmc_600	Disulfide bond	gate_tagged	False	14	76	14	4	18	120	False	False
+Hallee|esmc_600|b22|u1043|positive|d35e284bd3	Hallee	esmc_600	Disulfide bond	gate_tagged	False	14	76	14	4	18	120	False	False
+Hallee|esmc_600|b28|u192|negative|d35e284bd3	Hallee	esmc_600	Disulfide bond	gate_tagged	False	14	76	14	4	18	120	False	False
+Hallee|esmc_600|b5|u1196|negative|d35e284bd3	Hallee	esmc_600	Disulfide bond	gate_tagged	False	14	76	14	4	18	120	False	False
+Hallee|esmc_600|b32|u262|negative|d35e284bd3	Hallee	esmc_600	Disulfide bond	gate_tagged	False	14	76	14	4	18	120	False	False
+Hallee|esmc_600|b27|u347|positive|92430e7106	Hallee	esmc_600	Modified residue_3-methylthioaspartic acid	gate_tagged	False	0	0	0	0	0	0	False	False
+Hallee|esmc_600|b19|u2422|negative|0e122ce85f	Hallee	esmc_600	Glycosylation_N-linked (GlcNAc...) asparagine	gate_tagged	False	0	0	0	0	0	0	False	False
+Hallee|esmc_600|b14|u2714|negative|0e122ce85f	Hallee	esmc_600	Glycosylation_N-linked (GlcNAc...) asparagine	gate_tagged	False	0	0	0	0	0	0	False	False
+Hallee|esmc_600|b34|u317|positive|0e122ce85f	Hallee	esmc_600	Glycosylation_N-linked (GlcNAc...) asparagine	gate_tagged	False	0	0	0	0	0	0	False	False
+Hallee|esmc_600|b17|u2069|negative|0e122ce85f	Hallee	esmc_600	Glycosylation_N-linked (GlcNAc...) asparagine	gate_tagged	False	0	0	0	0	0	0	False	False
+Hallee|esmc_600|b15|u2290|positive|0e122ce85f	Hallee	esmc_600	Glycosylation_N-linked (GlcNAc...) asparagine	gate_tagged	False	0	0	0	0	0	0	False	False
+Hallee|esmc_600|b32|u3067|positive|a0d437f231	Hallee	esmc_600	Modified residue_N5-methylglutamine	gate_tagged	False	0	1	0	0	0	1	False	False
+Hallee|esmc_600|b2|u1709|positive|83f51a3753	Hallee	esmc_600	Modified residue_Valine amide	gate_tagged	False	0	0	0	0	0	0	False	False
+Hallee|esmc_600|b35|u1460|negative|0e122ce85f	Hallee	esmc_600	Glycosylation_N-linked (GlcNAc...) asparagine	gate_tagged	False	0	0	0	0	0	0	False	False
+Hallee|esmc_600|b31|u1024|negative|1d8f4bfc69	Hallee	esmc_600	Modified residue_O-(pantetheine 4'-phosphoryl)serine	gate_tagged	False	0	0	0	0	0	0	False	False
+Hallee|esmc_600|b23|u942|negative|e1522d7f25	Hallee	esmc_600	Signal peptide_Tat-type signal	gate_tagged	False	0	4	0	0	0	4	False	False
+Hallee|esmc_600|b18|u2129|positive|e1522d7f25	Hallee	esmc_600	Signal peptide_Tat-type signal	gate_tagged	False	0	4	0	0	0	4	False	False
+Hallee|esmc_600|b3|u2544|positive|e1522d7f25	Hallee	esmc_600	Signal peptide_Tat-type signal	gate_tagged	False	0	4	0	0	0	4	False	False
+Hallee|esmc_600|b1|u1872|positive|e1522d7f25	Hallee	esmc_600	Signal peptide_Tat-type signal	gate_tagged	False	0	4	0	0	0	4	False	False
+Hallee|esmc_600|b16|u1200|positive|e1522d7f25	Hallee	esmc_600	Signal peptide_Tat-type signal	gate_tagged	False	0	4	0	0	0	4	False	False
+Hallee|esmc_600|b4|u828|negative|e1522d7f25	Hallee	esmc_600	Signal peptide_Tat-type signal	gate_tagged	False	0	4	0	0	0	4	False	False
+Hallee|esmc_600|b5|u636|negative|e1522d7f25	Hallee	esmc_600	Signal peptide_Tat-type signal	gate_tagged	False	0	4	0	0	0	4	False	False
+Hallee|esmc_600|b2|u1769|positive|e1522d7f25	Hallee	esmc_600	Signal peptide_Tat-type signal	gate_tagged	False	0	4	0	0	0	4	False	False
+Hallee|esmc_600|b21|u11|positive|e1522d7f25	Hallee	esmc_600	Signal peptide_Tat-type signal	gate_tagged	False	0	4	0	0	0	4	False	False
+Hallee|esmc_600|b17|u1914|negative|e1522d7f25	Hallee	esmc_600	Signal peptide_Tat-type signal	gate_tagged	False	0	4	0	0	0	4	False	False
+Hallee|esmc_600|b32|u155|positive|b823d5f9d1	Hallee	esmc_600	Turn	gate_tagged	False	118	744	105	4	109	760	True	True
+Hallee|esmc_600|b31|u1246|negative|b823d5f9d1	Hallee	esmc_600	Turn	gate_tagged	False	118	744	105	4	109	760	True	True
+Hallee|esmc_600|b25|u2755|positive|b823d5f9d1	Hallee	esmc_600	Turn	gate_tagged	False	118	744	105	4	109	760	True	True
+Hallee|esmc_600|b34|u1262|negative|b823d5f9d1	Hallee	esmc_600	Turn	gate_tagged	False	118	744	105	4	109	760	True	True
+Hallee|esmc_600|b35|u25|negative|b823d5f9d1	Hallee	esmc_600	Turn	gate_tagged	False	118	744	105	4	109	760	True	True
+Hallee|esmc_600|b30|u2954|negative|b823d5f9d1	Hallee	esmc_600	Turn	gate_tagged	False	118	744	105	4	109	760	True	True
+Hallee|esmc_600|b29|u449|negative|b823d5f9d1	Hallee	esmc_600	Turn	gate_tagged	False	118	744	105	4	109	760	True	True
+Hallee|esmc_600|b33|u2259|negative|b823d5f9d1	Hallee	esmc_600	Turn	gate_tagged	False	118	744	105	4	109	760	True	True
+Hallee|esmc_600|b27|u2992|positive|b823d5f9d1	Hallee	esmc_600	Turn	gate_tagged	False	118	744	105	4	109	760	True	True
+Hallee|esmc_600|b24|u272|negative|b823d5f9d1	Hallee	esmc_600	Turn	gate_tagged	False	118	744	105	4	109	760	True	True
+NCCal|esm2_8m|b2|u801|OWN_EXPOSURE	NCCal	esm2_8m	OWN_EXPOSURE	native_signed	False	195	967	136	5	136	1052	True	True
+NCCal|esm2_35m|b5|u814|OWN_EXPOSURE	NCCal	esm2_35m	OWN_EXPOSURE	native_signed	False	195	967	136	5	136	1052	True	True
+NCCal|esm2_650m|b15|u4566|OWN_EXPOSURE	NCCal	esm2_650m	OWN_EXPOSURE	native_signed	False	195	967	136	5	136	1052	True	True
+NCCal|esm2_8m|b2|u1246|masked|OWN_ALA_HELIX_VS_BETA	NCCal	esm2_8m	OWN_ALA_HELIX_VS_BETA	native_signed	True	163	796	115	1	111	796	True	True
+NCCal|e1_150m|b14|u2192|OWN_HELIX_START	NCCal	e1_150m	OWN_HELIX_START	native_signed	False	45	432	52	2	53	432	True	True
+NCCal|e1_150m|b14|u2192|OWN_HELIX_VS_BETA	NCCal	e1_150m	OWN_HELIX_VS_BETA	native_signed	False	231	988	142	3	140	1019	True	True
+NCCal|e1_150m|b14|u735|OWN_HELIX_START	NCCal	e1_150m	OWN_HELIX_START	native_signed	False	45	432	52	2	53	432	True	True
+NCCal|e1_150m|b14|u735|OWN_HELIX_VS_BETA	NCCal	e1_150m	OWN_HELIX_VS_BETA	native_signed	False	231	988	142	3	140	1019	True	True
+NCCal|e1_150m|b19|u2062|OWN_HELIX_START	NCCal	e1_150m	OWN_HELIX_START	native_signed	False	45	432	52	2	53	432	True	True
+NCCal|e1_150m|b19|u2062|OWN_HELIX_VS_BETA	NCCal	e1_150m	OWN_HELIX_VS_BETA	native_signed	False	231	988	142	3	140	1019	True	True
+NCCal|e1_150m|b19|u1900|OWN_HELIX_START	NCCal	e1_150m	OWN_HELIX_START	native_signed	False	45	432	52	2	53	432	True	True
+NCCal|e1_150m|b19|u1900|OWN_HELIX_VS_BETA	NCCal	e1_150m	OWN_HELIX_VS_BETA	native_signed	False	231	988	142	3	140	1019	True	True

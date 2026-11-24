@@ -1,0 +1,827 @@
+{
+  "coordinates": [
+    {
+      "model": "chemberta_mtr",
+      "role": "selected",
+      "coordinate": 188,
+      "representative_concept_id": 0,
+      "label": "3-membered ring",
+      "predictor": "Development mean",
+      "point": -1.2565575123524297e-05,
+      "CI95": [
+        -0.0001376925243363969,
+        -5.596895947257478e-08
+      ]
+    },
+    {
+      "model": "chemberta_mtr",
+      "role": "selected",
+      "coordinate": 188,
+      "representative_concept_id": 0,
+      "label": "3-membered ring",
+      "predictor": "Binary concept means",
+      "point": 0.4617497281109535,
+      "CI95": [
+        0.4337097996767698,
+        0.4871187474634636
+      ]
+    },
+    {
+      "model": "chemberta_mtr",
+      "role": "selected",
+      "coordinate": 188,
+      "representative_concept_id": 0,
+      "label": "3-membered ring",
+      "predictor": "Local graph",
+      "point": 0.150399899951995,
+      "CI95": [
+        0.13611047697850795,
+        0.1618685918106831
+      ]
+    },
+    {
+      "model": "chemberta_mtr",
+      "role": "selected",
+      "coordinate": 349,
+      "representative_concept_id": 2,
+      "label": "5-membered ring",
+      "predictor": "Development mean",
+      "point": -0.00024144503956136099,
+      "CI95": [
+        -0.0005885622850659189,
+        -3.710160820437627e-05
+      ]
+    },
+    {
+      "model": "chemberta_mtr",
+      "role": "selected",
+      "coordinate": 349,
+      "representative_concept_id": 2,
+      "label": "5-membered ring",
+      "predictor": "Binary concept means",
+      "point": 0.026530295562109063,
+      "CI95": [
+        0.02262108300438543,
+        0.02966742086120247
+      ]
+    },
+    {
+      "model": "chemberta_mtr",
+      "role": "selected",
+      "coordinate": 349,
+      "representative_concept_id": 2,
+      "label": "5-membered ring",
+      "predictor": "Local graph",
+      "point": 0.3598050969095512,
+      "CI95": [
+        0.3412439140722244,
+        0.37617160111965864
+      ]
+    },
+    {
+      "model": "chemberta_mtr",
+      "role": "selected",
+      "coordinate": 121,
+      "representative_concept_id": 3,
+      "label": "6-membered ring",
+      "predictor": "Development mean",
+      "point": -2.5165716252883996e-05,
+      "CI95": [
+        -0.00028512433952383455,
+        -8.421686925053089e-08
+      ]
+    },
+    {
+      "model": "chemberta_mtr",
+      "role": "selected",
+      "coordinate": 121,
+      "representative_concept_id": 3,
+      "label": "6-membered ring",
+      "predictor": "Binary concept means",
+      "point": 0.231838069871259,
+      "CI95": [
+        0.22367463651286265,
+        0.2400651028155847
+      ]
+    },
+    {
+      "model": "chemberta_mtr",
+      "role": "selected",
+      "coordinate": 121,
+      "representative_concept_id": 3,
+      "label": "6-membered ring",
+      "predictor": "Local graph",
+      "point": 0.5991389118647665,
+      "CI95": [
+        0.5918261012188579,
+        0.6064044898795676
+      ]
+    },
+    {
+      "model": "chemberta_mtr",
+      "role": "selected",
+      "coordinate": 266,
+      "representative_concept_id": 15,
+      "label": "Aromatic carboxyl",
+      "predictor": "Development mean",
+      "point": -8.876799191992468e-05,
+      "CI95": [
+        -0.0004137317560217346,
+        -8.559595682189377e-07
+      ]
+    },
+    {
+      "model": "chemberta_mtr",
+      "role": "selected",
+      "coordinate": 266,
+      "representative_concept_id": 15,
+      "label": "Aromatic carboxyl",
+      "predictor": "Binary concept means",
+      "point": 0.3405949281230487,
+      "CI95": [
+        0.29264627184993924,
+        0.38741653930406245
+      ]
+    },
+    {
+      "model": "chemberta_mtr",
+      "role": "selected",
+      "coordinate": 266,
+      "representative_concept_id": 15,
+      "label": "Aromatic carboxyl",
+      "predictor": "Local graph",
+      "point": 0.6317071243246333,
+      "CI95": [
+        0.6197954439629345,
+        0.6424565119384442
+      ]
+    },
+    {
+      "model": "chemberta_mtr",
+      "role": "selected",
+      "coordinate": 99,
+      "representative_concept_id": 16,
+      "label": "Aliphatic carboxyl",
+      "predictor": "Development mean",
+      "point": -0.00011071782025995347,
+      "CI95": [
+        -0.0004731542346035178,
+        -1.4023887082936786e-06
+      ]
+    },
+    {
+      "model": "chemberta_mtr",
+      "role": "selected",
+      "coordinate": 99,
+      "representative_concept_id": 16,
+      "label": "Aliphatic carboxyl",
+      "predictor": "Binary concept means",
+      "point": 0.9095640064621966,
+      "CI95": [
+        0.8884457672483961,
+        0.9280577267537934
+      ]
+    },
+    {
+      "model": "chemberta_mtr",
+      "role": "selected",
+      "coordinate": 99,
+      "representative_concept_id": 16,
+      "label": "Aliphatic carboxyl",
+      "predictor": "Local graph",
+      "point": 0.5388994219132044,
+      "CI95": [
+        0.5264419011406972,
+        0.5499160477849936
+      ]
+    },
+    {
+      "model": "chemberta_mtr",
+      "role": "selected",
+      "coordinate": 382,
+      "representative_concept_id": 18,
+      "label": "Primary aliphatic amine",
+      "predictor": "Development mean",
+      "point": -5.954683604958433e-05,
+      "CI95": [
+        -0.0002405975600972776,
+        -4.674725397446634e-07
+      ]
+    },
+    {
+      "model": "chemberta_mtr",
+      "role": "selected",
+      "coordinate": 382,
+      "representative_concept_id": 18,
+      "label": "Primary aliphatic amine",
+      "predictor": "Binary concept means",
+      "point": 0.5066052529475682,
+      "CI95": [
+        0.4763411267209348,
+        0.5359157901239764
+      ]
+    },
+    {
+      "model": "chemberta_mtr",
+      "role": "selected",
+      "coordinate": 382,
+      "representative_concept_id": 18,
+      "label": "Primary aliphatic amine",
+      "predictor": "Local graph",
+      "point": 0.7905511400526143,
+      "CI95": [
+        0.7774548176532599,
+        0.8038304311337285
+      ]
+    },
+    {
+      "model": "chemberta_mtr",
+      "role": "selected",
+      "coordinate": 388,
+      "representative_concept_id": 27,
+      "label": "Aromatic hydroxyl",
+      "predictor": "Development mean",
+      "point": -5.800598471772389e-06,
+      "CI95": [
+        -0.00013069043710224327,
+        -4.2205364825243207e-08
+      ]
+    },
+    {
+      "model": "chemberta_mtr",
+      "role": "selected",
+      "coordinate": 388,
+      "representative_concept_id": 27,
+      "label": "Aromatic hydroxyl",
+      "predictor": "Binary concept means",
+      "point": 0.6101323583651026,
+      "CI95": [
+        0.5651638074129366,
+        0.6533317412227612
+      ]
+    },
+    {
+      "model": "chemberta_mtr",
+      "role": "selected",
+      "coordinate": 388,
+      "representative_concept_id": 27,
+      "label": "Aromatic hydroxyl",
+      "predictor": "Local graph",
+      "point": 0.9159976065864218,
+      "CI95": [
+        0.906318202185305,
+        0.9248232938767216
+      ]
+    },
+    {
+      "model": "chemberta_mtr",
+      "role": "selected",
+      "coordinate": 454,
+      "representative_concept_id": 25,
+      "label": "Carbonyl excluding COOH",
+      "predictor": "Development mean",
+      "point": -2.077006336564935e-05,
+      "CI95": [
+        -0.00014681418745490782,
+        -7.986397495551993e-08
+      ]
+    },
+    {
+      "model": "chemberta_mtr",
+      "role": "selected",
+      "coordinate": 454,
+      "representative_concept_id": 25,
+      "label": "Carbonyl excluding COOH",
+      "predictor": "Binary concept means",
+      "point": 0.5413240424616222,
+      "CI95": [
+        0.5278908760997868,
+        0.5537261131849404
+      ]
+    },
+    {
+      "model": "chemberta_mtr",
+      "role": "selected",
+      "coordinate": 454,
+      "representative_concept_id": 25,
+      "label": "Carbonyl excluding COOH",
+      "predictor": "Local graph",
+      "point": 0.636943682415978,
+      "CI95": [
+        0.627860462805831,
+        0.6454673614715524
+      ]
+    },
+    {
+      "model": "chemberta_mtr",
+      "role": "selected",
+      "coordinate": 293,
+      "representative_concept_id": 26,
+      "label": "Aliphatic hydroxyl",
+      "predictor": "Development mean",
+      "point": -2.041370936733955e-05,
+      "CI95": [
+        -0.00018418635124303195,
+        -7.55807753327622e-08
+      ]
+    },
+    {
+      "model": "chemberta_mtr",
+      "role": "selected",
+      "coordinate": 293,
+      "representative_concept_id": 26,
+      "label": "Aliphatic hydroxyl",
+      "predictor": "Binary concept means",
+      "point": 0.6374729398664976,
+      "CI95": [
+        0.6095690306861811,
+        0.6628371672302666
+      ]
+    },
+    {
+      "model": "chemberta_mtr",
+      "role": "selected",
+      "coordinate": 293,
+      "representative_concept_id": 26,
+      "label": "Aliphatic hydroxyl",
+      "predictor": "Local graph",
+      "point": 0.806372610622852,
+      "CI95": [
+        0.7895135215991608,
+        0.82170815452768
+      ]
+    },
+    {
+      "model": "molformer",
+      "role": "selected",
+      "coordinate": 650,
+      "representative_concept_id": 0,
+      "label": "3-membered ring",
+      "predictor": "Development mean",
+      "point": -2.1491630724401745e-05,
+      "CI95": [
+        -0.00020258093719142112,
+        -8.192320784528149e-08
+      ]
+    },
+    {
+      "model": "molformer",
+      "role": "selected",
+      "coordinate": 650,
+      "representative_concept_id": 0,
+      "label": "3-membered ring",
+      "predictor": "Binary concept means",
+      "point": 0.42018139173668023,
+      "CI95": [
+        0.37236869703572867,
+        0.4645262248818777
+      ]
+    },
+    {
+      "model": "molformer",
+      "role": "selected",
+      "coordinate": 650,
+      "representative_concept_id": 0,
+      "label": "3-membered ring",
+      "predictor": "Local graph",
+      "point": 0.10113987886102493,
+      "CI95": [
+        0.08872487747267076,
+        0.11214942871697814
+      ]
+    },
+    {
+      "model": "molformer",
+      "role": "selected",
+      "coordinate": 136,
+      "representative_concept_id": 2,
+      "label": "5-membered ring",
+      "predictor": "Development mean",
+      "point": -2.9030822918940657e-06,
+      "CI95": [
+        -0.00010073248904302612,
+        -2.906280143211156e-08
+      ]
+    },
+    {
+      "model": "molformer",
+      "role": "selected",
+      "coordinate": 136,
+      "representative_concept_id": 2,
+      "label": "5-membered ring",
+      "predictor": "Binary concept means",
+      "point": 0.19088021537693034,
+      "CI95": [
+        0.18167811831415323,
+        0.19935614778080418
+      ]
+    },
+    {
+      "model": "molformer",
+      "role": "selected",
+      "coordinate": 136,
+      "representative_concept_id": 2,
+      "label": "5-membered ring",
+      "predictor": "Local graph",
+      "point": 0.47730748398755707,
+      "CI95": [
+        0.4685221270804688,
+        0.4862549873580145
+      ]
+    },
+    {
+      "model": "molformer",
+      "role": "selected",
+      "coordinate": 203,
+      "representative_concept_id": 3,
+      "label": "6-membered ring",
+      "predictor": "Development mean",
+      "point": -8.77471781901562e-08,
+      "CI95": [
+        -0.00015924580693317812,
+        -4.90746047576718e-08
+      ]
+    },
+    {
+      "model": "molformer",
+      "role": "selected",
+      "coordinate": 203,
+      "representative_concept_id": 3,
+      "label": "6-membered ring",
+      "predictor": "Binary concept means",
+      "point": 0.29649010893213257,
+      "CI95": [
+        0.28823506175047797,
+        0.30458683674381126
+      ]
+    },
+    {
+      "model": "molformer",
+      "role": "selected",
+      "coordinate": 203,
+      "representative_concept_id": 3,
+      "label": "6-membered ring",
+      "predictor": "Local graph",
+      "point": 0.6703910942401008,
+      "CI95": [
+        0.6654115020960176,
+        0.675330475806227
+      ]
+    },
+    {
+      "model": "molformer",
+      "role": "selected",
+      "coordinate": 364,
+      "representative_concept_id": 15,
+      "label": "Aromatic carboxyl",
+      "predictor": "Development mean",
+      "point": -4.53668076949576e-06,
+      "CI95": [
+        -9.364030068635398e-05,
+        -1.994784665781961e-08
+      ]
+    },
+    {
+      "model": "molformer",
+      "role": "selected",
+      "coordinate": 364,
+      "representative_concept_id": 15,
+      "label": "Aromatic carboxyl",
+      "predictor": "Binary concept means",
+      "point": 0.041362369230057094,
+      "CI95": [
+        0.02974229646283502,
+        0.0539213469022267
+      ]
+    },
+    {
+      "model": "molformer",
+      "role": "selected",
+      "coordinate": 364,
+      "representative_concept_id": 15,
+      "label": "Aromatic carboxyl",
+      "predictor": "Local graph",
+      "point": 0.3195189023219491,
+      "CI95": [
+        0.3036271719209437,
+        0.3353282748893975
+      ]
+    },
+    {
+      "model": "molformer",
+      "role": "selected",
+      "coordinate": 587,
+      "representative_concept_id": 16,
+      "label": "Aliphatic carboxyl",
+      "predictor": "Development mean",
+      "point": -3.0258063713040073e-05,
+      "CI95": [
+        -0.0001647502160863401,
+        -1.29330762116409e-07
+      ]
+    },
+    {
+      "model": "molformer",
+      "role": "selected",
+      "coordinate": 587,
+      "representative_concept_id": 16,
+      "label": "Aliphatic carboxyl",
+      "predictor": "Binary concept means",
+      "point": 0.09717233011167792,
+      "CI95": [
+        0.08618924295873062,
+        0.10880141276654624
+      ]
+    },
+    {
+      "model": "molformer",
+      "role": "selected",
+      "coordinate": 587,
+      "representative_concept_id": 16,
+      "label": "Aliphatic carboxyl",
+      "predictor": "Local graph",
+      "point": 0.745616975865348,
+      "CI95": [
+        0.7381324753709199,
+        0.7524372633125729
+      ]
+    },
+    {
+      "model": "molformer",
+      "role": "selected",
+      "coordinate": 521,
+      "representative_concept_id": 18,
+      "label": "Primary aliphatic amine",
+      "predictor": "Development mean",
+      "point": -1.3320934631577686e-05,
+      "CI95": [
+        -8.293437105473256e-05,
+        -5.446755646509928e-08
+      ]
+    },
+    {
+      "model": "molformer",
+      "role": "selected",
+      "coordinate": 521,
+      "representative_concept_id": 18,
+      "label": "Primary aliphatic amine",
+      "predictor": "Binary concept means",
+      "point": 0.11881902390655885,
+      "CI95": [
+        0.09586167889025858,
+        0.1414111966565912
+      ]
+    },
+    {
+      "model": "molformer",
+      "role": "selected",
+      "coordinate": 521,
+      "representative_concept_id": 18,
+      "label": "Primary aliphatic amine",
+      "predictor": "Local graph",
+      "point": 0.40276101544288334,
+      "CI95": [
+        0.3831791665448959,
+        0.4198879574660477
+      ]
+    },
+    {
+      "model": "molformer",
+      "role": "selected",
+      "coordinate": 534,
+      "representative_concept_id": 27,
+      "label": "Aromatic hydroxyl",
+      "predictor": "Development mean",
+      "point": -1.752189129167192e-05,
+      "CI95": [
+        -0.00011058141879836669,
+        -6.219333466561697e-08
+      ]
+    },
+    {
+      "model": "molformer",
+      "role": "selected",
+      "coordinate": 534,
+      "representative_concept_id": 27,
+      "label": "Aromatic hydroxyl",
+      "predictor": "Binary concept means",
+      "point": 0.0961197466492002,
+      "CI95": [
+        0.07891512800304883,
+        0.11375339606684924
+      ]
+    },
+    {
+      "model": "molformer",
+      "role": "selected",
+      "coordinate": 534,
+      "representative_concept_id": 27,
+      "label": "Aromatic hydroxyl",
+      "predictor": "Local graph",
+      "point": 0.2878159565209949,
+      "CI95": [
+        0.2663257125819174,
+        0.30853555433903623
+      ]
+    },
+    {
+      "model": "molformer",
+      "role": "selected",
+      "coordinate": 566,
+      "representative_concept_id": 25,
+      "label": "Carbonyl excluding COOH",
+      "predictor": "Development mean",
+      "point": -1.8318307712927862e-06,
+      "CI95": [
+        -8.112662211685606e-05,
+        -1.5039680162365477e-08
+      ]
+    },
+    {
+      "model": "molformer",
+      "role": "selected",
+      "coordinate": 566,
+      "representative_concept_id": 25,
+      "label": "Carbonyl excluding COOH",
+      "predictor": "Binary concept means",
+      "point": 0.4258276016566379,
+      "CI95": [
+        0.41428736387026127,
+        0.43672295754940627
+      ]
+    },
+    {
+      "model": "molformer",
+      "role": "selected",
+      "coordinate": 566,
+      "representative_concept_id": 25,
+      "label": "Carbonyl excluding COOH",
+      "predictor": "Local graph",
+      "point": 0.623634981425973,
+      "CI95": [
+        0.614429119595693,
+        0.632536847003753
+      ]
+    },
+    {
+      "model": "molformer",
+      "role": "selected",
+      "coordinate": 167,
+      "representative_concept_id": 24,
+      "label": "Carbonyl",
+      "predictor": "Development mean",
+      "point": -1.2365094503863361e-08,
+      "CI95": [
+        -5.5193910168455095e-05,
+        -1.89466651256965e-08
+      ]
+    },
+    {
+      "model": "molformer",
+      "role": "selected",
+      "coordinate": 167,
+      "representative_concept_id": 24,
+      "label": "Carbonyl",
+      "predictor": "Binary concept means",
+      "point": 0.4886440383157473,
+      "CI95": [
+        0.4761815121329716,
+        0.5001353673497498
+      ]
+    },
+    {
+      "model": "molformer",
+      "role": "selected",
+      "coordinate": 167,
+      "representative_concept_id": 24,
+      "label": "Carbonyl",
+      "predictor": "Local graph",
+      "point": 0.7539068962357508,
+      "CI95": [
+        0.746757154738762,
+        0.7608657887819814
+      ]
+    }
+  ],
+  "macro": [
+    {
+      "model": "chemberta_mtr",
+      "point": 0.12933376365240656,
+      "CI95": [
+        0.11967252801567078,
+        0.1399001864168721
+      ],
+      "Holm2_p": 0.0009995002498750624
+    },
+    {
+      "model": "molformer",
+      "point": 0.24517737322066216,
+      "CI95": [
+        0.2387755320903805,
+        0.25130294806786585
+      ],
+      "Holm2_p": 0.0009995002498750624
+    }
+  ],
+  "row_order": {
+    "chemberta_mtr": [
+      {
+        "coordinate": 188,
+        "representative_concept_id": 0
+      },
+      {
+        "coordinate": 349,
+        "representative_concept_id": 2
+      },
+      {
+        "coordinate": 121,
+        "representative_concept_id": 3
+      },
+      {
+        "coordinate": 266,
+        "representative_concept_id": 15
+      },
+      {
+        "coordinate": 99,
+        "representative_concept_id": 16
+      },
+      {
+        "coordinate": 382,
+        "representative_concept_id": 18
+      },
+      {
+        "coordinate": 388,
+        "representative_concept_id": 27
+      },
+      {
+        "coordinate": 454,
+        "representative_concept_id": 25
+      },
+      {
+        "coordinate": 293,
+        "representative_concept_id": 26
+      }
+    ],
+    "molformer": [
+      {
+        "coordinate": 650,
+        "representative_concept_id": 0
+      },
+      {
+        "coordinate": 136,
+        "representative_concept_id": 2
+      },
+      {
+        "coordinate": 203,
+        "representative_concept_id": 3
+      },
+      {
+        "coordinate": 364,
+        "representative_concept_id": 15
+      },
+      {
+        "coordinate": 587,
+        "representative_concept_id": 16
+      },
+      {
+        "coordinate": 521,
+        "representative_concept_id": 18
+      },
+      {
+        "coordinate": 534,
+        "representative_concept_id": 27
+      },
+      {
+        "coordinate": 566,
+        "representative_concept_id": 25
+      },
+      {
+        "coordinate": 167,
+        "representative_concept_id": 24
+      }
+    ]
+  },
+  "retained_local_below_binary": [
+    {
+      "model": "chemberta_mtr",
+      "coordinate": 99,
+      "concept": "Aliphatic carboxyl",
+      "delta_R2": -0.3706645845489922
+    },
+    {
+      "model": "chemberta_mtr",
+      "coordinate": 188,
+      "concept": "3-membered ring",
+      "delta_R2": -0.3113498281589585
+    },
+    {
+      "model": "molformer",
+      "coordinate": 650,
+      "concept": "3-membered ring",
+      "delta_R2": -0.3190415128756553
+    }
+  ],
+  "source_inputs": "source archived outside the distribution",
+  "representative_labels_are_not_model_specific_selected_concepts": true,
+  "statistics_recomputed": false
+}

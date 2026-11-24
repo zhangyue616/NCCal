@@ -1,0 +1,7 @@
+# Deviations and scope
+
+Two memory interruptions affected the molecular confirmation runs. The fixed-coordinate bootstrap resumed with the stored molecule weights. The descriptive confirmation-reselection analysis released validated input objects before calling the original calculation. This input handling was introduced after the confirmation outputs had been seen.
+
+In the matched-dose study, an extra baseline check across all outputs found a maximum discrepancy of 0.0000114441. The maximum at the frozen target was 0.0000004172. For confirmation index 8381, restoring the original four-molecule batch reduced the dose error from 0.00000157449 to 0.00000002075. The analysis used the restored baseline and 18 conditions at this index. Original and restored values, source digests and event times appear in `results/molecular/deviations/execution_departures.json`.
+
+The molecular application uses two ChemBERTa measurement sites. Transfer and reconstruction use the frozen block-two post-GELU site, while calibration reads the final pre-GELU site. The original confirmation groups are reused for later analyses, and the unseen-scaffold slice is conditional. Focal replacement is post hoc. Full mean replacement has larger unmatched doses; common-dose intervals span zero. Negative-group disadvantages, three panel exceptions and failed positional comparisons remain in the results. Extremely negative R-squared in near-constant bins is retained; verification allows at most eight float64 rounding units in that numerical regime.

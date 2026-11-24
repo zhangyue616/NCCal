@@ -1,0 +1,118 @@
+{
+  "JSD_range_nats": [
+    0,
+    0.6931471805599453
+  ],
+  "absolute_output_divergence": {
+    "D_mean": {
+      "case_JSD_nats": {
+        "max": 0.001930623951801544,
+        "mean": 8.65237519717623e-06,
+        "median": 4.443680830038274e-07,
+        "p05": 4.695563308455092e-09,
+        "p95": 2.3586996392295576e-05,
+        "p99": 0.0001345535160220953
+      },
+      "cluster_bootstrap_95_CI_mean_JSD_nats": [
+        6.250900529281174e-06,
+        1.1419130511943124e-05
+      ],
+      "equal_group_mean_JSD_nats": 8.65237519717623e-06,
+      "z_MSE": 0.03302954485022768
+    },
+    "local": {
+      "case_JSD_nats": {
+        "max": 0.0012360585501774277,
+        "mean": 6.537673384574128e-06,
+        "median": 3.417618230774498e-07,
+        "p05": 3.965171155194738e-09,
+        "p95": 1.8376314300125898e-05,
+        "p99": 0.00011078457333353389
+      },
+      "cluster_bootstrap_95_CI_mean_JSD_nats": [
+        4.732483957329606e-06,
+        8.564334916714917e-06
+      ],
+      "equal_group_mean_JSD_nats": 6.537673384574128e-06,
+      "z_MSE": 0.026921679027685125
+    },
+    "residual_exchange": {
+      "case_JSD_nats": {
+        "max": 0.0012548553550006073,
+        "mean": 8.545524439644586e-06,
+        "median": 4.657771505842182e-07,
+        "p05": 2.9067398996650855e-09,
+        "p95": 2.8539174008603417e-05,
+        "p99": 0.00014268630763886327
+      },
+      "cluster_bootstrap_95_CI_mean_JSD_nats": [
+        6.545870633411616e-06,
+        1.0714651395170535e-05
+      ],
+      "equal_group_mean_JSD_nats": 8.545524439644584e-06,
+      "z_MSE": 0.042061686773281384
+    }
+  },
+  "block_0based": 2,
+  "bootstrap": {
+    "resamples": 2000,
+    "seed": 20261118,
+    "unit": "known group; paired methods"
+  },
+  "cases": 2608,
+  "cohort": "existing old T; not a newly collected confirmatory test set",
+  "created_utc": "2026-11-18T06:47:25.230212+00:00",
+  "fit_freeze_sha256": "b2cfb160d0234660779ea3e4dcec21c29ca49414de5704ce739dcc1af5522295",
+  "full_T_cached_z1246_max_abs_error": 2.1457672119140625e-06,
+  "known_groups": 1304,
+  "network_requests": 0,
+  "paired_contrasts": {
+    "local_minus_D_mean": {
+      "fraction_pairs_below_zero": 0.6587423312883436,
+      "mean_group_difference_JSD_nats": -2.1147018126021e-06,
+      "paired_cluster_bootstrap_95_CI": [
+        -3.02403044855282e-06,
+        -1.3820924761613948e-06
+      ]
+    },
+    "residual_exchange_minus_local": {
+      "fraction_pairs_below_zero": 0.4363496932515337,
+      "mean_group_difference_JSD_nats": 2.0078510550704565e-06,
+      "paired_cluster_bootstrap_95_CI": [
+        1.0002132546939146e-06,
+        3.1022459875255096e-06
+      ]
+    }
+  },
+  "pairs": 1304,
+  "peak_GPU_allocated_GB": 0.41960704,
+  "primary": "JSD over independently re-normalized 20 standard amino-acid logits; natural logs; nats",
+  "protocol_sha256": "c3e3141a4ab3973868775553b2c615c7e1573931f0463f069e9e1e925dd22ab8",
+  "reconstruction": {
+    "T_R2_D_mean_reference": 0.1849212833612648,
+    "T_R2_T_mean_reference": 0.17570477347894498,
+    "T_z_MSE": 0.026921679027685125,
+    "T_z_variance": 0.03266023890652418,
+    "paired_delta_MSE": 0.042061686773281384,
+    "paired_delta_R2_D_mean_reference": 0.2517706001332404,
+    "paired_delta_R2_T_mean_reference": 0.24526361038178246
+  },
+  "residual_exchange_invariants": {
+    "pair_residual_squared_amplitude_max_abs_error": 1.1102230246251565e-16,
+    "pair_residual_sum_max_abs_error": 2.220446049250313e-16
+  },
+  "scope_limits": [
+    "single historical selected coordinate; no unit search or matched-coordinate output reference",
+    "local additive reconstruction is not an unrestricted sequence model",
+    "oracle residual exchange tests placement conditional on the local predictor; not a predictive model",
+    "known-group uncertainty does not remove unknown homology or pretraining overlap",
+    "20-AA model-output fidelity is not biological function, mechanism or fitness"
+  ],
+  "sequence_candidates_generated": 0,
+  "sequences_exported": 0,
+  "status": "COMPLETE_FIXED_COORDINATE_DIAGNOSTIC",
+  "total_batch_calls": 1309,
+  "total_case_forwards_including_preflight": 10452,
+  "unit": 1246,
+  "wall_seconds_full_T": 41.747071799996775
+}

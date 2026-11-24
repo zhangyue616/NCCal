@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Please cite the NCCal study and the version of this research software used in your analysis."
+title: "NCCal: reading, testing and replacing individual neurons in molecular and protein language models"
+type: software
+version: "2.0.0"
+authors:
+  - family-names: Zhang
+    given-names: Yue
+    email: zy616@njust.edu.cn
+repository-code: "https://github.com/zhangyue616/NCCal"
+license: MIT

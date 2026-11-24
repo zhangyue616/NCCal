@@ -1,0 +1,706 @@
+[
+  {
+    "id": "models/chemberta_77m_mlm/config.json",
+    "url": "https://huggingface.co/DeepChem/ChemBERTa-77M-MLM/resolve/main/config.json",
+    "sha256": "b9ec477f76a173461741cb0f339b89661c9d9249af2f6a84df7593c3baede9b0",
+    "bytes": 631,
+    "revision": "SHA-256 content pin",
+    "family": "model"
+  },
+  {
+    "id": "models/chemberta_77m_mtr/config.json",
+    "url": "https://huggingface.co/DeepChem/ChemBERTa-77M-MTR/resolve/66b895cab8adebea0cb59a8effa66b2020f204ca/config.json",
+    "sha256": "6c15d3fd119919afb92b762c4e55cd46a595251ab799435168baa75a6ebd07e6",
+    "bytes": 17669,
+    "revision": "66b895cab8adebea0cb59a8effa66b2020f204ca",
+    "family": "model"
+  },
+  {
+    "id": "models/chemberta_77m_mlm/pytorch_model.bin",
+    "url": "https://huggingface.co/DeepChem/ChemBERTa-77M-MLM/resolve/main/pytorch_model.bin",
+    "sha256": "95571af26b61ba8d56b9d61ff108b5c9afe96fd69ea3cbd1901d9421e3d2dd6d",
+    "bytes": 13734116,
+    "revision": "SHA-256 content pin",
+    "family": "model"
+  },
+  {
+    "id": "models/chemberta_77m_mtr/pytorch_model.bin",
+    "url": "https://huggingface.co/DeepChem/ChemBERTa-77M-MTR/resolve/66b895cab8adebea0cb59a8effa66b2020f204ca/pytorch_model.bin",
+    "sha256": "7882205587d3985c07e425632d0e57ba0fc2fc778e3b47aab02aef9b7961407f",
+    "bytes": 14036589,
+    "revision": "66b895cab8adebea0cb59a8effa66b2020f204ca",
+    "family": "model"
+  },
+  {
+    "id": "models/chemberta_77m_mlm/tokenizer.json",
+    "url": "https://huggingface.co/DeepChem/ChemBERTa-77M-MLM/resolve/main/tokenizer.json",
+    "sha256": "1197005224bc8917f46f8d6fc360aec71c6626858966e167b2ff8af62214f814",
+    "bytes": 8262,
+    "revision": "SHA-256 content pin",
+    "family": "model"
+  },
+  {
+    "id": "models/chemberta_77m_mtr/tokenizer.json",
+    "url": "https://huggingface.co/DeepChem/ChemBERTa-77M-MTR/resolve/66b895cab8adebea0cb59a8effa66b2020f204ca/tokenizer.json",
+    "sha256": "1197005224bc8917f46f8d6fc360aec71c6626858966e167b2ff8af62214f814",
+    "bytes": 8262,
+    "revision": "66b895cab8adebea0cb59a8effa66b2020f204ca",
+    "family": "model"
+  },
+  {
+    "id": "models/chemberta_77m_mlm/tokenizer_config.json",
+    "url": "https://huggingface.co/DeepChem/ChemBERTa-77M-MLM/resolve/main/tokenizer_config.json",
+    "sha256": "79919cd4b54bdf241f19956753e8a47b8b782eb4b38eec0e0254bd2434545abd",
+    "bytes": 1271,
+    "revision": "SHA-256 content pin",
+    "family": "model"
+  },
+  {
+    "id": "models/chemberta_77m_mtr/tokenizer_config.json",
+    "url": "https://huggingface.co/DeepChem/ChemBERTa-77M-MTR/resolve/66b895cab8adebea0cb59a8effa66b2020f204ca/tokenizer_config.json",
+    "sha256": "79919cd4b54bdf241f19956753e8a47b8b782eb4b38eec0e0254bd2434545abd",
+    "bytes": 1271,
+    "revision": "66b895cab8adebea0cb59a8effa66b2020f204ca",
+    "family": "model"
+  },
+  {
+    "id": "models/chemberta_77m_mlm/vocab.json",
+    "url": "https://huggingface.co/DeepChem/ChemBERTa-77M-MLM/resolve/main/vocab.json",
+    "sha256": "0c9afbd534ab59fa51718c998027da0e7932293c9a51de03317d4c83d3fe48f6",
+    "bytes": 6963,
+    "revision": "SHA-256 content pin",
+    "family": "model"
+  },
+  {
+    "id": "models/chemberta_77m_mtr/vocab.json",
+    "url": "https://huggingface.co/DeepChem/ChemBERTa-77M-MTR/resolve/66b895cab8adebea0cb59a8effa66b2020f204ca/vocab.json",
+    "sha256": "0c9afbd534ab59fa51718c998027da0e7932293c9a51de03317d4c83d3fe48f6",
+    "bytes": 6963,
+    "revision": "66b895cab8adebea0cb59a8effa66b2020f204ca",
+    "family": "model"
+  },
+  {
+    "id": "models/chemberta_77m_mlm/merges.txt",
+    "url": "https://huggingface.co/DeepChem/ChemBERTa-77M-MLM/resolve/main/merges.txt",
+    "sha256": "291976363a8a20ed148ff687cf3da54ada8ddbc99655fa876326f0ef28dbd6ad",
+    "bytes": 52,
+    "revision": "SHA-256 content pin",
+    "family": "model"
+  },
+  {
+    "id": "models/chemberta_77m_mtr/merges.txt",
+    "url": "https://huggingface.co/DeepChem/ChemBERTa-77M-MTR/resolve/66b895cab8adebea0cb59a8effa66b2020f204ca/merges.txt",
+    "sha256": "291976363a8a20ed148ff687cf3da54ada8ddbc99655fa876326f0ef28dbd6ad",
+    "bytes": 52,
+    "revision": "66b895cab8adebea0cb59a8effa66b2020f204ca",
+    "family": "model"
+  },
+  {
+    "id": "models/chemberta_77m_mlm/special_tokens_map.json",
+    "url": "https://huggingface.co/DeepChem/ChemBERTa-77M-MLM/resolve/main/special_tokens_map.json",
+    "sha256": "23dbc119b7e11cb23d3c43b13004c5a4ab4e6530c7146e34fa1f9564856b5580",
+    "bytes": 420,
+    "revision": "SHA-256 content pin",
+    "family": "model"
+  },
+  {
+    "id": "models/chemberta_77m_mtr/special_tokens_map.json",
+    "url": "https://huggingface.co/DeepChem/ChemBERTa-77M-MTR/resolve/66b895cab8adebea0cb59a8effa66b2020f204ca/special_tokens_map.json",
+    "sha256": "23dbc119b7e11cb23d3c43b13004c5a4ab4e6530c7146e34fa1f9564856b5580",
+    "bytes": 420,
+    "revision": "66b895cab8adebea0cb59a8effa66b2020f204ca",
+    "family": "model"
+  },
+  {
+    "id": "models/chemberta_77m_mlm/added_tokens.json",
+    "url": "https://huggingface.co/DeepChem/ChemBERTa-77M-MLM/resolve/main/added_tokens.json",
+    "sha256": "2b0e66b84bd97bc08467f7a7c033cfd5a66c6335eb79779a144b50f8e7b2557d",
+    "bytes": 25,
+    "revision": "SHA-256 content pin",
+    "family": "model"
+  },
+  {
+    "id": "models/chemberta_77m_mtr/added_tokens.json",
+    "url": "https://huggingface.co/DeepChem/ChemBERTa-77M-MTR/resolve/66b895cab8adebea0cb59a8effa66b2020f204ca/added_tokens.json",
+    "sha256": "2b0e66b84bd97bc08467f7a7c033cfd5a66c6335eb79779a144b50f8e7b2557d",
+    "bytes": 25,
+    "revision": "66b895cab8adebea0cb59a8effa66b2020f204ca",
+    "family": "model"
+  },
+  {
+    "id": "models/molformer_xl_both_10pct/config.json",
+    "url": "https://huggingface.co/ibm/MoLFormer-XL-both-10pct/resolve/main/config.json",
+    "sha256": "3ef9eaac8c7ca6282fd6256ed038d151bd4ff42a4ff855367e0d7197bbc1c284",
+    "bytes": 1015,
+    "revision": "SHA-256 content pin",
+    "family": "model"
+  },
+  {
+    "id": "models/molformer_xl_both_10pct/model.safetensors",
+    "url": "https://huggingface.co/ibm/MoLFormer-XL-both-10pct/resolve/main/model.safetensors",
+    "sha256": "0795977fe7192c4acdaf052f0e8464af57bc4bb59211271c5e61aaba2637b9c6",
+    "bytes": 187248784,
+    "revision": "SHA-256 content pin",
+    "family": "model"
+  },
+  {
+    "id": "models/molformer_xl_both_10pct/tokenizer.json",
+    "url": "https://huggingface.co/ibm/MoLFormer-XL-both-10pct/resolve/main/tokenizer.json",
+    "sha256": "3df1f2219653c44fac9fa03b7f788b372eb2544ecc176737bb9aca8411b471a5",
+    "bytes": 54010,
+    "revision": "SHA-256 content pin",
+    "family": "model"
+  },
+  {
+    "id": "models/molformer_xl_both_10pct/tokenizer_config.json",
+    "url": "https://huggingface.co/ibm/MoLFormer-XL-both-10pct/resolve/main/tokenizer_config.json",
+    "sha256": "56f93dc43e4383fcfc6342e09d782ef38d48ef227215a4a92ff8762fd5b8ff3e",
+    "bytes": 1132,
+    "revision": "SHA-256 content pin",
+    "family": "model"
+  },
+  {
+    "id": "models/molformer_xl_both_10pct/configuration_molformer.py",
+    "url": "https://huggingface.co/ibm/MoLFormer-XL-both-10pct/resolve/main/configuration_molformer.py",
+    "sha256": "b88ea8d4b7b5e54f4f186cc7a230eff308928020a030f153a038fd12c05e3bed",
+    "bytes": 7101,
+    "revision": "SHA-256 content pin",
+    "family": "model"
+  },
+  {
+    "id": "models/molformer_xl_both_10pct/modeling_molformer.py",
+    "url": "https://huggingface.co/ibm/MoLFormer-XL-both-10pct/resolve/main/modeling_molformer.py",
+    "sha256": "6f1ef72022de2c69e95661899422a7bb39a40a2cc5a6cb6216f14e9b7d84559c",
+    "bytes": 36884,
+    "revision": "SHA-256 content pin",
+    "family": "model"
+  },
+  {
+    "id": "models/molformer_xl_both_10pct/README.md",
+    "url": "https://huggingface.co/ibm/MoLFormer-XL-both-10pct/resolve/main/README.md",
+    "sha256": "fff331c6a973fa6995662ac31354c702ac0f4805d494e7506b979a3a6cee6f44",
+    "bytes": 6279,
+    "revision": "SHA-256 content pin",
+    "family": "model"
+  },
+  {
+    "id": "models/pretrain_gnns_gin/contextpred.pth",
+    "url": "https://github.com/snap-stanford/pretrain-gnns/raw/master/chem/model_gin/contextpred.pth",
+    "sha256": "9538cef4c19ea734be8490a8eda8e17f9cb5df76a77ef069c6a8d5f5b8195564",
+    "bytes": 7452448,
+    "revision": "SHA-256 content pin",
+    "family": "model"
+  },
+  {
+    "id": "models/pretrain_gnns_gin/edgepred.pth",
+    "url": "https://github.com/snap-stanford/pretrain-gnns/raw/master/chem/model_gin/edgepred.pth",
+    "sha256": "57b25b697139e54f13961fa31f9833c631a7d8b3a17ae09cafeedd475df9116c",
+    "bytes": 7452448,
+    "revision": "SHA-256 content pin",
+    "family": "model"
+  },
+  {
+    "id": "models/pretrain_gnns_gin/infomax.pth",
+    "url": "https://github.com/snap-stanford/pretrain-gnns/raw/master/chem/model_gin/infomax.pth",
+    "sha256": "02d2ed7b64ba387b973b4cc297b280425ab1f718661e403fc60a7c495a48976d",
+    "bytes": 7452448,
+    "revision": "SHA-256 content pin",
+    "family": "model"
+  },
+  {
+    "id": "models/pretrain_gnns_gin/masking.pth",
+    "url": "https://github.com/snap-stanford/pretrain-gnns/raw/master/chem/model_gin/masking.pth",
+    "sha256": "77dd7f4eeeb16200be1d001411972d0edb04bd406023ca8ab4eaa18f772aa9e4",
+    "bytes": 7452448,
+    "revision": "SHA-256 content pin",
+    "family": "model"
+  },
+  {
+    "id": "models/molclr/pretrained_gin_model.pth",
+    "url": "https://github.com/yuyangw/MolCLR/raw/master/ckpt/pretrained_gin/checkpoints/model.pth",
+    "sha256": "93bc4f02ea8847cd44fa21ec3f65600ff2f4a7ae6d3a85e8519a5bcc56afc20a",
+    "bytes": 9649766,
+    "revision": "SHA-256 content pin",
+    "family": "model"
+  },
+  {
+    "id": "models/molclr/config.yaml",
+    "url": "https://raw.githubusercontent.com/yuyangw/MolCLR/master/config.yaml",
+    "sha256": "99698a219812c3fa94ba57595c93b81e22801ddee9c144656c3372aacb4e68a9",
+    "bytes": 1657,
+    "revision": "SHA-256 content pin",
+    "family": "model"
+  },
+  {
+    "id": "models/chemeleon/chemeleon_mp.pt",
+    "url": "https://zenodo.org/records/15460715/files/chemeleon_mp.pt?download=1",
+    "sha256": "c376624d3407204e780a0ed13a9ac097cc9bb1c13ef89cdbc633c1715c183651",
+    "bytes": 34859448,
+    "revision": "SHA-256 content pin",
+    "family": "model"
+  },
+  {
+    "id": "molecules/CID-SMILES.gz",
+    "url": "https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/CID-SMILES.gz",
+    "sha256": "36b683a59272b196ed7ece140903a249f7df475a06c312c963a5c761f1037f1a",
+    "bytes": null,
+    "revision": "2026-09-27",
+    "family": "public data"
+  },
+  {
+    "id": "benchmarks/bace.csv",
+    "url": "https://deepchemdata.s3-us-west-1.amazonaws.com/datasets/bace.csv",
+    "sha256": "f3fb9ce90bada3e2bd6148b0df13f8f8145a357bf87df0dd5b391ede974fc737",
+    "bytes": 3897767,
+    "revision": "455d07f3e17e880a4d980b5b0365e4a02b417e14",
+    "family": "public data"
+  },
+  {
+    "id": "benchmarks/delaney-processed.csv",
+    "url": "https://deepchemdata.s3-us-west-1.amazonaws.com/datasets/delaney-processed.csv",
+    "sha256": "8c06a76f0c6487d29ab0f903e6a7a7139f189ab3c1178f159c8be8964602f189",
+    "bytes": 96699,
+    "revision": "455d07f3e17e880a4d980b5b0365e4a02b417e14",
+    "family": "public data"
+  },
+  {
+    "id": "labels/retest__esm2_8m__e1_per_concept.parquet",
+    "url": "https://huggingface.co/datasets/GleghornLab/esmc_native_units_results/resolve/29283783665606476858b8e711fdb2fa0d048e58/retest/esm2_8m/e1_per_concept.parquet",
+    "sha256": "e7541ca20bfe6da5c2dd92699112e6572a8931015a2610146c438cdfb1e3b71c",
+    "bytes": 345058,
+    "revision": "29283783665606476858b8e711fdb2fa0d048e58",
+    "family": "author label table"
+  },
+  {
+    "id": "labels/retest__esm2_650m__e1_per_concept.parquet",
+    "url": "https://huggingface.co/datasets/GleghornLab/esmc_native_units_results/resolve/29283783665606476858b8e711fdb2fa0d048e58/retest/esm2_650m/e1_per_concept.parquet",
+    "sha256": "31594e58ccc9da9077c8382252a3d008f8ad43b8a7718c3493b7be065e482371",
+    "bytes": 352275,
+    "revision": "29283783665606476858b8e711fdb2fa0d048e58",
+    "family": "author label table"
+  },
+  {
+    "id": "labels/retest_esmc__esmc_600__e13_per_concept.parquet",
+    "url": "https://huggingface.co/datasets/GleghornLab/esmc_native_units_results/resolve/29283783665606476858b8e711fdb2fa0d048e58/retest_esmc/esmc_600/e13_per_concept.parquet",
+    "sha256": "a6d2693e7947f1319b6aa5eaba8bd2f37421b16826da43d1cc56a7848d52847e",
+    "bytes": 255793,
+    "revision": "29283783665606476858b8e711fdb2fa0d048e58",
+    "family": "author label table"
+  },
+  {
+    "id": "labels/retest_esmc__esmc_600_depth__e13_per_concept.parquet",
+    "url": "https://huggingface.co/datasets/GleghornLab/esmc_native_units_results/resolve/29283783665606476858b8e711fdb2fa0d048e58/retest_esmc/esmc_600_depth/e13_per_concept.parquet",
+    "sha256": "5fb7442ef163efaf284085b6b288db90f81970e2c9e62b6358576f727b1baba7",
+    "bytes": 922694,
+    "revision": "29283783665606476858b8e711fdb2fa0d048e58",
+    "family": "author label table"
+  },
+  {
+    "id": "labels/retest_esmc__esmc_600_mlp__e13_per_concept.parquet",
+    "url": "https://huggingface.co/datasets/GleghornLab/esmc_native_units_results/resolve/29283783665606476858b8e711fdb2fa0d048e58/retest_esmc/esmc_600_mlp/e13_per_concept.parquet",
+    "sha256": "7f192247ed759ca9798d62e533f15ff4a2128000e129de2701627fe3e90412ba",
+    "bytes": 51470,
+    "revision": "29283783665606476858b8e711fdb2fa0d048e58",
+    "family": "author label table"
+  },
+  {
+    "id": "labels/banerjee_8M.csv",
+    "url": "https://raw.githubusercontent.com/arjun-banerjee/PLMNeuron/19a74a553c384430633462987eca0dce8603cc90/analysis/esm8M_500k_neuron_explanations.csv",
+    "sha256": "a651405b2a0f31cade13f0f20f02096a1a41015e2eb50b6a8c49fe348da0df33",
+    "bytes": 759985,
+    "revision": "19a74a553c384430633462987eca0dce8603cc90",
+    "family": "author label table"
+  },
+  {
+    "id": "labels/banerjee_35M.csv",
+    "url": "https://raw.githubusercontent.com/arjun-banerjee/PLMNeuron/19a74a553c384430633462987eca0dce8603cc90/analysis/esm35M_500k_neuron_explanations.csv",
+    "sha256": "dc31e53157423873c62190a47b5ba241c7b87d43ca316ddc518ad02758f7736a",
+    "bytes": 1377834,
+    "revision": "19a74a553c384430633462987eca0dce8603cc90",
+    "family": "author label table"
+  },
+  {
+    "id": "models/esm2_8m/config.json",
+    "url": "https://huggingface.co/facebook/esm2_t6_8M_UR50D/resolve/c731040fcd8d73dceaa04b0a8e6329b345b0f5df/config.json",
+    "sha256": "facb9355e8252149f6f99dff5fd1e32e890c3c655362b261d0c81cd6b5839c85",
+    "bytes": 775,
+    "revision": "c731040fcd8d73dceaa04b0a8e6329b345b0f5df",
+    "family": "model"
+  },
+  {
+    "id": "models/esm2_8m/model.safetensors",
+    "url": "https://huggingface.co/facebook/esm2_t6_8M_UR50D/resolve/c731040fcd8d73dceaa04b0a8e6329b345b0f5df/model.safetensors",
+    "sha256": "24c5fa474c48f3b754b86efe752d5f189d2bcd88190fa2270fc92b2ef3034189",
+    "bytes": 31384292,
+    "revision": "c731040fcd8d73dceaa04b0a8e6329b345b0f5df",
+    "family": "model"
+  },
+  {
+    "id": "models/esm2_8m/special_tokens_map.json",
+    "url": "https://huggingface.co/facebook/esm2_t6_8M_UR50D/resolve/c731040fcd8d73dceaa04b0a8e6329b345b0f5df/special_tokens_map.json",
+    "sha256": "3aedcd4211c0d43aec4e607ff60a63255f3174ead795e997350f09a5f8cd9ee1",
+    "bytes": 125,
+    "revision": "c731040fcd8d73dceaa04b0a8e6329b345b0f5df",
+    "family": "model"
+  },
+  {
+    "id": "models/esm2_8m/tokenizer_config.json",
+    "url": "https://huggingface.co/facebook/esm2_t6_8M_UR50D/resolve/c731040fcd8d73dceaa04b0a8e6329b345b0f5df/tokenizer_config.json",
+    "sha256": "7e9161ecdb548ec45a41cbc6b24aa4476fdd418461f491c4207baa99419a29ad",
+    "bytes": 95,
+    "revision": "c731040fcd8d73dceaa04b0a8e6329b345b0f5df",
+    "family": "model"
+  },
+  {
+    "id": "models/esm2_8m/vocab.txt",
+    "url": "https://huggingface.co/facebook/esm2_t6_8M_UR50D/resolve/c731040fcd8d73dceaa04b0a8e6329b345b0f5df/vocab.txt",
+    "sha256": "0b82cc0a7c7cf9e567b1e5892d793285b9fbae822c964ca48696f7db44598e03",
+    "bytes": 93,
+    "revision": "c731040fcd8d73dceaa04b0a8e6329b345b0f5df",
+    "family": "model"
+  },
+  {
+    "id": "models/esm2_35m/model.safetensors",
+    "url": "https://huggingface.co/facebook/esm2_t12_35M_UR50D/resolve/6fbf070e65b0b7291e7bbcd451118c216cff79d8/model.safetensors",
+    "sha256": "e35647818e0e064351d4531ed480d225a002567b4b2b93ad3a9246d753150fc0",
+    "bytes": 136008798,
+    "revision": "6fbf070e65b0b7291e7bbcd451118c216cff79d8",
+    "family": "model"
+  },
+  {
+    "id": "models/esm2_35m/config.json",
+    "url": "https://huggingface.co/facebook/esm2_t12_35M_UR50D/resolve/6fbf070e65b0b7291e7bbcd451118c216cff79d8/config.json",
+    "sha256": "ae07364efa51e0fa1d81da3fe608f6d948abdbbb69785ba6e1df379a458e58ee",
+    "bytes": 778,
+    "revision": "6fbf070e65b0b7291e7bbcd451118c216cff79d8",
+    "family": "model"
+  },
+  {
+    "id": "models/esm2_35m/vocab.txt",
+    "url": "https://huggingface.co/facebook/esm2_t12_35M_UR50D/resolve/6fbf070e65b0b7291e7bbcd451118c216cff79d8/vocab.txt",
+    "sha256": "0b82cc0a7c7cf9e567b1e5892d793285b9fbae822c964ca48696f7db44598e03",
+    "bytes": 93,
+    "revision": "6fbf070e65b0b7291e7bbcd451118c216cff79d8",
+    "family": "model"
+  },
+  {
+    "id": "models/esm2_35m/tokenizer_config.json",
+    "url": "https://huggingface.co/facebook/esm2_t12_35M_UR50D/resolve/6fbf070e65b0b7291e7bbcd451118c216cff79d8/tokenizer_config.json",
+    "sha256": "7e9161ecdb548ec45a41cbc6b24aa4476fdd418461f491c4207baa99419a29ad",
+    "bytes": 95,
+    "revision": "6fbf070e65b0b7291e7bbcd451118c216cff79d8",
+    "family": "model"
+  },
+  {
+    "id": "models/esm2_35m/special_tokens_map.json",
+    "url": "https://huggingface.co/facebook/esm2_t12_35M_UR50D/resolve/6fbf070e65b0b7291e7bbcd451118c216cff79d8/special_tokens_map.json",
+    "sha256": "3aedcd4211c0d43aec4e607ff60a63255f3174ead795e997350f09a5f8cd9ee1",
+    "bytes": 125,
+    "revision": "6fbf070e65b0b7291e7bbcd451118c216cff79d8",
+    "family": "model"
+  },
+  {
+    "id": "models/esm2_650m/config.json",
+    "url": "https://huggingface.co/facebook/esm2_t33_650M_UR50D/resolve/08e4846e537177426273712802403f7ba8261b6c/config.json",
+    "sha256": "539095c22efc52a09d6147074ba4ca119f76a890df5901213b2b55f7d2f96b2b",
+    "bytes": 724,
+    "revision": "08e4846e537177426273712802403f7ba8261b6c",
+    "family": "model"
+  },
+  {
+    "id": "models/esm2_650m/model.safetensors",
+    "url": "https://huggingface.co/facebook/esm2_t33_650M_UR50D/resolve/08e4846e537177426273712802403f7ba8261b6c/model.safetensors",
+    "sha256": "a08adabb949fa67ad3c14b509d04fd60368b35007b0095e3358f81200c4f4db0",
+    "bytes": 2609506392,
+    "revision": "08e4846e537177426273712802403f7ba8261b6c",
+    "family": "model"
+  },
+  {
+    "id": "models/esm2_650m/special_tokens_map.json",
+    "url": "https://huggingface.co/facebook/esm2_t33_650M_UR50D/resolve/08e4846e537177426273712802403f7ba8261b6c/special_tokens_map.json",
+    "sha256": "3aedcd4211c0d43aec4e607ff60a63255f3174ead795e997350f09a5f8cd9ee1",
+    "bytes": 125,
+    "revision": "08e4846e537177426273712802403f7ba8261b6c",
+    "family": "model"
+  },
+  {
+    "id": "models/esm2_650m/tokenizer_config.json",
+    "url": "https://huggingface.co/facebook/esm2_t33_650M_UR50D/resolve/08e4846e537177426273712802403f7ba8261b6c/tokenizer_config.json",
+    "sha256": "7e9161ecdb548ec45a41cbc6b24aa4476fdd418461f491c4207baa99419a29ad",
+    "bytes": 95,
+    "revision": "08e4846e537177426273712802403f7ba8261b6c",
+    "family": "model"
+  },
+  {
+    "id": "models/esm2_650m/vocab.txt",
+    "url": "https://huggingface.co/facebook/esm2_t33_650M_UR50D/resolve/08e4846e537177426273712802403f7ba8261b6c/vocab.txt",
+    "sha256": "0b82cc0a7c7cf9e567b1e5892d793285b9fbae822c964ca48696f7db44598e03",
+    "bytes": 93,
+    "revision": "08e4846e537177426273712802403f7ba8261b6c",
+    "family": "model"
+  },
+  {
+    "id": "models/esmc_600m/config.json",
+    "url": "https://huggingface.co/EvolutionaryScale/esmc-600m-2024-12/resolve/e4d83bc7e10fd55c92e598e545f4a76bf04a6e5c/config.json",
+    "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+    "bytes": 2,
+    "revision": "e4d83bc7e10fd55c92e598e545f4a76bf04a6e5c",
+    "family": "model"
+  },
+  {
+    "id": "models/esmc_600m/data/weights/esmc_600m_2024_12_v0.pth",
+    "url": "https://huggingface.co/EvolutionaryScale/esmc-600m-2024-12/resolve/e4d83bc7e10fd55c92e598e545f4a76bf04a6e5c/data/weights/esmc_600m_2024_12_v0.pth",
+    "sha256": "8ef856e1a237ee3f995442df997a962e70057faadecf38fc0c8561bd3c2f4324",
+    "bytes": 2300275866,
+    "revision": "e4d83bc7e10fd55c92e598e545f4a76bf04a6e5c",
+    "family": "model"
+  },
+  {
+    "id": "models/e1_150m/model.safetensors",
+    "url": "https://huggingface.co/Profluent-Bio/E1-150m/resolve/c4dbfe827e4aa6ed7f95eaef50dc1e084f4d77dc/model.safetensors",
+    "sha256": "ba2656339005e6598642836acfdafde480fecc7e145ce0058eb54adf572c3484",
+    "bytes": 308869268,
+    "revision": "c4dbfe827e4aa6ed7f95eaef50dc1e084f4d77dc",
+    "family": "model"
+  },
+  {
+    "id": "models/e1_150m/config.json",
+    "url": "https://huggingface.co/Profluent-Bio/E1-150m/resolve/c4dbfe827e4aa6ed7f95eaef50dc1e084f4d77dc/config.json",
+    "sha256": "5722eaebe049f0d5ec4c5b1d08c763c9b68cc8a4fce5997c2f0fdabb3e694886",
+    "bytes": 808,
+    "revision": "c4dbfe827e4aa6ed7f95eaef50dc1e084f4d77dc",
+    "family": "model"
+  },
+  {
+    "id": "models/amplify120m/config.json",
+    "url": "https://huggingface.co/chandar-lab/AMPLIFY_120M/resolve/d918a9e8c64dc43f6ec4996022c3deba14d66470/config.json",
+    "bytes": 906,
+    "sha256": "b28a52518d6006d5f0ceda4737b8623a30760fc79294f84771eb061b7bb8c5d3",
+    "revision": "d918a9e8c64dc43f6ec4996022c3deba14d66470",
+    "family": "model"
+  },
+  {
+    "id": "models/amplify120m/tokenizer.json",
+    "url": "https://huggingface.co/chandar-lab/AMPLIFY_120M/resolve/d918a9e8c64dc43f6ec4996022c3deba14d66470/tokenizer.json",
+    "bytes": 2619,
+    "sha256": "07043215b16802129fee788489f51e245f8d28e1d05fedb42cdb6900749f54db",
+    "revision": "d918a9e8c64dc43f6ec4996022c3deba14d66470",
+    "family": "model"
+  },
+  {
+    "id": "models/amplify120m/amplify.py",
+    "url": "https://huggingface.co/chandar-lab/AMPLIFY_120M/resolve/d918a9e8c64dc43f6ec4996022c3deba14d66470/amplify.py",
+    "bytes": 11950,
+    "sha256": "aaefa417bcc6562cab45d244669c765b8fc0238af6712958e63d1eb52d81b3f2",
+    "revision": "d918a9e8c64dc43f6ec4996022c3deba14d66470",
+    "family": "model"
+  },
+  {
+    "id": "models/amplify120m/rmsnorm.py",
+    "url": "https://huggingface.co/chandar-lab/AMPLIFY_120M/resolve/d918a9e8c64dc43f6ec4996022c3deba14d66470/rmsnorm.py",
+    "bytes": 1172,
+    "sha256": "3f63bdd73a4c8c35f67622f799e592062066b602c82d6c98569754facdbb382d",
+    "revision": "d918a9e8c64dc43f6ec4996022c3deba14d66470",
+    "family": "model"
+  },
+  {
+    "id": "models/amplify120m/rotary.py",
+    "url": "https://huggingface.co/chandar-lab/AMPLIFY_120M/resolve/d918a9e8c64dc43f6ec4996022c3deba14d66470/rotary.py",
+    "bytes": 3337,
+    "sha256": "ab73337b627e7a104d2c0c7299f929d6da836417d8b8203c47e3a9bc2d3918ab",
+    "revision": "d918a9e8c64dc43f6ec4996022c3deba14d66470",
+    "family": "model"
+  },
+  {
+    "id": "models/amplify120m/README.md",
+    "url": "https://huggingface.co/chandar-lab/AMPLIFY_120M/resolve/d918a9e8c64dc43f6ec4996022c3deba14d66470/README.md",
+    "bytes": 5579,
+    "sha256": "23d6eb44faa2283b2a7c71cbdd900596ffc5b2b557c33ae3aef233295298bb3f",
+    "revision": "d918a9e8c64dc43f6ec4996022c3deba14d66470",
+    "family": "model"
+  },
+  {
+    "id": "models/amplify120m/model.safetensors",
+    "url": "https://huggingface.co/chandar-lab/AMPLIFY_120M/resolve/d918a9e8c64dc43f6ec4996022c3deba14d66470/model.safetensors",
+    "bytes": 473126988,
+    "sha256": "a2375f1f54cbe00bdbe27eedcd039c92d12f165720c0349bc582a6eb42c099ce",
+    "revision": "d918a9e8c64dc43f6ec4996022c3deba14d66470",
+    "family": "model"
+  },
+  {
+    "id": "models/carp38m/carp_38M.pt",
+    "url": "https://zenodo.org/records/6564798/files/carp_38M.pt?download=1",
+    "bytes": 151618419,
+    "sha256": "b66b68bce0fd690c780032140297de8fea1f94bfa5ecd67fb408ab3a3794cc3b",
+    "revision": "Zenodo record 6564798",
+    "family": "model"
+  },
+  {
+    "id": "models/carp38m/sequence_models/convolutional.py",
+    "url": "https://raw.githubusercontent.com/microsoft/protein-sequence-models/af695772c4a1c056d930c95ec7e6428aa042f5cd/sequence_models/convolutional.py",
+    "bytes": 19059,
+    "sha256": "b496d2eabc6d681cfcfd9b64922c5b173131ee65492950a1ef95fe7703092947",
+    "revision": "af695772c4a1c056d930c95ec7e6428aa042f5cd",
+    "family": "model"
+  },
+  {
+    "id": "models/carp38m/sequence_models/layers.py",
+    "url": "https://raw.githubusercontent.com/microsoft/protein-sequence-models/af695772c4a1c056d930c95ec7e6428aa042f5cd/sequence_models/layers.py",
+    "bytes": 5459,
+    "sha256": "82eb5515e3f687eb0bad145550cdaf6a75e44bb54d9134d24cbc3ad4caaefe5e",
+    "revision": "af695772c4a1c056d930c95ec7e6428aa042f5cd",
+    "family": "model"
+  },
+  {
+    "id": "models/carp38m/sequence_models/constants.py",
+    "url": "https://raw.githubusercontent.com/microsoft/protein-sequence-models/af695772c4a1c056d930c95ec7e6428aa042f5cd/sequence_models/constants.py",
+    "bytes": 1975,
+    "sha256": "eee594c3175ae7f73609083895da2b0c2be71b891e5073f4a26ef61523e990b4",
+    "revision": "af695772c4a1c056d930c95ec7e6428aa042f5cd",
+    "family": "model"
+  },
+  {
+    "id": "models/carp38m/sequence_models/pretrained.py",
+    "url": "https://raw.githubusercontent.com/microsoft/protein-sequence-models/af695772c4a1c056d930c95ec7e6428aa042f5cd/sequence_models/pretrained.py",
+    "bytes": 5190,
+    "sha256": "159ede4622a006a8efd126a382f5d39817732b8f7639427c98e5cc7293270640",
+    "revision": "af695772c4a1c056d930c95ec7e6428aa042f5cd",
+    "family": "model"
+  },
+  {
+    "id": "models/carp38m/sequence_models/collaters.py",
+    "url": "https://raw.githubusercontent.com/microsoft/protein-sequence-models/af695772c4a1c056d930c95ec7e6428aa042f5cd/sequence_models/collaters.py",
+    "bytes": 24982,
+    "sha256": "901ebcb873ca92802e21c54f5a341a677c808d39619a076cfb003348ec9a808c",
+    "revision": "af695772c4a1c056d930c95ec7e6428aa042f5cd",
+    "family": "model"
+  },
+  {
+    "id": "models/carp38m/sequence_models/utils.py",
+    "url": "https://raw.githubusercontent.com/microsoft/protein-sequence-models/af695772c4a1c056d930c95ec7e6428aa042f5cd/sequence_models/utils.py",
+    "bytes": 4681,
+    "sha256": "01b51a643cb52a5f6b4d6fa332fc26025d2f5567a320390f296bd5ddb1bc0f26",
+    "revision": "af695772c4a1c056d930c95ec7e6428aa042f5cd",
+    "family": "model"
+  },
+  {
+    "id": "models/carp38m/LICENSE",
+    "url": "https://raw.githubusercontent.com/microsoft/protein-sequence-models/af695772c4a1c056d930c95ec7e6428aa042f5cd/LICENSE",
+    "bytes": 1054,
+    "sha256": "3d8597289d4a868d3db0fe926de517ab16face0295ab0dae29c29483ac0c1608",
+    "revision": "af695772c4a1c056d930c95ec7e6428aa042f5cd",
+    "family": "model"
+  },
+  {
+    "id": "models/unirep1900/embed_matrix_0.npy",
+    "url": "https://unirep-public.s3.amazonaws.com/1900_weights/embed_matrix%3A0.npy",
+    "bytes": 1120,
+    "sha256": "4b96cfea5fb9837cdf09a577f569f960a8cfebe3ac0f0418e2fcd833210beb2d",
+    "revision": "Original pretrained UniRep-1900; SHA-256 content pin",
+    "family": "model"
+  },
+  {
+    "id": "models/unirep1900/fully_connected_biases_0.npy",
+    "url": "https://unirep-public.s3.amazonaws.com/1900_weights/fully_connected_biases%3A0.npy",
+    "bytes": 180,
+    "sha256": "2eee13d937ffd40f2557813fcb8b8a1544fc99532a098bfd5fdd27cc6af23d69",
+    "revision": "Original pretrained UniRep-1900; SHA-256 content pin",
+    "family": "model"
+  },
+  {
+    "id": "models/unirep1900/fully_connected_weights_0.npy",
+    "url": "https://unirep-public.s3.amazonaws.com/1900_weights/fully_connected_weights%3A0.npy",
+    "bytes": 190080,
+    "sha256": "fef715513da69f83b4303c5510225074ec002f96bd0b3f37906c1d5238d758a7",
+    "revision": "Original pretrained UniRep-1900; SHA-256 content pin",
+    "family": "model"
+  },
+  {
+    "id": "models/unirep1900/rnn_mlstm_mlstm_b_0.npy",
+    "url": "https://unirep-public.s3.amazonaws.com/1900_weights/rnn_mlstm_mlstm_b%3A0.npy",
+    "bytes": 30480,
+    "sha256": "365eed4d77005d7c3c6a1ed9ada976126e4fc7eb094b363d67c889b02fc85d89",
+    "revision": "Original pretrained UniRep-1900; SHA-256 content pin",
+    "family": "model"
+  },
+  {
+    "id": "models/unirep1900/rnn_mlstm_mlstm_gh_0.npy",
+    "url": "https://unirep-public.s3.amazonaws.com/1900_weights/rnn_mlstm_mlstm_gh%3A0.npy",
+    "bytes": 30480,
+    "sha256": "676a884eda6b49f10b33b47e1f03ed9f0329158ec42ffca8ca9bc7af718e4c93",
+    "revision": "Original pretrained UniRep-1900; SHA-256 content pin",
+    "family": "model"
+  },
+  {
+    "id": "models/unirep1900/rnn_mlstm_mlstm_gmh_0.npy",
+    "url": "https://unirep-public.s3.amazonaws.com/1900_weights/rnn_mlstm_mlstm_gmh%3A0.npy",
+    "bytes": 7680,
+    "sha256": "ec378accd1cef9efc7f47bc8cd24a30d5ab40e4f991582b12bec1e11d67e2eb2",
+    "revision": "Original pretrained UniRep-1900; SHA-256 content pin",
+    "family": "model"
+  },
+  {
+    "id": "models/unirep1900/rnn_mlstm_mlstm_gmx_0.npy",
+    "url": "https://unirep-public.s3.amazonaws.com/1900_weights/rnn_mlstm_mlstm_gmx%3A0.npy",
+    "bytes": 7680,
+    "sha256": "1401d448f24e5eeb5bb3aba3739eccb04017e3da8f1cf0cd0d610b4d15fe6b5e",
+    "revision": "Original pretrained UniRep-1900; SHA-256 content pin",
+    "family": "model"
+  },
+  {
+    "id": "models/unirep1900/rnn_mlstm_mlstm_gx_0.npy",
+    "url": "https://unirep-public.s3.amazonaws.com/1900_weights/rnn_mlstm_mlstm_gx%3A0.npy",
+    "bytes": 30480,
+    "sha256": "a1a50aa8bb77940409add19b9487b2d8b38ad3e5172db59036fcf399eea81e31",
+    "revision": "Original pretrained UniRep-1900; SHA-256 content pin",
+    "family": "model"
+  },
+  {
+    "id": "models/unirep1900/rnn_mlstm_mlstm_wh_0.npy",
+    "url": "https://unirep-public.s3.amazonaws.com/1900_weights/rnn_mlstm_mlstm_wh%3A0.npy",
+    "bytes": 57760080,
+    "sha256": "56d2eea954f625f9a15febae421500d4a927f09f0d0b36c3173913eb82b27445",
+    "revision": "Original pretrained UniRep-1900; SHA-256 content pin",
+    "family": "model"
+  },
+  {
+    "id": "models/unirep1900/rnn_mlstm_mlstm_wmh_0.npy",
+    "url": "https://unirep-public.s3.amazonaws.com/1900_weights/rnn_mlstm_mlstm_wmh%3A0.npy",
+    "bytes": 14440080,
+    "sha256": "4869d9e482452e04928326564d7a5a63d77a0262f3b31b7f1beba1d8801b08e8",
+    "revision": "Original pretrained UniRep-1900; SHA-256 content pin",
+    "family": "model"
+  },
+  {
+    "id": "models/unirep1900/rnn_mlstm_mlstm_wmx_0.npy",
+    "url": "https://unirep-public.s3.amazonaws.com/1900_weights/rnn_mlstm_mlstm_wmx%3A0.npy",
+    "bytes": 76080,
+    "sha256": "026ccc68bf709af22ce8ce48b6d58649906a13993686a879fabd0ab2b88a929e",
+    "revision": "Original pretrained UniRep-1900; SHA-256 content pin",
+    "family": "model"
+  },
+  {
+    "id": "models/unirep1900/rnn_mlstm_mlstm_wx_0.npy",
+    "url": "https://unirep-public.s3.amazonaws.com/1900_weights/rnn_mlstm_mlstm_wx%3A0.npy",
+    "bytes": 304080,
+    "sha256": "a47d44e86cc8c0009912f20cd48202a629f4ec7019c6e61435f056a986a3b2ef",
+    "revision": "Original pretrained UniRep-1900; SHA-256 content pin",
+    "family": "model"
+  },
+  {
+    "id": "models/unirep1900/unirep.py",
+    "url": "https://raw.githubusercontent.com/churchlab/UniRep/master/unirep.py",
+    "bytes": 34204,
+    "sha256": "79f9442dc45c48079109853c202796e7984b55670ce42af924cdc0c9a29e4aa8",
+    "revision": "SHA-256 content pin",
+    "family": "model"
+  },
+  {
+    "id": "models/unirep1900/data_utils.py",
+    "url": "https://raw.githubusercontent.com/churchlab/UniRep/master/data_utils.py",
+    "bytes": 6772,
+    "sha256": "1331f3fdc549f90d1ce07c5e7f42babfc9c3f48e5fc917491cb628b2505cca1d",
+    "revision": "SHA-256 content pin",
+    "family": "model"
+  }
+]

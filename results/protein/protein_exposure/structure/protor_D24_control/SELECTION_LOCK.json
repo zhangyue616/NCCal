@@ -1,0 +1,251 @@
+{
+  "locked_utc": "2026-11-18T07:18:16.487195+00:00",
+  "scope": "D only; no T or model outcomes",
+  "eligible_groups": 325,
+  "selected_groups": [
+    {
+      "group": "old-union-003071",
+      "accession": "Q5ZYB7",
+      "pdb_id": "5x42",
+      "assembly_id": "1",
+      "chain": "A",
+      "assembly_chain": 0,
+      "hash_rank_key": "00027b45806ee510b3f4253df3cd864632058221d5cd9bf092cb5fd26e5d6285",
+      "strict_main_site_count": 78
+    },
+    {
+      "group": "old-union-000416",
+      "accession": "A5F9C1",
+      "pdb_id": "4l7v",
+      "assembly_id": "1",
+      "chain": "A",
+      "assembly_chain": 0,
+      "hash_rank_key": "00a56423f7e4952982652f5a1a79cda8e853405fe0d9a3abe42f91c4a7c83b06",
+      "strict_main_site_count": 97
+    },
+    {
+      "group": "old-union-002020",
+      "accession": "P18958",
+      "pdb_id": "1smp",
+      "assembly_id": "1",
+      "chain": "I",
+      "assembly_chain": 1,
+      "hash_rank_key": "018a0946fca7b6fe12b8c5a4ec9a857767e0c772ffd605d4c56726f4ea17b14e",
+      "strict_main_site_count": 40
+    },
+    {
+      "group": "old-union-002702",
+      "accession": "P9WP15",
+      "pdb_id": "3r5l",
+      "assembly_id": "1",
+      "chain": "A",
+      "assembly_chain": 0,
+      "hash_rank_key": "01b3ec02cd06c7636939313fc251a6ad8d4d3ab4cf289e91f2f6ba82479b7423",
+      "strict_main_site_count": 22
+    },
+    {
+      "group": "old-union-000347",
+      "accession": "P0AD49",
+      "pdb_id": "4y4o",
+      "assembly_id": "1",
+      "chain": "1y",
+      "assembly_chain": 52,
+      "hash_rank_key": "02f0d2f2d18a30db3334cc69e07cc6737bdc603795cd59691bde3cd82023221f",
+      "strict_main_site_count": 27
+    },
+    {
+      "group": "old-union-003176",
+      "accession": "Q6T1W8",
+      "pdb_id": "2pa7",
+      "assembly_id": "1",
+      "chain": "A",
+      "assembly_chain": 0,
+      "hash_rank_key": "033872ab02277708ac52c7d98cc0f7acf58878308f7f221ab90590ef404bbebe",
+      "strict_main_site_count": 58
+    },
+    {
+      "group": "old-union-002331",
+      "accession": "P42771",
+      "pdb_id": "7ozt",
+      "assembly_id": "1",
+      "chain": "BBB",
+      "assembly_chain": 1,
+      "hash_rank_key": "03d23a87e8ea33422300312537dae1ca7106bcf1210c3a018dc5e858af1d9ee3",
+      "strict_main_site_count": 66
+    },
+    {
+      "group": "old-union-000362",
+      "accession": "P0A6N8",
+      "pdb_id": "8s8u",
+      "assembly_id": "1",
+      "chain": "A",
+      "assembly_chain": 0,
+      "hash_rank_key": "03e8bed85775f47078948dd104e3f934ffce69c8f7561ae4b4fb2de4b8e1acb2",
+      "strict_main_site_count": 8
+    },
+    {
+      "group": "old-union-002689",
+      "accession": "P9WJG3",
+      "pdb_id": "4kbm",
+      "assembly_id": "1",
+      "chain": "B",
+      "assembly_chain": 1,
+      "hash_rank_key": "05ea089c77586dd5612be429eea845c38959e47a6522a96081e35438ea516e2f",
+      "strict_main_site_count": 18
+    },
+    {
+      "group": "old-union-001949",
+      "accession": "P13402",
+      "pdb_id": "7pil",
+      "assembly_id": "1",
+      "chain": "X",
+      "assembly_chain": 32,
+      "hash_rank_key": "0626bb3bc63dff85ed5956abb49e9623d7a530bc1de1beb99684852b264fb201",
+      "strict_main_site_count": 4
+    },
+    {
+      "group": "old-union-000992",
+      "accession": "O28415",
+      "pdb_id": "6vjg",
+      "assembly_id": "1",
+      "chain": "A",
+      "assembly_chain": 0,
+      "hash_rank_key": "0655414a188fae775c559560a9e7db1b31f1e936c57975883b315935ccaae9ba",
+      "strict_main_site_count": 27
+    },
+    {
+      "group": "old-union-001762",
+      "accession": "P0AE22",
+      "pdb_id": "2b82",
+      "assembly_id": "1",
+      "chain": "A",
+      "assembly_chain": 0,
+      "hash_rank_key": "07c6bb4e085aa06547402f67f3fa5fa694d21ebc98027cc2abbec43a42aaddb2",
+      "strict_main_site_count": 143
+    },
+    {
+      "group": "old-union-000713",
+      "accession": "E2JKI3",
+      "pdb_id": "3odh",
+      "assembly_id": "1",
+      "chain": "A",
+      "assembly_chain": 0,
+      "hash_rank_key": "0825a8305a7affaf664ef9ce3c8ed3480acff2c41faea451be146316d727357d",
+      "strict_main_site_count": 110
+    },
+    {
+      "group": "old-union-002877",
+      "accession": "Q2G178",
+      "pdb_id": "8gup",
+      "assembly_id": "1",
+      "chain": "A",
+      "assembly_chain": 0,
+      "hash_rank_key": "08df4aa9324723fa2c965036b606e954a31e910135691cbf0bf7964f2815a023",
+      "strict_main_site_count": 43
+    },
+    {
+      "group": "old-union-002952",
+      "accession": "Q4K4F7",
+      "pdb_id": "5vit",
+      "assembly_id": "1",
+      "chain": "C",
+      "assembly_chain": 1,
+      "hash_rank_key": "0a1dc60b2873af686da7a68c0c50d26a96c0de9c26ba06c16514ae8ea807621b",
+      "strict_main_site_count": 51
+    },
+    {
+      "group": "old-union-001018",
+      "accession": "O66440",
+      "pdb_id": "2egz",
+      "assembly_id": "1",
+      "chain": "C",
+      "assembly_chain": 1,
+      "hash_rank_key": "0a5797b33afacce7cb87110620b7aba7e5ff080d4eca27c7624bfd27958789c0",
+      "strict_main_site_count": 129
+    },
+    {
+      "group": "old-union-001688",
+      "accession": "P0A8J2",
+      "pdb_id": "4ou6",
+      "assembly_id": "1",
+      "chain": "A",
+      "assembly_chain": 0,
+      "hash_rank_key": "0eacf0574ac9b8e638583b72037496eec1dc80c9a21efb14027716f13b06e609",
+      "strict_main_site_count": 17
+    },
+    {
+      "group": "old-union-000296",
+      "accession": "B7IA26",
+      "pdb_id": "7uvz",
+      "assembly_id": "1",
+      "chain": "n",
+      "assembly_chain": 43,
+      "hash_rank_key": "0eb8e36a01d800669ac87b43d27b6669ea0d44ce5a89898784c7f5f1b02ad337",
+      "strict_main_site_count": 25
+    },
+    {
+      "group": "old-union-000345",
+      "accession": "A2IAD2",
+      "pdb_id": "5k6d",
+      "assembly_id": "1",
+      "chain": "A",
+      "assembly_chain": 0,
+      "hash_rank_key": "0ec908b7a3606569c171d0ee7befd567aaa26df4e9abc59aec5be923eb177417",
+      "strict_main_site_count": 40
+    },
+    {
+      "group": "old-union-002668",
+      "accession": "P95257",
+      "pdb_id": "5mtw",
+      "assembly_id": "1",
+      "chain": "A",
+      "assembly_chain": 2,
+      "hash_rank_key": "10d842cd90fefd8f3f364b98c20c12018ed1fcba0e1c73651cf71d6e1403667c",
+      "strict_main_site_count": 24
+    },
+    {
+      "group": "old-union-000798",
+      "accession": "G4MQL4",
+      "pdb_id": "8xgl",
+      "assembly_id": "1",
+      "chain": "B",
+      "assembly_chain": 1,
+      "hash_rank_key": "1158c0b1924e0db0057c429e6589674ce14e4c09fb89aeeefe9a4ba81065a036",
+      "strict_main_site_count": 35
+    },
+    {
+      "group": "old-union-002164",
+      "accession": "P31340",
+      "pdb_id": "3qr8",
+      "assembly_id": "1",
+      "chain": "A",
+      "assembly_chain": 0,
+      "hash_rank_key": "124e7040cb1823fe693f6570a377554f90a5ad9967b17214092c93fff47cce45",
+      "strict_main_site_count": 10
+    },
+    {
+      "group": "old-union-002346",
+      "accession": "P43642",
+      "pdb_id": "1d02",
+      "assembly_id": "1",
+      "chain": "B",
+      "assembly_chain": 3,
+      "hash_rank_key": "13031af3699faac9c50ed5992906c4dcccbaf858669f35a10ab7bedc75bcf88e",
+      "strict_main_site_count": 98
+    },
+    {
+      "group": "old-union-000808",
+      "accession": "P04873",
+      "pdb_id": "4bgp",
+      "assembly_id": "1",
+      "chain": "A",
+      "assembly_chain": 0,
+      "hash_rank_key": "1319c578dcff9e01ea7524eff225b1b3bd8a02c35bfc612f8cb5ed735db61334",
+      "strict_main_site_count": 147
+    }
+  ],
+  "salt": "nccal-protor-technical-D24-v1",
+  "selection_rule": "all frozen D groups with >=1 strict main_clean site; ascending SHA256(salt|group), first 24; exact tie lexical group",
+  "main_endpoint_unchanged": true,
+  "frozen_D_unchanged": true
+}

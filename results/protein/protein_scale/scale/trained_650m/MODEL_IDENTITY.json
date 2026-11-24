@@ -1,0 +1,14 @@
+{
+  "loaded_utc": "2026-11-21T07:32:24.533696+00:00",
+  "snapshot": "external/caches/huggingface/hub/models--facebook--esm2_t33_650M_UR50D/snapshots/08e4846e537177426273712802403f7ba8261b6c",
+  "revision": "08e4846e537177426273712802403f7ba8261b6c",
+  "weight_sha256": "a08adabb949fa67ad3c14b509d04fd60368b35007b0095e3358f81200c4f4db0",
+  "state_sha256": "4ff231551560e2847dd7ae7df3d27d275fe3d1f8c748fa229b7e9bd6272713a5",
+  "embedding_lm_head_tied": true,
+  "blocks": 33,
+  "hidden_size": 1280,
+  "ffn_width": 5120,
+  "cpu_float32_eval": true,
+  "torch": "2.7.1+cpu",
+  "transformers": "4.44.2"
+}

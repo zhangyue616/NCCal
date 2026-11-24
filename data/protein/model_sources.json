@@ -1,0 +1,52 @@
+[
+  {
+    "model": "esm2_8m",
+    "source": "https://huggingface.co/facebook/esm2_t6_8M_UR50D",
+    "revision": "c731040fcd8d73dceaa04b0a8e6329b345b0f5df",
+    "bytes": 31384292,
+    "sha256": "24c5fa474c48f3b754b86efe752d5f189d2bcd88190fa2270fc92b2ef3034189",
+    "license": "MIT; confirmed in saved model-card provenance",
+    "redistributed": false,
+    "identity_basis": "Frozen model-file manifest; actual subset forward also checked against archived activations."
+  },
+  {
+    "model": "esm2_35m",
+    "source": "https://huggingface.co/facebook/esm2_t12_35M_UR50D",
+    "revision": "6fbf070e65b0b7291e7bbcd451118c216cff79d8",
+    "bytes": 136008798,
+    "sha256": "e35647818e0e064351d4531ed480d225a002567b4b2b93ad3a9246d753150fc0",
+    "license": "License not independently confirmed in available offline record",
+    "redistributed": false,
+    "identity_basis": "Frozen model-file manifest; actual subset forward also checked against archived activations."
+  },
+  {
+    "model": "esm2_650m",
+    "source": "https://huggingface.co/facebook/esm2_t33_650M_UR50D",
+    "revision": "08e4846e537177426273712802403f7ba8261b6c",
+    "bytes": 2609506392,
+    "sha256": "a08adabb949fa67ad3c14b509d04fd60368b35007b0095e3358f81200c4f4db0",
+    "license": "License not independently confirmed in available offline record",
+    "redistributed": false,
+    "identity_basis": "Frozen model-file manifest; actual subset forward also checked against archived activations."
+  },
+  {
+    "model": "esmc_600",
+    "source": "https://huggingface.co/EvolutionaryScale/esmc-600m-2024-12",
+    "revision": "e4d83bc7e10fd55c92e598e545f4a76bf04a6e5c",
+    "bytes": 2300275866,
+    "sha256": "8ef856e1a237ee3f995442df997a962e70057faadecf38fc0c8561bd3c2f4324",
+    "license": "Model-specific terms; weights not redistributed",
+    "redistributed": false,
+    "identity_basis": "Frozen model-file manifest; actual subset forward also checked against archived activations."
+  },
+  {
+    "model": "e1_150m",
+    "source": "https://huggingface.co/Profluent-Bio/E1-150m",
+    "revision": "Source implementation commit bfd2620a602248499f3d2583d85a7ecddf0b6e02; weight identity by SHA256",
+    "bytes": 308869268,
+    "sha256": "ba2656339005e6598642836acfdafde480fecc7e145ce0058eb54adf572c3484",
+    "license": "Profluent-E1 clickthrough model license; source code Apache-2.0; weights not redistributed",
+    "redistributed": false,
+    "identity_basis": "Frozen model-file manifest; actual subset forward also checked against archived activations."
+  }
+]

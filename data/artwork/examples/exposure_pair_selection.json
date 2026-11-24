@@ -1,0 +1,32 @@
+{
+  "candidate_population": "967 frozen confirmation exposure pairs",
+  "filter": {
+    "amino_acid": "A",
+    "secondary_class_for_both_sites": "H",
+    "minimum_mapped_chain_fraction": 0.95
+  },
+  "ordering": [
+    "absolute distance of native sequence length from 270",
+    "ascending homology-group identifier"
+  ],
+  "eligible_pairs": 52,
+  "selected": {
+    "group": "fresh-e6a78159c2270e7e984f1dd5201f78e03af76c47dbfdd239254e779f5f2888d6",
+    "accession": "P05820",
+    "pos1": "86",
+    "pos2": "248",
+    "aa": "A",
+    "secondary": "H",
+    "pdb_id": "2xmx",
+    "chain": "A",
+    "rsa1": "0.003479374240535174",
+    "rsa2": "0.5785970761794452",
+    "native_length": "271",
+    "mapped_chain_fraction": "0.996309963099631"
+  },
+  "selection_reads_activation_or_prediction": false,
+  "structural_component": "data/artwork/protein_exposure_geometry.json",
+  "component_renderer": "figures/native/protein_exposure.py",
+  "png": "data/artwork/generated/prot_exposure_pair_gray.png",
+  "site_manifest": "data/artwork/generated/protein_exposure_pair_manifest.json"
+}

@@ -1,0 +1,49 @@
+{
+  "n_chains": 74,
+  "n_groups": 47,
+  "groups_per_fold": [
+    10,
+    10,
+    9,
+    9,
+    9
+  ],
+  "out_of_fold": {
+    "local": {
+      "Brier": 0.37007171646196135,
+      "gain": 0.0,
+      "simultaneous_97_5_gain": [
+        0.0,
+        0.0
+      ],
+      "group_accuracy": 0.40932117527862205,
+      "correct": 35,
+      "ties": 0,
+      "incorrect": 39
+    },
+    "local_plus_361": {
+      "Brier": 0.36450897469929067,
+      "gain": 0.00556274176267065,
+      "simultaneous_97_5_gain": [
+        -0.005221087754432875,
+        0.015870130938160854
+      ],
+      "group_accuracy": 0.4022289766970618,
+      "correct": 34,
+      "ties": 0,
+      "incorrect": 40
+    },
+    "local_plus_SAE4181": {
+      "Brier": 0.3497419467966996,
+      "gain": 0.020329769665261687,
+      "simultaneous_97_5_gain": [
+        0.0048259610127013765,
+        0.03691523685512302
+      ],
+      "group_accuracy": 0.42705167173252273,
+      "correct": 37,
+      "ties": 0,
+      "incorrect": 37
+    }
+  }
+}

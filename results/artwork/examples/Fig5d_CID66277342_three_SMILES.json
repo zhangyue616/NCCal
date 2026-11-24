@@ -1,0 +1,5050 @@
+{
+  "schema": "NCCal-frozen-molecule-figure-export/1",
+  "cid": 66277342,
+  "canonical_smiles": "Nc1nc(NCCOCCO)n[nH]1",
+  "cohort": {
+    "status": "accepted_in_frozen_census",
+    "source_population": "fixed local PubChem candidate subpool; exclusion and positional-anchor gates applied before model results",
+    "cohort_rank_0": 1026,
+    "evaluation_molecule_index_0": 26,
+    "split": "evaluation",
+    "heavy_atoms": 13,
+    "accepted_cohort_molecules": 3000,
+    "evaluation_molecules": 2000,
+    "rescue_fit_molecules": 1000,
+    "available_frozen_rewrite_ids": [
+      "rewrite_1",
+      "rewrite_2",
+      "rewrite_3",
+      "rewrite_4",
+      "rewrite_5"
+    ],
+    "export_selection": "canonical plus the two numerically smallest frozen rewrite IDs; no outcome-based selection",
+    "molecule_replacement_or_new_sampling": false
+  },
+  "index_conventions": {
+    "canonical_atom_indices": "0-based atom order in the frozen canonical SMILES graph; corresponding 1-based numbers also provided",
+    "character_spans": "0-based half-open [start,end); also 1-based inclusive [start+1,end]. Original inputs are ASCII, so character and UTF-8 byte offsets agree.",
+    "token_indices": "0-based positions in the exact model input including CLS and SEP; matching 1-based positions also provided",
+    "special_tokens": "CLS is token index 0; SEP is the last token; special tokens have raw offset [0,0] and are not assigned to atoms",
+    "missing": "null means unavailable/not represented. Numerical zero is retained only when it is an actual stored activation or prediction.",
+    "mapper_span_caveat": "The frozen mapper complete-span relation refers to its assigned model tokens. It does not imply that brackets or hydrogen attributes are preserved; per-character coverage and lost_attributes are reported separately."
+  },
+  "measurement": {
+    "model": "DeepChem/ChemBERTa-77M-MTR",
+    "revision": "66b895cab8adebea0cb59a8effa66b2020f204ca",
+    "checkpoint_sha256_declared_by_frozen_engine": "7882205587d3985c07e425632d0e57ba0fc2fc778e3b47aab02aef9b7961407f",
+    "natural_block": 2,
+    "block_index_0": 1,
+    "site": "RobertaIntermediate output, post-GELU",
+    "neuron_indices_0": [
+      293,
+      454
+    ],
+    "units": "native, unnormalised post-GELU activation; no rounding or averaging",
+    "measured_values": "archived trained-model float32 atom-anchor coefficients, exported as JSON numbers without recomputation",
+    "new_model_forward_performed": false,
+    "new_fit_performed": false
+  },
+  "prediction": {
+    "name": "frozen development-only bonding-environment rule",
+    "source_fit": "results/artwork/examples/Fig5d_CID66277342_three_SMILES.json#/prediction (released frozen lookup values; archived predictor hash retained in provenance)",
+    "prior_weight": 20,
+    "backoff": "radius 1 key -> radius 0 key -> development global mean",
+    "two_prediction_values_per_atom": "one frozen bonding-environment prediction for neuron 293 and one for neuron 454; not two newly fitted rules",
+    "canonical_lineage_invariant": true,
+    "recomputed_lookup_equal_cached_rule_exactly": true,
+    "lookup_counts": {
+      "radius_0_backoff": 1,
+      "radius_1": 12
+    }
+  },
+  "tokenizer": {
+    "repository": "DeepChem/ChemBERTa-77M-MTR",
+    "revision": "66b895cab8adebea0cb59a8effa66b2020f204ca",
+    "tokenizer_sha256": "1197005224bc8917f46f8d6fc360aec71c6626858966e167b2ff8af62214f814",
+    "local_tokenizer_sha256_verified": true
+  },
+  "highlighted_site_from_figure_5a_edit": {
+    "definition": "carbon adjacent to the terminal hydroxyl oxygen selected by the frozen OH-to-H edit; not selected by activation magnitude",
+    "canonical_carbon_atom_index_0": 9,
+    "canonical_carbon_atom_number_1": 10,
+    "canonical_hydroxyl_oxygen_atom_index_0": 10,
+    "canonical_hydroxyl_oxygen_atom_number_1": 11,
+    "frozen_edit_class": 1,
+    "frozen_source_smiles": "Nc1nc(NCCOCCO)n[nH]1",
+    "frozen_controlled_product_smiles": "Nc1nc(NCCOCC)n[nH]1",
+    "main_string_control_pass": true,
+    "independent_actual_graph_edit_check": "PASS",
+    "source_pair_record": "data/artwork/examples/hydroxyl_pair_inputs.jsonl.gz",
+    "source_acceptance_record": "results/artwork/examples/Fig5d_CID66277342_three_SMILES.json#/highlighted_site_from_figure_5a_edit",
+    "correspondence_across_encodings": [
+      {
+        "encoding_id": "canonical",
+        "smiles": "Nc1nc(NCCOCCO)n[nH]1",
+        "canonical_atom_index_0": 9,
+        "canonical_atom_number_1": 10,
+        "encoding_graph_atom_index_0": 9,
+        "source_atom_character_span": {
+          "zero_based_half_open": [
+            11,
+            12
+          ],
+          "one_based_inclusive": [
+            12,
+            12
+          ]
+        },
+        "anchor_token_index_0_including_specials": 12,
+        "anchor_token_position_1_including_specials": 13,
+        "anchor_token_id": 16,
+        "anchor_token_spelling": "C",
+        "neurons": {
+          "293": {
+            "measured_post_gelu": 7.7508955001831055,
+            "frozen_rule_prediction": 5.874680132104354,
+            "measurement_availability": "archived_float32_atom_anchor_readout"
+          },
+          "454": {
+            "measured_post_gelu": -0.07396265119314194,
+            "frozen_rule_prediction": -0.003444163066224904,
+            "measurement_availability": "archived_float32_atom_anchor_readout"
+          }
+        }
+      },
+      {
+        "encoding_id": "rewrite_1",
+        "smiles": "n1[nH]c(N)nc1NCCOCCO",
+        "canonical_atom_index_0": 9,
+        "canonical_atom_number_1": 10,
+        "encoding_graph_atom_index_0": 11,
+        "source_atom_character_span": {
+          "zero_based_half_open": [
+            18,
+            19
+          ],
+          "one_based_inclusive": [
+            19,
+            19
+          ]
+        },
+        "anchor_token_index_0_including_specials": 16,
+        "anchor_token_position_1_including_specials": 17,
+        "anchor_token_id": 16,
+        "anchor_token_spelling": "C",
+        "neurons": {
+          "293": {
+            "measured_post_gelu": 7.243037223815918,
+            "frozen_rule_prediction": 5.874680132104354,
+            "measurement_availability": "archived_float32_atom_anchor_readout"
+          },
+          "454": {
+            "measured_post_gelu": -0.04392775520682335,
+            "frozen_rule_prediction": -0.003444163066224904,
+            "measurement_availability": "archived_float32_atom_anchor_readout"
+          }
+        }
+      },
+      {
+        "encoding_id": "rewrite_2",
+        "smiles": "n1c(N)[nH]nc1NCCOCCO",
+        "canonical_atom_index_0": 9,
+        "canonical_atom_number_1": 10,
+        "encoding_graph_atom_index_0": 11,
+        "source_atom_character_span": {
+          "zero_based_half_open": [
+            18,
+            19
+          ],
+          "one_based_inclusive": [
+            19,
+            19
+          ]
+        },
+        "anchor_token_index_0_including_specials": 16,
+        "anchor_token_position_1_including_specials": 17,
+        "anchor_token_id": 16,
+        "anchor_token_spelling": "C",
+        "neurons": {
+          "293": {
+            "measured_post_gelu": 7.201085567474365,
+            "frozen_rule_prediction": 5.874680132104354,
+            "measurement_availability": "archived_float32_atom_anchor_readout"
+          },
+          "454": {
+            "measured_post_gelu": -0.04356712847948074,
+            "frozen_rule_prediction": -0.003444163066224904,
+            "measurement_availability": "archived_float32_atom_anchor_readout"
+          }
+        }
+      }
+    ]
+  },
+  "encodings": [
+    {
+      "encoding_id": "canonical",
+      "frozen_variant_index_0": 0,
+      "frozen_rewrite_generation_attempt": -1,
+      "smiles": "Nc1nc(NCCOCCO)n[nH]1",
+      "string_length_characters": 20,
+      "canonical_to_encoding_atom_indices_0": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "encoding_to_canonical_atom_indices_0": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "mapping_gate": "PASS_POSITIONAL_ELEMENT_ANCHOR",
+      "accepted": true,
+      "full_offset_status": "position-aligned",
+      "full_offset_errors": [],
+      "full_offset_invalid_tokens": [],
+      "input_fidelity": "lossy",
+      "identity_lossy": true,
+      "identity_lossy_canonical_atom_indices_0": [
+        12
+      ],
+      "missing_model_character_indices_0": [
+        15,
+        17,
+        18
+      ],
+      "cross_atom_token_indices_0": [],
+      "input_ids": [
+        12,
+        23,
+        15,
+        20,
+        25,
+        15,
+        17,
+        23,
+        16,
+        16,
+        19,
+        16,
+        16,
+        19,
+        18,
+        25,
+        25,
+        20,
+        13
+      ],
+      "special_tokens_mask": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "tokens": [
+        {
+          "token_index_0_including_specials": 0,
+          "token_position_1_including_specials": 1,
+          "token_id": 12,
+          "token_spelling": "[CLS]",
+          "is_special": true,
+          "attention_mask": 1,
+          "raw_character_offset_0_half_open": [
+            0,
+            0
+          ],
+          "overlapping_canonical_atom_indices_0": [],
+          "crosses_multiple_atom_spans": false,
+          "anchor_for_canonical_atom_indices_0": []
+        },
+        {
+          "token_index_0_including_specials": 1,
+          "token_position_1_including_specials": 2,
+          "token_id": 23,
+          "token_spelling": "N",
+          "is_special": false,
+          "attention_mask": 1,
+          "raw_character_offset_0_half_open": [
+            0,
+            1
+          ],
+          "overlapping_canonical_atom_indices_0": [
+            0
+          ],
+          "crosses_multiple_atom_spans": false,
+          "anchor_for_canonical_atom_indices_0": [
+            0
+          ]
+        },
+        {
+          "token_index_0_including_specials": 2,
+          "token_position_1_including_specials": 3,
+          "token_id": 15,
+          "token_spelling": "c",
+          "is_special": false,
+          "attention_mask": 1,
+          "raw_character_offset_0_half_open": [
+            1,
+            2
+          ],
+          "overlapping_canonical_atom_indices_0": [
+            1
+          ],
+          "crosses_multiple_atom_spans": false,
+          "anchor_for_canonical_atom_indices_0": [
+            1
+          ]
+        },
+        {
+          "token_index_0_including_specials": 3,
+          "token_position_1_including_specials": 4,
+          "token_id": 20,
+          "token_spelling": "1",
+          "is_special": false,
+          "attention_mask": 1,
+          "raw_character_offset_0_half_open": [
+            2,
+            3
+          ],
+          "overlapping_canonical_atom_indices_0": [],
+          "crosses_multiple_atom_spans": false,
+          "anchor_for_canonical_atom_indices_0": []
+        },
+        {
+          "token_index_0_including_specials": 4,
+          "token_position_1_including_specials": 5,
+          "token_id": 25,
+          "token_spelling": "n",
+          "is_special": false,
+          "attention_mask": 1,
+          "raw_character_offset_0_half_open": [
+            3,
+            4
+          ],
+          "overlapping_canonical_atom_indices_0": [
+            2
+          ],
+          "crosses_multiple_atom_spans": false,
+          "anchor_for_canonical_atom_indices_0": [
+            2
+          ]
+        },
+        {
+          "token_index_0_including_specials": 5,
+          "token_position_1_including_specials": 6,
+          "token_id": 15,
+          "token_spelling": "c",
+          "is_special": false,
+          "attention_mask": 1,
+          "raw_character_offset_0_half_open": [
+            4,
+            5
+          ],
+          "overlapping_canonical_atom_indices_0": [
+            3
+          ],
+          "crosses_multiple_atom_spans": false,
+          "anchor_for_canonical_atom_indices_0": [
+            3
+          ]
+        },
+        {
+          "token_index_0_including_specials": 6,
+          "token_position_1_including_specials": 7,
+          "token_id": 17,
+          "token_spelling": "(",
+          "is_special": false,
+          "attention_mask": 1,
+          "raw_character_offset_0_half_open": [
+            5,
+            6
+          ],
+          "overlapping_canonical_atom_indices_0": [],
+          "crosses_multiple_atom_spans": false,
+          "anchor_for_canonical_atom_indices_0": []
+        },
+        {
+          "token_index_0_including_specials": 7,
+          "token_position_1_including_specials": 8,
+          "token_id": 23,
+          "token_spelling": "N",
+          "is_special": false,
+          "attention_mask": 1,
+          "raw_character_offset_0_half_open": [
+            6,
+            7
+          ],
+          "overlapping_canonical_atom_indices_0": [
+            4
+          ],
+          "crosses_multiple_atom_spans": false,
+          "anchor_for_canonical_atom_indices_0": [
+            4
+          ]
+        },
+        {
+          "token_index_0_including_specials": 8,
+          "token_position_1_including_specials": 9,
+          "token_id": 16,
+          "token_spelling": "C",
+          "is_special": false,
+          "attention_mask": 1,
+          "raw_character_offset_0_half_open": [
+            7,
+            8
+          ],
+          "overlapping_canonical_atom_indices_0": [
+            5
+          ],
+          "crosses_multiple_atom_spans": false,
+          "anchor_for_canonical_atom_indices_0": [
+            5
+          ]
+        },
+        {
+          "token_index_0_including_specials": 9,
+          "token_position_1_including_specials": 10,
+          "token_id": 16,
+          "token_spelling": "C",
+          "is_special": false,
+          "attention_mask": 1,
+          "raw_character_offset_0_half_open": [
+            8,
+            9
+          ],
+          "overlapping_canonical_atom_indices_0": [
+            6
+          ],
+          "crosses_multiple_atom_spans": false,
+          "anchor_for_canonical_atom_indices_0": [
+            6
+          ]
+        },
+        {
+          "token_index_0_including_specials": 10,
+          "token_position_1_including_specials": 11,
+          "token_id": 19,
+          "token_spelling": "O",
+          "is_special": false,
+          "attention_mask": 1,
+          "raw_character_offset_0_half_open": [
+            9,
+            10
+          ],
+          "overlapping_canonical_atom_indices_0": [
+            7
+          ],
+          "crosses_multiple_atom_spans": false,
+          "anchor_for_canonical_atom_indices_0": [
+            7
+          ]
+        },
+        {
+          "token_index_0_including_specials": 11,
+          "token_position_1_including_specials": 12,
+          "token_id": 16,
+          "token_spelling": "C",
+          "is_special": false,
+          "attention_mask": 1,
+          "raw_character_offset_0_half_open": [
+            10,
+            11
+          ],
+          "overlapping_canonical_atom_indices_0": [
+            8
+          ],
+          "crosses_multiple_atom_spans": false,
+          "anchor_for_canonical_atom_indices_0": [
+            8
+          ]
+        },
+        {
+          "token_index_0_including_specials": 12,
+          "token_position_1_including_specials": 13,
+          "token_id": 16,
+          "token_spelling": "C",
+          "is_special": false,
+          "attention_mask": 1,
+          "raw_character_offset_0_half_open": [
+            11,
+            12
+          ],
+          "overlapping_canonical_atom_indices_0": [
+            9
+          ],
+          "crosses_multiple_atom_spans": false,
+          "anchor_for_canonical_atom_indices_0": [
+            9
+          ]
+        },
+        {
+          "token_index_0_including_specials": 13,
+          "token_position_1_including_specials": 14,
+          "token_id": 19,
+          "token_spelling": "O",
+          "is_special": false,
+          "attention_mask": 1,
+          "raw_character_offset_0_half_open": [
+            12,
+            13
+          ],
+          "overlapping_canonical_atom_indices_0": [
+            10
+          ],
+          "crosses_multiple_atom_spans": false,
+          "anchor_for_canonical_atom_indices_0": [
+            10
+          ]
+        },
+        {
+          "token_index_0_including_specials": 14,
+          "token_position_1_including_specials": 15,
+          "token_id": 18,
+          "token_spelling": ")",
+          "is_special": false,
+          "attention_mask": 1,
+          "raw_character_offset_0_half_open": [
+            13,
+            14
+          ],
+          "overlapping_canonical_atom_indices_0": [],
+          "crosses_multiple_atom_spans": false,
+          "anchor_for_canonical_atom_indices_0": []
+        },
+        {
+          "token_index_0_including_specials": 15,
+          "token_position_1_including_specials": 16,
+          "token_id": 25,
+          "token_spelling": "n",
+          "is_special": false,
+          "attention_mask": 1,
+          "raw_character_offset_0_half_open": [
+            14,
+            15
+          ],
+          "overlapping_canonical_atom_indices_0": [
+            11
+          ],
+          "crosses_multiple_atom_spans": false,
+          "anchor_for_canonical_atom_indices_0": [
+            11
+          ]
+        },
+        {
+          "token_index_0_including_specials": 16,
+          "token_position_1_including_specials": 17,
+          "token_id": 25,
+          "token_spelling": "n",
+          "is_special": false,
+          "attention_mask": 1,
+          "raw_character_offset_0_half_open": [
+            16,
+            17
+          ],
+          "overlapping_canonical_atom_indices_0": [
+            12
+          ],
+          "crosses_multiple_atom_spans": false,
+          "anchor_for_canonical_atom_indices_0": [
+            12
+          ]
+        },
+        {
+          "token_index_0_including_specials": 17,
+          "token_position_1_including_specials": 18,
+          "token_id": 20,
+          "token_spelling": "1",
+          "is_special": false,
+          "attention_mask": 1,
+          "raw_character_offset_0_half_open": [
+            19,
+            20
+          ],
+          "overlapping_canonical_atom_indices_0": [],
+          "crosses_multiple_atom_spans": false,
+          "anchor_for_canonical_atom_indices_0": []
+        },
+        {
+          "token_index_0_including_specials": 18,
+          "token_position_1_including_specials": 19,
+          "token_id": 13,
+          "token_spelling": "[SEP]",
+          "is_special": true,
+          "attention_mask": 1,
+          "raw_character_offset_0_half_open": [
+            0,
+            0
+          ],
+          "overlapping_canonical_atom_indices_0": [],
+          "crosses_multiple_atom_spans": false,
+          "anchor_for_canonical_atom_indices_0": []
+        }
+      ],
+      "characters": [
+        {
+          "character_index_0": 0,
+          "character_position_1": 1,
+          "character": "N",
+          "model_token_indices_0": [
+            1
+          ],
+          "status": "represented"
+        },
+        {
+          "character_index_0": 1,
+          "character_position_1": 2,
+          "character": "c",
+          "model_token_indices_0": [
+            2
+          ],
+          "status": "represented"
+        },
+        {
+          "character_index_0": 2,
+          "character_position_1": 3,
+          "character": "1",
+          "model_token_indices_0": [
+            3
+          ],
+          "status": "represented"
+        },
+        {
+          "character_index_0": 3,
+          "character_position_1": 4,
+          "character": "n",
+          "model_token_indices_0": [
+            4
+          ],
+          "status": "represented"
+        },
+        {
+          "character_index_0": 4,
+          "character_position_1": 5,
+          "character": "c",
+          "model_token_indices_0": [
+            5
+          ],
+          "status": "represented"
+        },
+        {
+          "character_index_0": 5,
+          "character_position_1": 6,
+          "character": "(",
+          "model_token_indices_0": [
+            6
+          ],
+          "status": "represented"
+        },
+        {
+          "character_index_0": 6,
+          "character_position_1": 7,
+          "character": "N",
+          "model_token_indices_0": [
+            7
+          ],
+          "status": "represented"
+        },
+        {
+          "character_index_0": 7,
+          "character_position_1": 8,
+          "character": "C",
+          "model_token_indices_0": [
+            8
+          ],
+          "status": "represented"
+        },
+        {
+          "character_index_0": 8,
+          "character_position_1": 9,
+          "character": "C",
+          "model_token_indices_0": [
+            9
+          ],
+          "status": "represented"
+        },
+        {
+          "character_index_0": 9,
+          "character_position_1": 10,
+          "character": "O",
+          "model_token_indices_0": [
+            10
+          ],
+          "status": "represented"
+        },
+        {
+          "character_index_0": 10,
+          "character_position_1": 11,
+          "character": "C",
+          "model_token_indices_0": [
+            11
+          ],
+          "status": "represented"
+        },
+        {
+          "character_index_0": 11,
+          "character_position_1": 12,
+          "character": "C",
+          "model_token_indices_0": [
+            12
+          ],
+          "status": "represented"
+        },
+        {
+          "character_index_0": 12,
+          "character_position_1": 13,
+          "character": "O",
+          "model_token_indices_0": [
+            13
+          ],
+          "status": "represented"
+        },
+        {
+          "character_index_0": 13,
+          "character_position_1": 14,
+          "character": ")",
+          "model_token_indices_0": [
+            14
+          ],
+          "status": "represented"
+        },
+        {
+          "character_index_0": 14,
+          "character_position_1": 15,
+          "character": "n",
+          "model_token_indices_0": [
+            15
+          ],
+          "status": "represented"
+        },
+        {
+          "character_index_0": 15,
+          "character_position_1": 16,
+          "character": "[",
+          "model_token_indices_0": null,
+          "status": "not_represented_by_any_model_token"
+        },
+        {
+          "character_index_0": 16,
+          "character_position_1": 17,
+          "character": "n",
+          "model_token_indices_0": [
+            16
+          ],
+          "status": "represented"
+        },
+        {
+          "character_index_0": 17,
+          "character_position_1": 18,
+          "character": "H",
+          "model_token_indices_0": null,
+          "status": "not_represented_by_any_model_token"
+        },
+        {
+          "character_index_0": 18,
+          "character_position_1": 19,
+          "character": "]",
+          "model_token_indices_0": null,
+          "status": "not_represented_by_any_model_token"
+        },
+        {
+          "character_index_0": 19,
+          "character_position_1": 20,
+          "character": "1",
+          "model_token_indices_0": [
+            17
+          ],
+          "status": "represented"
+        }
+      ],
+      "atoms_in_canonical_order": [
+        {
+          "canonical_atom_index_0": 0,
+          "canonical_atom_number_1": 1,
+          "element": "N",
+          "graph_properties": {
+            "atomic_number": 7,
+            "element": "N",
+            "isotope": 0,
+            "formal_charge": 0,
+            "aromatic": false,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "cip": null,
+            "explicit_hydrogens": 0,
+            "implicit_hydrogens": 2,
+            "radical_electrons": 0
+          },
+          "encoding_graph_atom_index_0": 0,
+          "source_atom_spelling": "N",
+          "source_atom_character_span": {
+            "zero_based_half_open": [
+              0,
+              1
+            ],
+            "one_based_inclusive": [
+              1,
+              1
+            ]
+          },
+          "source_element_character_span": {
+            "zero_based_half_open": [
+              0,
+              1
+            ],
+            "one_based_inclusive": [
+              1,
+              1
+            ]
+          },
+          "anchor_token_index_0_including_specials": 1,
+          "anchor_token_position_1_including_specials": 2,
+          "anchor_token_id": 23,
+          "anchor_token_spelling": "N",
+          "anchor_raw_character_span_0_half_open": [
+            0,
+            1
+          ],
+          "frozen_mapper_complete_atom_span_relation": "one_to_one",
+          "frozen_mapper_complete_atom_span_token_indices_0": [
+            1
+          ],
+          "all_model_tokens_overlapping_source_atom_span_0": [
+            1
+          ],
+          "source_atom_character_positions_missing_from_model_0": [],
+          "identity_lossy": false,
+          "lost_attributes": [],
+          "frozen_rule_lookup": {
+            "level": "radius_1",
+            "table_row_index_0": 2667,
+            "radius_0_key": "[7,0,false]",
+            "radius_1_key": "[[7,0,false,2,\"SP2\"],[[\"SINGLE\",[6,0,true,0,\"SP2\"]]]]"
+          },
+          "neurons": {
+            "293": {
+              "measured_post_gelu": -3.174841651798488e-07,
+              "frozen_rule_prediction": -0.00019944917999945738,
+              "measurement_availability": "archived_float32_atom_anchor_readout"
+            },
+            "454": {
+              "measured_post_gelu": -0.00118448946159333,
+              "frozen_rule_prediction": -0.0031276203541488207,
+              "measurement_availability": "archived_float32_atom_anchor_readout"
+            }
+          }
+        },
+        {
+          "canonical_atom_index_0": 1,
+          "canonical_atom_number_1": 2,
+          "element": "C",
+          "graph_properties": {
+            "atomic_number": 6,
+            "element": "C",
+            "isotope": 0,
+            "formal_charge": 0,
+            "aromatic": true,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "cip": null,
+            "explicit_hydrogens": 0,
+            "implicit_hydrogens": 0,
+            "radical_electrons": 0
+          },
+          "encoding_graph_atom_index_0": 1,
+          "source_atom_spelling": "c",
+          "source_atom_character_span": {
+            "zero_based_half_open": [
+              1,
+              2
+            ],
+            "one_based_inclusive": [
+              2,
+              2
+            ]
+          },
+          "source_element_character_span": {
+            "zero_based_half_open": [
+              1,
+              2
+            ],
+            "one_based_inclusive": [
+              2,
+              2
+            ]
+          },
+          "anchor_token_index_0_including_specials": 2,
+          "anchor_token_position_1_including_specials": 3,
+          "anchor_token_id": 15,
+          "anchor_token_spelling": "c",
+          "anchor_raw_character_span_0_half_open": [
+            1,
+            2
+          ],
+          "frozen_mapper_complete_atom_span_relation": "one_to_one",
+          "frozen_mapper_complete_atom_span_token_indices_0": [
+            2
+          ],
+          "all_model_tokens_overlapping_source_atom_span_0": [
+            2
+          ],
+          "source_atom_character_positions_missing_from_model_0": [],
+          "identity_lossy": false,
+          "lost_attributes": [],
+          "frozen_rule_lookup": {
+            "level": "radius_0_backoff",
+            "table_row_index_0": 17,
+            "radius_0_key": "[6,0,true]",
+            "radius_1_key": "[[6,0,true,0,\"SP2\"],[[\"AROMATIC\",[7,0,true,0,\"SP2\"]],[\"AROMATIC\",[7,0,true,1,\"SP2\"]],[\"SINGLE\",[7,0,false,2,\"SP2\"]]]]"
+          },
+          "neurons": {
+            "293": {
+              "measured_post_gelu": -0.0138828344643116,
+              "frozen_rule_prediction": -0.00047999828226100833,
+              "measurement_availability": "archived_float32_atom_anchor_readout"
+            },
+            "454": {
+              "measured_post_gelu": -0.06928350776433945,
+              "frozen_rule_prediction": -0.02025209154229255,
+              "measurement_availability": "archived_float32_atom_anchor_readout"
+            }
+          }
+        },
+        {
+          "canonical_atom_index_0": 2,
+          "canonical_atom_number_1": 3,
+          "element": "N",
+          "graph_properties": {
+            "atomic_number": 7,
+            "element": "N",
+            "isotope": 0,
+            "formal_charge": 0,
+            "aromatic": true,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "cip": null,
+            "explicit_hydrogens": 0,
+            "implicit_hydrogens": 0,
+            "radical_electrons": 0
+          },
+          "encoding_graph_atom_index_0": 2,
+          "source_atom_spelling": "n",
+          "source_atom_character_span": {
+            "zero_based_half_open": [
+              3,
+              4
+            ],
+            "one_based_inclusive": [
+              4,
+              4
+            ]
+          },
+          "source_element_character_span": {
+            "zero_based_half_open": [
+              3,
+              4
+            ],
+            "one_based_inclusive": [
+              4,
+              4
+            ]
+          },
+          "anchor_token_index_0_including_specials": 4,
+          "anchor_token_position_1_including_specials": 5,
+          "anchor_token_id": 25,
+          "anchor_token_spelling": "n",
+          "anchor_raw_character_span_0_half_open": [
+            3,
+            4
+          ],
+          "frozen_mapper_complete_atom_span_relation": "one_to_one",
+          "frozen_mapper_complete_atom_span_token_indices_0": [
+            4
+          ],
+          "all_model_tokens_overlapping_source_atom_span_0": [
+            4
+          ],
+          "source_atom_character_positions_missing_from_model_0": [],
+          "identity_lossy": false,
+          "lost_attributes": [],
+          "frozen_rule_lookup": {
+            "level": "radius_1",
+            "table_row_index_0": 2697,
+            "radius_0_key": "[7,0,true]",
+            "radius_1_key": "[[7,0,true,0,\"SP2\"],[[\"AROMATIC\",[6,0,true,0,\"SP2\"]],[\"AROMATIC\",[6,0,true,0,\"SP2\"]]]]"
+          },
+          "neurons": {
+            "293": {
+              "measured_post_gelu": -5.757845883636037e-06,
+              "frozen_rule_prediction": -0.0012725631124632178,
+              "measurement_availability": "archived_float32_atom_anchor_readout"
+            },
+            "454": {
+              "measured_post_gelu": 1.7041807174682617,
+              "frozen_rule_prediction": -0.024272458503198216,
+              "measurement_availability": "archived_float32_atom_anchor_readout"
+            }
+          }
+        },
+        {
+          "canonical_atom_index_0": 3,
+          "canonical_atom_number_1": 4,
+          "element": "C",
+          "graph_properties": {
+            "atomic_number": 6,
+            "element": "C",
+            "isotope": 0,
+            "formal_charge": 0,
+            "aromatic": true,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "cip": null,
+            "explicit_hydrogens": 0,
+            "implicit_hydrogens": 0,
+            "radical_electrons": 0
+          },
+          "encoding_graph_atom_index_0": 3,
+          "source_atom_spelling": "c",
+          "source_atom_character_span": {
+            "zero_based_half_open": [
+              4,
+              5
+            ],
+            "one_based_inclusive": [
+              5,
+              5
+            ]
+          },
+          "source_element_character_span": {
+            "zero_based_half_open": [
+              4,
+              5
+            ],
+            "one_based_inclusive": [
+              5,
+              5
+            ]
+          },
+          "anchor_token_index_0_including_specials": 5,
+          "anchor_token_position_1_including_specials": 6,
+          "anchor_token_id": 15,
+          "anchor_token_spelling": "c",
+          "anchor_raw_character_span_0_half_open": [
+            4,
+            5
+          ],
+          "frozen_mapper_complete_atom_span_relation": "one_to_one",
+          "frozen_mapper_complete_atom_span_token_indices_0": [
+            5
+          ],
+          "all_model_tokens_overlapping_source_atom_span_0": [
+            5
+          ],
+          "source_atom_character_positions_missing_from_model_0": [],
+          "identity_lossy": false,
+          "lost_attributes": [],
+          "frozen_rule_lookup": {
+            "level": "radius_1",
+            "table_row_index_0": 2304,
+            "radius_0_key": "[6,0,true]",
+            "radius_1_key": "[[6,0,true,0,\"SP2\"],[[\"AROMATIC\",[7,0,true,0,\"SP2\"]],[\"AROMATIC\",[7,0,true,0,\"SP2\"]],[\"SINGLE\",[7,0,false,1,\"SP2\"]]]]"
+          },
+          "neurons": {
+            "293": {
+              "measured_post_gelu": -0.0010118252830579877,
+              "frozen_rule_prediction": -0.0001182651911434658,
+              "measurement_availability": "archived_float32_atom_anchor_readout"
+            },
+            "454": {
+              "measured_post_gelu": -0.02833450771868229,
+              "frozen_rule_prediction": -0.010213106502331905,
+              "measurement_availability": "archived_float32_atom_anchor_readout"
+            }
+          }
+        },
+        {
+          "canonical_atom_index_0": 4,
+          "canonical_atom_number_1": 5,
+          "element": "N",
+          "graph_properties": {
+            "atomic_number": 7,
+            "element": "N",
+            "isotope": 0,
+            "formal_charge": 0,
+            "aromatic": false,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "cip": null,
+            "explicit_hydrogens": 0,
+            "implicit_hydrogens": 1,
+            "radical_electrons": 0
+          },
+          "encoding_graph_atom_index_0": 4,
+          "source_atom_spelling": "N",
+          "source_atom_character_span": {
+            "zero_based_half_open": [
+              6,
+              7
+            ],
+            "one_based_inclusive": [
+              7,
+              7
+            ]
+          },
+          "source_element_character_span": {
+            "zero_based_half_open": [
+              6,
+              7
+            ],
+            "one_based_inclusive": [
+              7,
+              7
+            ]
+          },
+          "anchor_token_index_0_including_specials": 7,
+          "anchor_token_position_1_including_specials": 8,
+          "anchor_token_id": 23,
+          "anchor_token_spelling": "N",
+          "anchor_raw_character_span_0_half_open": [
+            6,
+            7
+          ],
+          "frozen_mapper_complete_atom_span_relation": "one_to_one",
+          "frozen_mapper_complete_atom_span_token_indices_0": [
+            7
+          ],
+          "all_model_tokens_overlapping_source_atom_span_0": [
+            7
+          ],
+          "source_atom_character_positions_missing_from_model_0": [],
+          "identity_lossy": false,
+          "lost_attributes": [],
+          "frozen_rule_lookup": {
+            "level": "radius_1",
+            "table_row_index_0": 2617,
+            "radius_0_key": "[7,0,false]",
+            "radius_1_key": "[[7,0,false,1,\"SP2\"],[[\"SINGLE\",[6,0,false,2,\"SP3\"]],[\"SINGLE\",[6,0,true,0,\"SP2\"]]]]"
+          },
+          "neurons": {
+            "293": {
+              "measured_post_gelu": -0.0,
+              "frozen_rule_prediction": -0.0002710141117093175,
+              "measurement_availability": "archived_float32_atom_anchor_readout"
+            },
+            "454": {
+              "measured_post_gelu": -0.11496304720640182,
+              "frozen_rule_prediction": -0.054723419561443186,
+              "measurement_availability": "archived_float32_atom_anchor_readout"
+            }
+          }
+        },
+        {
+          "canonical_atom_index_0": 5,
+          "canonical_atom_number_1": 6,
+          "element": "C",
+          "graph_properties": {
+            "atomic_number": 6,
+            "element": "C",
+            "isotope": 0,
+            "formal_charge": 0,
+            "aromatic": false,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "cip": null,
+            "explicit_hydrogens": 0,
+            "implicit_hydrogens": 2,
+            "radical_electrons": 0
+          },
+          "encoding_graph_atom_index_0": 5,
+          "source_atom_spelling": "C",
+          "source_atom_character_span": {
+            "zero_based_half_open": [
+              7,
+              8
+            ],
+            "one_based_inclusive": [
+              8,
+              8
+            ]
+          },
+          "source_element_character_span": {
+            "zero_based_half_open": [
+              7,
+              8
+            ],
+            "one_based_inclusive": [
+              8,
+              8
+            ]
+          },
+          "anchor_token_index_0_including_specials": 8,
+          "anchor_token_position_1_including_specials": 9,
+          "anchor_token_id": 16,
+          "anchor_token_spelling": "C",
+          "anchor_raw_character_span_0_half_open": [
+            7,
+            8
+          ],
+          "frozen_mapper_complete_atom_span_relation": "one_to_one",
+          "frozen_mapper_complete_atom_span_token_indices_0": [
+            8
+          ],
+          "all_model_tokens_overlapping_source_atom_span_0": [
+            8
+          ],
+          "source_atom_character_positions_missing_from_model_0": [],
+          "identity_lossy": false,
+          "lost_attributes": [],
+          "frozen_rule_lookup": {
+            "level": "radius_1",
+            "table_row_index_0": 1878,
+            "radius_0_key": "[6,0,false]",
+            "radius_1_key": "[[6,0,false,2,\"SP3\"],[[\"SINGLE\",[6,0,false,2,\"SP3\"]],[\"SINGLE\",[7,0,false,1,\"SP2\"]]]]"
+          },
+          "neurons": {
+            "293": {
+              "measured_post_gelu": -0.01657261699438095,
+              "frozen_rule_prediction": 0.01902444492918838,
+              "measurement_availability": "archived_float32_atom_anchor_readout"
+            },
+            "454": {
+              "measured_post_gelu": -0.16558101773262024,
+              "frozen_rule_prediction": -0.023602529188401885,
+              "measurement_availability": "archived_float32_atom_anchor_readout"
+            }
+          }
+        },
+        {
+          "canonical_atom_index_0": 6,
+          "canonical_atom_number_1": 7,
+          "element": "C",
+          "graph_properties": {
+            "atomic_number": 6,
+            "element": "C",
+            "isotope": 0,
+            "formal_charge": 0,
+            "aromatic": false,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "cip": null,
+            "explicit_hydrogens": 0,
+            "implicit_hydrogens": 2,
+            "radical_electrons": 0
+          },
+          "encoding_graph_atom_index_0": 6,
+          "source_atom_spelling": "C",
+          "source_atom_character_span": {
+            "zero_based_half_open": [
+              8,
+              9
+            ],
+            "one_based_inclusive": [
+              9,
+              9
+            ]
+          },
+          "source_element_character_span": {
+            "zero_based_half_open": [
+              8,
+              9
+            ],
+            "one_based_inclusive": [
+              9,
+              9
+            ]
+          },
+          "anchor_token_index_0_including_specials": 9,
+          "anchor_token_position_1_including_specials": 10,
+          "anchor_token_id": 16,
+          "anchor_token_spelling": "C",
+          "anchor_raw_character_span_0_half_open": [
+            8,
+            9
+          ],
+          "frozen_mapper_complete_atom_span_relation": "one_to_one",
+          "frozen_mapper_complete_atom_span_token_indices_0": [
+            9
+          ],
+          "all_model_tokens_overlapping_source_atom_span_0": [
+            9
+          ],
+          "source_atom_character_positions_missing_from_model_0": [],
+          "identity_lossy": false,
+          "lost_attributes": [],
+          "frozen_rule_lookup": {
+            "level": "radius_1",
+            "table_row_index_0": 1889,
+            "radius_0_key": "[6,0,false]",
+            "radius_1_key": "[[6,0,false,2,\"SP3\"],[[\"SINGLE\",[6,0,false,2,\"SP3\"]],[\"SINGLE\",[8,0,false,0,\"SP3\"]]]]"
+          },
+          "neurons": {
+            "293": {
+              "measured_post_gelu": -0.010058395564556122,
+              "frozen_rule_prediction": 0.008491785667640245,
+              "measurement_availability": "archived_float32_atom_anchor_readout"
+            },
+            "454": {
+              "measured_post_gelu": -0.10032372921705246,
+              "frozen_rule_prediction": 0.003023210356661739,
+              "measurement_availability": "archived_float32_atom_anchor_readout"
+            }
+          }
+        },
+        {
+          "canonical_atom_index_0": 7,
+          "canonical_atom_number_1": 8,
+          "element": "O",
+          "graph_properties": {
+            "atomic_number": 8,
+            "element": "O",
+            "isotope": 0,
+            "formal_charge": 0,
+            "aromatic": false,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "cip": null,
+            "explicit_hydrogens": 0,
+            "implicit_hydrogens": 0,
+            "radical_electrons": 0
+          },
+          "encoding_graph_atom_index_0": 7,
+          "source_atom_spelling": "O",
+          "source_atom_character_span": {
+            "zero_based_half_open": [
+              9,
+              10
+            ],
+            "one_based_inclusive": [
+              10,
+              10
+            ]
+          },
+          "source_element_character_span": {
+            "zero_based_half_open": [
+              9,
+              10
+            ],
+            "one_based_inclusive": [
+              10,
+              10
+            ]
+          },
+          "anchor_token_index_0_including_specials": 10,
+          "anchor_token_position_1_including_specials": 11,
+          "anchor_token_id": 19,
+          "anchor_token_spelling": "O",
+          "anchor_raw_character_span_0_half_open": [
+            9,
+            10
+          ],
+          "frozen_mapper_complete_atom_span_relation": "one_to_one",
+          "frozen_mapper_complete_atom_span_token_indices_0": [
+            10
+          ],
+          "all_model_tokens_overlapping_source_atom_span_0": [
+            10
+          ],
+          "source_atom_character_positions_missing_from_model_0": [],
+          "identity_lossy": false,
+          "lost_attributes": [],
+          "frozen_rule_lookup": {
+            "level": "radius_1",
+            "table_row_index_0": 2933,
+            "radius_0_key": "[8,0,false]",
+            "radius_1_key": "[[8,0,false,0,\"SP3\"],[[\"SINGLE\",[6,0,false,2,\"SP3\"]],[\"SINGLE\",[6,0,false,2,\"SP3\"]]]]"
+          },
+          "neurons": {
+            "293": {
+              "measured_post_gelu": -0.0028413322288542986,
+              "frozen_rule_prediction": 0.010676548187993292,
+              "measurement_availability": "archived_float32_atom_anchor_readout"
+            },
+            "454": {
+              "measured_post_gelu": -0.01908431574702263,
+              "frozen_rule_prediction": 0.040917649827895794,
+              "measurement_availability": "archived_float32_atom_anchor_readout"
+            }
+          }
+        },
+        {
+          "canonical_atom_index_0": 8,
+          "canonical_atom_number_1": 9,
+          "element": "C",
+          "graph_properties": {
+            "atomic_number": 6,
+            "element": "C",
+            "isotope": 0,
+            "formal_charge": 0,
+            "aromatic": false,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "cip": null,
+            "explicit_hydrogens": 0,
+            "implicit_hydrogens": 2,
+            "radical_electrons": 0
+          },
+          "encoding_graph_atom_index_0": 8,
+          "source_atom_spelling": "C",
+          "source_atom_character_span": {
+            "zero_based_half_open": [
+              10,
+              11
+            ],
+            "one_based_inclusive": [
+              11,
+              11
+            ]
+          },
+          "source_element_character_span": {
+            "zero_based_half_open": [
+              10,
+              11
+            ],
+            "one_based_inclusive": [
+              11,
+              11
+            ]
+          },
+          "anchor_token_index_0_including_specials": 11,
+          "anchor_token_position_1_including_specials": 12,
+          "anchor_token_id": 16,
+          "anchor_token_spelling": "C",
+          "anchor_raw_character_span_0_half_open": [
+            10,
+            11
+          ],
+          "frozen_mapper_complete_atom_span_relation": "one_to_one",
+          "frozen_mapper_complete_atom_span_token_indices_0": [
+            11
+          ],
+          "all_model_tokens_overlapping_source_atom_span_0": [
+            11
+          ],
+          "source_atom_character_positions_missing_from_model_0": [],
+          "identity_lossy": false,
+          "lost_attributes": [],
+          "frozen_rule_lookup": {
+            "level": "radius_1",
+            "table_row_index_0": 1889,
+            "radius_0_key": "[6,0,false]",
+            "radius_1_key": "[[6,0,false,2,\"SP3\"],[[\"SINGLE\",[6,0,false,2,\"SP3\"]],[\"SINGLE\",[8,0,false,0,\"SP3\"]]]]"
+          },
+          "neurons": {
+            "293": {
+              "measured_post_gelu": 1.835964322090149,
+              "frozen_rule_prediction": 0.008491785667640245,
+              "measurement_availability": "archived_float32_atom_anchor_readout"
+            },
+            "454": {
+              "measured_post_gelu": -0.03734464943408966,
+              "frozen_rule_prediction": 0.003023210356661739,
+              "measurement_availability": "archived_float32_atom_anchor_readout"
+            }
+          }
+        },
+        {
+          "canonical_atom_index_0": 9,
+          "canonical_atom_number_1": 10,
+          "element": "C",
+          "graph_properties": {
+            "atomic_number": 6,
+            "element": "C",
+            "isotope": 0,
+            "formal_charge": 0,
+            "aromatic": false,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "cip": null,
+            "explicit_hydrogens": 0,
+            "implicit_hydrogens": 2,
+            "radical_electrons": 0
+          },
+          "encoding_graph_atom_index_0": 9,
+          "source_atom_spelling": "C",
+          "source_atom_character_span": {
+            "zero_based_half_open": [
+              11,
+              12
+            ],
+            "one_based_inclusive": [
+              12,
+              12
+            ]
+          },
+          "source_element_character_span": {
+            "zero_based_half_open": [
+              11,
+              12
+            ],
+            "one_based_inclusive": [
+              12,
+              12
+            ]
+          },
+          "anchor_token_index_0_including_specials": 12,
+          "anchor_token_position_1_including_specials": 13,
+          "anchor_token_id": 16,
+          "anchor_token_spelling": "C",
+          "anchor_raw_character_span_0_half_open": [
+            11,
+            12
+          ],
+          "frozen_mapper_complete_atom_span_relation": "one_to_one",
+          "frozen_mapper_complete_atom_span_token_indices_0": [
+            12
+          ],
+          "all_model_tokens_overlapping_source_atom_span_0": [
+            12
+          ],
+          "source_atom_character_positions_missing_from_model_0": [],
+          "identity_lossy": false,
+          "lost_attributes": [],
+          "frozen_rule_lookup": {
+            "level": "radius_1",
+            "table_row_index_0": 1890,
+            "radius_0_key": "[6,0,false]",
+            "radius_1_key": "[[6,0,false,2,\"SP3\"],[[\"SINGLE\",[6,0,false,2,\"SP3\"]],[\"SINGLE\",[8,0,false,1,\"SP3\"]]]]"
+          },
+          "neurons": {
+            "293": {
+              "measured_post_gelu": 7.7508955001831055,
+              "frozen_rule_prediction": 5.874680132104354,
+              "measurement_availability": "archived_float32_atom_anchor_readout"
+            },
+            "454": {
+              "measured_post_gelu": -0.07396265119314194,
+              "frozen_rule_prediction": -0.003444163066224904,
+              "measurement_availability": "archived_float32_atom_anchor_readout"
+            }
+          }
+        },
+        {
+          "canonical_atom_index_0": 10,
+          "canonical_atom_number_1": 11,
+          "element": "O",
+          "graph_properties": {
+            "atomic_number": 8,
+            "element": "O",
+            "isotope": 0,
+            "formal_charge": 0,
+            "aromatic": false,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "cip": null,
+            "explicit_hydrogens": 0,
+            "implicit_hydrogens": 1,
+            "radical_electrons": 0
+          },
+          "encoding_graph_atom_index_0": 10,
+          "source_atom_spelling": "O",
+          "source_atom_character_span": {
+            "zero_based_half_open": [
+              12,
+              13
+            ],
+            "one_based_inclusive": [
+              13,
+              13
+            ]
+          },
+          "source_element_character_span": {
+            "zero_based_half_open": [
+              12,
+              13
+            ],
+            "one_based_inclusive": [
+              13,
+              13
+            ]
+          },
+          "anchor_token_index_0_including_specials": 13,
+          "anchor_token_position_1_including_specials": 14,
+          "anchor_token_id": 19,
+          "anchor_token_spelling": "O",
+          "anchor_raw_character_span_0_half_open": [
+            12,
+            13
+          ],
+          "frozen_mapper_complete_atom_span_relation": "one_to_one",
+          "frozen_mapper_complete_atom_span_token_indices_0": [
+            13
+          ],
+          "all_model_tokens_overlapping_source_atom_span_0": [
+            13
+          ],
+          "source_atom_character_positions_missing_from_model_0": [],
+          "identity_lossy": false,
+          "lost_attributes": [],
+          "frozen_rule_lookup": {
+            "level": "radius_1",
+            "table_row_index_0": 2970,
+            "radius_0_key": "[8,0,false]",
+            "radius_1_key": "[[8,0,false,1,\"SP3\"],[[\"SINGLE\",[6,0,false,2,\"SP3\"]]]]"
+          },
+          "neurons": {
+            "293": {
+              "measured_post_gelu": 0.6323468089103699,
+              "frozen_rule_prediction": 0.17641280096120826,
+              "measurement_availability": "archived_float32_atom_anchor_readout"
+            },
+            "454": {
+              "measured_post_gelu": -0.012975293211638927,
+              "frozen_rule_prediction": 0.03762312396460578,
+              "measurement_availability": "archived_float32_atom_anchor_readout"
+            }
+          }
+        },
+        {
+          "canonical_atom_index_0": 11,
+          "canonical_atom_number_1": 12,
+          "element": "N",
+          "graph_properties": {
+            "atomic_number": 7,
+            "element": "N",
+            "isotope": 0,
+            "formal_charge": 0,
+            "aromatic": true,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "cip": null,
+            "explicit_hydrogens": 0,
+            "implicit_hydrogens": 0,
+            "radical_electrons": 0
+          },
+          "encoding_graph_atom_index_0": 11,
+          "source_atom_spelling": "n",
+          "source_atom_character_span": {
+            "zero_based_half_open": [
+              14,
+              15
+            ],
+            "one_based_inclusive": [
+              15,
+              15
+            ]
+          },
+          "source_element_character_span": {
+            "zero_based_half_open": [
+              14,
+              15
+            ],
+            "one_based_inclusive": [
+              15,
+              15
+            ]
+          },
+          "anchor_token_index_0_including_specials": 15,
+          "anchor_token_position_1_including_specials": 16,
+          "anchor_token_id": 25,
+          "anchor_token_spelling": "n",
+          "anchor_raw_character_span_0_half_open": [
+            14,
+            15
+          ],
+          "frozen_mapper_complete_atom_span_relation": "one_to_one",
+          "frozen_mapper_complete_atom_span_token_indices_0": [
+            15
+          ],
+          "all_model_tokens_overlapping_source_atom_span_0": [
+            15
+          ],
+          "source_atom_character_positions_missing_from_model_0": [],
+          "identity_lossy": false,
+          "lost_attributes": [],
+          "frozen_rule_lookup": {
+            "level": "radius_1",
+            "table_row_index_0": 2730,
+            "radius_0_key": "[7,0,true]",
+            "radius_1_key": "[[7,0,true,0,\"SP2\"],[[\"AROMATIC\",[6,0,true,0,\"SP2\"]],[\"AROMATIC\",[7,0,true,1,\"SP2\"]]]]"
+          },
+          "neurons": {
+            "293": {
+              "measured_post_gelu": -0.0,
+              "frozen_rule_prediction": -0.00272541924431323,
+              "measurement_availability": "archived_float32_atom_anchor_readout"
+            },
+            "454": {
+              "measured_post_gelu": -0.10658351331949234,
+              "frozen_rule_prediction": -0.06109735269687862,
+              "measurement_availability": "archived_float32_atom_anchor_readout"
+            }
+          }
+        },
+        {
+          "canonical_atom_index_0": 12,
+          "canonical_atom_number_1": 13,
+          "element": "N",
+          "graph_properties": {
+            "atomic_number": 7,
+            "element": "N",
+            "isotope": 0,
+            "formal_charge": 0,
+            "aromatic": true,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "cip": null,
+            "explicit_hydrogens": 1,
+            "implicit_hydrogens": 0,
+            "radical_electrons": 0
+          },
+          "encoding_graph_atom_index_0": 12,
+          "source_atom_spelling": "[nH]",
+          "source_atom_character_span": {
+            "zero_based_half_open": [
+              15,
+              19
+            ],
+            "one_based_inclusive": [
+              16,
+              19
+            ]
+          },
+          "source_element_character_span": {
+            "zero_based_half_open": [
+              16,
+              17
+            ],
+            "one_based_inclusive": [
+              17,
+              17
+            ]
+          },
+          "anchor_token_index_0_including_specials": 16,
+          "anchor_token_position_1_including_specials": 17,
+          "anchor_token_id": 25,
+          "anchor_token_spelling": "n",
+          "anchor_raw_character_span_0_half_open": [
+            16,
+            17
+          ],
+          "frozen_mapper_complete_atom_span_relation": "one_to_one",
+          "frozen_mapper_complete_atom_span_token_indices_0": [
+            16
+          ],
+          "all_model_tokens_overlapping_source_atom_span_0": [
+            16
+          ],
+          "source_atom_character_positions_missing_from_model_0": [
+            15,
+            17,
+            18
+          ],
+          "identity_lossy": true,
+          "lost_attributes": [
+            "explicit_hydrogens",
+            "bracket_boundaries"
+          ],
+          "frozen_rule_lookup": {
+            "level": "radius_1",
+            "table_row_index_0": 2762,
+            "radius_0_key": "[7,0,true]",
+            "radius_1_key": "[[7,0,true,1,\"SP2\"],[[\"AROMATIC\",[6,0,true,0,\"SP2\"]],[\"AROMATIC\",[7,0,true,0,\"SP2\"]]]]"
+          },
+          "neurons": {
+            "293": {
+              "measured_post_gelu": -0.0,
+              "frozen_rule_prediction": -0.0008737492526341432,
+              "measurement_availability": "archived_float32_atom_anchor_readout"
+            },
+            "454": {
+              "measured_post_gelu": -0.023379839956760406,
+              "frozen_rule_prediction": -0.048231643774262055,
+              "measurement_availability": "archived_float32_atom_anchor_readout"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "encoding_id": "rewrite_1",
+      "frozen_variant_index_0": 1,
+      "frozen_rewrite_generation_attempt": 0,
+      "smiles": "n1[nH]c(N)nc1NCCOCCO",
+      "string_length_characters": 20,
+      "canonical_to_encoding_atom_indices_0": [
+        3,
+        2,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        0,
+        1
+      ],
+      "encoding_to_canonical_atom_indices_0": [
+        11,
+        12,
+        1,
+        0,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "mapping_gate": "PASS_POSITIONAL_ELEMENT_ANCHOR",
+      "accepted": true,
+      "full_offset_status": "position-aligned",
+      "full_offset_errors": [],
+      "full_offset_invalid_tokens": [],
+      "input_fidelity": "lossy",
+      "identity_lossy": true,
+      "identity_lossy_canonical_atom_indices_0": [
+        12
+      ],
+      "missing_model_character_indices_0": [
+        2,
+        4,
+        5
+      ],
+      "cross_atom_token_indices_0": [],
+      "input_ids": [
+        12,
+        25,
+        20,
+        25,
+        15,
+        17,
+        23,
+        18,
+        25,
+        15,
+        20,
+        23,
+        16,
+        16,
+        19,
+        16,
+        16,
+        19,
+        13
+      ],
+      "special_tokens_mask": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "tokens": [
+        {
+          "token_index_0_including_specials": 0,
+          "token_position_1_including_specials": 1,
+          "token_id": 12,
+          "token_spelling": "[CLS]",
+          "is_special": true,
+          "attention_mask": 1,
+          "raw_character_offset_0_half_open": [
+            0,
+            0
+          ],
+          "overlapping_canonical_atom_indices_0": [],
+          "crosses_multiple_atom_spans": false,
+          "anchor_for_canonical_atom_indices_0": []
+        },
+        {
+          "token_index_0_including_specials": 1,
+          "token_position_1_including_specials": 2,
+          "token_id": 25,
+          "token_spelling": "n",
+          "is_special": false,
+          "attention_mask": 1,
+          "raw_character_offset_0_half_open": [
+            0,
+            1
+          ],
+          "overlapping_canonical_atom_indices_0": [
+            11
+          ],
+          "crosses_multiple_atom_spans": false,
+          "anchor_for_canonical_atom_indices_0": [
+            11
+          ]
+        },
+        {
+          "token_index_0_including_specials": 2,
+          "token_position_1_including_specials": 3,
+          "token_id": 20,
+          "token_spelling": "1",
+          "is_special": false,
+          "attention_mask": 1,
+          "raw_character_offset_0_half_open": [
+            1,
+            2
+          ],
+          "overlapping_canonical_atom_indices_0": [],
+          "crosses_multiple_atom_spans": false,
+          "anchor_for_canonical_atom_indices_0": []
+        },
+        {
+          "token_index_0_including_specials": 3,
+          "token_position_1_including_specials": 4,
+          "token_id": 25,
+          "token_spelling": "n",
+          "is_special": false,
+          "attention_mask": 1,
+          "raw_character_offset_0_half_open": [
+            3,
+            4
+          ],
+          "overlapping_canonical_atom_indices_0": [
+            12
+          ],
+          "crosses_multiple_atom_spans": false,
+          "anchor_for_canonical_atom_indices_0": [
+            12
+          ]
+        },
+        {
+          "token_index_0_including_specials": 4,
+          "token_position_1_including_specials": 5,
+          "token_id": 15,
+          "token_spelling": "c",
+          "is_special": false,
+          "attention_mask": 1,
+          "raw_character_offset_0_half_open": [
+            6,
+            7
+          ],
+          "overlapping_canonical_atom_indices_0": [
+            1
+          ],
+          "crosses_multiple_atom_spans": false,
+          "anchor_for_canonical_atom_indices_0": [
+            1
+          ]
+        },
+        {
+          "token_index_0_including_specials": 5,
+          "token_position_1_including_specials": 6,
+          "token_id": 17,
+          "token_spelling": "(",
+          "is_special": false,
+          "attention_mask": 1,
+          "raw_character_offset_0_half_open": [
+            7,
+            8
+          ],
+          "overlapping_canonical_atom_indices_0": [],
+          "crosses_multiple_atom_spans": false,
+          "anchor_for_canonical_atom_indices_0": []
+        },
+        {
+          "token_index_0_including_specials": 6,
+          "token_position_1_including_specials": 7,
+          "token_id": 23,
+          "token_spelling": "N",
+          "is_special": false,
+          "attention_mask": 1,
+          "raw_character_offset_0_half_open": [
+            8,
+            9
+          ],
+          "overlapping_canonical_atom_indices_0": [
+            0
+          ],
+          "crosses_multiple_atom_spans": false,
+          "anchor_for_canonical_atom_indices_0": [
+            0
+          ]
+        },
+        {
+          "token_index_0_including_specials": 7,
+          "token_position_1_including_specials": 8,
+          "token_id": 18,
+          "token_spelling": ")",
+          "is_special": false,
+          "attention_mask": 1,
+          "raw_character_offset_0_half_open": [
+            9,
+            10
+          ],
+          "overlapping_canonical_atom_indices_0": [],
+          "crosses_multiple_atom_spans": false,
+          "anchor_for_canonical_atom_indices_0": []
+        },
+        {
+          "token_index_0_including_specials": 8,
+          "token_position_1_including_specials": 9,
+          "token_id": 25,
+          "token_spelling": "n",
+          "is_special": false,
+          "attention_mask": 1,
+          "raw_character_offset_0_half_open": [
+            10,
+            11
+          ],
+          "overlapping_canonical_atom_indices_0": [
+            2
+          ],
+          "crosses_multiple_atom_spans": false,
+          "anchor_for_canonical_atom_indices_0": [
+            2
+          ]
+        },
+        {
+          "token_index_0_including_specials": 9,
+          "token_position_1_including_specials": 10,
+          "token_id": 15,
+          "token_spelling": "c",
+          "is_special": false,
+          "attention_mask": 1,
+          "raw_character_offset_0_half_open": [
+            11,
+            12
+          ],
+          "overlapping_canonical_atom_indices_0": [
+            3
+          ],
+          "crosses_multiple_atom_spans": false,
+          "anchor_for_canonical_atom_indices_0": [
+            3
+          ]
+        },
+        {
+          "token_index_0_including_specials": 10,
+          "token_position_1_including_specials": 11,
+          "token_id": 20,
+          "token_spelling": "1",
+          "is_special": false,
+          "attention_mask": 1,
+          "raw_character_offset_0_half_open": [
+            12,
+            13
+          ],
+          "overlapping_canonical_atom_indices_0": [],
+          "crosses_multiple_atom_spans": false,
+          "anchor_for_canonical_atom_indices_0": []
+        },
+        {
+          "token_index_0_including_specials": 11,
+          "token_position_1_including_specials": 12,
+          "token_id": 23,
+          "token_spelling": "N",
+          "is_special": false,
+          "attention_mask": 1,
+          "raw_character_offset_0_half_open": [
+            13,
+            14
+          ],
+          "overlapping_canonical_atom_indices_0": [
+            4
+          ],
+          "crosses_multiple_atom_spans": false,
+          "anchor_for_canonical_atom_indices_0": [
+            4
+          ]
+        },
+        {
+          "token_index_0_including_specials": 12,
+          "token_position_1_including_specials": 13,
+          "token_id": 16,
+          "token_spelling": "C",
+          "is_special": false,
+          "attention_mask": 1,
+          "raw_character_offset_0_half_open": [
+            14,
+            15
+          ],
+          "overlapping_canonical_atom_indices_0": [
+            5
+          ],
+          "crosses_multiple_atom_spans": false,
+          "anchor_for_canonical_atom_indices_0": [
+            5
+          ]
+        },
+        {
+          "token_index_0_including_specials": 13,
+          "token_position_1_including_specials": 14,
+          "token_id": 16,
+          "token_spelling": "C",
+          "is_special": false,
+          "attention_mask": 1,
+          "raw_character_offset_0_half_open": [
+            15,
+            16
+          ],
+          "overlapping_canonical_atom_indices_0": [
+            6
+          ],
+          "crosses_multiple_atom_spans": false,
+          "anchor_for_canonical_atom_indices_0": [
+            6
+          ]
+        },
+        {
+          "token_index_0_including_specials": 14,
+          "token_position_1_including_specials": 15,
+          "token_id": 19,
+          "token_spelling": "O",
+          "is_special": false,
+          "attention_mask": 1,
+          "raw_character_offset_0_half_open": [
+            16,
+            17
+          ],
+          "overlapping_canonical_atom_indices_0": [
+            7
+          ],
+          "crosses_multiple_atom_spans": false,
+          "anchor_for_canonical_atom_indices_0": [
+            7
+          ]
+        },
+        {
+          "token_index_0_including_specials": 15,
+          "token_position_1_including_specials": 16,
+          "token_id": 16,
+          "token_spelling": "C",
+          "is_special": false,
+          "attention_mask": 1,
+          "raw_character_offset_0_half_open": [
+            17,
+            18
+          ],
+          "overlapping_canonical_atom_indices_0": [
+            8
+          ],
+          "crosses_multiple_atom_spans": false,
+          "anchor_for_canonical_atom_indices_0": [
+            8
+          ]
+        },
+        {
+          "token_index_0_including_specials": 16,
+          "token_position_1_including_specials": 17,
+          "token_id": 16,
+          "token_spelling": "C",
+          "is_special": false,
+          "attention_mask": 1,
+          "raw_character_offset_0_half_open": [
+            18,
+            19
+          ],
+          "overlapping_canonical_atom_indices_0": [
+            9
+          ],
+          "crosses_multiple_atom_spans": false,
+          "anchor_for_canonical_atom_indices_0": [
+            9
+          ]
+        },
+        {
+          "token_index_0_including_specials": 17,
+          "token_position_1_including_specials": 18,
+          "token_id": 19,
+          "token_spelling": "O",
+          "is_special": false,
+          "attention_mask": 1,
+          "raw_character_offset_0_half_open": [
+            19,
+            20
+          ],
+          "overlapping_canonical_atom_indices_0": [
+            10
+          ],
+          "crosses_multiple_atom_spans": false,
+          "anchor_for_canonical_atom_indices_0": [
+            10
+          ]
+        },
+        {
+          "token_index_0_including_specials": 18,
+          "token_position_1_including_specials": 19,
+          "token_id": 13,
+          "token_spelling": "[SEP]",
+          "is_special": true,
+          "attention_mask": 1,
+          "raw_character_offset_0_half_open": [
+            0,
+            0
+          ],
+          "overlapping_canonical_atom_indices_0": [],
+          "crosses_multiple_atom_spans": false,
+          "anchor_for_canonical_atom_indices_0": []
+        }
+      ],
+      "characters": [
+        {
+          "character_index_0": 0,
+          "character_position_1": 1,
+          "character": "n",
+          "model_token_indices_0": [
+            1
+          ],
+          "status": "represented"
+        },
+        {
+          "character_index_0": 1,
+          "character_position_1": 2,
+          "character": "1",
+          "model_token_indices_0": [
+            2
+          ],
+          "status": "represented"
+        },
+        {
+          "character_index_0": 2,
+          "character_position_1": 3,
+          "character": "[",
+          "model_token_indices_0": null,
+          "status": "not_represented_by_any_model_token"
+        },
+        {
+          "character_index_0": 3,
+          "character_position_1": 4,
+          "character": "n",
+          "model_token_indices_0": [
+            3
+          ],
+          "status": "represented"
+        },
+        {
+          "character_index_0": 4,
+          "character_position_1": 5,
+          "character": "H",
+          "model_token_indices_0": null,
+          "status": "not_represented_by_any_model_token"
+        },
+        {
+          "character_index_0": 5,
+          "character_position_1": 6,
+          "character": "]",
+          "model_token_indices_0": null,
+          "status": "not_represented_by_any_model_token"
+        },
+        {
+          "character_index_0": 6,
+          "character_position_1": 7,
+          "character": "c",
+          "model_token_indices_0": [
+            4
+          ],
+          "status": "represented"
+        },
+        {
+          "character_index_0": 7,
+          "character_position_1": 8,
+          "character": "(",
+          "model_token_indices_0": [
+            5
+          ],
+          "status": "represented"
+        },
+        {
+          "character_index_0": 8,
+          "character_position_1": 9,
+          "character": "N",
+          "model_token_indices_0": [
+            6
+          ],
+          "status": "represented"
+        },
+        {
+          "character_index_0": 9,
+          "character_position_1": 10,
+          "character": ")",
+          "model_token_indices_0": [
+            7
+          ],
+          "status": "represented"
+        },
+        {
+          "character_index_0": 10,
+          "character_position_1": 11,
+          "character": "n",
+          "model_token_indices_0": [
+            8
+          ],
+          "status": "represented"
+        },
+        {
+          "character_index_0": 11,
+          "character_position_1": 12,
+          "character": "c",
+          "model_token_indices_0": [
+            9
+          ],
+          "status": "represented"
+        },
+        {
+          "character_index_0": 12,
+          "character_position_1": 13,
+          "character": "1",
+          "model_token_indices_0": [
+            10
+          ],
+          "status": "represented"
+        },
+        {
+          "character_index_0": 13,
+          "character_position_1": 14,
+          "character": "N",
+          "model_token_indices_0": [
+            11
+          ],
+          "status": "represented"
+        },
+        {
+          "character_index_0": 14,
+          "character_position_1": 15,
+          "character": "C",
+          "model_token_indices_0": [
+            12
+          ],
+          "status": "represented"
+        },
+        {
+          "character_index_0": 15,
+          "character_position_1": 16,
+          "character": "C",
+          "model_token_indices_0": [
+            13
+          ],
+          "status": "represented"
+        },
+        {
+          "character_index_0": 16,
+          "character_position_1": 17,
+          "character": "O",
+          "model_token_indices_0": [
+            14
+          ],
+          "status": "represented"
+        },
+        {
+          "character_index_0": 17,
+          "character_position_1": 18,
+          "character": "C",
+          "model_token_indices_0": [
+            15
+          ],
+          "status": "represented"
+        },
+        {
+          "character_index_0": 18,
+          "character_position_1": 19,
+          "character": "C",
+          "model_token_indices_0": [
+            16
+          ],
+          "status": "represented"
+        },
+        {
+          "character_index_0": 19,
+          "character_position_1": 20,
+          "character": "O",
+          "model_token_indices_0": [
+            17
+          ],
+          "status": "represented"
+        }
+      ],
+      "atoms_in_canonical_order": [
+        {
+          "canonical_atom_index_0": 0,
+          "canonical_atom_number_1": 1,
+          "element": "N",
+          "graph_properties": {
+            "atomic_number": 7,
+            "element": "N",
+            "isotope": 0,
+            "formal_charge": 0,
+            "aromatic": false,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "cip": null,
+            "explicit_hydrogens": 0,
+            "implicit_hydrogens": 2,
+            "radical_electrons": 0
+          },
+          "encoding_graph_atom_index_0": 3,
+          "source_atom_spelling": "N",
+          "source_atom_character_span": {
+            "zero_based_half_open": [
+              8,
+              9
+            ],
+            "one_based_inclusive": [
+              9,
+              9
+            ]
+          },
+          "source_element_character_span": {
+            "zero_based_half_open": [
+              8,
+              9
+            ],
+            "one_based_inclusive": [
+              9,
+              9
+            ]
+          },
+          "anchor_token_index_0_including_specials": 6,
+          "anchor_token_position_1_including_specials": 7,
+          "anchor_token_id": 23,
+          "anchor_token_spelling": "N",
+          "anchor_raw_character_span_0_half_open": [
+            8,
+            9
+          ],
+          "frozen_mapper_complete_atom_span_relation": "one_to_one",
+          "frozen_mapper_complete_atom_span_token_indices_0": [
+            6
+          ],
+          "all_model_tokens_overlapping_source_atom_span_0": [
+            6
+          ],
+          "source_atom_character_positions_missing_from_model_0": [],
+          "identity_lossy": false,
+          "lost_attributes": [],
+          "frozen_rule_lookup": {
+            "level": "radius_1",
+            "table_row_index_0": 2667,
+            "radius_0_key": "[7,0,false]",
+            "radius_1_key": "[[7,0,false,2,\"SP2\"],[[\"SINGLE\",[6,0,true,0,\"SP2\"]]]]"
+          },
+          "neurons": {
+            "293": {
+              "measured_post_gelu": -0.0,
+              "frozen_rule_prediction": -0.00019944917999945738,
+              "measurement_availability": "archived_float32_atom_anchor_readout"
+            },
+            "454": {
+              "measured_post_gelu": -0.0534571036696434,
+              "frozen_rule_prediction": -0.0031276203541488207,
+              "measurement_availability": "archived_float32_atom_anchor_readout"
+            }
+          }
+        },
+        {
+          "canonical_atom_index_0": 1,
+          "canonical_atom_number_1": 2,
+          "element": "C",
+          "graph_properties": {
+            "atomic_number": 6,
+            "element": "C",
+            "isotope": 0,
+            "formal_charge": 0,
+            "aromatic": true,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "cip": null,
+            "explicit_hydrogens": 0,
+            "implicit_hydrogens": 0,
+            "radical_electrons": 0
+          },
+          "encoding_graph_atom_index_0": 2,
+          "source_atom_spelling": "c",
+          "source_atom_character_span": {
+            "zero_based_half_open": [
+              6,
+              7
+            ],
+            "one_based_inclusive": [
+              7,
+              7
+            ]
+          },
+          "source_element_character_span": {
+            "zero_based_half_open": [
+              6,
+              7
+            ],
+            "one_based_inclusive": [
+              7,
+              7
+            ]
+          },
+          "anchor_token_index_0_including_specials": 4,
+          "anchor_token_position_1_including_specials": 5,
+          "anchor_token_id": 15,
+          "anchor_token_spelling": "c",
+          "anchor_raw_character_span_0_half_open": [
+            6,
+            7
+          ],
+          "frozen_mapper_complete_atom_span_relation": "one_to_one",
+          "frozen_mapper_complete_atom_span_token_indices_0": [
+            4
+          ],
+          "all_model_tokens_overlapping_source_atom_span_0": [
+            4
+          ],
+          "source_atom_character_positions_missing_from_model_0": [],
+          "identity_lossy": false,
+          "lost_attributes": [],
+          "frozen_rule_lookup": {
+            "level": "radius_0_backoff",
+            "table_row_index_0": 17,
+            "radius_0_key": "[6,0,true]",
+            "radius_1_key": "[[6,0,true,0,\"SP2\"],[[\"AROMATIC\",[7,0,true,0,\"SP2\"]],[\"AROMATIC\",[7,0,true,1,\"SP2\"]],[\"SINGLE\",[7,0,false,2,\"SP2\"]]]]"
+          },
+          "neurons": {
+            "293": {
+              "measured_post_gelu": -6.725582352373749e-05,
+              "frozen_rule_prediction": -0.00047999828226100833,
+              "measurement_availability": "archived_float32_atom_anchor_readout"
+            },
+            "454": {
+              "measured_post_gelu": -0.04804370924830437,
+              "frozen_rule_prediction": -0.02025209154229255,
+              "measurement_availability": "archived_float32_atom_anchor_readout"
+            }
+          }
+        },
+        {
+          "canonical_atom_index_0": 2,
+          "canonical_atom_number_1": 3,
+          "element": "N",
+          "graph_properties": {
+            "atomic_number": 7,
+            "element": "N",
+            "isotope": 0,
+            "formal_charge": 0,
+            "aromatic": true,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "cip": null,
+            "explicit_hydrogens": 0,
+            "implicit_hydrogens": 0,
+            "radical_electrons": 0
+          },
+          "encoding_graph_atom_index_0": 4,
+          "source_atom_spelling": "n",
+          "source_atom_character_span": {
+            "zero_based_half_open": [
+              10,
+              11
+            ],
+            "one_based_inclusive": [
+              11,
+              11
+            ]
+          },
+          "source_element_character_span": {
+            "zero_based_half_open": [
+              10,
+              11
+            ],
+            "one_based_inclusive": [
+              11,
+              11
+            ]
+          },
+          "anchor_token_index_0_including_specials": 8,
+          "anchor_token_position_1_including_specials": 9,
+          "anchor_token_id": 25,
+          "anchor_token_spelling": "n",
+          "anchor_raw_character_span_0_half_open": [
+            10,
+            11
+          ],
+          "frozen_mapper_complete_atom_span_relation": "one_to_one",
+          "frozen_mapper_complete_atom_span_token_indices_0": [
+            8
+          ],
+          "all_model_tokens_overlapping_source_atom_span_0": [
+            8
+          ],
+          "source_atom_character_positions_missing_from_model_0": [],
+          "identity_lossy": false,
+          "lost_attributes": [],
+          "frozen_rule_lookup": {
+            "level": "radius_1",
+            "table_row_index_0": 2697,
+            "radius_0_key": "[7,0,true]",
+            "radius_1_key": "[[7,0,true,0,\"SP2\"],[[\"AROMATIC\",[6,0,true,0,\"SP2\"]],[\"AROMATIC\",[6,0,true,0,\"SP2\"]]]]"
+          },
+          "neurons": {
+            "293": {
+              "measured_post_gelu": -0.0,
+              "frozen_rule_prediction": -0.0012725631124632178,
+              "measurement_availability": "archived_float32_atom_anchor_readout"
+            },
+            "454": {
+              "measured_post_gelu": -0.15093550086021423,
+              "frozen_rule_prediction": -0.024272458503198216,
+              "measurement_availability": "archived_float32_atom_anchor_readout"
+            }
+          }
+        },
+        {
+          "canonical_atom_index_0": 3,
+          "canonical_atom_number_1": 4,
+          "element": "C",
+          "graph_properties": {
+            "atomic_number": 6,
+            "element": "C",
+            "isotope": 0,
+            "formal_charge": 0,
+            "aromatic": true,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "cip": null,
+            "explicit_hydrogens": 0,
+            "implicit_hydrogens": 0,
+            "radical_electrons": 0
+          },
+          "encoding_graph_atom_index_0": 5,
+          "source_atom_spelling": "c",
+          "source_atom_character_span": {
+            "zero_based_half_open": [
+              11,
+              12
+            ],
+            "one_based_inclusive": [
+              12,
+              12
+            ]
+          },
+          "source_element_character_span": {
+            "zero_based_half_open": [
+              11,
+              12
+            ],
+            "one_based_inclusive": [
+              12,
+              12
+            ]
+          },
+          "anchor_token_index_0_including_specials": 9,
+          "anchor_token_position_1_including_specials": 10,
+          "anchor_token_id": 15,
+          "anchor_token_spelling": "c",
+          "anchor_raw_character_span_0_half_open": [
+            11,
+            12
+          ],
+          "frozen_mapper_complete_atom_span_relation": "one_to_one",
+          "frozen_mapper_complete_atom_span_token_indices_0": [
+            9
+          ],
+          "all_model_tokens_overlapping_source_atom_span_0": [
+            9
+          ],
+          "source_atom_character_positions_missing_from_model_0": [],
+          "identity_lossy": false,
+          "lost_attributes": [],
+          "frozen_rule_lookup": {
+            "level": "radius_1",
+            "table_row_index_0": 2304,
+            "radius_0_key": "[6,0,true]",
+            "radius_1_key": "[[6,0,true,0,\"SP2\"],[[\"AROMATIC\",[7,0,true,0,\"SP2\"]],[\"AROMATIC\",[7,0,true,0,\"SP2\"]],[\"SINGLE\",[7,0,false,1,\"SP2\"]]]]"
+          },
+          "neurons": {
+            "293": {
+              "measured_post_gelu": -0.000733373046386987,
+              "frozen_rule_prediction": -0.0001182651911434658,
+              "measurement_availability": "archived_float32_atom_anchor_readout"
+            },
+            "454": {
+              "measured_post_gelu": -0.0278148353099823,
+              "frozen_rule_prediction": -0.010213106502331905,
+              "measurement_availability": "archived_float32_atom_anchor_readout"
+            }
+          }
+        },
+        {
+          "canonical_atom_index_0": 4,
+          "canonical_atom_number_1": 5,
+          "element": "N",
+          "graph_properties": {
+            "atomic_number": 7,
+            "element": "N",
+            "isotope": 0,
+            "formal_charge": 0,
+            "aromatic": false,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "cip": null,
+            "explicit_hydrogens": 0,
+            "implicit_hydrogens": 1,
+            "radical_electrons": 0
+          },
+          "encoding_graph_atom_index_0": 6,
+          "source_atom_spelling": "N",
+          "source_atom_character_span": {
+            "zero_based_half_open": [
+              13,
+              14
+            ],
+            "one_based_inclusive": [
+              14,
+              14
+            ]
+          },
+          "source_element_character_span": {
+            "zero_based_half_open": [
+              13,
+              14
+            ],
+            "one_based_inclusive": [
+              14,
+              14
+            ]
+          },
+          "anchor_token_index_0_including_specials": 11,
+          "anchor_token_position_1_including_specials": 12,
+          "anchor_token_id": 23,
+          "anchor_token_spelling": "N",
+          "anchor_raw_character_span_0_half_open": [
+            13,
+            14
+          ],
+          "frozen_mapper_complete_atom_span_relation": "one_to_one",
+          "frozen_mapper_complete_atom_span_token_indices_0": [
+            11
+          ],
+          "all_model_tokens_overlapping_source_atom_span_0": [
+            11
+          ],
+          "source_atom_character_positions_missing_from_model_0": [],
+          "identity_lossy": false,
+          "lost_attributes": [],
+          "frozen_rule_lookup": {
+            "level": "radius_1",
+            "table_row_index_0": 2617,
+            "radius_0_key": "[7,0,false]",
+            "radius_1_key": "[[7,0,false,1,\"SP2\"],[[\"SINGLE\",[6,0,false,2,\"SP3\"]],[\"SINGLE\",[6,0,true,0,\"SP2\"]]]]"
+          },
+          "neurons": {
+            "293": {
+              "measured_post_gelu": -0.0,
+              "frozen_rule_prediction": -0.0002710141117093175,
+              "measurement_availability": "archived_float32_atom_anchor_readout"
+            },
+            "454": {
+              "measured_post_gelu": -0.1698763072490692,
+              "frozen_rule_prediction": -0.054723419561443186,
+              "measurement_availability": "archived_float32_atom_anchor_readout"
+            }
+          }
+        },
+        {
+          "canonical_atom_index_0": 5,
+          "canonical_atom_number_1": 6,
+          "element": "C",
+          "graph_properties": {
+            "atomic_number": 6,
+            "element": "C",
+            "isotope": 0,
+            "formal_charge": 0,
+            "aromatic": false,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "cip": null,
+            "explicit_hydrogens": 0,
+            "implicit_hydrogens": 2,
+            "radical_electrons": 0
+          },
+          "encoding_graph_atom_index_0": 7,
+          "source_atom_spelling": "C",
+          "source_atom_character_span": {
+            "zero_based_half_open": [
+              14,
+              15
+            ],
+            "one_based_inclusive": [
+              15,
+              15
+            ]
+          },
+          "source_element_character_span": {
+            "zero_based_half_open": [
+              14,
+              15
+            ],
+            "one_based_inclusive": [
+              15,
+              15
+            ]
+          },
+          "anchor_token_index_0_including_specials": 12,
+          "anchor_token_position_1_including_specials": 13,
+          "anchor_token_id": 16,
+          "anchor_token_spelling": "C",
+          "anchor_raw_character_span_0_half_open": [
+            14,
+            15
+          ],
+          "frozen_mapper_complete_atom_span_relation": "one_to_one",
+          "frozen_mapper_complete_atom_span_token_indices_0": [
+            12
+          ],
+          "all_model_tokens_overlapping_source_atom_span_0": [
+            12
+          ],
+          "source_atom_character_positions_missing_from_model_0": [],
+          "identity_lossy": false,
+          "lost_attributes": [],
+          "frozen_rule_lookup": {
+            "level": "radius_1",
+            "table_row_index_0": 1878,
+            "radius_0_key": "[6,0,false]",
+            "radius_1_key": "[[6,0,false,2,\"SP3\"],[[\"SINGLE\",[6,0,false,2,\"SP3\"]],[\"SINGLE\",[7,0,false,1,\"SP2\"]]]]"
+          },
+          "neurons": {
+            "293": {
+              "measured_post_gelu": -0.03298496454954147,
+              "frozen_rule_prediction": 0.01902444492918838,
+              "measurement_availability": "archived_float32_atom_anchor_readout"
+            },
+            "454": {
+              "measured_post_gelu": -0.16948187351226807,
+              "frozen_rule_prediction": -0.023602529188401885,
+              "measurement_availability": "archived_float32_atom_anchor_readout"
+            }
+          }
+        },
+        {
+          "canonical_atom_index_0": 6,
+          "canonical_atom_number_1": 7,
+          "element": "C",
+          "graph_properties": {
+            "atomic_number": 6,
+            "element": "C",
+            "isotope": 0,
+            "formal_charge": 0,
+            "aromatic": false,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "cip": null,
+            "explicit_hydrogens": 0,
+            "implicit_hydrogens": 2,
+            "radical_electrons": 0
+          },
+          "encoding_graph_atom_index_0": 8,
+          "source_atom_spelling": "C",
+          "source_atom_character_span": {
+            "zero_based_half_open": [
+              15,
+              16
+            ],
+            "one_based_inclusive": [
+              16,
+              16
+            ]
+          },
+          "source_element_character_span": {
+            "zero_based_half_open": [
+              15,
+              16
+            ],
+            "one_based_inclusive": [
+              16,
+              16
+            ]
+          },
+          "anchor_token_index_0_including_specials": 13,
+          "anchor_token_position_1_including_specials": 14,
+          "anchor_token_id": 16,
+          "anchor_token_spelling": "C",
+          "anchor_raw_character_span_0_half_open": [
+            15,
+            16
+          ],
+          "frozen_mapper_complete_atom_span_relation": "one_to_one",
+          "frozen_mapper_complete_atom_span_token_indices_0": [
+            13
+          ],
+          "all_model_tokens_overlapping_source_atom_span_0": [
+            13
+          ],
+          "source_atom_character_positions_missing_from_model_0": [],
+          "identity_lossy": false,
+          "lost_attributes": [],
+          "frozen_rule_lookup": {
+            "level": "radius_1",
+            "table_row_index_0": 1889,
+            "radius_0_key": "[6,0,false]",
+            "radius_1_key": "[[6,0,false,2,\"SP3\"],[[\"SINGLE\",[6,0,false,2,\"SP3\"]],[\"SINGLE\",[8,0,false,0,\"SP3\"]]]]"
+          },
+          "neurons": {
+            "293": {
+              "measured_post_gelu": -0.005166193004697561,
+              "frozen_rule_prediction": 0.008491785667640245,
+              "measurement_availability": "archived_float32_atom_anchor_readout"
+            },
+            "454": {
+              "measured_post_gelu": -0.08491048216819763,
+              "frozen_rule_prediction": 0.003023210356661739,
+              "measurement_availability": "archived_float32_atom_anchor_readout"
+            }
+          }
+        },
+        {
+          "canonical_atom_index_0": 7,
+          "canonical_atom_number_1": 8,
+          "element": "O",
+          "graph_properties": {
+            "atomic_number": 8,
+            "element": "O",
+            "isotope": 0,
+            "formal_charge": 0,
+            "aromatic": false,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "cip": null,
+            "explicit_hydrogens": 0,
+            "implicit_hydrogens": 0,
+            "radical_electrons": 0
+          },
+          "encoding_graph_atom_index_0": 9,
+          "source_atom_spelling": "O",
+          "source_atom_character_span": {
+            "zero_based_half_open": [
+              16,
+              17
+            ],
+            "one_based_inclusive": [
+              17,
+              17
+            ]
+          },
+          "source_element_character_span": {
+            "zero_based_half_open": [
+              16,
+              17
+            ],
+            "one_based_inclusive": [
+              17,
+              17
+            ]
+          },
+          "anchor_token_index_0_including_specials": 14,
+          "anchor_token_position_1_including_specials": 15,
+          "anchor_token_id": 19,
+          "anchor_token_spelling": "O",
+          "anchor_raw_character_span_0_half_open": [
+            16,
+            17
+          ],
+          "frozen_mapper_complete_atom_span_relation": "one_to_one",
+          "frozen_mapper_complete_atom_span_token_indices_0": [
+            14
+          ],
+          "all_model_tokens_overlapping_source_atom_span_0": [
+            14
+          ],
+          "source_atom_character_positions_missing_from_model_0": [],
+          "identity_lossy": false,
+          "lost_attributes": [],
+          "frozen_rule_lookup": {
+            "level": "radius_1",
+            "table_row_index_0": 2933,
+            "radius_0_key": "[8,0,false]",
+            "radius_1_key": "[[8,0,false,0,\"SP3\"],[[\"SINGLE\",[6,0,false,2,\"SP3\"]],[\"SINGLE\",[6,0,false,2,\"SP3\"]]]]"
+          },
+          "neurons": {
+            "293": {
+              "measured_post_gelu": -0.0062476652674376965,
+              "frozen_rule_prediction": 0.010676548187993292,
+              "measurement_availability": "archived_float32_atom_anchor_readout"
+            },
+            "454": {
+              "measured_post_gelu": -0.01834394410252571,
+              "frozen_rule_prediction": 0.040917649827895794,
+              "measurement_availability": "archived_float32_atom_anchor_readout"
+            }
+          }
+        },
+        {
+          "canonical_atom_index_0": 8,
+          "canonical_atom_number_1": 9,
+          "element": "C",
+          "graph_properties": {
+            "atomic_number": 6,
+            "element": "C",
+            "isotope": 0,
+            "formal_charge": 0,
+            "aromatic": false,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "cip": null,
+            "explicit_hydrogens": 0,
+            "implicit_hydrogens": 2,
+            "radical_electrons": 0
+          },
+          "encoding_graph_atom_index_0": 10,
+          "source_atom_spelling": "C",
+          "source_atom_character_span": {
+            "zero_based_half_open": [
+              17,
+              18
+            ],
+            "one_based_inclusive": [
+              18,
+              18
+            ]
+          },
+          "source_element_character_span": {
+            "zero_based_half_open": [
+              17,
+              18
+            ],
+            "one_based_inclusive": [
+              18,
+              18
+            ]
+          },
+          "anchor_token_index_0_including_specials": 15,
+          "anchor_token_position_1_including_specials": 16,
+          "anchor_token_id": 16,
+          "anchor_token_spelling": "C",
+          "anchor_raw_character_span_0_half_open": [
+            17,
+            18
+          ],
+          "frozen_mapper_complete_atom_span_relation": "one_to_one",
+          "frozen_mapper_complete_atom_span_token_indices_0": [
+            15
+          ],
+          "all_model_tokens_overlapping_source_atom_span_0": [
+            15
+          ],
+          "source_atom_character_positions_missing_from_model_0": [],
+          "identity_lossy": false,
+          "lost_attributes": [],
+          "frozen_rule_lookup": {
+            "level": "radius_1",
+            "table_row_index_0": 1889,
+            "radius_0_key": "[6,0,false]",
+            "radius_1_key": "[[6,0,false,2,\"SP3\"],[[\"SINGLE\",[6,0,false,2,\"SP3\"]],[\"SINGLE\",[8,0,false,0,\"SP3\"]]]]"
+          },
+          "neurons": {
+            "293": {
+              "measured_post_gelu": 2.1757051944732666,
+              "frozen_rule_prediction": 0.008491785667640245,
+              "measurement_availability": "archived_float32_atom_anchor_readout"
+            },
+            "454": {
+              "measured_post_gelu": -0.024788856506347656,
+              "frozen_rule_prediction": 0.003023210356661739,
+              "measurement_availability": "archived_float32_atom_anchor_readout"
+            }
+          }
+        },
+        {
+          "canonical_atom_index_0": 9,
+          "canonical_atom_number_1": 10,
+          "element": "C",
+          "graph_properties": {
+            "atomic_number": 6,
+            "element": "C",
+            "isotope": 0,
+            "formal_charge": 0,
+            "aromatic": false,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "cip": null,
+            "explicit_hydrogens": 0,
+            "implicit_hydrogens": 2,
+            "radical_electrons": 0
+          },
+          "encoding_graph_atom_index_0": 11,
+          "source_atom_spelling": "C",
+          "source_atom_character_span": {
+            "zero_based_half_open": [
+              18,
+              19
+            ],
+            "one_based_inclusive": [
+              19,
+              19
+            ]
+          },
+          "source_element_character_span": {
+            "zero_based_half_open": [
+              18,
+              19
+            ],
+            "one_based_inclusive": [
+              19,
+              19
+            ]
+          },
+          "anchor_token_index_0_including_specials": 16,
+          "anchor_token_position_1_including_specials": 17,
+          "anchor_token_id": 16,
+          "anchor_token_spelling": "C",
+          "anchor_raw_character_span_0_half_open": [
+            18,
+            19
+          ],
+          "frozen_mapper_complete_atom_span_relation": "one_to_one",
+          "frozen_mapper_complete_atom_span_token_indices_0": [
+            16
+          ],
+          "all_model_tokens_overlapping_source_atom_span_0": [
+            16
+          ],
+          "source_atom_character_positions_missing_from_model_0": [],
+          "identity_lossy": false,
+          "lost_attributes": [],
+          "frozen_rule_lookup": {
+            "level": "radius_1",
+            "table_row_index_0": 1890,
+            "radius_0_key": "[6,0,false]",
+            "radius_1_key": "[[6,0,false,2,\"SP3\"],[[\"SINGLE\",[6,0,false,2,\"SP3\"]],[\"SINGLE\",[8,0,false,1,\"SP3\"]]]]"
+          },
+          "neurons": {
+            "293": {
+              "measured_post_gelu": 7.243037223815918,
+              "frozen_rule_prediction": 5.874680132104354,
+              "measurement_availability": "archived_float32_atom_anchor_readout"
+            },
+            "454": {
+              "measured_post_gelu": -0.04392775520682335,
+              "frozen_rule_prediction": -0.003444163066224904,
+              "measurement_availability": "archived_float32_atom_anchor_readout"
+            }
+          }
+        },
+        {
+          "canonical_atom_index_0": 10,
+          "canonical_atom_number_1": 11,
+          "element": "O",
+          "graph_properties": {
+            "atomic_number": 8,
+            "element": "O",
+            "isotope": 0,
+            "formal_charge": 0,
+            "aromatic": false,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "cip": null,
+            "explicit_hydrogens": 0,
+            "implicit_hydrogens": 1,
+            "radical_electrons": 0
+          },
+          "encoding_graph_atom_index_0": 12,
+          "source_atom_spelling": "O",
+          "source_atom_character_span": {
+            "zero_based_half_open": [
+              19,
+              20
+            ],
+            "one_based_inclusive": [
+              20,
+              20
+            ]
+          },
+          "source_element_character_span": {
+            "zero_based_half_open": [
+              19,
+              20
+            ],
+            "one_based_inclusive": [
+              20,
+              20
+            ]
+          },
+          "anchor_token_index_0_including_specials": 17,
+          "anchor_token_position_1_including_specials": 18,
+          "anchor_token_id": 19,
+          "anchor_token_spelling": "O",
+          "anchor_raw_character_span_0_half_open": [
+            19,
+            20
+          ],
+          "frozen_mapper_complete_atom_span_relation": "one_to_one",
+          "frozen_mapper_complete_atom_span_token_indices_0": [
+            17
+          ],
+          "all_model_tokens_overlapping_source_atom_span_0": [
+            17
+          ],
+          "source_atom_character_positions_missing_from_model_0": [],
+          "identity_lossy": false,
+          "lost_attributes": [],
+          "frozen_rule_lookup": {
+            "level": "radius_1",
+            "table_row_index_0": 2970,
+            "radius_0_key": "[8,0,false]",
+            "radius_1_key": "[[8,0,false,1,\"SP3\"],[[\"SINGLE\",[6,0,false,2,\"SP3\"]]]]"
+          },
+          "neurons": {
+            "293": {
+              "measured_post_gelu": 0.1712614744901657,
+              "frozen_rule_prediction": 0.17641280096120826,
+              "measurement_availability": "archived_float32_atom_anchor_readout"
+            },
+            "454": {
+              "measured_post_gelu": -0.01342580746859312,
+              "frozen_rule_prediction": 0.03762312396460578,
+              "measurement_availability": "archived_float32_atom_anchor_readout"
+            }
+          }
+        },
+        {
+          "canonical_atom_index_0": 11,
+          "canonical_atom_number_1": 12,
+          "element": "N",
+          "graph_properties": {
+            "atomic_number": 7,
+            "element": "N",
+            "isotope": 0,
+            "formal_charge": 0,
+            "aromatic": true,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "cip": null,
+            "explicit_hydrogens": 0,
+            "implicit_hydrogens": 0,
+            "radical_electrons": 0
+          },
+          "encoding_graph_atom_index_0": 0,
+          "source_atom_spelling": "n",
+          "source_atom_character_span": {
+            "zero_based_half_open": [
+              0,
+              1
+            ],
+            "one_based_inclusive": [
+              1,
+              1
+            ]
+          },
+          "source_element_character_span": {
+            "zero_based_half_open": [
+              0,
+              1
+            ],
+            "one_based_inclusive": [
+              1,
+              1
+            ]
+          },
+          "anchor_token_index_0_including_specials": 1,
+          "anchor_token_position_1_including_specials": 2,
+          "anchor_token_id": 25,
+          "anchor_token_spelling": "n",
+          "anchor_raw_character_span_0_half_open": [
+            0,
+            1
+          ],
+          "frozen_mapper_complete_atom_span_relation": "one_to_one",
+          "frozen_mapper_complete_atom_span_token_indices_0": [
+            1
+          ],
+          "all_model_tokens_overlapping_source_atom_span_0": [
+            1
+          ],
+          "source_atom_character_positions_missing_from_model_0": [],
+          "identity_lossy": false,
+          "lost_attributes": [],
+          "frozen_rule_lookup": {
+            "level": "radius_1",
+            "table_row_index_0": 2730,
+            "radius_0_key": "[7,0,true]",
+            "radius_1_key": "[[7,0,true,0,\"SP2\"],[[\"AROMATIC\",[6,0,true,0,\"SP2\"]],[\"AROMATIC\",[7,0,true,1,\"SP2\"]]]]"
+          },
+          "neurons": {
+            "293": {
+              "measured_post_gelu": -0.0,
+              "frozen_rule_prediction": -0.00272541924431323,
+              "measurement_availability": "archived_float32_atom_anchor_readout"
+            },
+            "454": {
+              "measured_post_gelu": -0.02888680249452591,
+              "frozen_rule_prediction": -0.06109735269687862,
+              "measurement_availability": "archived_float32_atom_anchor_readout"
+            }
+          }
+        },
+        {
+          "canonical_atom_index_0": 12,
+          "canonical_atom_number_1": 13,
+          "element": "N",
+          "graph_properties": {
+            "atomic_number": 7,
+            "element": "N",
+            "isotope": 0,
+            "formal_charge": 0,
+            "aromatic": true,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "cip": null,
+            "explicit_hydrogens": 1,
+            "implicit_hydrogens": 0,
+            "radical_electrons": 0
+          },
+          "encoding_graph_atom_index_0": 1,
+          "source_atom_spelling": "[nH]",
+          "source_atom_character_span": {
+            "zero_based_half_open": [
+              2,
+              6
+            ],
+            "one_based_inclusive": [
+              3,
+              6
+            ]
+          },
+          "source_element_character_span": {
+            "zero_based_half_open": [
+              3,
+              4
+            ],
+            "one_based_inclusive": [
+              4,
+              4
+            ]
+          },
+          "anchor_token_index_0_including_specials": 3,
+          "anchor_token_position_1_including_specials": 4,
+          "anchor_token_id": 25,
+          "anchor_token_spelling": "n",
+          "anchor_raw_character_span_0_half_open": [
+            3,
+            4
+          ],
+          "frozen_mapper_complete_atom_span_relation": "one_to_one",
+          "frozen_mapper_complete_atom_span_token_indices_0": [
+            3
+          ],
+          "all_model_tokens_overlapping_source_atom_span_0": [
+            3
+          ],
+          "source_atom_character_positions_missing_from_model_0": [
+            2,
+            4,
+            5
+          ],
+          "identity_lossy": true,
+          "lost_attributes": [
+            "explicit_hydrogens",
+            "bracket_boundaries"
+          ],
+          "frozen_rule_lookup": {
+            "level": "radius_1",
+            "table_row_index_0": 2762,
+            "radius_0_key": "[7,0,true]",
+            "radius_1_key": "[[7,0,true,1,\"SP2\"],[[\"AROMATIC\",[6,0,true,0,\"SP2\"]],[\"AROMATIC\",[7,0,true,0,\"SP2\"]]]]"
+          },
+          "neurons": {
+            "293": {
+              "measured_post_gelu": -0.0,
+              "frozen_rule_prediction": -0.0008737492526341432,
+              "measurement_availability": "archived_float32_atom_anchor_readout"
+            },
+            "454": {
+              "measured_post_gelu": -0.1529756486415863,
+              "frozen_rule_prediction": -0.048231643774262055,
+              "measurement_availability": "archived_float32_atom_anchor_readout"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "encoding_id": "rewrite_2",
+      "frozen_variant_index_0": 2,
+      "frozen_rewrite_generation_attempt": 1,
+      "smiles": "n1c(N)[nH]nc1NCCOCCO",
+      "string_length_characters": 20,
+      "canonical_to_encoding_atom_indices_0": [
+        2,
+        1,
+        0,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        4,
+        3
+      ],
+      "encoding_to_canonical_atom_indices_0": [
+        2,
+        1,
+        0,
+        12,
+        11,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "mapping_gate": "PASS_POSITIONAL_ELEMENT_ANCHOR",
+      "accepted": true,
+      "full_offset_status": "position-aligned",
+      "full_offset_errors": [],
+      "full_offset_invalid_tokens": [],
+      "input_fidelity": "lossy",
+      "identity_lossy": true,
+      "identity_lossy_canonical_atom_indices_0": [
+        12
+      ],
+      "missing_model_character_indices_0": [
+        6,
+        8,
+        9
+      ],
+      "cross_atom_token_indices_0": [],
+      "input_ids": [
+        12,
+        25,
+        20,
+        15,
+        17,
+        23,
+        18,
+        25,
+        25,
+        15,
+        20,
+        23,
+        16,
+        16,
+        19,
+        16,
+        16,
+        19,
+        13
+      ],
+      "special_tokens_mask": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "tokens": [
+        {
+          "token_index_0_including_specials": 0,
+          "token_position_1_including_specials": 1,
+          "token_id": 12,
+          "token_spelling": "[CLS]",
+          "is_special": true,
+          "attention_mask": 1,
+          "raw_character_offset_0_half_open": [
+            0,
+            0
+          ],
+          "overlapping_canonical_atom_indices_0": [],
+          "crosses_multiple_atom_spans": false,
+          "anchor_for_canonical_atom_indices_0": []
+        },
+        {
+          "token_index_0_including_specials": 1,
+          "token_position_1_including_specials": 2,
+          "token_id": 25,
+          "token_spelling": "n",
+          "is_special": false,
+          "attention_mask": 1,
+          "raw_character_offset_0_half_open": [
+            0,
+            1
+          ],
+          "overlapping_canonical_atom_indices_0": [
+            2
+          ],
+          "crosses_multiple_atom_spans": false,
+          "anchor_for_canonical_atom_indices_0": [
+            2
+          ]
+        },
+        {
+          "token_index_0_including_specials": 2,
+          "token_position_1_including_specials": 3,
+          "token_id": 20,
+          "token_spelling": "1",
+          "is_special": false,
+          "attention_mask": 1,
+          "raw_character_offset_0_half_open": [
+            1,
+            2
+          ],
+          "overlapping_canonical_atom_indices_0": [],
+          "crosses_multiple_atom_spans": false,
+          "anchor_for_canonical_atom_indices_0": []
+        },
+        {
+          "token_index_0_including_specials": 3,
+          "token_position_1_including_specials": 4,
+          "token_id": 15,
+          "token_spelling": "c",
+          "is_special": false,
+          "attention_mask": 1,
+          "raw_character_offset_0_half_open": [
+            2,
+            3
+          ],
+          "overlapping_canonical_atom_indices_0": [
+            1
+          ],
+          "crosses_multiple_atom_spans": false,
+          "anchor_for_canonical_atom_indices_0": [
+            1
+          ]
+        },
+        {
+          "token_index_0_including_specials": 4,
+          "token_position_1_including_specials": 5,
+          "token_id": 17,
+          "token_spelling": "(",
+          "is_special": false,
+          "attention_mask": 1,
+          "raw_character_offset_0_half_open": [
+            3,
+            4
+          ],
+          "overlapping_canonical_atom_indices_0": [],
+          "crosses_multiple_atom_spans": false,
+          "anchor_for_canonical_atom_indices_0": []
+        },
+        {
+          "token_index_0_including_specials": 5,
+          "token_position_1_including_specials": 6,
+          "token_id": 23,
+          "token_spelling": "N",
+          "is_special": false,
+          "attention_mask": 1,
+          "raw_character_offset_0_half_open": [
+            4,
+            5
+          ],
+          "overlapping_canonical_atom_indices_0": [
+            0
+          ],
+          "crosses_multiple_atom_spans": false,
+          "anchor_for_canonical_atom_indices_0": [
+            0
+          ]
+        },
+        {
+          "token_index_0_including_specials": 6,
+          "token_position_1_including_specials": 7,
+          "token_id": 18,
+          "token_spelling": ")",
+          "is_special": false,
+          "attention_mask": 1,
+          "raw_character_offset_0_half_open": [
+            5,
+            6
+          ],
+          "overlapping_canonical_atom_indices_0": [],
+          "crosses_multiple_atom_spans": false,
+          "anchor_for_canonical_atom_indices_0": []
+        },
+        {
+          "token_index_0_including_specials": 7,
+          "token_position_1_including_specials": 8,
+          "token_id": 25,
+          "token_spelling": "n",
+          "is_special": false,
+          "attention_mask": 1,
+          "raw_character_offset_0_half_open": [
+            7,
+            8
+          ],
+          "overlapping_canonical_atom_indices_0": [
+            12
+          ],
+          "crosses_multiple_atom_spans": false,
+          "anchor_for_canonical_atom_indices_0": [
+            12
+          ]
+        },
+        {
+          "token_index_0_including_specials": 8,
+          "token_position_1_including_specials": 9,
+          "token_id": 25,
+          "token_spelling": "n",
+          "is_special": false,
+          "attention_mask": 1,
+          "raw_character_offset_0_half_open": [
+            10,
+            11
+          ],
+          "overlapping_canonical_atom_indices_0": [
+            11
+          ],
+          "crosses_multiple_atom_spans": false,
+          "anchor_for_canonical_atom_indices_0": [
+            11
+          ]
+        },
+        {
+          "token_index_0_including_specials": 9,
+          "token_position_1_including_specials": 10,
+          "token_id": 15,
+          "token_spelling": "c",
+          "is_special": false,
+          "attention_mask": 1,
+          "raw_character_offset_0_half_open": [
+            11,
+            12
+          ],
+          "overlapping_canonical_atom_indices_0": [
+            3
+          ],
+          "crosses_multiple_atom_spans": false,
+          "anchor_for_canonical_atom_indices_0": [
+            3
+          ]
+        },
+        {
+          "token_index_0_including_specials": 10,
+          "token_position_1_including_specials": 11,
+          "token_id": 20,
+          "token_spelling": "1",
+          "is_special": false,
+          "attention_mask": 1,
+          "raw_character_offset_0_half_open": [
+            12,
+            13
+          ],
+          "overlapping_canonical_atom_indices_0": [],
+          "crosses_multiple_atom_spans": false,
+          "anchor_for_canonical_atom_indices_0": []
+        },
+        {
+          "token_index_0_including_specials": 11,
+          "token_position_1_including_specials": 12,
+          "token_id": 23,
+          "token_spelling": "N",
+          "is_special": false,
+          "attention_mask": 1,
+          "raw_character_offset_0_half_open": [
+            13,
+            14
+          ],
+          "overlapping_canonical_atom_indices_0": [
+            4
+          ],
+          "crosses_multiple_atom_spans": false,
+          "anchor_for_canonical_atom_indices_0": [
+            4
+          ]
+        },
+        {
+          "token_index_0_including_specials": 12,
+          "token_position_1_including_specials": 13,
+          "token_id": 16,
+          "token_spelling": "C",
+          "is_special": false,
+          "attention_mask": 1,
+          "raw_character_offset_0_half_open": [
+            14,
+            15
+          ],
+          "overlapping_canonical_atom_indices_0": [
+            5
+          ],
+          "crosses_multiple_atom_spans": false,
+          "anchor_for_canonical_atom_indices_0": [
+            5
+          ]
+        },
+        {
+          "token_index_0_including_specials": 13,
+          "token_position_1_including_specials": 14,
+          "token_id": 16,
+          "token_spelling": "C",
+          "is_special": false,
+          "attention_mask": 1,
+          "raw_character_offset_0_half_open": [
+            15,
+            16
+          ],
+          "overlapping_canonical_atom_indices_0": [
+            6
+          ],
+          "crosses_multiple_atom_spans": false,
+          "anchor_for_canonical_atom_indices_0": [
+            6
+          ]
+        },
+        {
+          "token_index_0_including_specials": 14,
+          "token_position_1_including_specials": 15,
+          "token_id": 19,
+          "token_spelling": "O",
+          "is_special": false,
+          "attention_mask": 1,
+          "raw_character_offset_0_half_open": [
+            16,
+            17
+          ],
+          "overlapping_canonical_atom_indices_0": [
+            7
+          ],
+          "crosses_multiple_atom_spans": false,
+          "anchor_for_canonical_atom_indices_0": [
+            7
+          ]
+        },
+        {
+          "token_index_0_including_specials": 15,
+          "token_position_1_including_specials": 16,
+          "token_id": 16,
+          "token_spelling": "C",
+          "is_special": false,
+          "attention_mask": 1,
+          "raw_character_offset_0_half_open": [
+            17,
+            18
+          ],
+          "overlapping_canonical_atom_indices_0": [
+            8
+          ],
+          "crosses_multiple_atom_spans": false,
+          "anchor_for_canonical_atom_indices_0": [
+            8
+          ]
+        },
+        {
+          "token_index_0_including_specials": 16,
+          "token_position_1_including_specials": 17,
+          "token_id": 16,
+          "token_spelling": "C",
+          "is_special": false,
+          "attention_mask": 1,
+          "raw_character_offset_0_half_open": [
+            18,
+            19
+          ],
+          "overlapping_canonical_atom_indices_0": [
+            9
+          ],
+          "crosses_multiple_atom_spans": false,
+          "anchor_for_canonical_atom_indices_0": [
+            9
+          ]
+        },
+        {
+          "token_index_0_including_specials": 17,
+          "token_position_1_including_specials": 18,
+          "token_id": 19,
+          "token_spelling": "O",
+          "is_special": false,
+          "attention_mask": 1,
+          "raw_character_offset_0_half_open": [
+            19,
+            20
+          ],
+          "overlapping_canonical_atom_indices_0": [
+            10
+          ],
+          "crosses_multiple_atom_spans": false,
+          "anchor_for_canonical_atom_indices_0": [
+            10
+          ]
+        },
+        {
+          "token_index_0_including_specials": 18,
+          "token_position_1_including_specials": 19,
+          "token_id": 13,
+          "token_spelling": "[SEP]",
+          "is_special": true,
+          "attention_mask": 1,
+          "raw_character_offset_0_half_open": [
+            0,
+            0
+          ],
+          "overlapping_canonical_atom_indices_0": [],
+          "crosses_multiple_atom_spans": false,
+          "anchor_for_canonical_atom_indices_0": []
+        }
+      ],
+      "characters": [
+        {
+          "character_index_0": 0,
+          "character_position_1": 1,
+          "character": "n",
+          "model_token_indices_0": [
+            1
+          ],
+          "status": "represented"
+        },
+        {
+          "character_index_0": 1,
+          "character_position_1": 2,
+          "character": "1",
+          "model_token_indices_0": [
+            2
+          ],
+          "status": "represented"
+        },
+        {
+          "character_index_0": 2,
+          "character_position_1": 3,
+          "character": "c",
+          "model_token_indices_0": [
+            3
+          ],
+          "status": "represented"
+        },
+        {
+          "character_index_0": 3,
+          "character_position_1": 4,
+          "character": "(",
+          "model_token_indices_0": [
+            4
+          ],
+          "status": "represented"
+        },
+        {
+          "character_index_0": 4,
+          "character_position_1": 5,
+          "character": "N",
+          "model_token_indices_0": [
+            5
+          ],
+          "status": "represented"
+        },
+        {
+          "character_index_0": 5,
+          "character_position_1": 6,
+          "character": ")",
+          "model_token_indices_0": [
+            6
+          ],
+          "status": "represented"
+        },
+        {
+          "character_index_0": 6,
+          "character_position_1": 7,
+          "character": "[",
+          "model_token_indices_0": null,
+          "status": "not_represented_by_any_model_token"
+        },
+        {
+          "character_index_0": 7,
+          "character_position_1": 8,
+          "character": "n",
+          "model_token_indices_0": [
+            7
+          ],
+          "status": "represented"
+        },
+        {
+          "character_index_0": 8,
+          "character_position_1": 9,
+          "character": "H",
+          "model_token_indices_0": null,
+          "status": "not_represented_by_any_model_token"
+        },
+        {
+          "character_index_0": 9,
+          "character_position_1": 10,
+          "character": "]",
+          "model_token_indices_0": null,
+          "status": "not_represented_by_any_model_token"
+        },
+        {
+          "character_index_0": 10,
+          "character_position_1": 11,
+          "character": "n",
+          "model_token_indices_0": [
+            8
+          ],
+          "status": "represented"
+        },
+        {
+          "character_index_0": 11,
+          "character_position_1": 12,
+          "character": "c",
+          "model_token_indices_0": [
+            9
+          ],
+          "status": "represented"
+        },
+        {
+          "character_index_0": 12,
+          "character_position_1": 13,
+          "character": "1",
+          "model_token_indices_0": [
+            10
+          ],
+          "status": "represented"
+        },
+        {
+          "character_index_0": 13,
+          "character_position_1": 14,
+          "character": "N",
+          "model_token_indices_0": [
+            11
+          ],
+          "status": "represented"
+        },
+        {
+          "character_index_0": 14,
+          "character_position_1": 15,
+          "character": "C",
+          "model_token_indices_0": [
+            12
+          ],
+          "status": "represented"
+        },
+        {
+          "character_index_0": 15,
+          "character_position_1": 16,
+          "character": "C",
+          "model_token_indices_0": [
+            13
+          ],
+          "status": "represented"
+        },
+        {
+          "character_index_0": 16,
+          "character_position_1": 17,
+          "character": "O",
+          "model_token_indices_0": [
+            14
+          ],
+          "status": "represented"
+        },
+        {
+          "character_index_0": 17,
+          "character_position_1": 18,
+          "character": "C",
+          "model_token_indices_0": [
+            15
+          ],
+          "status": "represented"
+        },
+        {
+          "character_index_0": 18,
+          "character_position_1": 19,
+          "character": "C",
+          "model_token_indices_0": [
+            16
+          ],
+          "status": "represented"
+        },
+        {
+          "character_index_0": 19,
+          "character_position_1": 20,
+          "character": "O",
+          "model_token_indices_0": [
+            17
+          ],
+          "status": "represented"
+        }
+      ],
+      "atoms_in_canonical_order": [
+        {
+          "canonical_atom_index_0": 0,
+          "canonical_atom_number_1": 1,
+          "element": "N",
+          "graph_properties": {
+            "atomic_number": 7,
+            "element": "N",
+            "isotope": 0,
+            "formal_charge": 0,
+            "aromatic": false,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "cip": null,
+            "explicit_hydrogens": 0,
+            "implicit_hydrogens": 2,
+            "radical_electrons": 0
+          },
+          "encoding_graph_atom_index_0": 2,
+          "source_atom_spelling": "N",
+          "source_atom_character_span": {
+            "zero_based_half_open": [
+              4,
+              5
+            ],
+            "one_based_inclusive": [
+              5,
+              5
+            ]
+          },
+          "source_element_character_span": {
+            "zero_based_half_open": [
+              4,
+              5
+            ],
+            "one_based_inclusive": [
+              5,
+              5
+            ]
+          },
+          "anchor_token_index_0_including_specials": 5,
+          "anchor_token_position_1_including_specials": 6,
+          "anchor_token_id": 23,
+          "anchor_token_spelling": "N",
+          "anchor_raw_character_span_0_half_open": [
+            4,
+            5
+          ],
+          "frozen_mapper_complete_atom_span_relation": "one_to_one",
+          "frozen_mapper_complete_atom_span_token_indices_0": [
+            5
+          ],
+          "all_model_tokens_overlapping_source_atom_span_0": [
+            5
+          ],
+          "source_atom_character_positions_missing_from_model_0": [],
+          "identity_lossy": false,
+          "lost_attributes": [],
+          "frozen_rule_lookup": {
+            "level": "radius_1",
+            "table_row_index_0": 2667,
+            "radius_0_key": "[7,0,false]",
+            "radius_1_key": "[[7,0,false,2,\"SP2\"],[[\"SINGLE\",[6,0,true,0,\"SP2\"]]]]"
+          },
+          "neurons": {
+            "293": {
+              "measured_post_gelu": -0.0,
+              "frozen_rule_prediction": -0.00019944917999945738,
+              "measurement_availability": "archived_float32_atom_anchor_readout"
+            },
+            "454": {
+              "measured_post_gelu": -0.0464477464556694,
+              "frozen_rule_prediction": -0.0031276203541488207,
+              "measurement_availability": "archived_float32_atom_anchor_readout"
+            }
+          }
+        },
+        {
+          "canonical_atom_index_0": 1,
+          "canonical_atom_number_1": 2,
+          "element": "C",
+          "graph_properties": {
+            "atomic_number": 6,
+            "element": "C",
+            "isotope": 0,
+            "formal_charge": 0,
+            "aromatic": true,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "cip": null,
+            "explicit_hydrogens": 0,
+            "implicit_hydrogens": 0,
+            "radical_electrons": 0
+          },
+          "encoding_graph_atom_index_0": 1,
+          "source_atom_spelling": "c",
+          "source_atom_character_span": {
+            "zero_based_half_open": [
+              2,
+              3
+            ],
+            "one_based_inclusive": [
+              3,
+              3
+            ]
+          },
+          "source_element_character_span": {
+            "zero_based_half_open": [
+              2,
+              3
+            ],
+            "one_based_inclusive": [
+              3,
+              3
+            ]
+          },
+          "anchor_token_index_0_including_specials": 3,
+          "anchor_token_position_1_including_specials": 4,
+          "anchor_token_id": 15,
+          "anchor_token_spelling": "c",
+          "anchor_raw_character_span_0_half_open": [
+            2,
+            3
+          ],
+          "frozen_mapper_complete_atom_span_relation": "one_to_one",
+          "frozen_mapper_complete_atom_span_token_indices_0": [
+            3
+          ],
+          "all_model_tokens_overlapping_source_atom_span_0": [
+            3
+          ],
+          "source_atom_character_positions_missing_from_model_0": [],
+          "identity_lossy": false,
+          "lost_attributes": [],
+          "frozen_rule_lookup": {
+            "level": "radius_0_backoff",
+            "table_row_index_0": 17,
+            "radius_0_key": "[6,0,true]",
+            "radius_1_key": "[[6,0,true,0,\"SP2\"],[[\"AROMATIC\",[7,0,true,0,\"SP2\"]],[\"AROMATIC\",[7,0,true,1,\"SP2\"]],[\"SINGLE\",[7,0,false,2,\"SP2\"]]]]"
+          },
+          "neurons": {
+            "293": {
+              "measured_post_gelu": -0.0011077129747718573,
+              "frozen_rule_prediction": -0.00047999828226100833,
+              "measurement_availability": "archived_float32_atom_anchor_readout"
+            },
+            "454": {
+              "measured_post_gelu": -0.0472237803041935,
+              "frozen_rule_prediction": -0.02025209154229255,
+              "measurement_availability": "archived_float32_atom_anchor_readout"
+            }
+          }
+        },
+        {
+          "canonical_atom_index_0": 2,
+          "canonical_atom_number_1": 3,
+          "element": "N",
+          "graph_properties": {
+            "atomic_number": 7,
+            "element": "N",
+            "isotope": 0,
+            "formal_charge": 0,
+            "aromatic": true,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "cip": null,
+            "explicit_hydrogens": 0,
+            "implicit_hydrogens": 0,
+            "radical_electrons": 0
+          },
+          "encoding_graph_atom_index_0": 0,
+          "source_atom_spelling": "n",
+          "source_atom_character_span": {
+            "zero_based_half_open": [
+              0,
+              1
+            ],
+            "one_based_inclusive": [
+              1,
+              1
+            ]
+          },
+          "source_element_character_span": {
+            "zero_based_half_open": [
+              0,
+              1
+            ],
+            "one_based_inclusive": [
+              1,
+              1
+            ]
+          },
+          "anchor_token_index_0_including_specials": 1,
+          "anchor_token_position_1_including_specials": 2,
+          "anchor_token_id": 25,
+          "anchor_token_spelling": "n",
+          "anchor_raw_character_span_0_half_open": [
+            0,
+            1
+          ],
+          "frozen_mapper_complete_atom_span_relation": "one_to_one",
+          "frozen_mapper_complete_atom_span_token_indices_0": [
+            1
+          ],
+          "all_model_tokens_overlapping_source_atom_span_0": [
+            1
+          ],
+          "source_atom_character_positions_missing_from_model_0": [],
+          "identity_lossy": false,
+          "lost_attributes": [],
+          "frozen_rule_lookup": {
+            "level": "radius_1",
+            "table_row_index_0": 2697,
+            "radius_0_key": "[7,0,true]",
+            "radius_1_key": "[[7,0,true,0,\"SP2\"],[[\"AROMATIC\",[6,0,true,0,\"SP2\"]],[\"AROMATIC\",[6,0,true,0,\"SP2\"]]]]"
+          },
+          "neurons": {
+            "293": {
+              "measured_post_gelu": -4.6407092213485157e-07,
+              "frozen_rule_prediction": -0.0012725631124632178,
+              "measurement_availability": "archived_float32_atom_anchor_readout"
+            },
+            "454": {
+              "measured_post_gelu": -0.1067182794213295,
+              "frozen_rule_prediction": -0.024272458503198216,
+              "measurement_availability": "archived_float32_atom_anchor_readout"
+            }
+          }
+        },
+        {
+          "canonical_atom_index_0": 3,
+          "canonical_atom_number_1": 4,
+          "element": "C",
+          "graph_properties": {
+            "atomic_number": 6,
+            "element": "C",
+            "isotope": 0,
+            "formal_charge": 0,
+            "aromatic": true,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "cip": null,
+            "explicit_hydrogens": 0,
+            "implicit_hydrogens": 0,
+            "radical_electrons": 0
+          },
+          "encoding_graph_atom_index_0": 5,
+          "source_atom_spelling": "c",
+          "source_atom_character_span": {
+            "zero_based_half_open": [
+              11,
+              12
+            ],
+            "one_based_inclusive": [
+              12,
+              12
+            ]
+          },
+          "source_element_character_span": {
+            "zero_based_half_open": [
+              11,
+              12
+            ],
+            "one_based_inclusive": [
+              12,
+              12
+            ]
+          },
+          "anchor_token_index_0_including_specials": 9,
+          "anchor_token_position_1_including_specials": 10,
+          "anchor_token_id": 15,
+          "anchor_token_spelling": "c",
+          "anchor_raw_character_span_0_half_open": [
+            11,
+            12
+          ],
+          "frozen_mapper_complete_atom_span_relation": "one_to_one",
+          "frozen_mapper_complete_atom_span_token_indices_0": [
+            9
+          ],
+          "all_model_tokens_overlapping_source_atom_span_0": [
+            9
+          ],
+          "source_atom_character_positions_missing_from_model_0": [],
+          "identity_lossy": false,
+          "lost_attributes": [],
+          "frozen_rule_lookup": {
+            "level": "radius_1",
+            "table_row_index_0": 2304,
+            "radius_0_key": "[6,0,true]",
+            "radius_1_key": "[[6,0,true,0,\"SP2\"],[[\"AROMATIC\",[7,0,true,0,\"SP2\"]],[\"AROMATIC\",[7,0,true,0,\"SP2\"]],[\"SINGLE\",[7,0,false,1,\"SP2\"]]]]"
+          },
+          "neurons": {
+            "293": {
+              "measured_post_gelu": -0.0007099765934981406,
+              "frozen_rule_prediction": -0.0001182651911434658,
+              "measurement_availability": "archived_float32_atom_anchor_readout"
+            },
+            "454": {
+              "measured_post_gelu": -0.05006672814488411,
+              "frozen_rule_prediction": -0.010213106502331905,
+              "measurement_availability": "archived_float32_atom_anchor_readout"
+            }
+          }
+        },
+        {
+          "canonical_atom_index_0": 4,
+          "canonical_atom_number_1": 5,
+          "element": "N",
+          "graph_properties": {
+            "atomic_number": 7,
+            "element": "N",
+            "isotope": 0,
+            "formal_charge": 0,
+            "aromatic": false,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "cip": null,
+            "explicit_hydrogens": 0,
+            "implicit_hydrogens": 1,
+            "radical_electrons": 0
+          },
+          "encoding_graph_atom_index_0": 6,
+          "source_atom_spelling": "N",
+          "source_atom_character_span": {
+            "zero_based_half_open": [
+              13,
+              14
+            ],
+            "one_based_inclusive": [
+              14,
+              14
+            ]
+          },
+          "source_element_character_span": {
+            "zero_based_half_open": [
+              13,
+              14
+            ],
+            "one_based_inclusive": [
+              14,
+              14
+            ]
+          },
+          "anchor_token_index_0_including_specials": 11,
+          "anchor_token_position_1_including_specials": 12,
+          "anchor_token_id": 23,
+          "anchor_token_spelling": "N",
+          "anchor_raw_character_span_0_half_open": [
+            13,
+            14
+          ],
+          "frozen_mapper_complete_atom_span_relation": "one_to_one",
+          "frozen_mapper_complete_atom_span_token_indices_0": [
+            11
+          ],
+          "all_model_tokens_overlapping_source_atom_span_0": [
+            11
+          ],
+          "source_atom_character_positions_missing_from_model_0": [],
+          "identity_lossy": false,
+          "lost_attributes": [],
+          "frozen_rule_lookup": {
+            "level": "radius_1",
+            "table_row_index_0": 2617,
+            "radius_0_key": "[7,0,false]",
+            "radius_1_key": "[[7,0,false,1,\"SP2\"],[[\"SINGLE\",[6,0,false,2,\"SP3\"]],[\"SINGLE\",[6,0,true,0,\"SP2\"]]]]"
+          },
+          "neurons": {
+            "293": {
+              "measured_post_gelu": -0.0,
+              "frozen_rule_prediction": -0.0002710141117093175,
+              "measurement_availability": "archived_float32_atom_anchor_readout"
+            },
+            "454": {
+              "measured_post_gelu": -0.16402631998062134,
+              "frozen_rule_prediction": -0.054723419561443186,
+              "measurement_availability": "archived_float32_atom_anchor_readout"
+            }
+          }
+        },
+        {
+          "canonical_atom_index_0": 5,
+          "canonical_atom_number_1": 6,
+          "element": "C",
+          "graph_properties": {
+            "atomic_number": 6,
+            "element": "C",
+            "isotope": 0,
+            "formal_charge": 0,
+            "aromatic": false,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "cip": null,
+            "explicit_hydrogens": 0,
+            "implicit_hydrogens": 2,
+            "radical_electrons": 0
+          },
+          "encoding_graph_atom_index_0": 7,
+          "source_atom_spelling": "C",
+          "source_atom_character_span": {
+            "zero_based_half_open": [
+              14,
+              15
+            ],
+            "one_based_inclusive": [
+              15,
+              15
+            ]
+          },
+          "source_element_character_span": {
+            "zero_based_half_open": [
+              14,
+              15
+            ],
+            "one_based_inclusive": [
+              15,
+              15
+            ]
+          },
+          "anchor_token_index_0_including_specials": 12,
+          "anchor_token_position_1_including_specials": 13,
+          "anchor_token_id": 16,
+          "anchor_token_spelling": "C",
+          "anchor_raw_character_span_0_half_open": [
+            14,
+            15
+          ],
+          "frozen_mapper_complete_atom_span_relation": "one_to_one",
+          "frozen_mapper_complete_atom_span_token_indices_0": [
+            12
+          ],
+          "all_model_tokens_overlapping_source_atom_span_0": [
+            12
+          ],
+          "source_atom_character_positions_missing_from_model_0": [],
+          "identity_lossy": false,
+          "lost_attributes": [],
+          "frozen_rule_lookup": {
+            "level": "radius_1",
+            "table_row_index_0": 1878,
+            "radius_0_key": "[6,0,false]",
+            "radius_1_key": "[[6,0,false,2,\"SP3\"],[[\"SINGLE\",[6,0,false,2,\"SP3\"]],[\"SINGLE\",[7,0,false,1,\"SP2\"]]]]"
+          },
+          "neurons": {
+            "293": {
+              "measured_post_gelu": -0.032067298889160156,
+              "frozen_rule_prediction": 0.01902444492918838,
+              "measurement_availability": "archived_float32_atom_anchor_readout"
+            },
+            "454": {
+              "measured_post_gelu": -0.16984809935092926,
+              "frozen_rule_prediction": -0.023602529188401885,
+              "measurement_availability": "archived_float32_atom_anchor_readout"
+            }
+          }
+        },
+        {
+          "canonical_atom_index_0": 6,
+          "canonical_atom_number_1": 7,
+          "element": "C",
+          "graph_properties": {
+            "atomic_number": 6,
+            "element": "C",
+            "isotope": 0,
+            "formal_charge": 0,
+            "aromatic": false,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "cip": null,
+            "explicit_hydrogens": 0,
+            "implicit_hydrogens": 2,
+            "radical_electrons": 0
+          },
+          "encoding_graph_atom_index_0": 8,
+          "source_atom_spelling": "C",
+          "source_atom_character_span": {
+            "zero_based_half_open": [
+              15,
+              16
+            ],
+            "one_based_inclusive": [
+              16,
+              16
+            ]
+          },
+          "source_element_character_span": {
+            "zero_based_half_open": [
+              15,
+              16
+            ],
+            "one_based_inclusive": [
+              16,
+              16
+            ]
+          },
+          "anchor_token_index_0_including_specials": 13,
+          "anchor_token_position_1_including_specials": 14,
+          "anchor_token_id": 16,
+          "anchor_token_spelling": "C",
+          "anchor_raw_character_span_0_half_open": [
+            15,
+            16
+          ],
+          "frozen_mapper_complete_atom_span_relation": "one_to_one",
+          "frozen_mapper_complete_atom_span_token_indices_0": [
+            13
+          ],
+          "all_model_tokens_overlapping_source_atom_span_0": [
+            13
+          ],
+          "source_atom_character_positions_missing_from_model_0": [],
+          "identity_lossy": false,
+          "lost_attributes": [],
+          "frozen_rule_lookup": {
+            "level": "radius_1",
+            "table_row_index_0": 1889,
+            "radius_0_key": "[6,0,false]",
+            "radius_1_key": "[[6,0,false,2,\"SP3\"],[[\"SINGLE\",[6,0,false,2,\"SP3\"]],[\"SINGLE\",[8,0,false,0,\"SP3\"]]]]"
+          },
+          "neurons": {
+            "293": {
+              "measured_post_gelu": -0.006613051984459162,
+              "frozen_rule_prediction": 0.008491785667640245,
+              "measurement_availability": "archived_float32_atom_anchor_readout"
+            },
+            "454": {
+              "measured_post_gelu": -0.08660571277141571,
+              "frozen_rule_prediction": 0.003023210356661739,
+              "measurement_availability": "archived_float32_atom_anchor_readout"
+            }
+          }
+        },
+        {
+          "canonical_atom_index_0": 7,
+          "canonical_atom_number_1": 8,
+          "element": "O",
+          "graph_properties": {
+            "atomic_number": 8,
+            "element": "O",
+            "isotope": 0,
+            "formal_charge": 0,
+            "aromatic": false,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "cip": null,
+            "explicit_hydrogens": 0,
+            "implicit_hydrogens": 0,
+            "radical_electrons": 0
+          },
+          "encoding_graph_atom_index_0": 9,
+          "source_atom_spelling": "O",
+          "source_atom_character_span": {
+            "zero_based_half_open": [
+              16,
+              17
+            ],
+            "one_based_inclusive": [
+              17,
+              17
+            ]
+          },
+          "source_element_character_span": {
+            "zero_based_half_open": [
+              16,
+              17
+            ],
+            "one_based_inclusive": [
+              17,
+              17
+            ]
+          },
+          "anchor_token_index_0_including_specials": 14,
+          "anchor_token_position_1_including_specials": 15,
+          "anchor_token_id": 19,
+          "anchor_token_spelling": "O",
+          "anchor_raw_character_span_0_half_open": [
+            16,
+            17
+          ],
+          "frozen_mapper_complete_atom_span_relation": "one_to_one",
+          "frozen_mapper_complete_atom_span_token_indices_0": [
+            14
+          ],
+          "all_model_tokens_overlapping_source_atom_span_0": [
+            14
+          ],
+          "source_atom_character_positions_missing_from_model_0": [],
+          "identity_lossy": false,
+          "lost_attributes": [],
+          "frozen_rule_lookup": {
+            "level": "radius_1",
+            "table_row_index_0": 2933,
+            "radius_0_key": "[8,0,false]",
+            "radius_1_key": "[[8,0,false,0,\"SP3\"],[[\"SINGLE\",[6,0,false,2,\"SP3\"]],[\"SINGLE\",[6,0,false,2,\"SP3\"]]]]"
+          },
+          "neurons": {
+            "293": {
+              "measured_post_gelu": -0.007495253812521696,
+              "frozen_rule_prediction": 0.010676548187993292,
+              "measurement_availability": "archived_float32_atom_anchor_readout"
+            },
+            "454": {
+              "measured_post_gelu": -0.019332798197865486,
+              "frozen_rule_prediction": 0.040917649827895794,
+              "measurement_availability": "archived_float32_atom_anchor_readout"
+            }
+          }
+        },
+        {
+          "canonical_atom_index_0": 8,
+          "canonical_atom_number_1": 9,
+          "element": "C",
+          "graph_properties": {
+            "atomic_number": 6,
+            "element": "C",
+            "isotope": 0,
+            "formal_charge": 0,
+            "aromatic": false,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "cip": null,
+            "explicit_hydrogens": 0,
+            "implicit_hydrogens": 2,
+            "radical_electrons": 0
+          },
+          "encoding_graph_atom_index_0": 10,
+          "source_atom_spelling": "C",
+          "source_atom_character_span": {
+            "zero_based_half_open": [
+              17,
+              18
+            ],
+            "one_based_inclusive": [
+              18,
+              18
+            ]
+          },
+          "source_element_character_span": {
+            "zero_based_half_open": [
+              17,
+              18
+            ],
+            "one_based_inclusive": [
+              18,
+              18
+            ]
+          },
+          "anchor_token_index_0_including_specials": 15,
+          "anchor_token_position_1_including_specials": 16,
+          "anchor_token_id": 16,
+          "anchor_token_spelling": "C",
+          "anchor_raw_character_span_0_half_open": [
+            17,
+            18
+          ],
+          "frozen_mapper_complete_atom_span_relation": "one_to_one",
+          "frozen_mapper_complete_atom_span_token_indices_0": [
+            15
+          ],
+          "all_model_tokens_overlapping_source_atom_span_0": [
+            15
+          ],
+          "source_atom_character_positions_missing_from_model_0": [],
+          "identity_lossy": false,
+          "lost_attributes": [],
+          "frozen_rule_lookup": {
+            "level": "radius_1",
+            "table_row_index_0": 1889,
+            "radius_0_key": "[6,0,false]",
+            "radius_1_key": "[[6,0,false,2,\"SP3\"],[[\"SINGLE\",[6,0,false,2,\"SP3\"]],[\"SINGLE\",[8,0,false,0,\"SP3\"]]]]"
+          },
+          "neurons": {
+            "293": {
+              "measured_post_gelu": 2.092327356338501,
+              "frozen_rule_prediction": 0.008491785667640245,
+              "measurement_availability": "archived_float32_atom_anchor_readout"
+            },
+            "454": {
+              "measured_post_gelu": -0.02662169188261032,
+              "frozen_rule_prediction": 0.003023210356661739,
+              "measurement_availability": "archived_float32_atom_anchor_readout"
+            }
+          }
+        },
+        {
+          "canonical_atom_index_0": 9,
+          "canonical_atom_number_1": 10,
+          "element": "C",
+          "graph_properties": {
+            "atomic_number": 6,
+            "element": "C",
+            "isotope": 0,
+            "formal_charge": 0,
+            "aromatic": false,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "cip": null,
+            "explicit_hydrogens": 0,
+            "implicit_hydrogens": 2,
+            "radical_electrons": 0
+          },
+          "encoding_graph_atom_index_0": 11,
+          "source_atom_spelling": "C",
+          "source_atom_character_span": {
+            "zero_based_half_open": [
+              18,
+              19
+            ],
+            "one_based_inclusive": [
+              19,
+              19
+            ]
+          },
+          "source_element_character_span": {
+            "zero_based_half_open": [
+              18,
+              19
+            ],
+            "one_based_inclusive": [
+              19,
+              19
+            ]
+          },
+          "anchor_token_index_0_including_specials": 16,
+          "anchor_token_position_1_including_specials": 17,
+          "anchor_token_id": 16,
+          "anchor_token_spelling": "C",
+          "anchor_raw_character_span_0_half_open": [
+            18,
+            19
+          ],
+          "frozen_mapper_complete_atom_span_relation": "one_to_one",
+          "frozen_mapper_complete_atom_span_token_indices_0": [
+            16
+          ],
+          "all_model_tokens_overlapping_source_atom_span_0": [
+            16
+          ],
+          "source_atom_character_positions_missing_from_model_0": [],
+          "identity_lossy": false,
+          "lost_attributes": [],
+          "frozen_rule_lookup": {
+            "level": "radius_1",
+            "table_row_index_0": 1890,
+            "radius_0_key": "[6,0,false]",
+            "radius_1_key": "[[6,0,false,2,\"SP3\"],[[\"SINGLE\",[6,0,false,2,\"SP3\"]],[\"SINGLE\",[8,0,false,1,\"SP3\"]]]]"
+          },
+          "neurons": {
+            "293": {
+              "measured_post_gelu": 7.201085567474365,
+              "frozen_rule_prediction": 5.874680132104354,
+              "measurement_availability": "archived_float32_atom_anchor_readout"
+            },
+            "454": {
+              "measured_post_gelu": -0.04356712847948074,
+              "frozen_rule_prediction": -0.003444163066224904,
+              "measurement_availability": "archived_float32_atom_anchor_readout"
+            }
+          }
+        },
+        {
+          "canonical_atom_index_0": 10,
+          "canonical_atom_number_1": 11,
+          "element": "O",
+          "graph_properties": {
+            "atomic_number": 8,
+            "element": "O",
+            "isotope": 0,
+            "formal_charge": 0,
+            "aromatic": false,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "cip": null,
+            "explicit_hydrogens": 0,
+            "implicit_hydrogens": 1,
+            "radical_electrons": 0
+          },
+          "encoding_graph_atom_index_0": 12,
+          "source_atom_spelling": "O",
+          "source_atom_character_span": {
+            "zero_based_half_open": [
+              19,
+              20
+            ],
+            "one_based_inclusive": [
+              20,
+              20
+            ]
+          },
+          "source_element_character_span": {
+            "zero_based_half_open": [
+              19,
+              20
+            ],
+            "one_based_inclusive": [
+              20,
+              20
+            ]
+          },
+          "anchor_token_index_0_including_specials": 17,
+          "anchor_token_position_1_including_specials": 18,
+          "anchor_token_id": 19,
+          "anchor_token_spelling": "O",
+          "anchor_raw_character_span_0_half_open": [
+            19,
+            20
+          ],
+          "frozen_mapper_complete_atom_span_relation": "one_to_one",
+          "frozen_mapper_complete_atom_span_token_indices_0": [
+            17
+          ],
+          "all_model_tokens_overlapping_source_atom_span_0": [
+            17
+          ],
+          "source_atom_character_positions_missing_from_model_0": [],
+          "identity_lossy": false,
+          "lost_attributes": [],
+          "frozen_rule_lookup": {
+            "level": "radius_1",
+            "table_row_index_0": 2970,
+            "radius_0_key": "[8,0,false]",
+            "radius_1_key": "[[8,0,false,1,\"SP3\"],[[\"SINGLE\",[6,0,false,2,\"SP3\"]]]]"
+          },
+          "neurons": {
+            "293": {
+              "measured_post_gelu": 0.106706902384758,
+              "frozen_rule_prediction": 0.17641280096120826,
+              "measurement_availability": "archived_float32_atom_anchor_readout"
+            },
+            "454": {
+              "measured_post_gelu": -0.01563778705894947,
+              "frozen_rule_prediction": 0.03762312396460578,
+              "measurement_availability": "archived_float32_atom_anchor_readout"
+            }
+          }
+        },
+        {
+          "canonical_atom_index_0": 11,
+          "canonical_atom_number_1": 12,
+          "element": "N",
+          "graph_properties": {
+            "atomic_number": 7,
+            "element": "N",
+            "isotope": 0,
+            "formal_charge": 0,
+            "aromatic": true,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "cip": null,
+            "explicit_hydrogens": 0,
+            "implicit_hydrogens": 0,
+            "radical_electrons": 0
+          },
+          "encoding_graph_atom_index_0": 4,
+          "source_atom_spelling": "n",
+          "source_atom_character_span": {
+            "zero_based_half_open": [
+              10,
+              11
+            ],
+            "one_based_inclusive": [
+              11,
+              11
+            ]
+          },
+          "source_element_character_span": {
+            "zero_based_half_open": [
+              10,
+              11
+            ],
+            "one_based_inclusive": [
+              11,
+              11
+            ]
+          },
+          "anchor_token_index_0_including_specials": 8,
+          "anchor_token_position_1_including_specials": 9,
+          "anchor_token_id": 25,
+          "anchor_token_spelling": "n",
+          "anchor_raw_character_span_0_half_open": [
+            10,
+            11
+          ],
+          "frozen_mapper_complete_atom_span_relation": "one_to_one",
+          "frozen_mapper_complete_atom_span_token_indices_0": [
+            8
+          ],
+          "all_model_tokens_overlapping_source_atom_span_0": [
+            8
+          ],
+          "source_atom_character_positions_missing_from_model_0": [],
+          "identity_lossy": false,
+          "lost_attributes": [],
+          "frozen_rule_lookup": {
+            "level": "radius_1",
+            "table_row_index_0": 2730,
+            "radius_0_key": "[7,0,true]",
+            "radius_1_key": "[[7,0,true,0,\"SP2\"],[[\"AROMATIC\",[6,0,true,0,\"SP2\"]],[\"AROMATIC\",[7,0,true,1,\"SP2\"]]]]"
+          },
+          "neurons": {
+            "293": {
+              "measured_post_gelu": -0.0,
+              "frozen_rule_prediction": -0.00272541924431323,
+              "measurement_availability": "archived_float32_atom_anchor_readout"
+            },
+            "454": {
+              "measured_post_gelu": -0.09144510328769684,
+              "frozen_rule_prediction": -0.06109735269687862,
+              "measurement_availability": "archived_float32_atom_anchor_readout"
+            }
+          }
+        },
+        {
+          "canonical_atom_index_0": 12,
+          "canonical_atom_number_1": 13,
+          "element": "N",
+          "graph_properties": {
+            "atomic_number": 7,
+            "element": "N",
+            "isotope": 0,
+            "formal_charge": 0,
+            "aromatic": true,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "cip": null,
+            "explicit_hydrogens": 1,
+            "implicit_hydrogens": 0,
+            "radical_electrons": 0
+          },
+          "encoding_graph_atom_index_0": 3,
+          "source_atom_spelling": "[nH]",
+          "source_atom_character_span": {
+            "zero_based_half_open": [
+              6,
+              10
+            ],
+            "one_based_inclusive": [
+              7,
+              10
+            ]
+          },
+          "source_element_character_span": {
+            "zero_based_half_open": [
+              7,
+              8
+            ],
+            "one_based_inclusive": [
+              8,
+              8
+            ]
+          },
+          "anchor_token_index_0_including_specials": 7,
+          "anchor_token_position_1_including_specials": 8,
+          "anchor_token_id": 25,
+          "anchor_token_spelling": "n",
+          "anchor_raw_character_span_0_half_open": [
+            7,
+            8
+          ],
+          "frozen_mapper_complete_atom_span_relation": "one_to_one",
+          "frozen_mapper_complete_atom_span_token_indices_0": [
+            7
+          ],
+          "all_model_tokens_overlapping_source_atom_span_0": [
+            7
+          ],
+          "source_atom_character_positions_missing_from_model_0": [
+            6,
+            8,
+            9
+          ],
+          "identity_lossy": true,
+          "lost_attributes": [
+            "explicit_hydrogens",
+            "bracket_boundaries"
+          ],
+          "frozen_rule_lookup": {
+            "level": "radius_1",
+            "table_row_index_0": 2762,
+            "radius_0_key": "[7,0,true]",
+            "radius_1_key": "[[7,0,true,1,\"SP2\"],[[\"AROMATIC\",[6,0,true,0,\"SP2\"]],[\"AROMATIC\",[7,0,true,0,\"SP2\"]]]]"
+          },
+          "neurons": {
+            "293": {
+              "measured_post_gelu": -0.0,
+              "frozen_rule_prediction": -0.0008737492526341432,
+              "measurement_availability": "archived_float32_atom_anchor_readout"
+            },
+            "454": {
+              "measured_post_gelu": -0.16823875904083252,
+              "frozen_rule_prediction": -0.048231643774262055,
+              "measurement_availability": "archived_float32_atom_anchor_readout"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "checks": [
+    {
+      "encoding": "canonical",
+      "atoms": 13,
+      "input_tokens_including_specials": 19,
+      "verified_atom_anchors": 13,
+      "missing_source_characters": [
+        15,
+        17,
+        18
+      ],
+      "cross_atom_tokens": [],
+      "identity_lossy_canonical_atoms": [
+        12
+      ],
+      "tokenizer_ids_equal_frozen_audit": true,
+      "lineage_graph_properties_equal_canonical": true
+    },
+    {
+      "encoding": "rewrite_1",
+      "atoms": 13,
+      "input_tokens_including_specials": 19,
+      "verified_atom_anchors": 13,
+      "missing_source_characters": [
+        2,
+        4,
+        5
+      ],
+      "cross_atom_tokens": [],
+      "identity_lossy_canonical_atoms": [
+        12
+      ],
+      "tokenizer_ids_equal_frozen_audit": true,
+      "lineage_graph_properties_equal_canonical": true
+    },
+    {
+      "encoding": "rewrite_2",
+      "atoms": 13,
+      "input_tokens_including_specials": 19,
+      "verified_atom_anchors": 13,
+      "missing_source_characters": [
+        6,
+        8,
+        9
+      ],
+      "cross_atom_tokens": [],
+      "identity_lossy_canonical_atoms": [
+        12
+      ],
+      "tokenizer_ids_equal_frozen_audit": true,
+      "lineage_graph_properties_equal_canonical": true
+    }
+  ],
+  "provenance": {
+    "selected_molecules": "data/molecular_cohort_membership.tsv.gz",
+    "mapping_audits": "results/artwork/examples/Fig5d_CID66277342_three_SMILES.json#/encodings (released molecule-level frozen mapping audit)",
+    "mapping_source_sha256_from_cohort_receipt": "da89a683fefca11835aa130e5a9746b64d3da6ac84412b51635c7ef4fb01e949",
+    "cache_job_freeze": "results/artwork/examples/Fig5d_CID66277342_three_SMILES.json#/provenance/cache_job_freeze_sha256_verified",
+    "cache_job_freeze_sha256_verified": "b5f27a3f13ae545de8baea956c96bf4190bb09d185ca94b83bef610b57920ac6",
+    "cache_run_receipt": "results/artwork/examples/Fig5d_CID66277342_three_SMILES.json#/measurement (released measurement scope)",
+    "measured_array": "results/artwork/examples/Fig5d_CID66277342_three_SMILES.json#/encodings (released selected-atom measured values)",
+    "measured_array_shape": [
+      6,
+      49360,
+      464
+    ],
+    "measured_array_dtype": "float32",
+    "rule_array": "results/artwork/examples/Fig5d_CID66277342_three_SMILES.json#/encodings (released selected-atom frozen predictions)",
+    "rule_array_shape": [
+      49360,
+      464
+    ],
+    "cache_atom_slice_0_half_open": [
+      611,
+      624
+    ],
+    "cache_unit_column_indices_0": [
+      293,
+      454
+    ],
+    "frozen_predictor_sha256_verified": "b9f11a2962a5914c6c665c89a5e2cfd8052390e3ce945f14ff1bac329500ed76",
+    "no_network": true
+  }
+}

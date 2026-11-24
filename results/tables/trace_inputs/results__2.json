@@ -1,0 +1,8 @@
+{
+ "T_groups": 1099.0,
+ "T_residues": 173859.0,
+ "group_mae_difference": 0.0011420405021114232,
+ "selection.axis_zero_based": 814.0,
+ "buried_exposed_pairs.improvement": 0.02806286951762847,
+ "buried_exposed_pairs.T_groups": 967.0
+}

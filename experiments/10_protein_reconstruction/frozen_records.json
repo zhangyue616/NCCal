@@ -1,0 +1,150 @@
+[
+  {
+    "source_id": "neuron_814/PROTOCOL.md",
+    "sha256": "1b154aa478c6f424324ffd2ce22061b66b32bc51c11fb48a947ce151c8e36cd4",
+    "bytes": 7910,
+    "modified_utc": "2026-11-21T05:56:32.268544+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "neuron_814/PROTOCOL_FREEZE.json",
+    "sha256": "3fd9d54bc052e07a4006be65fed7d763ea5678e14427834c2d4dccb2ca0b08f4",
+    "bytes": 185,
+    "modified_utc": "2026-11-21T05:56:32.796522+00:00",
+    "english_protocol": "PROTOCOL.md",
+    "reported_freeze_times": {
+      "frozen_utc": "2026-11-21T05:56:32.7752454Z"
+    },
+    "random_seed_fields": {}
+  },
+  {
+    "source_id": "neuron_814/RESULTS_zh.md",
+    "sha256": "cf4f69c054f5efda174593b892c8b1d07391b04932b8aa7cd72d6ff0efdfe769",
+    "bytes": 7906,
+    "modified_utc": "2026-11-21T06:09:16.140949+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "neuron_814/posthoc_sensitivity/ADDENDUM.md",
+    "sha256": "49a282a2f9687482621aa6735159fa1d42cf6fd0df288501f543b15348ead3e5",
+    "bytes": 5509,
+    "modified_utc": "2026-11-21T06:24:36.988683+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "neuron_814/posthoc_sensitivity/ADDENDUM_FREEZE.json",
+    "sha256": "9371ad4749d144ab904ed3f7a6ca678b8ab061791f1ed948c80c41a9c8981d92",
+    "bytes": 765,
+    "modified_utc": "2026-11-21T06:24:38.085761+00:00",
+    "english_protocol": "PROTOCOL.md",
+    "reported_freeze_times": {
+      "sealed_utc": "2026-11-21T06:24:38.0516247Z"
+    },
+    "random_seed_fields": {}
+  },
+  {
+    "source_id": "neuron_814/posthoc_sensitivity/SENSITIVITY_REPORT_zh.md",
+    "sha256": "000d46d0998567acb1e14d9986090875af0d67ff06bade8c17039795b49247d9",
+    "bytes": 10864,
+    "modified_utc": "2026-11-21T06:30:03.123417+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "neuron_814/results/fit_A_FREEZE.json",
+    "sha256": "8c544e7a660c16c2b05963aa72c0c8c034519f99c7af9b1030cb735225878585",
+    "bytes": 1156,
+    "modified_utc": "2026-11-21T06:01:10.610505+00:00",
+    "english_protocol": "PROTOCOL.md",
+    "reported_freeze_times": {
+      "sealed_utc": "2026-11-21T06:01:10.595881+00:00"
+    },
+    "random_seed_fields": {}
+  },
+  {
+    "source_id": "neuron_814/results/fit_B_FREEZE.json",
+    "sha256": "d7bb5b5d935ae35d193a1bf2865e80b6bd4e7e5cf7e057f7a543e7cb9005dcde",
+    "bytes": 1170,
+    "modified_utc": "2026-11-21T06:01:07.993029+00:00",
+    "english_protocol": "PROTOCOL.md",
+    "reported_freeze_times": {
+      "sealed_utc": "2026-11-21T06:01:07.979014+00:00"
+    },
+    "random_seed_fields": {}
+  },
+  {
+    "source_id": "additional_neurons/PROTOCOL.md",
+    "sha256": "73c326021f0a9b1ca367614bd07b591d2bfeda970d1dae531a5106e44b79094c",
+    "bytes": 5874,
+    "modified_utc": "2026-11-22T17:21:21.728783+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "additional_neurons/PROTOCOL_FREEZE.json",
+    "sha256": "1154f01746bb0eb764869a666b93eb7e7eb162bb70f5117b6ff5b5e8361af21c",
+    "bytes": 1180,
+    "modified_utc": "2026-11-22T17:23:31.450585+00:00",
+    "english_protocol": "PROTOCOL.md",
+    "reported_freeze_times": {
+      "frozen_utc": "2026-11-22T17:23:31.431408+00:00"
+    },
+    "random_seed_fields": {}
+  },
+  {
+    "source_id": "additional_neurons/README.md",
+    "sha256": "6acbe4893421a79440c6b8a90b6bed788b41b44f33d1b8d583285d6216dd083f",
+    "bytes": 2616,
+    "modified_utc": "2026-11-22T17:29:25.874107+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "additional_neurons/REPORT_zh.md",
+    "sha256": "791b6578654d3455b9df7aa83ae87da1e1ef33cded5d52fab5c0eff75e96ec87",
+    "bytes": 5054,
+    "modified_utc": "2026-11-22T17:39:42.187830+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "additional_neurons/650m_4566/fit_A_FREEZE.json",
+    "sha256": "06962b8057f7b6c03d99ab5ef2b597abedb96227544b9816f2957f86a954adf9",
+    "bytes": 1144,
+    "modified_utc": "2026-11-22T17:29:56.038647+00:00",
+    "english_protocol": "PROTOCOL.md",
+    "reported_freeze_times": {
+      "sealed_utc": "2026-11-22T17:29:56.022603+00:00"
+    },
+    "random_seed_fields": {}
+  },
+  {
+    "source_id": "additional_neurons/650m_4566/fit_B_FREEZE.json",
+    "sha256": "4e2b5f590bf15b666e2783c83ad7d0b2b6f2b20b45d3f11c6025f064e918945c",
+    "bytes": 1155,
+    "modified_utc": "2026-11-22T17:32:28.685527+00:00",
+    "english_protocol": "PROTOCOL.md",
+    "reported_freeze_times": {
+      "sealed_utc": "2026-11-22T17:32:28.668396+00:00"
+    },
+    "random_seed_fields": {}
+  },
+  {
+    "source_id": "additional_neurons/8m_801/fit_A_FREEZE.json",
+    "sha256": "184139e71b9eb231c13b372f4f5c24327227ffbd889cbbaa7fb104cf26fde59a",
+    "bytes": 1151,
+    "modified_utc": "2026-11-22T17:23:59.542115+00:00",
+    "english_protocol": "PROTOCOL.md",
+    "reported_freeze_times": {
+      "sealed_utc": "2026-11-22T17:23:59.527155+00:00"
+    },
+    "random_seed_fields": {}
+  },
+  {
+    "source_id": "additional_neurons/8m_801/fit_B_FREEZE.json",
+    "sha256": "fcbb6dbf28466203963fd6ef87350b1a406e78e8e77117fda015d2cb65e0083a",
+    "bytes": 1163,
+    "modified_utc": "2026-11-22T17:25:01.392936+00:00",
+    "english_protocol": "PROTOCOL.md",
+    "reported_freeze_times": {
+      "sealed_utc": "2026-11-22T17:25:01.369742+00:00"
+    },
+    "random_seed_fields": {}
+  }
+]

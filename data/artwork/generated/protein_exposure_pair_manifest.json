@@ -1,0 +1,96 @@
+[
+ {
+  "file": "prot_exposure_pair_gray.png",
+  "kind": "protein",
+  "size_px": [
+   803,
+   1211
+  ],
+  "note": "ribbon of one confirmation protein in gray; dark windows; orange spheres = the buried and the exposed alanine of one matched pair",
+  "source_file": "2xmx.cif.gz",
+  "source_sha256": "21f6e290ec0fe8ed2e03f99fd3af698e71baa5580c191ddcb6420a2574e5345d",
+  "numbering_from": "2xmx.xml.gz",
+  "numbering_sha256": "779c852e554ecaaa1ff1a3ab94de8d8211509e32ce38707938873a556be6e0e1",
+  "pdb_id": "2XMX",
+  "chain": "A",
+  "accession": "P05820",
+  "group": "fresh-e6a78159c2270e7e984f1dd5201f78e03af76c47dbfdd239254e779f5f2888d6",
+  "residues_drawn": [
+   2,
+   271,
+   270
+  ],
+  "sequence_length": 271,
+  "mapped_chain_fraction": 0.996309963099631,
+  "view": "back, tilt x-25, quarter turn 270",
+  "site_visible_fraction": [
+   0.58,
+   1.0
+  ],
+  "proper_rotation": true,
+  "secondary_structure_from": "the stored three-class labels of residue_features.tsv; residues without a label from the secondary-structure code of the stored SIFTS record",
+  "residues_helix_strand_other": [
+   83,
+   56,
+   131
+  ],
+  "selection_rule": "confirmation pairs; alanine; both residues in helices; chain mapped to >= 0.95 of the sequence; chain length closest to 270; ties by group identifier. Chosen before any activation or prediction was read.",
+  "candidates_under_rule": 52,
+  "sites": {
+   "buried": {
+    "position": 86,
+    "author_residue": 86,
+    "residue": "ALA86",
+    "class": "H",
+    "rsa": 0.003479374240535174,
+    "window": [
+     82,
+     90
+    ],
+    "window_sequence": "FCNADRN",
+    "activation_neuron_814": -0.09673652797937393
+   },
+   "exposed": {
+    "position": 248,
+    "author_residue": 248,
+    "residue": "ALA248",
+    "class": "H",
+    "rsa": 0.5785970761794452,
+    "window": [
+     244,
+     252
+    ],
+    "window_sequence": "RLGAMFS",
+    "activation_neuron_814": -0.01892038993537426
+   }
+  },
+  "colours": {
+   "chain": [
+    0.8,
+    0.83,
+    0.87
+   ],
+   "window": [
+    0.29,
+    0.33,
+    0.38
+   ],
+   "site": [
+    0.9333333333333333,
+    0.4666666666666667,
+    0.2
+   ]
+  },
+  "px_per_angstrom": 18.0,
+  "anchor_xy_px": {
+   "buried": [
+    298.6,
+    872.8
+   ],
+   "exposed": [
+    686.9,
+    896.7
+   ]
+  }
+ }
+]

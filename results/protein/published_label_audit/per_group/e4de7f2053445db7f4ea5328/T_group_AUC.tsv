@@ -1,0 +1,2 @@
+unit_id	concept	group	accession	split	auroc	n_positive	n_unannotated	n_negative_reference	negative_reference_meaning	auc_scope	full_protein_residue_auc	own_fresh_eligible
+Hallee|esmc_600|b32|u3067|positive|a0d437f231	Modified residue_N5-methylglutamine	fresh-936d4649d0b4806d43ec0b68263763ae4b986db9bbc3ad1a5e8c93a344f9e150	P56182	T	0.483695652173913	1	460	460	not annotated, not verified absence	all_eligible_observed_or_annotated_domain_residues	True	False

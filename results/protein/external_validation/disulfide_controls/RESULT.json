@@ -1,0 +1,30 @@
+{
+  "utc": "2026-11-23T01:59:11.889843+00:00",
+  "n_init": 199,
+  "n_bases": 9,
+  "n_groups": 15,
+  "n_pairs": 17,
+  "unit": 249,
+  "polarity": -1,
+  "correct": 4,
+  "tied": 0,
+  "incorrect": 13,
+  "group_concordance": 0.26666666666666666,
+  "ci95": [
+    0.06666666666666667,
+    0.4666666666666667
+  ],
+  "untrained_at_least_as_high": 197,
+  "empirical_tail": 0.99,
+  "rotation_at_least_as_high": 9,
+  "untrained_min_median_max": [
+    0.2,
+    0.5,
+    0.7666666666666667
+  ],
+  "rotation_min_median_max": [
+    0.3,
+    0.5,
+    0.8666666666666667
+  ]
+}

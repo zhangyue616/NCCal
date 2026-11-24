@@ -1,0 +1,9 @@
+{
+  "experiment": "01_molecular_calibration",
+  "original_document": "PROTOCOL_v5_M2.md",
+  "original_sha256": "2aa8a35cb375791c41603cf97908a063c7252c8038ad80f544226a3a53a35d46",
+  "freeze_record": "Original protocol hash evidence",
+  "freeze_time_utc": "2026-10-17T12:23:13Z",
+  "english_document": "PROTOCOL.md",
+  "original_freeze_record_sha256": "0a05cf4f165f82015d873ef20c9232fcc88ec3a5b9d4a85dea0c66e978885675"
+}

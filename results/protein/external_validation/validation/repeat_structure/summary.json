@@ -1,0 +1,431 @@
+{
+  "created_utc": "2026-11-23T03:08:46.635822+00:00",
+  "freeze_sha256": "556efeb0509266e765e4214682cb27a23fcde99f073fbdb1773e89d0cf2be030",
+  "source_prediction_sha256": "e87b4f7fae9220cb472bbaa0f375e9d8697613ddc54de0ea4de4e79749782934",
+  "screen_counts": {
+    "original_deposited_sequence_not_exact_native_fragment": 55,
+    "framed": 34,
+    "taxonomy_outside_scope": 18,
+    "excluded_name": 1
+  },
+  "input_groups": 108,
+  "native_exact_framed_groups": 34,
+  "source_taxonomy_eligible_groups": 90,
+  "selected_second_entries": 23,
+  "second_features_computed": 23,
+  "full_length_native_framed_groups": 13,
+  "full_length_native_quality_pairs": 4,
+  "quality_atom_pairs": 14,
+  "second_secondary_stratum_matched": 14,
+  "funnel": {
+    "atom_identity_failure": {
+      "count": 0,
+      "frame_n": 34,
+      "share": 0.0,
+      "95ci": [
+        0.0,
+        0.0
+      ],
+      "input_n": 108,
+      "input_share": 0.0
+    },
+    "collapsed_same_extreme": {
+      "count": 0,
+      "frame_n": 34,
+      "share": 0.0,
+      "95ci": [
+        0.0,
+        0.0
+      ],
+      "input_n": 108,
+      "input_share": 0.0
+    },
+    "intermediate": {
+      "count": 4,
+      "frame_n": 34,
+      "share": 0.11764705882352941,
+      "95ci": [
+        0.029411764705882353,
+        0.23529411764705882
+      ],
+      "input_n": 108,
+      "input_share": 0.037037037037037035
+    },
+    "missing_or_center_quality_failure": {
+      "count": 1,
+      "frame_n": 34,
+      "share": 0.029411764705882353,
+      "95ci": [
+        0.0,
+        0.08823529411764706
+      ],
+      "input_n": 108,
+      "input_share": 0.009259259259259259
+    },
+    "no_second_structure": {
+      "count": 8,
+      "frame_n": 34,
+      "share": 0.23529411764705882,
+      "95ci": [
+        0.08823529411764706,
+        0.38235294117647056
+      ],
+      "input_n": 108,
+      "input_share": 0.07407407407407407
+    },
+    "non_native_or_unverified_companion": {
+      "count": 9,
+      "frame_n": 34,
+      "share": 0.2647058823529412,
+      "95ci": [
+        0.11764705882352941,
+        0.4117647058823529
+      ],
+      "input_n": 108,
+      "input_share": 0.08333333333333333
+    },
+    "retained_extremes": {
+      "count": 10,
+      "frame_n": 34,
+      "share": 0.29411764705882354,
+      "95ci": [
+        0.14705882352941177,
+        0.4411764705882353
+      ],
+      "input_n": 108,
+      "input_share": 0.09259259259259259
+    },
+    "reversed_extremes": {
+      "count": 0,
+      "frame_n": 34,
+      "share": 0.0,
+      "95ci": [
+        0.0,
+        0.0
+      ],
+      "input_n": 108,
+      "input_share": 0.0
+    },
+    "window_quality_or_interface_failure": {
+      "count": 2,
+      "frame_n": 34,
+      "share": 0.058823529411764705,
+      "95ci": [
+        0.0,
+        0.14705882352941177
+      ],
+      "input_n": 108,
+      "input_share": 0.018518518518518517
+    }
+  },
+  "primary_binary_second_structure": {
+    "groups": 10,
+    "sequence_brier": 0.24374584488754922,
+    "sequence_brier_95ci": [
+      0.194192376678897,
+      0.29218177579353327
+    ],
+    "augmented_brier": 0.20858841895981403,
+    "augmented_brier_95ci": [
+      0.1327438172207817,
+      0.27462216702657477
+    ],
+    "improvement": 0.0351574259277352,
+    "improvement_95ci": [
+      -0.007916519203542123,
+      0.0786266043404649
+    ],
+    "positive_groups": 7,
+    "zero_groups": 0,
+    "negative_groups": 3,
+    "positive_share": 0.7,
+    "positive_share_95ci": [
+      0.4,
+      1.0
+    ],
+    "predictor_probability_ties": 0,
+    "RSA_order_ties": 0
+  },
+  "primary_binary_original_labels_same_subset": {
+    "groups": 10,
+    "sequence_brier": 0.24374584488754922,
+    "sequence_brier_95ci": [
+      0.194192376678897,
+      0.29218177579353327
+    ],
+    "augmented_brier": 0.20858841895981403,
+    "augmented_brier_95ci": [
+      0.1327438172207817,
+      0.27462216702657477
+    ],
+    "improvement": 0.0351574259277352,
+    "improvement_95ci": [
+      -0.007916519203542123,
+      0.0786266043404649
+    ],
+    "positive_groups": 7,
+    "zero_groups": 0,
+    "negative_groups": 3,
+    "positive_share": 0.7,
+    "positive_share_95ci": [
+      0.4,
+      1.0
+    ],
+    "predictor_probability_ties": 0,
+    "RSA_order_ties": 0
+  },
+  "secondary_continuous_order_second_structure": {
+    "groups": 14,
+    "sequence_brier": 0.25250092811347996,
+    "sequence_brier_95ci": [
+      0.19917096484960198,
+      0.30898063914382257
+    ],
+    "augmented_brier": 0.21185774580550149,
+    "augmented_brier_95ci": [
+      0.14200837267508037,
+      0.28216501770132124
+    ],
+    "improvement": 0.040643182307978476,
+    "improvement_95ci": [
+      0.006422622064815814,
+      0.07487516898426473
+    ],
+    "positive_groups": 10,
+    "zero_groups": 0,
+    "negative_groups": 4,
+    "positive_share": 0.7142857142857143,
+    "positive_share_95ci": [
+      0.42857142857142855,
+      0.9285714285714286
+    ],
+    "predictor_probability_ties": 0,
+    "RSA_order_ties": 0
+  },
+  "original_binary_labels_on_quality_subset": {
+    "groups": 14,
+    "sequence_brier": 0.25250092811347996,
+    "sequence_brier_95ci": [
+      0.19917096484960198,
+      0.30898063914382257
+    ],
+    "augmented_brier": 0.21185774580550149,
+    "augmented_brier_95ci": [
+      0.14200837267508037,
+      0.28216501770132124
+    ],
+    "improvement": 0.040643182307978476,
+    "improvement_95ci": [
+      0.006422622064815814,
+      0.07487516898426473
+    ],
+    "positive_groups": 10,
+    "zero_groups": 0,
+    "negative_groups": 4,
+    "positive_share": 0.7142857142857143,
+    "positive_share_95ci": [
+      0.42857142857142855,
+      0.9285714285714286
+    ],
+    "predictor_probability_ties": 0,
+    "RSA_order_ties": 0
+  },
+  "label_repeatability_quality_pairs": {
+    "groups": 14,
+    "same_extremes": 10,
+    "intermediate": 4,
+    "reversed": 0,
+    "collapsed": 0,
+    "retained_share": 0.7142857142857143,
+    "retained_share_95ci": [
+      0.42857142857142855,
+      0.9285714285714286
+    ]
+  },
+  "no_new_inference_or_fit": true,
+  "subject_overlap": "All are repeated measurements of existing external proteins; no new independent subjects",
+  "RSA_scope": "RSA computed from experimental biological assembly protein atoms with original algorithm; not experimentally measured absolute solvent exposure",
+  "deposition_independence": "Different PDB IDs; independent experimental acquisition/laboratory unknown",
+  "safety_amendment": {
+    "freeze_sha256": "32a47d29d630c91c572813af7321740c09e57b5b41ed8f62dbaa961add1d7ee5",
+    "retained_second_entry_groups": 17,
+    "frozen_utc": "2026-11-23T03:03:39.704638+00:00",
+    "heteromeric_entries_allowed": true,
+    "metadata_only_added_before_aggregate_statistics": true,
+    "raw_polymer_implementation_correction": {
+      "corrected_utc": "2026-11-23T03:07:30.755718+00:00",
+      "prior_safety_freeze_sha256": "32a47d29d630c91c572813af7321740c09e57b5b41ed8f62dbaa961add1d7ee5",
+      "corrected_screen_sha256": "5a15006bf74521bf6178f4a1b9fcecfdbf2db57a948099dba2ef3f72d3d3362f",
+      "correction_script_sha256": "f99f37bfd41ccc7a5f7c9d1943f1080cd9953046ece7e6a9dcaf4274fbfa3ec2",
+      "retained": 17,
+      "raw_polymer_hits": [
+        {
+          "accession": "Q15819",
+          "pdb_id": "9lhj",
+          "entry_role": "original",
+          "entity": "1",
+          "reason": "nonstandard_raw_polymer_monomer",
+          "codes": [
+            "(A1EJS)"
+          ]
+        },
+        {
+          "accession": "P15104",
+          "pdb_id": "9nm5",
+          "entry_role": "original",
+          "entity": "1",
+          "reason": "nonstandard_raw_polymer_monomer",
+          "codes": [
+            "(CSO)"
+          ]
+        },
+        {
+          "accession": "P10276",
+          "pdb_id": "9gfe",
+          "entry_role": "original",
+          "entity": "2",
+          "reason": "nonstandard_raw_polymer_monomer",
+          "codes": [
+            "(ACE)",
+            "(NLE)",
+            "(HRG)"
+          ]
+        },
+        {
+          "accession": "Q12834",
+          "pdb_id": "9i69",
+          "entry_role": "original",
+          "entity": "2",
+          "reason": "nonstandard_raw_polymer_monomer",
+          "codes": [
+            "(0JY)"
+          ]
+        },
+        {
+          "accession": "Q12834",
+          "pdb_id": "9i68",
+          "entry_role": "second",
+          "entity": "2",
+          "reason": "nonstandard_raw_polymer_monomer",
+          "codes": [
+            "(3EG)"
+          ]
+        },
+        {
+          "accession": "P40337",
+          "pdb_id": "6i7q",
+          "entry_role": "second",
+          "entity": "1",
+          "reason": "nonstandard_raw_polymer_monomer",
+          "codes": [
+            "(CSD)"
+          ]
+        },
+        {
+          "accession": "P40337",
+          "pdb_id": "6i7q",
+          "entry_role": "second",
+          "entity": "3",
+          "reason": "nonstandard_raw_polymer_monomer",
+          "codes": [
+            "(HYP)"
+          ]
+        },
+        {
+          "accession": "P08263",
+          "pdb_id": "1pl1",
+          "entry_role": "second",
+          "entity": "1",
+          "reason": "nonstandard_raw_polymer_monomer",
+          "codes": [
+            "(CSO)"
+          ]
+        }
+      ],
+      "first_summaries_had_been_seen": true,
+      "reason": "concrete implementation defect: canonical polymer field normalizes modified monomers, contrary to already specified no-nonstandard rule",
+      "new_scientific_thresholds_or_predictors": false,
+      "replacement_entries_or_pairs": false
+    },
+    "correction_receipt_sha256": "ae8b685f09321d840003e7fd0c60fda01ed2b3d95776f3b05f49375c78123dae"
+  },
+  "primary_positive_detection_yield": {
+    "detected_positive_groups": 7,
+    "frame_n": 34,
+    "share_of_frozen_repeat_frame": 0.20588235294117646,
+    "share_95ci": [
+      0.08823529411764706,
+      0.35294117647058826
+    ],
+    "original_input_n": 108,
+    "share_of_original_input": 0.06481481481481481,
+    "interpretation": "observed positive readout yield including non-scoreable groups in denominator, not an imputed all-frame Brier improvement"
+  },
+  "continuous_RSA_change": {
+    "groups": 14,
+    "mean_absolute_change_group_balanced": 0.019385389222068495,
+    "95ci": [
+      0.010549079251983309,
+      0.031992074110923197
+    ]
+  },
+  "ordering_direction_preserved_groups": 14,
+  "intermediate_cases": [
+    {
+      "group": "external30-1d4eddbc2abf8767f6dd7b0b660a6dd48331b10f754d57f958db0f5139195946",
+      "accession": "O70348",
+      "original_pdb": "11ao",
+      "second_pdb": "11ap",
+      "early": "106",
+      "late": "181",
+      "early_rsa_original": 0.0,
+      "late_rsa_original": 0.4095403187310518,
+      "early_rsa_second": 0.0,
+      "late_rsa_second": 0.38678490937645754,
+      "local_probability": 0.4443501626807215,
+      "augmented_probability": 0.43424792294165376
+    },
+    {
+      "group": "external30-532efd69fb9862d05d041466778ea40e7f174f016739f6e2946ef77243f7d433",
+      "accession": "Q16658",
+      "original_pdb": "9gs6",
+      "second_pdb": "6i18",
+      "early": "373",
+      "late": "409",
+      "early_rsa_original": 0.42300867880544357,
+      "late_rsa_original": 0.08847910973333543,
+      "early_rsa_second": 0.3886330143097908,
+      "late_rsa_second": 0.08970020663353705,
+      "local_probability": 0.7173671615504579,
+      "augmented_probability": 0.6721017168304309
+    },
+    {
+      "group": "external30-d3a825c6bfe100b662cbb86be66da5f5e334cfc8ee9d7cf1dbbc6acd25f51c5f",
+      "accession": "P69905",
+      "original_pdb": "9hba",
+      "second_pdb": "1ird",
+      "early": "22",
+      "late": "54",
+      "early_rsa_original": 0.07676395889400511,
+      "late_rsa_original": 0.61265351051508,
+      "early_rsa_second": 0.1448915023212285,
+      "late_rsa_second": 0.6341861458711846,
+      "local_probability": 0.6928085037744853,
+      "augmented_probability": 0.9885475106680073
+    },
+    {
+      "group": "external30-f2fb3b431ae45c55170f99e714ab50d1125260c15ed8654d0ba94e9ac6c5218f",
+      "accession": "Q9H773",
+      "original_pdb": "9yso",
+      "second_pdb": "9ysp",
+      "early": "40",
+      "late": "95",
+      "early_rsa_original": 0.4046755050864455,
+      "late_rsa_original": 0.09353349454734357,
+      "early_rsa_second": 0.4255091919492713,
+      "late_rsa_second": 0.12444301143355434,
+      "local_probability": 0.42405841953209156,
+      "augmented_probability": 0.3289330656907808
+    }
+  ]
+}

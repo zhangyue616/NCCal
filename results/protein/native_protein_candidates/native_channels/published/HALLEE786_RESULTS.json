@@ -1,0 +1,152 @@
+{
+  "model": "esm2_8m",
+  "model_revision": "c731040fcd8d73dceaa04b0a8e6329b345b0f5df",
+  "layer_one_based": 5,
+  "block_zero_based": 4,
+  "unit_zero_based": 786,
+  "unit_one_based": 787,
+  "observation": "pre-GELU FFN positive pole max(z_786,0)",
+  "origin": "author-public-archive row, not a main-text named unit",
+  "original_author_F1": 0.08819554796412499,
+  "original_task": "Helix annotation vs remainder, not same-AA H-vs-E",
+  "current_comparison": "same-AA same-chain H-vs-E, new-contrast transfer of original positive-Helix direction",
+  "original_sample_overlap": "UNKNOWN",
+  "device": "CPU",
+  "precision": "float32",
+  "torch": "2.11.0+cu128",
+  "n_chains": 142,
+  "n_residues": 56739,
+  "validation": {
+    "direct_coordinate_check": true,
+    "direct_coordinate_max_abs_error": 1.1920928955078125e-06
+  },
+  "summaries": [
+    {
+      "split": "D",
+      "task": "helix_start_vs_internal",
+      "inference": "descriptive_start_minus_interior_not_original_claim",
+      "n_groups": 24,
+      "n_chains": 31,
+      "n_pairs": 123,
+      "n_positive": 19,
+      "n_negative": 58,
+      "n_ties": 46,
+      "pooled_fraction_positive": 0.34146341463414637,
+      "macro_fraction_positive": 0.3713831018518518,
+      "macro_fraction_positive_group_bootstrap_95ci": [
+        0.29455946180555553,
+        0.44740162037037035
+      ],
+      "pooled_mean_delta": -0.26627286520551857,
+      "macro_mean_delta": -0.3578104589682038,
+      "n_groups_mean_delta_positive": 3,
+      "group_mean_sign_one_sided_binomial_p": 0.9993438720703125
+    },
+    {
+      "split": "D",
+      "task": "helix_vs_strand",
+      "inference": "published_positive_Helix_direction_transferred_to_new_H_vs_E_contrast",
+      "n_groups": 29,
+      "n_chains": 41,
+      "n_pairs": 445,
+      "n_positive": 152,
+      "n_negative": 13,
+      "n_ties": 280,
+      "pooled_fraction_positive": 0.6561797752808989,
+      "macro_fraction_positive": 0.6544769167613996,
+      "macro_fraction_positive_group_bootstrap_95ci": [
+        0.6197999952633574,
+        0.6915028380383985
+      ],
+      "pooled_mean_delta": 0.2405630568021469,
+      "macro_mean_delta": 0.2377897429696002,
+      "n_groups_mean_delta_positive": 28,
+      "group_mean_sign_one_sided_binomial_p": 3.725290298461914e-09
+    },
+    {
+      "split": "E",
+      "task": "helix_start_vs_internal",
+      "inference": "descriptive_start_minus_interior_not_original_claim",
+      "n_groups": 20,
+      "n_chains": 22,
+      "n_pairs": 154,
+      "n_positive": 28,
+      "n_negative": 64,
+      "n_ties": 62,
+      "pooled_fraction_positive": 0.38311688311688313,
+      "macro_fraction_positive": 0.3352618215118215,
+      "macro_fraction_positive_group_bootstrap_95ci": [
+        0.24890704607892106,
+        0.4197987585331336
+      ],
+      "pooled_mean_delta": -0.1578170373890694,
+      "macro_mean_delta": -0.17275151015035722,
+      "n_groups_mean_delta_positive": 4,
+      "group_mean_sign_one_sided_binomial_p": 0.9977874755859375
+    },
+    {
+      "split": "E",
+      "task": "helix_vs_strand",
+      "inference": "published_positive_Helix_direction_transferred_to_new_H_vs_E_contrast",
+      "n_groups": 22,
+      "n_chains": 23,
+      "n_pairs": 329,
+      "n_positive": 125,
+      "n_negative": 9,
+      "n_ties": 195,
+      "pooled_fraction_positive": 0.6762917933130699,
+      "macro_fraction_positive": 0.6767180735930736,
+      "macro_fraction_positive_group_bootstrap_95ci": [
+        0.6270021645021644,
+        0.7278544372294372
+      ],
+      "pooled_mean_delta": 0.27894765009543093,
+      "macro_mean_delta": 0.2787756729957716,
+      "n_groups_mean_delta_positive": 21,
+      "group_mean_sign_one_sided_binomial_p": 4.76837158203125e-07
+    },
+    {
+      "split": "T",
+      "task": "helix_start_vs_internal",
+      "inference": "descriptive_start_minus_interior_not_original_claim",
+      "n_groups": 59,
+      "n_chains": 61,
+      "n_pairs": 488,
+      "n_positive": 91,
+      "n_negative": 173,
+      "n_ties": 224,
+      "pooled_fraction_positive": 0.41598360655737704,
+      "macro_fraction_positive": 0.41812346081413876,
+      "macro_fraction_positive_group_bootstrap_95ci": [
+        0.37282820816189455,
+        0.4657687663090205
+      ],
+      "pooled_mean_delta": -0.11871233977163669,
+      "macro_mean_delta": -0.12077438628621524,
+      "n_groups_mean_delta_positive": 14,
+      "group_mean_sign_one_sided_binomial_p": 0.9999633339080153
+    },
+    {
+      "split": "T",
+      "task": "helix_vs_strand",
+      "inference": "published_positive_Helix_direction_transferred_to_new_H_vs_E_contrast",
+      "n_groups": 70,
+      "n_chains": 73,
+      "n_pairs": 1054,
+      "n_positive": 327,
+      "n_negative": 41,
+      "n_ties": 686,
+      "pooled_fraction_positive": 0.635673624288425,
+      "macro_fraction_positive": 0.6383188339438339,
+      "macro_fraction_positive_group_bootstrap_95ci": [
+        0.6145797657203907,
+        0.6634083676739928
+      ],
+      "pooled_mean_delta": 0.19369470039329562,
+      "macro_mean_delta": 0.19044780288724586,
+      "n_groups_mean_delta_positive": 64,
+      "group_mean_sign_one_sided_binomial_p": 1.7889335846010823e-18
+    }
+  ],
+  "elapsed_seconds": 47.55372738838196
+}

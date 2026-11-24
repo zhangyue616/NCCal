@@ -1,0 +1,9 @@
+{
+  "experiment": "05_molecular_rewrites",
+  "original_document": "PROTOCOL.md",
+  "original_sha256": "5a152b5e82e182ad6ba062dacf0906264ac34ed639635c3a90fa293b795f95b0",
+  "freeze_record": "FREEZE.json",
+  "freeze_time_utc": "2026-11-23T10:56:34.751735+00:00",
+  "english_document": "PROTOCOL.md",
+  "original_freeze_record_sha256": "94bbdccab4e3499f17353aeaf5524a2c5523f6c217b6e2695fe9b782f4fb86df"
+}

@@ -1,0 +1,53 @@
+{
+  "schema": "NCCal-published-figure-exports/1",
+  "render_entry": "python -B figures/render.py 5 6",
+  "published_exports_are_inputs": false,
+  "figures": [
+    {
+      "figure": "Figure 5",
+      "drawing_script": "figures/native/main_5.py",
+      "canvas_points": [
+        504,
+        410
+      ],
+      "png_dpi": 600,
+      "files": [
+        {
+          "path": "figures/published/Figure_5.png",
+          "sha256": "16f3dc1670a0d79758981d5f0f4ad54ca26cd0e80e03d97db7bc83663376ea75"
+        },
+        {
+          "path": "figures/published/Figure_5.svg",
+          "sha256": "3371ef9b19b1a4f57f165eaba51fb6689a8a361993d4d52b85a3442b69ab941d"
+        },
+        {
+          "path": "figures/published/Figure_5.pdf",
+          "sha256": "48438d001a861d95503e53e19921b8e5e1372bd0ea1f7e0a88026f3babf8d801"
+        }
+      ]
+    },
+    {
+      "figure": "Figure 6",
+      "drawing_script": "figures/native/main_6.py",
+      "canvas_points": [
+        504,
+        398
+      ],
+      "png_dpi": 600,
+      "files": [
+        {
+          "path": "figures/published/Figure_6.png",
+          "sha256": "24aa05058c18ab8e7e3f2e7d751647119a93febe0486d036511831e98a0b52c3"
+        },
+        {
+          "path": "figures/published/Figure_6.svg",
+          "sha256": "1624017907bf14a41ffdc63209b309a86c41453430dc3036bec6997dc7839c5b"
+        },
+        {
+          "path": "figures/published/Figure_6.pdf",
+          "sha256": "29aae57085a05e417884cad55eea4e431bd808003f93e87d81ba7414c0f4ca79"
+        }
+      ]
+    }
+  ]
+}

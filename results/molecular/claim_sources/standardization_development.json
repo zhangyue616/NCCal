@@ -1,0 +1,14 @@
+{
+  "excluded_original_D_rows_for_H4_structure_overlap": [
+    77,
+    3344,
+    4062
+  ],
+  "planned_D": 4997,
+  "category_counts": {
+    "verified_unique_anchor_match": 4997,
+    "ambiguous/unverifiable": 0,
+    "hardfail": 0,
+    "actual_position_disagreement": 0
+  }
+}

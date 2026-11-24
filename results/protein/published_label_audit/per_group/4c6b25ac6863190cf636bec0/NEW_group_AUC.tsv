@@ -1,0 +1,2 @@
+unit_id	concept	group	accession	split	auroc	n_positive	n_unannotated	n_negative_reference	negative_reference_meaning	auc_scope	full_protein_residue_auc	own_fresh_eligible
+Hallee|esm2_650m|b29|u2987|positive|0927da96d9	Active site_Schiff-base intermediate with substrate	fresh-490835706003178bede19fa317c28491b80b536a01625f873f53a229288d601b	Q9I4W3	RESERVE	1.0	1	291	291	not annotated, not verified absence	all_eligible_observed_or_annotated_domain_residues	True	True

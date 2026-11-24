@@ -1,0 +1,2162 @@
+{
+  "network": "runtime_check_init001",
+  "site_G_native": -0.009739587963302819,
+  "site_G_rotated": [
+    -1.752340906922674e-05,
+    -0.000703002665025406,
+    -0.0011813870282566408,
+    -0.0023148794615276713,
+    -0.000678981938338867,
+    -0.0007098543877225533,
+    -0.003067374431014002,
+    -0.0024978316465388674,
+    0.0007486980819831529
+  ],
+  "site_A": -0.008581572753801699,
+  "rotation_count": 9,
+  "readout": "historical single-center conditional ridge",
+  "rows": [
+    {
+      "network": "runtime_check_init001",
+      "basis": 0,
+      "selected_axis": {
+        "unit": 470,
+        "D_select_gain": 0.012268727507291497,
+        "eligible_axes": 1280,
+        "sign_flip_prediction_max_error": 0.0,
+        "sign_flip_coefficient_max_error": 0.0
+      },
+      "site_readout": {
+        "baseline_Brier": 0.2795844365779185,
+        "augmented_Brier": 0.28932402454122125,
+        "gain": {
+          "mean": -0.009739587963302819,
+          "CI95_t_conditional": [
+            -0.01182982448208279,
+            -0.007649351444522849
+          ],
+          "SE": 0.001065476168316006,
+          "groups": 1304
+        }
+      },
+      "paired_readout": {
+        "fits": 102,
+        "implementation": "same systems via cached base factorizations and Sherman-Morrison rank-one updates",
+        "development_pairs": 432,
+        "development_groups": 421,
+        "confirmation_groups": 1304,
+        "models": {
+          "X": {
+            "selected_lambda": 0.01,
+            "candidates": [
+              {
+                "lambda": 0.0001,
+                "OOF_group_Brier": 0.20659854503746827
+              },
+              {
+                "lambda": 0.001,
+                "OOF_group_Brier": 0.2019067122336886
+              },
+              {
+                "lambda": 0.01,
+                "OOF_group_Brier": 0.19846180027468463
+              },
+              {
+                "lambda": 0.1,
+                "OOF_group_Brier": 0.22370457241885128
+              }
+            ]
+          },
+          "S": {
+            "selected_lambda": 0.01,
+            "candidates": [
+              {
+                "lambda": 0.0001,
+                "OOF_group_Brier": 0.2383466591256198
+              },
+              {
+                "lambda": 0.001,
+                "OOF_group_Brier": 0.1947523479171241
+              },
+              {
+                "lambda": 0.01,
+                "OOF_group_Brier": 0.18330403944937318
+              },
+              {
+                "lambda": 0.1,
+                "OOF_group_Brier": 0.21890823269005383
+              }
+            ]
+          },
+          "L": {
+            "selected_lambda": 0.001,
+            "candidates": [
+              {
+                "lambda": 0.0001,
+                "OOF_group_Brier": 0.18195381545024253
+              },
+              {
+                "lambda": 0.001,
+                "OOF_group_Brier": 0.1805591936396282
+              },
+              {
+                "lambda": 0.01,
+                "OOF_group_Brier": 0.18469903843765195
+              },
+              {
+                "lambda": 0.1,
+                "OOF_group_Brier": 0.21891645891398778
+              }
+            ]
+          },
+          "Xj": {
+            "selected_lambda": 0.01,
+            "candidates": [
+              {
+                "lambda": 0.0001,
+                "OOF_group_Brier": 0.20841592895869923
+              },
+              {
+                "lambda": 0.001,
+                "OOF_group_Brier": 0.20349468717852298
+              },
+              {
+                "lambda": 0.01,
+                "OOF_group_Brier": 0.1996434174390986
+              },
+              {
+                "lambda": 0.1,
+                "OOF_group_Brier": 0.22468768364161698
+              }
+            ]
+          },
+          "Sj": {
+            "selected_lambda": 0.01,
+            "candidates": [
+              {
+                "lambda": 0.0001,
+                "OOF_group_Brier": 0.238172904491844
+              },
+              {
+                "lambda": 0.001,
+                "OOF_group_Brier": 0.19508773394832352
+              },
+              {
+                "lambda": 0.01,
+                "OOF_group_Brier": 0.18421146916738756
+              },
+              {
+                "lambda": 0.1,
+                "OOF_group_Brier": 0.2198701673606775
+              }
+            ]
+          },
+          "Lj": {
+            "selected_lambda": 0.001,
+            "candidates": [
+              {
+                "lambda": 0.0001,
+                "OOF_group_Brier": 0.18249730783308582
+              },
+              {
+                "lambda": 0.001,
+                "OOF_group_Brier": 0.1811786491791578
+              },
+              {
+                "lambda": 0.01,
+                "OOF_group_Brier": 0.1856053582771127
+              },
+              {
+                "lambda": 0.1,
+                "OOF_group_Brier": 0.21987308139108624
+              }
+            ]
+          }
+        },
+        "absolute_Brier": {
+          "X": 0.19433152888970243,
+          "S": 0.1872702642774527,
+          "L": 0.19177128351312972,
+          "Xj": 0.19437019542546247,
+          "Sj": 0.18728371487943357,
+          "Lj": 0.191839755918969
+        },
+        "endpoints": {
+          "gX": {
+            "mean": -3.866653576001857e-05,
+            "CI95_t_conditional": [
+              -9.242612303334278e-05,
+              1.5093051513305638e-05
+            ],
+            "SE": 2.7403386431916497e-05,
+            "groups": 1304
+          },
+          "gS": {
+            "mean": -1.3450601980881977e-05,
+            "CI95_t_conditional": [
+              -3.5118860218589406e-05,
+              8.217656256825452e-06
+            ],
+            "SE": 1.1045167641922972e-05,
+            "groups": 1304
+          },
+          "gL": {
+            "mean": -6.847240583931268e-05,
+            "CI95_t_conditional": [
+              -0.00016498060246971326,
+              2.8035790791087898e-05
+            ],
+            "SE": 4.9194042221052145e-05,
+            "groups": 1304
+          },
+          "psi": {
+            "mean": -2.5215933779136593e-05,
+            "CI95_t_conditional": [
+              -5.858895534775956e-05,
+              8.15708778948638e-06
+            ],
+            "SE": 1.7011548131796313e-05,
+            "groups": 1304
+          }
+        },
+        "sign_flip_kernel_max_error": 0.0
+      },
+      "created_utc": "2026-11-18T06:56:23.432802+00:00",
+      "analysis_wall_seconds": 1.3747416000114754
+    },
+    {
+      "network": "runtime_check_init001",
+      "basis": 1,
+      "selected_axis": {
+        "unit": 352,
+        "D_select_gain": 0.0055724647475834865,
+        "eligible_axes": 1280,
+        "sign_flip_prediction_max_error": 0.0,
+        "sign_flip_coefficient_max_error": 0.0
+      },
+      "site_readout": {
+        "baseline_Brier": 0.2795844365779185,
+        "augmented_Brier": 0.27960195998698767,
+        "gain": {
+          "mean": -1.752340906922674e-05,
+          "CI95_t_conditional": [
+            -0.0005806227632894979,
+            0.0005455759451510445
+          ],
+          "SE": 0.0002870339968349716,
+          "groups": 1304
+        }
+      },
+      "paired_readout": {
+        "fits": 102,
+        "implementation": "same systems via cached base factorizations and Sherman-Morrison rank-one updates",
+        "development_pairs": 432,
+        "development_groups": 421,
+        "confirmation_groups": 1304,
+        "models": {
+          "X": {
+            "selected_lambda": 0.01,
+            "candidates": [
+              {
+                "lambda": 0.0001,
+                "OOF_group_Brier": 0.20659854503746827
+              },
+              {
+                "lambda": 0.001,
+                "OOF_group_Brier": 0.2019067122336886
+              },
+              {
+                "lambda": 0.01,
+                "OOF_group_Brier": 0.19846180027468463
+              },
+              {
+                "lambda": 0.1,
+                "OOF_group_Brier": 0.22370457241885128
+              }
+            ]
+          },
+          "S": {
+            "selected_lambda": 0.01,
+            "candidates": [
+              {
+                "lambda": 0.0001,
+                "OOF_group_Brier": 0.2383466591256198
+              },
+              {
+                "lambda": 0.001,
+                "OOF_group_Brier": 0.1947523479171241
+              },
+              {
+                "lambda": 0.01,
+                "OOF_group_Brier": 0.18330403944937318
+              },
+              {
+                "lambda": 0.1,
+                "OOF_group_Brier": 0.21890823269005383
+              }
+            ]
+          },
+          "L": {
+            "selected_lambda": 0.001,
+            "candidates": [
+              {
+                "lambda": 0.0001,
+                "OOF_group_Brier": 0.18195381545024253
+              },
+              {
+                "lambda": 0.001,
+                "OOF_group_Brier": 0.1805591936396282
+              },
+              {
+                "lambda": 0.01,
+                "OOF_group_Brier": 0.18469903843765195
+              },
+              {
+                "lambda": 0.1,
+                "OOF_group_Brier": 0.21891645891398778
+              }
+            ]
+          },
+          "Xj": {
+            "selected_lambda": 0.01,
+            "candidates": [
+              {
+                "lambda": 0.0001,
+                "OOF_group_Brier": 0.20688435655801424
+              },
+              {
+                "lambda": 0.001,
+                "OOF_group_Brier": 0.20211174637194537
+              },
+              {
+                "lambda": 0.01,
+                "OOF_group_Brier": 0.19871869222205826
+              },
+              {
+                "lambda": 0.1,
+                "OOF_group_Brier": 0.22442479241970562
+              }
+            ]
+          },
+          "Sj": {
+            "selected_lambda": 0.01,
+            "candidates": [
+              {
+                "lambda": 0.0001,
+                "OOF_group_Brier": 0.2384308950245806
+              },
+              {
+                "lambda": 0.001,
+                "OOF_group_Brier": 0.19452077712854748
+              },
+              {
+                "lambda": 0.01,
+                "OOF_group_Brier": 0.18318625301130526
+              },
+              {
+                "lambda": 0.1,
+                "OOF_group_Brier": 0.21963760031723725
+              }
+            ]
+          },
+          "Lj": {
+            "selected_lambda": 0.001,
+            "candidates": [
+              {
+                "lambda": 0.0001,
+                "OOF_group_Brier": 0.18156661586671077
+              },
+              {
+                "lambda": 0.001,
+                "OOF_group_Brier": 0.1801562979072211
+              },
+              {
+                "lambda": 0.01,
+                "OOF_group_Brier": 0.18467373380874474
+              },
+              {
+                "lambda": 0.1,
+                "OOF_group_Brier": 0.21964281759452078
+              }
+            ]
+          }
+        },
+        "absolute_Brier": {
+          "X": 0.19433152888970243,
+          "S": 0.1872702642774527,
+          "L": 0.19177128351312972,
+          "Xj": 0.19425096931549263,
+          "Sj": 0.18722972533288965,
+          "Lj": 0.19174506824807844
+        },
+        "endpoints": {
+          "gX": {
+            "mean": 8.055957420982582e-05,
+            "CI95_t_conditional": [
+              -0.0002559620740340988,
+              0.00041708122245375043
+            ],
+            "SE": 0.00017153838482144863,
+            "groups": 1304
+          },
+          "gS": {
+            "mean": 4.053894456306428e-05,
+            "CI95_t_conditional": [
+              -0.00042782137493470665,
+              0.0005088992640608352
+            ],
+            "SE": 0.00023874176636288867,
+            "groups": 1304
+          },
+          "gL": {
+            "mean": 2.6215265051272656e-05,
+            "CI95_t_conditional": [
+              -0.0006841496402165193,
+              0.0007365801703190645
+            ],
+            "SE": 0.00036210106874061496,
+            "groups": 1304
+          },
+          "psi": {
+            "mean": 4.0020629646761596e-05,
+            "CI95_t_conditional": [
+              -0.00012858257037246993,
+              0.0002086238296659931
+            ],
+            "SE": 8.59437149376578e-05,
+            "groups": 1304
+          }
+        },
+        "sign_flip_kernel_max_error": 0.0
+      },
+      "created_utc": "2026-11-18T06:56:24.842308+00:00",
+      "analysis_wall_seconds": 0.3659241999848746
+    },
+    {
+      "network": "runtime_check_init001",
+      "basis": 2,
+      "selected_axis": {
+        "unit": 951,
+        "D_select_gain": 0.005505119741143695,
+        "eligible_axes": 1280,
+        "sign_flip_prediction_max_error": 0.0,
+        "sign_flip_coefficient_max_error": 0.0
+      },
+      "site_readout": {
+        "baseline_Brier": 0.2795844365779185,
+        "augmented_Brier": 0.2802874392429439,
+        "gain": {
+          "mean": -0.000703002665025406,
+          "CI95_t_conditional": [
+            -0.0012701436506368652,
+            -0.000135861679413947
+          ],
+          "SE": 0.0002890941760968582,
+          "groups": 1304
+        }
+      },
+      "paired_readout": {
+        "fits": 102,
+        "implementation": "same systems via cached base factorizations and Sherman-Morrison rank-one updates",
+        "development_pairs": 432,
+        "development_groups": 421,
+        "confirmation_groups": 1304,
+        "models": {
+          "X": {
+            "selected_lambda": 0.01,
+            "candidates": [
+              {
+                "lambda": 0.0001,
+                "OOF_group_Brier": 0.20659854503746827
+              },
+              {
+                "lambda": 0.001,
+                "OOF_group_Brier": 0.2019067122336886
+              },
+              {
+                "lambda": 0.01,
+                "OOF_group_Brier": 0.19846180027468463
+              },
+              {
+                "lambda": 0.1,
+                "OOF_group_Brier": 0.22370457241885128
+              }
+            ]
+          },
+          "S": {
+            "selected_lambda": 0.01,
+            "candidates": [
+              {
+                "lambda": 0.0001,
+                "OOF_group_Brier": 0.2383466591256198
+              },
+              {
+                "lambda": 0.001,
+                "OOF_group_Brier": 0.1947523479171241
+              },
+              {
+                "lambda": 0.01,
+                "OOF_group_Brier": 0.18330403944937318
+              },
+              {
+                "lambda": 0.1,
+                "OOF_group_Brier": 0.21890823269005383
+              }
+            ]
+          },
+          "L": {
+            "selected_lambda": 0.001,
+            "candidates": [
+              {
+                "lambda": 0.0001,
+                "OOF_group_Brier": 0.18195381545024253
+              },
+              {
+                "lambda": 0.001,
+                "OOF_group_Brier": 0.1805591936396282
+              },
+              {
+                "lambda": 0.01,
+                "OOF_group_Brier": 0.18469903843765195
+              },
+              {
+                "lambda": 0.1,
+                "OOF_group_Brier": 0.21891645891398778
+              }
+            ]
+          },
+          "Xj": {
+            "selected_lambda": 0.01,
+            "candidates": [
+              {
+                "lambda": 0.0001,
+                "OOF_group_Brier": 0.20551448934762612
+              },
+              {
+                "lambda": 0.001,
+                "OOF_group_Brier": 0.20084116957080417
+              },
+              {
+                "lambda": 0.01,
+                "OOF_group_Brier": 0.19815883480184188
+              },
+              {
+                "lambda": 0.1,
+                "OOF_group_Brier": 0.2242211117265857
+              }
+            ]
+          },
+          "Sj": {
+            "selected_lambda": 0.01,
+            "candidates": [
+              {
+                "lambda": 0.0001,
+                "OOF_group_Brier": 0.23842764800245678
+              },
+              {
+                "lambda": 0.001,
+                "OOF_group_Brier": 0.19524760489891624
+              },
+              {
+                "lambda": 0.01,
+                "OOF_group_Brier": 0.18357220614643058
+              },
+              {
+                "lambda": 0.1,
+                "OOF_group_Brier": 0.2194637726196124
+              }
+            ]
+          },
+          "Lj": {
+            "selected_lambda": 0.001,
+            "candidates": [
+              {
+                "lambda": 0.0001,
+                "OOF_group_Brier": 0.18243560392646163
+              },
+              {
+                "lambda": 0.001,
+                "OOF_group_Brier": 0.1810156295899646
+              },
+              {
+                "lambda": 0.01,
+                "OOF_group_Brier": 0.18501503930814517
+              },
+              {
+                "lambda": 0.1,
+                "OOF_group_Brier": 0.21948015845500515
+              }
+            ]
+          }
+        },
+        "absolute_Brier": {
+          "X": 0.19433152888970243,
+          "S": 0.1872702642774527,
+          "L": 0.19177128351312972,
+          "Xj": 0.19463397524750745,
+          "Sj": 0.1873289018127065,
+          "Lj": 0.19138138836806948
+        },
+        "endpoints": {
+          "gX": {
+            "mean": -0.0003024463578049938,
+            "CI95_t_conditional": [
+              -0.0014796312024650418,
+              0.0008747384868550542
+            ],
+            "SE": 0.0006000576424816025,
+            "groups": 1304
+          },
+          "gS": {
+            "mean": -5.863753525379925e-05,
+            "CI95_t_conditional": [
+              -0.000992218535582465,
+              0.0008749434650748666
+            ],
+            "SE": 0.0004758831348059131,
+            "groups": 1304
+          },
+          "gL": {
+            "mean": 0.0003898951450602268,
+            "CI95_t_conditional": [
+              -0.00037149947661305763,
+              0.0011512897667335113
+            ],
+            "SE": 0.0003881129320955389,
+            "groups": 1304
+          },
+          "psi": {
+            "mean": -0.00024380882255119443,
+            "CI95_t_conditional": [
+              -0.0006133188018647334,
+              0.0001257011567623446
+            ],
+            "SE": 0.00018835384100135882,
+            "groups": 1304
+          }
+        },
+        "sign_flip_kernel_max_error": 0.0
+      },
+      "created_utc": "2026-11-18T06:56:25.214250+00:00",
+      "analysis_wall_seconds": 0.37095039995620027
+    },
+    {
+      "network": "runtime_check_init001",
+      "basis": 3,
+      "selected_axis": {
+        "unit": 1145,
+        "D_select_gain": 0.008003257342811241,
+        "eligible_axes": 1280,
+        "sign_flip_prediction_max_error": 0.0,
+        "sign_flip_coefficient_max_error": 0.0
+      },
+      "site_readout": {
+        "baseline_Brier": 0.2795844365779185,
+        "augmented_Brier": 0.2807658236061751,
+        "gain": {
+          "mean": -0.0011813870282566408,
+          "CI95_t_conditional": [
+            -0.0017518187799387295,
+            -0.000610955276574552
+          ],
+          "SE": 0.0002907716096275887,
+          "groups": 1304
+        }
+      },
+      "paired_readout": {
+        "fits": 102,
+        "implementation": "same systems via cached base factorizations and Sherman-Morrison rank-one updates",
+        "development_pairs": 432,
+        "development_groups": 421,
+        "confirmation_groups": 1304,
+        "models": {
+          "X": {
+            "selected_lambda": 0.01,
+            "candidates": [
+              {
+                "lambda": 0.0001,
+                "OOF_group_Brier": 0.20659854503746827
+              },
+              {
+                "lambda": 0.001,
+                "OOF_group_Brier": 0.2019067122336886
+              },
+              {
+                "lambda": 0.01,
+                "OOF_group_Brier": 0.19846180027468463
+              },
+              {
+                "lambda": 0.1,
+                "OOF_group_Brier": 0.22370457241885128
+              }
+            ]
+          },
+          "S": {
+            "selected_lambda": 0.01,
+            "candidates": [
+              {
+                "lambda": 0.0001,
+                "OOF_group_Brier": 0.2383466591256198
+              },
+              {
+                "lambda": 0.001,
+                "OOF_group_Brier": 0.1947523479171241
+              },
+              {
+                "lambda": 0.01,
+                "OOF_group_Brier": 0.18330403944937318
+              },
+              {
+                "lambda": 0.1,
+                "OOF_group_Brier": 0.21890823269005383
+              }
+            ]
+          },
+          "L": {
+            "selected_lambda": 0.001,
+            "candidates": [
+              {
+                "lambda": 0.0001,
+                "OOF_group_Brier": 0.18195381545024253
+              },
+              {
+                "lambda": 0.001,
+                "OOF_group_Brier": 0.1805591936396282
+              },
+              {
+                "lambda": 0.01,
+                "OOF_group_Brier": 0.18469903843765195
+              },
+              {
+                "lambda": 0.1,
+                "OOF_group_Brier": 0.21891645891398778
+              }
+            ]
+          },
+          "Xj": {
+            "selected_lambda": 0.01,
+            "candidates": [
+              {
+                "lambda": 0.0001,
+                "OOF_group_Brier": 0.20397884785514728
+              },
+              {
+                "lambda": 0.001,
+                "OOF_group_Brier": 0.19939958872741276
+              },
+              {
+                "lambda": 0.01,
+                "OOF_group_Brier": 0.19761321222863082
+              },
+              {
+                "lambda": 0.1,
+                "OOF_group_Brier": 0.22459973787022083
+              }
+            ]
+          },
+          "Sj": {
+            "selected_lambda": 0.01,
+            "candidates": [
+              {
+                "lambda": 0.0001,
+                "OOF_group_Brier": 0.2314576548626683
+              },
+              {
+                "lambda": 0.001,
+                "OOF_group_Brier": 0.19041560025321058
+              },
+              {
+                "lambda": 0.01,
+                "OOF_group_Brier": 0.18143602880782547
+              },
+              {
+                "lambda": 0.1,
+                "OOF_group_Brier": 0.21961421193873024
+              }
+            ]
+          },
+          "Lj": {
+            "selected_lambda": 0.001,
+            "candidates": [
+              {
+                "lambda": 0.0001,
+                "OOF_group_Brier": 0.17905555176250545
+              },
+              {
+                "lambda": 0.001,
+                "OOF_group_Brier": 0.17778337735112237
+              },
+              {
+                "lambda": 0.01,
+                "OOF_group_Brier": 0.18309211761680966
+              },
+              {
+                "lambda": 0.1,
+                "OOF_group_Brier": 0.21962112816764293
+              }
+            ]
+          }
+        },
+        "absolute_Brier": {
+          "X": 0.19433152888970243,
+          "S": 0.1872702642774527,
+          "L": 0.19177128351312972,
+          "Xj": 0.19516443424828545,
+          "Sj": 0.18825314456940487,
+          "Lj": 0.19307989597316952
+        },
+        "endpoints": {
+          "gX": {
+            "mean": -0.0008329053585829913,
+            "CI95_t_conditional": [
+              -0.0022251643753702643,
+              0.0005593536582042817
+            ],
+            "SE": 0.0007096894486255345,
+            "groups": 1304
+          },
+          "gS": {
+            "mean": -0.0009828802919521586,
+            "CI95_t_conditional": [
+              -0.0025004821895859885,
+              0.0005347216056816714
+            ],
+            "SE": 0.0007735816690561821,
+            "groups": 1304
+          },
+          "gL": {
+            "mean": -0.0013086124600398179,
+            "CI95_t_conditional": [
+              -0.0033769541838043985,
+              0.000759729263724763
+            ],
+            "SE": 0.001054315525924839,
+            "groups": 1304
+          },
+          "psi": {
+            "mean": 0.00014997493336916718,
+            "CI95_t_conditional": [
+              -0.0002446833387976968,
+              0.0005446332055360311
+            ],
+            "SE": 0.00020117291983205932,
+            "groups": 1304
+          }
+        },
+        "sign_flip_kernel_max_error": 0.0
+      },
+      "created_utc": "2026-11-18T06:56:25.590520+00:00",
+      "analysis_wall_seconds": 0.3836896000429988
+    },
+    {
+      "network": "runtime_check_init001",
+      "basis": 4,
+      "selected_axis": {
+        "unit": 579,
+        "D_select_gain": 0.004093779234081066,
+        "eligible_axes": 1280,
+        "sign_flip_prediction_max_error": 0.0,
+        "sign_flip_coefficient_max_error": 0.0
+      },
+      "site_readout": {
+        "baseline_Brier": 0.2795844365779185,
+        "augmented_Brier": 0.2818993160394461,
+        "gain": {
+          "mean": -0.0023148794615276713,
+          "CI95_t_conditional": [
+            -0.0035476105513225316,
+            -0.0010821483717328112
+          ],
+          "SE": 0.0006283717590415435,
+          "groups": 1304
+        }
+      },
+      "paired_readout": {
+        "fits": 102,
+        "implementation": "same systems via cached base factorizations and Sherman-Morrison rank-one updates",
+        "development_pairs": 432,
+        "development_groups": 421,
+        "confirmation_groups": 1304,
+        "models": {
+          "X": {
+            "selected_lambda": 0.01,
+            "candidates": [
+              {
+                "lambda": 0.0001,
+                "OOF_group_Brier": 0.20659854503746827
+              },
+              {
+                "lambda": 0.001,
+                "OOF_group_Brier": 0.2019067122336886
+              },
+              {
+                "lambda": 0.01,
+                "OOF_group_Brier": 0.19846180027468463
+              },
+              {
+                "lambda": 0.1,
+                "OOF_group_Brier": 0.22370457241885128
+              }
+            ]
+          },
+          "S": {
+            "selected_lambda": 0.01,
+            "candidates": [
+              {
+                "lambda": 0.0001,
+                "OOF_group_Brier": 0.2383466591256198
+              },
+              {
+                "lambda": 0.001,
+                "OOF_group_Brier": 0.1947523479171241
+              },
+              {
+                "lambda": 0.01,
+                "OOF_group_Brier": 0.18330403944937318
+              },
+              {
+                "lambda": 0.1,
+                "OOF_group_Brier": 0.21890823269005383
+              }
+            ]
+          },
+          "L": {
+            "selected_lambda": 0.001,
+            "candidates": [
+              {
+                "lambda": 0.0001,
+                "OOF_group_Brier": 0.18195381545024253
+              },
+              {
+                "lambda": 0.001,
+                "OOF_group_Brier": 0.1805591936396282
+              },
+              {
+                "lambda": 0.01,
+                "OOF_group_Brier": 0.18469903843765195
+              },
+              {
+                "lambda": 0.1,
+                "OOF_group_Brier": 0.21891645891398778
+              }
+            ]
+          },
+          "Xj": {
+            "selected_lambda": 0.01,
+            "candidates": [
+              {
+                "lambda": 0.0001,
+                "OOF_group_Brier": 0.20709317947227993
+              },
+              {
+                "lambda": 0.001,
+                "OOF_group_Brier": 0.20231145200448986
+              },
+              {
+                "lambda": 0.01,
+                "OOF_group_Brier": 0.1988149745269263
+              },
+              {
+                "lambda": 0.1,
+                "OOF_group_Brier": 0.22416890730437555
+              }
+            ]
+          },
+          "Sj": {
+            "selected_lambda": 0.01,
+            "candidates": [
+              {
+                "lambda": 0.0001,
+                "OOF_group_Brier": 0.23853174235214547
+              },
+              {
+                "lambda": 0.001,
+                "OOF_group_Brier": 0.1949509112133074
+              },
+              {
+                "lambda": 0.01,
+                "OOF_group_Brier": 0.18345582716126174
+              },
+              {
+                "lambda": 0.1,
+                "OOF_group_Brier": 0.21934034097153807
+              }
+            ]
+          },
+          "Lj": {
+            "selected_lambda": 0.001,
+            "candidates": [
+              {
+                "lambda": 0.0001,
+                "OOF_group_Brier": 0.1820599253300806
+              },
+              {
+                "lambda": 0.001,
+                "OOF_group_Brier": 0.1806471534805225
+              },
+              {
+                "lambda": 0.01,
+                "OOF_group_Brier": 0.18488841839776093
+              },
+              {
+                "lambda": 0.1,
+                "OOF_group_Brier": 0.21934268739970134
+              }
+            ]
+          }
+        },
+        "absolute_Brier": {
+          "X": 0.19433152888970243,
+          "S": 0.1872702642774527,
+          "L": 0.19177128351312972,
+          "Xj": 0.19430600033364215,
+          "Sj": 0.18725086634061547,
+          "Lj": 0.19174952762178865
+        },
+        "endpoints": {
+          "gX": {
+            "mean": 2.5528556060286856e-05,
+            "CI95_t_conditional": [
+              -6.00467990418157e-05,
+              0.00011110391116238942
+            ],
+            "SE": 4.362114078347885e-05,
+            "groups": 1304
+          },
+          "gS": {
+            "mean": 1.9397936837240834e-05,
+            "CI95_t_conditional": [
+              -7.587710041015459e-05,
+              0.00011467297408463625
+            ],
+            "SE": 4.856545214403341e-05,
+            "groups": 1304
+          },
+          "gL": {
+            "mean": 2.1755891341050906e-05,
+            "CI95_t_conditional": [
+              -0.00015614793409134418,
+              0.00019965971677344602
+            ],
+            "SE": 9.068461130949234e-05,
+            "groups": 1304
+          },
+          "psi": {
+            "mean": 6.13061922304602e-06,
+            "CI95_t_conditional": [
+              -2.035868831435881e-05,
+              3.261992676045085e-05
+            ],
+            "SE": 1.350264701755954e-05,
+            "groups": 1304
+          }
+        },
+        "sign_flip_kernel_max_error": 0.0
+      },
+      "created_utc": "2026-11-18T06:56:25.975266+00:00",
+      "analysis_wall_seconds": 0.36883710004622117
+    },
+    {
+      "network": "runtime_check_init001",
+      "basis": 5,
+      "selected_axis": {
+        "unit": 1222,
+        "D_select_gain": 0.003950613639632188,
+        "eligible_axes": 1280,
+        "sign_flip_prediction_max_error": 0.0,
+        "sign_flip_coefficient_max_error": 0.0
+      },
+      "site_readout": {
+        "baseline_Brier": 0.2795844365779185,
+        "augmented_Brier": 0.28026341851625736,
+        "gain": {
+          "mean": -0.000678981938338867,
+          "CI95_t_conditional": [
+            -0.001148208062758629,
+            -0.00020975581391910502
+          ],
+          "SE": 0.0002391831013517782,
+          "groups": 1304
+        }
+      },
+      "paired_readout": {
+        "fits": 102,
+        "implementation": "same systems via cached base factorizations and Sherman-Morrison rank-one updates",
+        "development_pairs": 432,
+        "development_groups": 421,
+        "confirmation_groups": 1304,
+        "models": {
+          "X": {
+            "selected_lambda": 0.01,
+            "candidates": [
+              {
+                "lambda": 0.0001,
+                "OOF_group_Brier": 0.20659854503746827
+              },
+              {
+                "lambda": 0.001,
+                "OOF_group_Brier": 0.2019067122336886
+              },
+              {
+                "lambda": 0.01,
+                "OOF_group_Brier": 0.19846180027468463
+              },
+              {
+                "lambda": 0.1,
+                "OOF_group_Brier": 0.22370457241885128
+              }
+            ]
+          },
+          "S": {
+            "selected_lambda": 0.01,
+            "candidates": [
+              {
+                "lambda": 0.0001,
+                "OOF_group_Brier": 0.2383466591256198
+              },
+              {
+                "lambda": 0.001,
+                "OOF_group_Brier": 0.1947523479171241
+              },
+              {
+                "lambda": 0.01,
+                "OOF_group_Brier": 0.18330403944937318
+              },
+              {
+                "lambda": 0.1,
+                "OOF_group_Brier": 0.21890823269005383
+              }
+            ]
+          },
+          "L": {
+            "selected_lambda": 0.001,
+            "candidates": [
+              {
+                "lambda": 0.0001,
+                "OOF_group_Brier": 0.18195381545024253
+              },
+              {
+                "lambda": 0.001,
+                "OOF_group_Brier": 0.1805591936396282
+              },
+              {
+                "lambda": 0.01,
+                "OOF_group_Brier": 0.18469903843765195
+              },
+              {
+                "lambda": 0.1,
+                "OOF_group_Brier": 0.21891645891398778
+              }
+            ]
+          },
+          "Xj": {
+            "selected_lambda": 0.01,
+            "candidates": [
+              {
+                "lambda": 0.0001,
+                "OOF_group_Brier": 0.20716969768090104
+              },
+              {
+                "lambda": 0.001,
+                "OOF_group_Brier": 0.2022292741606988
+              },
+              {
+                "lambda": 0.01,
+                "OOF_group_Brier": 0.19849698864737847
+              },
+              {
+                "lambda": 0.1,
+                "OOF_group_Brier": 0.22369075816411435
+              }
+            ]
+          },
+          "Sj": {
+            "selected_lambda": 0.01,
+            "candidates": [
+              {
+                "lambda": 0.0001,
+                "OOF_group_Brier": 0.23771186527561466
+              },
+              {
+                "lambda": 0.001,
+                "OOF_group_Brier": 0.19467672182747364
+              },
+              {
+                "lambda": 0.01,
+                "OOF_group_Brier": 0.18338494887321158
+              },
+              {
+                "lambda": 0.1,
+                "OOF_group_Brier": 0.21893974685071893
+              }
+            ]
+          },
+          "Lj": {
+            "selected_lambda": 0.001,
+            "candidates": [
+              {
+                "lambda": 0.0001,
+                "OOF_group_Brier": 0.18197813060165619
+              },
+              {
+                "lambda": 0.001,
+                "OOF_group_Brier": 0.18062064845795026
+              },
+              {
+                "lambda": 0.01,
+                "OOF_group_Brier": 0.18480369678959674
+              },
+              {
+                "lambda": 0.1,
+                "OOF_group_Brier": 0.2189534482071161
+              }
+            ]
+          }
+        },
+        "absolute_Brier": {
+          "X": 0.19433152888970243,
+          "S": 0.1872702642774527,
+          "L": 0.19177128351312972,
+          "Xj": 0.19505631323834688,
+          "Sj": 0.1878600990845071,
+          "Lj": 0.19229630489122504
+        },
+        "endpoints": {
+          "gX": {
+            "mean": -0.000724784348644449,
+            "CI95_t_conditional": [
+              -0.0014019453474213796,
+              -4.762334986751853e-05
+            ],
+            "SE": 0.00034517572524807305,
+            "groups": 1304
+          },
+          "gS": {
+            "mean": -0.0005898348070543789,
+            "CI95_t_conditional": [
+              -0.001139149615383992,
+              -4.0519998724765686e-05
+            ],
+            "SE": 0.00028000746897288687,
+            "groups": 1304
+          },
+          "gL": {
+            "mean": -0.0005250213780953351,
+            "CI95_t_conditional": [
+              -0.0010134508738113127,
+              -3.6591882379357395e-05
+            ],
+            "SE": 0.00024897181869721236,
+            "groups": 1304
+          },
+          "psi": {
+            "mean": -0.00013494954159007022,
+            "CI95_t_conditional": [
+              -0.0003365418144202276,
+              6.664273124008715e-05
+            ],
+            "SE": 0.00010275954921243109,
+            "groups": 1304
+          }
+        },
+        "sign_flip_kernel_max_error": 0.0
+      },
+      "created_utc": "2026-11-18T06:56:26.343039+00:00",
+      "analysis_wall_seconds": 0.3600756999803707
+    },
+    {
+      "network": "runtime_check_init001",
+      "basis": 6,
+      "selected_axis": {
+        "unit": 367,
+        "D_select_gain": 0.005371893406873262,
+        "eligible_axes": 1280,
+        "sign_flip_prediction_max_error": 0.0,
+        "sign_flip_coefficient_max_error": 0.0
+      },
+      "site_readout": {
+        "baseline_Brier": 0.2795844365779185,
+        "augmented_Brier": 0.28029429096564096,
+        "gain": {
+          "mean": -0.0007098543877225533,
+          "CI95_t_conditional": [
+            -0.0016665754905714932,
+            0.0002468667151263867
+          ],
+          "SE": 0.00048767855965196444,
+          "groups": 1304
+        }
+      },
+      "paired_readout": {
+        "fits": 102,
+        "implementation": "same systems via cached base factorizations and Sherman-Morrison rank-one updates",
+        "development_pairs": 432,
+        "development_groups": 421,
+        "confirmation_groups": 1304,
+        "models": {
+          "X": {
+            "selected_lambda": 0.01,
+            "candidates": [
+              {
+                "lambda": 0.0001,
+                "OOF_group_Brier": 0.20659854503746827
+              },
+              {
+                "lambda": 0.001,
+                "OOF_group_Brier": 0.2019067122336886
+              },
+              {
+                "lambda": 0.01,
+                "OOF_group_Brier": 0.19846180027468463
+              },
+              {
+                "lambda": 0.1,
+                "OOF_group_Brier": 0.22370457241885128
+              }
+            ]
+          },
+          "S": {
+            "selected_lambda": 0.01,
+            "candidates": [
+              {
+                "lambda": 0.0001,
+                "OOF_group_Brier": 0.2383466591256198
+              },
+              {
+                "lambda": 0.001,
+                "OOF_group_Brier": 0.1947523479171241
+              },
+              {
+                "lambda": 0.01,
+                "OOF_group_Brier": 0.18330403944937318
+              },
+              {
+                "lambda": 0.1,
+                "OOF_group_Brier": 0.21890823269005383
+              }
+            ]
+          },
+          "L": {
+            "selected_lambda": 0.001,
+            "candidates": [
+              {
+                "lambda": 0.0001,
+                "OOF_group_Brier": 0.18195381545024253
+              },
+              {
+                "lambda": 0.001,
+                "OOF_group_Brier": 0.1805591936396282
+              },
+              {
+                "lambda": 0.01,
+                "OOF_group_Brier": 0.18469903843765195
+              },
+              {
+                "lambda": 0.1,
+                "OOF_group_Brier": 0.21891645891398778
+              }
+            ]
+          },
+          "Xj": {
+            "selected_lambda": 0.01,
+            "candidates": [
+              {
+                "lambda": 0.0001,
+                "OOF_group_Brier": 0.2051284261559451
+              },
+              {
+                "lambda": 0.001,
+                "OOF_group_Brier": 0.2002181163146484
+              },
+              {
+                "lambda": 0.01,
+                "OOF_group_Brier": 0.19681242418125175
+              },
+              {
+                "lambda": 0.1,
+                "OOF_group_Brier": 0.22274514777633841
+              }
+            ]
+          },
+          "Sj": {
+            "selected_lambda": 0.01,
+            "candidates": [
+              {
+                "lambda": 0.0001,
+                "OOF_group_Brier": 0.23395849061786106
+              },
+              {
+                "lambda": 0.001,
+                "OOF_group_Brier": 0.19129176204199205
+              },
+              {
+                "lambda": 0.01,
+                "OOF_group_Brier": 0.18151398077270406
+              },
+              {
+                "lambda": 0.1,
+                "OOF_group_Brier": 0.21793978490136798
+              }
+            ]
+          },
+          "Lj": {
+            "selected_lambda": 0.001,
+            "candidates": [
+              {
+                "lambda": 0.0001,
+                "OOF_group_Brier": 0.17905426308512512
+              },
+              {
+                "lambda": 0.001,
+                "OOF_group_Brier": 0.17785608801800565
+              },
+              {
+                "lambda": 0.01,
+                "OOF_group_Brier": 0.1829912726659995
+              },
+              {
+                "lambda": 0.1,
+                "OOF_group_Brier": 0.21796124953256626
+              }
+            ]
+          }
+        },
+        "absolute_Brier": {
+          "X": 0.19433152888970243,
+          "S": 0.1872702642774527,
+          "L": 0.19177128351312972,
+          "Xj": 0.19452768095334858,
+          "Sj": 0.187841027237363,
+          "Lj": 0.1927746633825859
+        },
+        "endpoints": {
+          "gX": {
+            "mean": -0.00019615206364614142,
+            "CI95_t_conditional": [
+              -0.0016760871976661232,
+              0.0012837830703738406
+            ],
+            "SE": 0.0007543814308976925,
+            "groups": 1304
+          },
+          "gS": {
+            "mean": -0.0005707629599103125,
+            "CI95_t_conditional": [
+              -0.0020199677711331644,
+              0.0008784418513125395
+            ],
+            "SE": 0.0007387169707799873,
+            "groups": 1304
+          },
+          "gL": {
+            "mean": -0.0010033798694561822,
+            "CI95_t_conditional": [
+              -0.002668364499843038,
+              0.0006616047609306738
+            ],
+            "SE": 0.0008487084731086216,
+            "groups": 1304
+          },
+          "psi": {
+            "mean": 0.00037461089626417105,
+            "CI95_t_conditional": [
+              -2.489643412816934e-05,
+              0.0007741182266565114
+            ],
+            "SE": 0.00020364467646419274,
+            "groups": 1304
+          }
+        },
+        "sign_flip_kernel_max_error": 0.0
+      },
+      "created_utc": "2026-11-18T06:56:26.712735+00:00",
+      "analysis_wall_seconds": 0.36865179997403175
+    },
+    {
+      "network": "runtime_check_init001",
+      "basis": 7,
+      "selected_axis": {
+        "unit": 202,
+        "D_select_gain": 0.0046416942642260916,
+        "eligible_axes": 1280,
+        "sign_flip_prediction_max_error": 0.0,
+        "sign_flip_coefficient_max_error": 0.0
+      },
+      "site_readout": {
+        "baseline_Brier": 0.2795844365779185,
+        "augmented_Brier": 0.28265181100893244,
+        "gain": {
+          "mean": -0.003067374431014002,
+          "CI95_t_conditional": [
+            -0.0042791427878670725,
+            -0.0018556060741609318
+          ],
+          "SE": 0.0006176862255281942,
+          "groups": 1304
+        }
+      },
+      "paired_readout": {
+        "fits": 102,
+        "implementation": "same systems via cached base factorizations and Sherman-Morrison rank-one updates",
+        "development_pairs": 432,
+        "development_groups": 421,
+        "confirmation_groups": 1304,
+        "models": {
+          "X": {
+            "selected_lambda": 0.01,
+            "candidates": [
+              {
+                "lambda": 0.0001,
+                "OOF_group_Brier": 0.20659854503746827
+              },
+              {
+                "lambda": 0.001,
+                "OOF_group_Brier": 0.2019067122336886
+              },
+              {
+                "lambda": 0.01,
+                "OOF_group_Brier": 0.19846180027468463
+              },
+              {
+                "lambda": 0.1,
+                "OOF_group_Brier": 0.22370457241885128
+              }
+            ]
+          },
+          "S": {
+            "selected_lambda": 0.01,
+            "candidates": [
+              {
+                "lambda": 0.0001,
+                "OOF_group_Brier": 0.2383466591256198
+              },
+              {
+                "lambda": 0.001,
+                "OOF_group_Brier": 0.1947523479171241
+              },
+              {
+                "lambda": 0.01,
+                "OOF_group_Brier": 0.18330403944937318
+              },
+              {
+                "lambda": 0.1,
+                "OOF_group_Brier": 0.21890823269005383
+              }
+            ]
+          },
+          "L": {
+            "selected_lambda": 0.001,
+            "candidates": [
+              {
+                "lambda": 0.0001,
+                "OOF_group_Brier": 0.18195381545024253
+              },
+              {
+                "lambda": 0.001,
+                "OOF_group_Brier": 0.1805591936396282
+              },
+              {
+                "lambda": 0.01,
+                "OOF_group_Brier": 0.18469903843765195
+              },
+              {
+                "lambda": 0.1,
+                "OOF_group_Brier": 0.21891645891398778
+              }
+            ]
+          },
+          "Xj": {
+            "selected_lambda": 0.01,
+            "candidates": [
+              {
+                "lambda": 0.0001,
+                "OOF_group_Brier": 0.20810208627915336
+              },
+              {
+                "lambda": 0.001,
+                "OOF_group_Brier": 0.20297971307551899
+              },
+              {
+                "lambda": 0.01,
+                "OOF_group_Brier": 0.19968360642475702
+              },
+              {
+                "lambda": 0.1,
+                "OOF_group_Brier": 0.2246295832782762
+              }
+            ]
+          },
+          "Sj": {
+            "selected_lambda": 0.01,
+            "candidates": [
+              {
+                "lambda": 0.0001,
+                "OOF_group_Brier": 0.2399791542762621
+              },
+              {
+                "lambda": 0.001,
+                "OOF_group_Brier": 0.19608671801461924
+              },
+              {
+                "lambda": 0.01,
+                "OOF_group_Brier": 0.18471538879039676
+              },
+              {
+                "lambda": 0.1,
+                "OOF_group_Brier": 0.21990404172568698
+              }
+            ]
+          },
+          "Lj": {
+            "selected_lambda": 0.001,
+            "candidates": [
+              {
+                "lambda": 0.0001,
+                "OOF_group_Brier": 0.18328198194364226
+              },
+              {
+                "lambda": 0.001,
+                "OOF_group_Brier": 0.18186792773828897
+              },
+              {
+                "lambda": 0.01,
+                "OOF_group_Brier": 0.18619875755254828
+              },
+              {
+                "lambda": 0.1,
+                "OOF_group_Brier": 0.2199084387898764
+              }
+            ]
+          }
+        },
+        "absolute_Brier": {
+          "X": 0.19433152888970243,
+          "S": 0.1872702642774527,
+          "L": 0.19177128351312972,
+          "Xj": 0.19448469265236676,
+          "Sj": 0.1874734749316612,
+          "Lj": 0.1918439500551221
+        },
+        "endpoints": {
+          "gX": {
+            "mean": -0.0001531637626643243,
+            "CI95_t_conditional": [
+              -0.000633722939536883,
+              0.0003273954142082343
+            ],
+            "SE": 0.00024496000611554054,
+            "groups": 1304
+          },
+          "gS": {
+            "mean": -0.00020321065420850318,
+            "CI95_t_conditional": [
+              -0.0005755967500195059,
+              0.0001691754416024995
+            ],
+            "SE": 0.000189819911256,
+            "groups": 1304
+          },
+          "gL": {
+            "mean": -7.266654199237531e-05,
+            "CI95_t_conditional": [
+              -0.00029488001974806535,
+              0.0001495469357633147
+            ],
+            "SE": 0.00011327099239731045,
+            "groups": 1304
+          },
+          "psi": {
+            "mean": 5.004689154417879e-05,
+            "CI95_t_conditional": [
+              -0.00010301786848206924,
+              0.0002031116515704268
+            ],
+            "SE": 7.802315793055147e-05,
+            "groups": 1304
+          }
+        },
+        "sign_flip_kernel_max_error": 0.0
+      },
+      "created_utc": "2026-11-18T06:56:27.088131+00:00",
+      "analysis_wall_seconds": 0.37000029999762774
+    },
+    {
+      "network": "runtime_check_init001",
+      "basis": 8,
+      "selected_axis": {
+        "unit": 491,
+        "D_select_gain": 0.005202654698937581,
+        "eligible_axes": 1280,
+        "sign_flip_prediction_max_error": 0.0,
+        "sign_flip_coefficient_max_error": 0.0
+      },
+      "site_readout": {
+        "baseline_Brier": 0.2795844365779185,
+        "augmented_Brier": 0.2820822682244573,
+        "gain": {
+          "mean": -0.0024978316465388674,
+          "CI95_t_conditional": [
+            -0.0031839209565499133,
+            -0.0018117423365278215
+          ],
+          "SE": 0.000349726838367468,
+          "groups": 1304
+        }
+      },
+      "paired_readout": {
+        "fits": 102,
+        "implementation": "same systems via cached base factorizations and Sherman-Morrison rank-one updates",
+        "development_pairs": 432,
+        "development_groups": 421,
+        "confirmation_groups": 1304,
+        "models": {
+          "X": {
+            "selected_lambda": 0.01,
+            "candidates": [
+              {
+                "lambda": 0.0001,
+                "OOF_group_Brier": 0.20659854503746827
+              },
+              {
+                "lambda": 0.001,
+                "OOF_group_Brier": 0.2019067122336886
+              },
+              {
+                "lambda": 0.01,
+                "OOF_group_Brier": 0.19846180027468463
+              },
+              {
+                "lambda": 0.1,
+                "OOF_group_Brier": 0.22370457241885128
+              }
+            ]
+          },
+          "S": {
+            "selected_lambda": 0.01,
+            "candidates": [
+              {
+                "lambda": 0.0001,
+                "OOF_group_Brier": 0.2383466591256198
+              },
+              {
+                "lambda": 0.001,
+                "OOF_group_Brier": 0.1947523479171241
+              },
+              {
+                "lambda": 0.01,
+                "OOF_group_Brier": 0.18330403944937318
+              },
+              {
+                "lambda": 0.1,
+                "OOF_group_Brier": 0.21890823269005383
+              }
+            ]
+          },
+          "L": {
+            "selected_lambda": 0.001,
+            "candidates": [
+              {
+                "lambda": 0.0001,
+                "OOF_group_Brier": 0.18195381545024253
+              },
+              {
+                "lambda": 0.001,
+                "OOF_group_Brier": 0.1805591936396282
+              },
+              {
+                "lambda": 0.01,
+                "OOF_group_Brier": 0.18469903843765195
+              },
+              {
+                "lambda": 0.1,
+                "OOF_group_Brier": 0.21891645891398778
+              }
+            ]
+          },
+          "Xj": {
+            "selected_lambda": 0.01,
+            "candidates": [
+              {
+                "lambda": 0.0001,
+                "OOF_group_Brier": 0.20677682787830842
+              },
+              {
+                "lambda": 0.001,
+                "OOF_group_Brier": 0.20205244177344994
+              },
+              {
+                "lambda": 0.01,
+                "OOF_group_Brier": 0.19885170540573208
+              },
+              {
+                "lambda": 0.1,
+                "OOF_group_Brier": 0.22371499117258456
+              }
+            ]
+          },
+          "Sj": {
+            "selected_lambda": 0.01,
+            "candidates": [
+              {
+                "lambda": 0.0001,
+                "OOF_group_Brier": 0.23827640336383618
+              },
+              {
+                "lambda": 0.001,
+                "OOF_group_Brier": 0.19478458224163736
+              },
+              {
+                "lambda": 0.01,
+                "OOF_group_Brier": 0.18368110120469008
+              },
+              {
+                "lambda": 0.1,
+                "OOF_group_Brier": 0.21899083324368626
+              }
+            ]
+          },
+          "Lj": {
+            "selected_lambda": 0.001,
+            "candidates": [
+              {
+                "lambda": 0.0001,
+                "OOF_group_Brier": 0.18213372440673323
+              },
+              {
+                "lambda": 0.001,
+                "OOF_group_Brier": 0.1807783271417661
+              },
+              {
+                "lambda": 0.01,
+                "OOF_group_Brier": 0.18509745109945142
+              },
+              {
+                "lambda": 0.1,
+                "OOF_group_Brier": 0.21898536379290776
+              }
+            ]
+          }
+        },
+        "absolute_Brier": {
+          "X": 0.19433152888970243,
+          "S": 0.1872702642774527,
+          "L": 0.19177128351312972,
+          "Xj": 0.19452764710539608,
+          "Sj": 0.18733883637275991,
+          "Lj": 0.1917325253019768
+        },
+        "endpoints": {
+          "gX": {
+            "mean": -0.00019611821569364234,
+            "CI95_t_conditional": [
+              -0.0007370935272217117,
+              0.00034485709583442705
+            ],
+            "SE": 0.0002757564978421276,
+            "groups": 1304
+          },
+          "gS": {
+            "mean": -6.857209530721803e-05,
+            "CI95_t_conditional": [
+              -0.0004846090122005293,
+              0.00034746482158609323
+            ],
+            "SE": 0.00021207046002058287,
+            "groups": 1304
+          },
+          "gL": {
+            "mean": 3.875821115291584e-05,
+            "CI95_t_conditional": [
+              -0.00015219803243138427,
+              0.00022971445473721593
+            ],
+            "SE": 9.733794472645288e-05,
+            "groups": 1304
+          },
+          "psi": {
+            "mean": -0.0001275461203864243,
+            "CI95_t_conditional": [
+              -0.0002999476865193887,
+              4.4855445746540105e-05
+            ],
+            "SE": 8.787989227278717e-05,
+            "groups": 1304
+          }
+        },
+        "sign_flip_kernel_max_error": 0.0
+      },
+      "created_utc": "2026-11-18T06:56:27.458710+00:00",
+      "analysis_wall_seconds": 0.365650599997025
+    },
+    {
+      "network": "runtime_check_init001",
+      "basis": 9,
+      "selected_axis": {
+        "unit": 621,
+        "D_select_gain": 0.004011525840614585,
+        "eligible_axes": 1280,
+        "sign_flip_prediction_max_error": 0.0,
+        "sign_flip_coefficient_max_error": 0.0
+      },
+      "site_readout": {
+        "baseline_Brier": 0.2795844365779185,
+        "augmented_Brier": 0.27883573849593535,
+        "gain": {
+          "mean": 0.0007486980819831529,
+          "CI95_t_conditional": [
+            0.00022637553103876343,
+            0.0012710206329275423
+          ],
+          "SE": 0.0002662484485392596,
+          "groups": 1304
+        }
+      },
+      "paired_readout": {
+        "fits": 102,
+        "implementation": "same systems via cached base factorizations and Sherman-Morrison rank-one updates",
+        "development_pairs": 432,
+        "development_groups": 421,
+        "confirmation_groups": 1304,
+        "models": {
+          "X": {
+            "selected_lambda": 0.01,
+            "candidates": [
+              {
+                "lambda": 0.0001,
+                "OOF_group_Brier": 0.20659854503746827
+              },
+              {
+                "lambda": 0.001,
+                "OOF_group_Brier": 0.2019067122336886
+              },
+              {
+                "lambda": 0.01,
+                "OOF_group_Brier": 0.19846180027468463
+              },
+              {
+                "lambda": 0.1,
+                "OOF_group_Brier": 0.22370457241885128
+              }
+            ]
+          },
+          "S": {
+            "selected_lambda": 0.01,
+            "candidates": [
+              {
+                "lambda": 0.0001,
+                "OOF_group_Brier": 0.2383466591256198
+              },
+              {
+                "lambda": 0.001,
+                "OOF_group_Brier": 0.1947523479171241
+              },
+              {
+                "lambda": 0.01,
+                "OOF_group_Brier": 0.18330403944937318
+              },
+              {
+                "lambda": 0.1,
+                "OOF_group_Brier": 0.21890823269005383
+              }
+            ]
+          },
+          "L": {
+            "selected_lambda": 0.001,
+            "candidates": [
+              {
+                "lambda": 0.0001,
+                "OOF_group_Brier": 0.18195381545024253
+              },
+              {
+                "lambda": 0.001,
+                "OOF_group_Brier": 0.1805591936396282
+              },
+              {
+                "lambda": 0.01,
+                "OOF_group_Brier": 0.18469903843765195
+              },
+              {
+                "lambda": 0.1,
+                "OOF_group_Brier": 0.21891645891398778
+              }
+            ]
+          },
+          "Xj": {
+            "selected_lambda": 0.01,
+            "candidates": [
+              {
+                "lambda": 0.0001,
+                "OOF_group_Brier": 0.20861984231035663
+              },
+              {
+                "lambda": 0.001,
+                "OOF_group_Brier": 0.20413080116005813
+              },
+              {
+                "lambda": 0.01,
+                "OOF_group_Brier": 0.20140932432436287
+              },
+              {
+                "lambda": 0.1,
+                "OOF_group_Brier": 0.22616506764279057
+              }
+            ]
+          },
+          "Sj": {
+            "selected_lambda": 0.01,
+            "candidates": [
+              {
+                "lambda": 0.0001,
+                "OOF_group_Brier": 0.24024655007913945
+              },
+              {
+                "lambda": 0.001,
+                "OOF_group_Brier": 0.19699223275975827
+              },
+              {
+                "lambda": 0.01,
+                "OOF_group_Brier": 0.18589955112838105
+              },
+              {
+                "lambda": 0.1,
+                "OOF_group_Brier": 0.22130492679315328
+              }
+            ]
+          },
+          "Lj": {
+            "selected_lambda": 0.001,
+            "candidates": [
+              {
+                "lambda": 0.0001,
+                "OOF_group_Brier": 0.18414476082279999
+              },
+              {
+                "lambda": 0.001,
+                "OOF_group_Brier": 0.18275453503457395
+              },
+              {
+                "lambda": 0.01,
+                "OOF_group_Brier": 0.1873101467922468
+              },
+              {
+                "lambda": 0.1,
+                "OOF_group_Brier": 0.2212908653979471
+              }
+            ]
+          }
+        },
+        "absolute_Brier": {
+          "X": 0.19433152888970243,
+          "S": 0.1872702642774527,
+          "L": 0.19177128351312972,
+          "Xj": 0.19432015291636026,
+          "Sj": 0.18738441311390075,
+          "Lj": 0.19185543278349268
+        },
+        "endpoints": {
+          "gX": {
+            "mean": 1.1375973342181087e-05,
+            "CI95_t_conditional": [
+              -1.0961135758874461e-05,
+              3.371308244323664e-05
+            ],
+            "SE": 1.138610736269245e-05,
+            "groups": 1304
+          },
+          "gS": {
+            "mean": -0.00011414883644802971,
+            "CI95_t_conditional": [
+              -0.0002825660418115387,
+              5.426836891547928e-05
+            ],
+            "SE": 8.584890611036673e-05,
+            "groups": 1304
+          },
+          "gL": {
+            "mean": -8.414927036296349e-05,
+            "CI95_t_conditional": [
+              -0.00023666514075504745,
+              6.836660002912048e-05
+            ],
+            "SE": 7.77433671896554e-05,
+            "groups": 1304
+          },
+          "psi": {
+            "mean": 0.0001255248097902108,
+            "CI95_t_conditional": [
+              -6.43980464515477e-05,
+              0.0003154476660319693
+            ],
+            "SE": 9.681118635426629e-05,
+            "groups": 1304
+          }
+        },
+        "sign_flip_kernel_max_error": 0.0
+      },
+      "created_utc": "2026-11-18T06:56:27.826936+00:00",
+      "analysis_wall_seconds": 0.403823500033468
+    }
+  ],
+  "paired": {
+    "gX": {
+      "G_native": -3.866653576001857e-05,
+      "G_rotated": [
+        8.055957420982582e-05,
+        -0.0003024463578049938,
+        -0.0008329053585829913,
+        2.5528556060286856e-05,
+        -0.000724784348644449,
+        -0.00019615206364614142,
+        -0.0001531637626643243,
+        -0.00019611821569364234,
+        1.1375973342181087e-05
+      ],
+      "A": 0.0002155674646204535
+    },
+    "gS": {
+      "G_native": -1.3450601980881977e-05,
+      "G_rotated": [
+        4.053894456306428e-05,
+        -5.863753525379925e-05,
+        -0.0009828802919521586,
+        1.9397936837240834e-05,
+        -0.0005898348070543789,
+        -0.0005707629599103125,
+        -0.00020321065420850318,
+        -6.857209530721803e-05,
+        -0.00011414883644802971
+      ],
+      "A": 0.0002674505423229064
+    },
+    "gL": {
+      "G_native": -6.847240583931268e-05,
+      "G_rotated": [
+        2.6215265051272656e-05,
+        0.0003898951450602268,
+        -0.0013086124600398179,
+        2.1755891341050906e-05,
+        -0.0005250213780953351,
+        -0.0010033798694561822,
+        -7.266654199237531e-05,
+        3.875821115291584e-05,
+        -8.414927036296349e-05
+      ],
+      "A": 0.0002112170394208215
+    },
+    "psi": {
+      "G_native": -2.5215933779136593e-05,
+      "G_rotated": [
+        4.0020629646761596e-05,
+        -0.00024380882255119443,
+        0.00014997493336916718,
+        6.13061922304602e-06,
+        -0.00013494954159007022,
+        0.00037461089626417105,
+        5.004689154417879e-05,
+        -0.0001275461203864243,
+        0.0001255248097902108
+      ],
+      "A": -5.1883077702452875e-05
+    }
+  }
+}

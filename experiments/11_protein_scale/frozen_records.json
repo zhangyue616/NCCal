@@ -1,0 +1,41 @@
+[
+  {
+    "source_id": "scale/DEVIATIONS.md",
+    "sha256": "0f4fe00b44ae5a739982877ba332da4970f4e1fdf75c22fc673b5edb6556fd3f",
+    "bytes": 2336,
+    "modified_utc": "2026-11-21T08:26:30.700684+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "scale/FREEZE.json",
+    "sha256": "c5fcfce46558676d192e9f2fd3cf6f112c8af57b42c191a29f2e65be15f7cfde",
+    "bytes": 5586,
+    "modified_utc": "2026-11-21T07:14:49.308464+00:00",
+    "english_protocol": "PROTOCOL.md",
+    "reported_freeze_times": {
+      "frozen_utc": "2026-11-21T07:14:49.307404+00:00"
+    },
+    "random_seed_fields": {}
+  },
+  {
+    "source_id": "scale/PROTOCOL_C.md",
+    "sha256": "92227d0cf3e9d2aab8612ba57ae75c46f218dd4ebaa6287607c22c655f18f856",
+    "bytes": 11800,
+    "modified_utc": "2026-11-21T07:14:19.601633+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "scale/directions/TECHNICAL_REPAIRS.md",
+    "sha256": "1a3445cc01b4c5ed3b4a604cd38b9f6c248338ee7a8aeda71e49c5d14dae4a27",
+    "bytes": 3088,
+    "modified_utc": "2026-11-21T07:48:34.243821+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "scale/scale_results/RESULT_zh.md",
+    "sha256": "9674035304695ac6ed0e571c315bcc6b6e4d47878bed30d987615ed772f37590",
+    "bytes": 5807,
+    "modified_utc": "2026-11-21T10:13:17.565378+00:00",
+    "english_protocol": "PROTOCOL.md"
+  }
+]

@@ -1,0 +1,14 @@
+{
+ "row-1.validation_fvu": 0.0633899361696559,
+ "row-1.width": 928.0,
+ "row-1.k": 16.0,
+ "row-1.validation_rows": 24983.0,
+ "row-1.dead_features": 168.0,
+ "row-1.alive_features": 760.0,
+ "row-2.validation_fvu": 0.1325122000080079,
+ "row-2.width": 928.0,
+ "row-2.k": 16.0,
+ "row-2.validation_rows": 24983.0,
+ "row-2.dead_features": 28.0,
+ "row-2.alive_features": 900.0
+}

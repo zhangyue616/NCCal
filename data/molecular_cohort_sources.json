@@ -1,0 +1,42 @@
+[
+  {
+    "cohort": "initial",
+    "n": 50000,
+    "original_sha256": "5a4e1e80f9b637489a4176f13288a8a7344fb3a9354e9be6979f4ec3099facf8"
+  },
+  {
+    "cohort": "pilot",
+    "n": 20000,
+    "original_sha256": "97a9b454d4daa3656757f82fa3a2d3d078ac6e5d195d7ed0548d92ffebd9927f"
+  },
+  {
+    "cohort": "validation",
+    "n": 10000,
+    "original_sha256": "4535f929b75ec59c02fbb662bb5b510e1ee7631ab8b71b2c5bb5065074e7a7c3"
+  },
+  {
+    "cohort": "reserve_a",
+    "n": 10000,
+    "original_sha256": "deb0eaed808023d311c5c0762c8bb1eb54c603ec944e8ee857219470f68b114d"
+  },
+  {
+    "cohort": "reserve_b",
+    "n": 10000,
+    "original_sha256": "152cdaf46884fcef295a5aa2e9d5cf0e398b92e18fa749d4c29641e96319d541"
+  },
+  {
+    "cohort": "calibration",
+    "n": 10000,
+    "original_sha256": "940b42df0580f31c977d9ff5675eecb0a9d2c09172595f56ce29b58b63c3ee2e"
+  },
+  {
+    "cohort": "development",
+    "n": 5000,
+    "original_sha256": "e40b8a81e2aad73d7a66f4030f2ab12948d4ebea2d63539c5b755fb1e2ac31f2"
+  },
+  {
+    "cohort": "confirmation",
+    "n": 10000,
+    "original_sha256": "b1fdc3cb87b03b9cde0bcd8cad5c2a3996c5766296199c1dc77412fc3f6c7494"
+  }
+]

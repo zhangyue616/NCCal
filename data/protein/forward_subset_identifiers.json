@@ -1,0 +1,167 @@
+[
+  {
+    "experiment": "08_protein_pair_replay",
+    "model": "esm2_8m",
+    "accession": "Q5SI12",
+    "block0": 2,
+    "unit0": 1246,
+    "readpoint": "post_gelu",
+    "positions1": [
+      164
+    ],
+    "mask_positions1": [
+      164
+    ],
+    "expected_values": [
+      0.24987085163593292
+    ],
+    "sequence_sha256": "1759ddee4053deb4ba5eae318716750c4a9579d508602108b87343cdbeb41dce"
+  },
+  {
+    "experiment": "09_protein_exposure",
+    "model": "esm2_8m",
+    "accession": "Q8ZWV0",
+    "block0": 2,
+    "unit0": 801,
+    "readpoint": "post_gelu",
+    "positions1": [
+      47
+    ],
+    "mask_positions1": [],
+    "expected_values": [
+      -0.08295966684818268
+    ],
+    "sequence_sha256": "9941b430692ec33010d386b8295718a4be7d155a71339090e7b60949eb676d21"
+  },
+  {
+    "experiment": "10_protein_reconstruction",
+    "model": "esm2_35m",
+    "accession": "Q8ZWV0",
+    "block0": 5,
+    "unit0": 814,
+    "readpoint": "post_gelu",
+    "positions1": [
+      204
+    ],
+    "mask_positions1": [
+      205
+    ],
+    "expected_values": [
+      -0.08412803709506989
+    ],
+    "expected_logits20": [
+      2.732645273208618,
+      0.4983564615249634,
+      -2.5109009742736816,
+      -0.7723739743232727,
+      1.1267105340957642,
+      0.6527686715126038,
+      -1.6562819480895996,
+      0.9974228143692017,
+      -1.8086671829223633,
+      2.5934908390045166,
+      1.0113985538482666,
+      -1.4259251356124878,
+      -1.482869029045105,
+      -1.482735276222229,
+      -1.0905476808547974,
+      1.8338416814804077,
+      1.1408131122589111,
+      0.9553593397140503,
+      -1.1029425859451294,
+      0.011955160647630692
+    ],
+    "replacement": 0.03837202116847038,
+    "sequence_sha256": "9941b430692ec33010d386b8295718a4be7d155a71339090e7b60949eb676d21"
+  },
+  {
+    "experiment": "11_protein_scale",
+    "model": "esm2_650m",
+    "accession": "Q8ZWV0",
+    "block0": 15,
+    "unit0": 4566,
+    "readpoint": "post_gelu",
+    "positions1": [
+      47
+    ],
+    "mask_positions1": [],
+    "expected_values": [
+      -0.10801384598016739
+    ],
+    "sequence_sha256": "9941b430692ec33010d386b8295718a4be7d155a71339090e7b60949eb676d21"
+  },
+  {
+    "experiment": "12_native_protein_candidates",
+    "model": "e1_150m",
+    "accession": "P05198",
+    "record_id": "1kl9_A",
+    "block0": 19,
+    "unit0": 1900,
+    "readpoint": "post_swiglu",
+    "positions1": [
+      178,
+      23
+    ],
+    "mask_positions1": [],
+    "expected_difference": 1.5212477445602417,
+    "sequence_sha256": "5828f4dd34e60e2c75dca4e5a8354c1a28173216fd2e477cb5e1673dc8551e3a"
+  },
+  {
+    "experiment": "13_external_validation",
+    "model": "esm2_35m",
+    "accession": "Q8ZWV0",
+    "block0": 5,
+    "unit0": 814,
+    "readpoint": "post_gelu",
+    "positions1": [
+      204
+    ],
+    "mask_positions1": [
+      205
+    ],
+    "expected_values": [
+      -0.08412803709506989
+    ],
+    "expected_logits20": [
+      2.732645273208618,
+      0.4983564615249634,
+      -2.5109009742736816,
+      -0.7723739743232727,
+      1.1267105340957642,
+      0.6527686715126038,
+      -1.6562819480895996,
+      0.9974228143692017,
+      -1.8086671829223633,
+      2.5934908390045166,
+      1.0113985538482666,
+      -1.4259251356124878,
+      -1.482869029045105,
+      -1.482735276222229,
+      -1.0905476808547974,
+      1.8338416814804077,
+      1.1408131122589111,
+      0.9553593397140503,
+      -1.1029425859451294,
+      0.011955160647630692
+    ],
+    "replacement": 0.03837202116847038,
+    "check_basis_equivalence": true,
+    "sequence_sha256": "9941b430692ec33010d386b8295718a4be7d155a71339090e7b60949eb676d21"
+  },
+  {
+    "experiment": "14_published_label_audit",
+    "model": "esm2_8m",
+    "accession": "P69829",
+    "block0": 2,
+    "unit0": 31,
+    "readpoint": "pre_pole",
+    "pole": "negative",
+    "positions1": [
+      73,
+      24
+    ],
+    "mask_positions1": [],
+    "expected_difference": -0.49153509736061096,
+    "sequence_sha256": "0a3781ac80d45734072b3556cc9f197278a49fb7c46a2d2be3b97ab930fd6de9"
+  }
+]

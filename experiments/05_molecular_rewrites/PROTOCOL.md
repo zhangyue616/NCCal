@@ -1,0 +1,10 @@
+# Five-rewrite census and rescue
+
+From the fixed public molecular source, 3,000 previously unused identities are selected in a seeded blind order after excluding prior CID and canonical-structure identities. The first 1,000 fit rescue rules and the remaining 2,000 are evaluated. Each molecule has a canonical representation and five distinct random SMILES with preserved stereochemistry and atom correspondence. One molecule failing the bounded five-rewrite generation rule is excluded.
+
+For every native channel, the original development rule stays frozen. Canonical usability requires R-squared at least 0.5 and positive 95% lower bounds for both replacement advantages. Retained under rewriting requires both lower bounds positive; failed requires the advantage over the development mean to have a negative upper bound; otherwise unresolved. Threshold equality is unresolved. Each molecule and each of its rewrites has equal total mass. Shared molecule bootstrap uses 2,000 draws, seed 20261123. Four anchor contrasts form a two-sided Holm family.
+
+H2 limits the canonical-usable denominator to same-atom Pearson correlation at least 0.8; 0.6 is descriptive. Category III has H2 failure fraction below 5%. Category I requires H2 at least 20% AND the predesignated canonical string diagnostic AUROC at least 0.75. Other evaluable combinations are category II. The observed category is III, with 0/34 failures and 16 unresolved. The canonical diagnostic AUROC is 0.315; the observed following diagnostic gives 0.831. Rescue arms are affine correction, refitted bonding environments, and added string features, counted in that order. Neuron 454 is not rescued. Initialized MoLFormer high reconstruction and every unsuccessful endpoint remain recorded.
+
+Archived initial states must be replayed from the original initialization library: the newer library did not recreate the old states from the seed. A bounded allocator/output repair supersedes the initial native output. Neither repair is hidden as a scientific result.
+

@@ -1,0 +1,57 @@
+{
+  "utc": "2026-11-23T05:07:13.348904+00:00",
+  "input_path": "structural_readout_validation/sheet/input_chains_F.jsonl",
+  "input_chains": 20,
+  "input_sequences": 20,
+  "input_groups": 20,
+  "sheets_audited": 63,
+  "eligible_sheets": 9,
+  "failure_reasons": {
+    "geometry_archive_disagreement_or_extra_neighbor": 38,
+    "incomplete_strand_or_flanks": 28,
+    "unannotated_or_other_sheet_ASU_extension": 7,
+    "fewer_than_3_strands": 10,
+    "overlapping_strand_ranges": 15,
+    "interchain_archive_sheet": 1,
+    "biological_assembly_copy_extension": 1
+  },
+  "site_counts": {
+    "edge": 38,
+    "central": 71
+  },
+  "pairs": 13,
+  "retained_chains": 4,
+  "groups": 4,
+  "counts_by_split": {
+    "F": {
+      "pairs": 13,
+      "groups": 4,
+      "chains": 4,
+      "sheet_ge4_pairs": 11,
+      "confound_matched_pairs": 2
+    }
+  },
+  "errors": 0,
+  "model_scores_read": false,
+  "sources": {
+    "structural_readout_validation/fresh/sources/mmcif/12np.cif.gz": "7ed01c1d2a613367ead513fb1168552f3a81ae5ad04907b739cd420e608cf54f",
+    "structural_readout_validation/fresh/sources/mmcif/23jw.cif.gz": "99569b5fab2d2fa2c72235d331120a0364e1a6d326c263e04caae85541b01e69",
+    "structural_readout_validation/fresh/sources/mmcif/8zv7.cif.gz": "31c0c3571070ec5fe3270a282ebfbae353eb4d814290931e3b022f51b4b7820a",
+    "structural_readout_validation/fresh/sources/mmcif/9fvw.cif.gz": "ea9314f7db5806b7c2ba55999526fa0ecf49908e8bcb7e28f37a816b89f8ee15",
+    "structural_readout_validation/fresh/sources/mmcif/9o37.cif.gz": "b7b3b45525ecf05e75a36c85e734965adbc0dc090a05cdd08b9063dd5c4f063b",
+    "structural_readout_validation/fresh/sources/mmcif/9oc3.cif.gz": "6a453eeb80b8bf9ac777febfab255b99a90f7c288ba1f17f45da0bd3feaabe4f",
+    "structural_readout_validation/fresh/sources/mmcif/9ppp.cif.gz": "5e0246f191e5099b2e370966fb04c1088efbb48cd337786a46eedec0da577c8a",
+    "structural_readout_validation/fresh/sources/mmcif/9qn5.cif.gz": "97992c4a15eaba93b2a07e554b025e2cb4471be17c4bf13a98a7cd8acb79bc4b",
+    "structural_readout_validation/fresh/sources/mmcif/9r1i.cif.gz": "f35c95b65ecdd276a580c4fd42ea07943935872eb3e57b06181654325f504f3a",
+    "structural_readout_validation/fresh/sources/mmcif/9sgf.cif.gz": "a1e0d2bbcbe03b3dfe27e8d9b558f77e5f455233e6041f8c4e553a6f0b2ec8b2",
+    "structural_readout_validation/fresh/sources/mmcif/9snl.cif.gz": "f883bd4d767bb77dbeb30509ebeba1d03f2b9810b81f23c8135082b686a14cfd",
+    "structural_readout_validation/fresh/sources/mmcif/9t43.cif.gz": "904130d5d8428cbab2c46b94b5266f37b6a707fe12ac7a7b5ca51ddb8f233a43",
+    "structural_readout_validation/fresh/sources/mmcif/9u64.cif.gz": "e770e170145e5ff894d2359bef5a0e8b5381792fdca6570654ff1e63e7029ece",
+    "structural_readout_validation/fresh/sources/mmcif/9ulj.cif.gz": "148a8e2dc1fac253eb9766592f9dd24cdea391d2d5fa84f1dd7748f50b6073e6",
+    "structural_readout_validation/fresh/sources/mmcif/9uws.cif.gz": "7d367b9ee0a0d735803170e30612761e60b8c108fec4bf5edb45a84dd38eb8e0",
+    "structural_readout_validation/fresh/sources/mmcif/9vzq.cif.gz": "d3c9c2cefd976762227c1523e5a49bd9e222c67e8c3f909257775d18f6861d4a",
+    "structural_readout_validation/fresh/sources/mmcif/9wbe.cif.gz": "6d4c58d3d624d025f72722c253bab1fecdb612881244f383594a73f9fd6b6946",
+    "structural_readout_validation/fresh/sources/mmcif/9xs4.cif.gz": "15ca6c5b2f3e84ecf69ed7643149b9d2499a75ff548fb1a45e84673a1c466a8d",
+    "structural_readout_validation/fresh/sources/mmcif/9y57.cif.gz": "4bb3d43800ec617d9cc83556c7679c895a75ad936de33cdfc60a7c35b35a1cd5"
+  }
+}

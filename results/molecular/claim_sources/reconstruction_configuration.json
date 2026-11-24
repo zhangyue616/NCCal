@@ -1,0 +1,15 @@
+{
+  "coordinate_ids": [
+    293,
+    454
+  ],
+  "concept_ids": [
+    26,
+    24
+  ],
+  "alpha_by_coordinate": {
+    "j293": 20.0,
+    "j454": 20.0
+  },
+  "fit_definition": "float64 D-only continuous activation means; r0 shrinks to global and r1 to r0 with alpha20"
+}

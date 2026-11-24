@@ -1,0 +1,20 @@
+{
+  "created_utc": "2026-11-18T06:53:59.648476+00:00",
+  "seed": 20261118000,
+  "torch": "2.11.0+cu128",
+  "transformers": "5.20.0",
+  "initializer_range": 0.02,
+  "model_type": "esm",
+  "architecture": [
+    320,
+    1280,
+    6,
+    "gelu"
+  ],
+  "state_sha256": "bb418fdc5852a348e51aa33f6f153b302e254cc9b572d6f2a4e69ab246e23488",
+  "parameter_count": 7512474,
+  "embedding_lm_head_tied": true,
+  "config_sha256": "facb9355e8252149f6f99dff5fd1e32e890c3c655362b261d0c81cd6b5839c85",
+  "device": "cuda",
+  "threads": 4
+}

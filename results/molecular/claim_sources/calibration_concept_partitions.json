@@ -1,0 +1,1002 @@
+[
+  {
+    "id": 0,
+    "name": "topo:ring3",
+    "partition": "readable"
+  },
+  {
+    "id": 1,
+    "name": "topo:ring4",
+    "partition": "readable"
+  },
+  {
+    "id": 2,
+    "name": "topo:ring5",
+    "partition": "readable"
+  },
+  {
+    "id": 3,
+    "name": "topo:ring6",
+    "partition": "readable"
+  },
+  {
+    "id": 4,
+    "name": "topo:ring7",
+    "partition": "readable"
+  },
+  {
+    "id": 5,
+    "name": "topo:ring8",
+    "partition": "readable"
+  },
+  {
+    "id": 6,
+    "name": "topo:ring_ge9",
+    "partition": "readable"
+  },
+  {
+    "id": 7,
+    "name": "topo:fused_ring_atom",
+    "partition": "readable"
+  },
+  {
+    "id": 8,
+    "name": "topo:spiro_atom",
+    "partition": "readable"
+  },
+  {
+    "id": 9,
+    "name": "topo:stereocenter",
+    "partition": "readable"
+  },
+  {
+    "id": 10,
+    "name": "topo:pyridine_type_N",
+    "partition": "readable"
+  },
+  {
+    "id": 11,
+    "name": "topo:pyrrole_type_N",
+    "partition": "readable"
+  },
+  {
+    "id": 12,
+    "name": "topo:aromatic_O",
+    "partition": "readable"
+  },
+  {
+    "id": 13,
+    "name": "topo:aromatic_S",
+    "partition": "readable"
+  },
+  {
+    "id": 14,
+    "name": "fg:CarboxylicAcid",
+    "partition": "readable"
+  },
+  {
+    "id": 15,
+    "name": "fg:CarboxylicAcid.Aromatic",
+    "partition": "readable"
+  },
+  {
+    "id": 16,
+    "name": "fg:CarboxylicAcid.Aliphatic",
+    "partition": "readable"
+  },
+  {
+    "id": 17,
+    "name": "fg:CarboxylicAcid.AlphaAmino",
+    "partition": "readable"
+  },
+  {
+    "id": 18,
+    "name": "fg:Amine.Primary.Aliphatic",
+    "partition": "readable"
+  },
+  {
+    "id": 19,
+    "name": "fg:Amine.Secondary.Aromatic",
+    "partition": "readable"
+  },
+  {
+    "id": 20,
+    "name": "fg:Amine.Secondary.Aliphatic",
+    "partition": "readable"
+  },
+  {
+    "id": 21,
+    "name": "fg:Amine.Tertiary.Aromatic",
+    "partition": "readable"
+  },
+  {
+    "id": 22,
+    "name": "fg:Amine.Tertiary.Aliphatic",
+    "partition": "readable"
+  },
+  {
+    "id": 23,
+    "name": "fg:Halogen.Bromine.Aromatic",
+    "partition": "readable"
+  },
+  {
+    "id": 24,
+    "name": "frag:fr_C=O",
+    "partition": "readable"
+  },
+  {
+    "id": 25,
+    "name": "frag:fr_C=O_noCOO",
+    "partition": "readable"
+  },
+  {
+    "id": 26,
+    "name": "frag:fr_Al_OH",
+    "partition": "readable"
+  },
+  {
+    "id": 27,
+    "name": "frag:fr_Ar_OH",
+    "partition": "readable"
+  },
+  {
+    "id": 28,
+    "name": "frag:fr_methoxy",
+    "partition": "readable"
+  },
+  {
+    "id": 29,
+    "name": "frag:fr_oxime",
+    "partition": "readable"
+  },
+  {
+    "id": 30,
+    "name": "frag:fr_ester",
+    "partition": "readable"
+  },
+  {
+    "id": 31,
+    "name": "frag:fr_Al_COO",
+    "partition": "readable"
+  },
+  {
+    "id": 32,
+    "name": "frag:fr_Ar_COO",
+    "partition": "readable"
+  },
+  {
+    "id": 33,
+    "name": "frag:fr_COO",
+    "partition": "readable"
+  },
+  {
+    "id": 34,
+    "name": "frag:fr_ketone",
+    "partition": "readable"
+  },
+  {
+    "id": 35,
+    "name": "frag:fr_ether",
+    "partition": "readable"
+  },
+  {
+    "id": 36,
+    "name": "frag:fr_phenol",
+    "partition": "readable"
+  },
+  {
+    "id": 37,
+    "name": "frag:fr_aldehyde",
+    "partition": "readable"
+  },
+  {
+    "id": 38,
+    "name": "frag:fr_NH2",
+    "partition": "readable"
+  },
+  {
+    "id": 39,
+    "name": "frag:fr_NH1",
+    "partition": "readable"
+  },
+  {
+    "id": 40,
+    "name": "frag:fr_NH0",
+    "partition": "readable"
+  },
+  {
+    "id": 41,
+    "name": "frag:fr_Ar_N",
+    "partition": "readable"
+  },
+  {
+    "id": 42,
+    "name": "frag:fr_Ar_NH",
+    "partition": "readable"
+  },
+  {
+    "id": 43,
+    "name": "frag:fr_aniline",
+    "partition": "readable"
+  },
+  {
+    "id": 44,
+    "name": "frag:fr_Imine",
+    "partition": "readable"
+  },
+  {
+    "id": 45,
+    "name": "frag:fr_nitrile",
+    "partition": "readable"
+  },
+  {
+    "id": 46,
+    "name": "frag:fr_hdrzine",
+    "partition": "readable"
+  },
+  {
+    "id": 47,
+    "name": "frag:fr_hdrzone",
+    "partition": "readable"
+  },
+  {
+    "id": 48,
+    "name": "frag:fr_N-O",
+    "partition": "readable"
+  },
+  {
+    "id": 49,
+    "name": "frag:fr_nitro",
+    "partition": "readable"
+  },
+  {
+    "id": 50,
+    "name": "frag:fr_amide",
+    "partition": "readable"
+  },
+  {
+    "id": 51,
+    "name": "frag:fr_priamide",
+    "partition": "readable"
+  },
+  {
+    "id": 52,
+    "name": "frag:fr_amidine",
+    "partition": "readable"
+  },
+  {
+    "id": 53,
+    "name": "frag:fr_guanido",
+    "partition": "readable"
+  },
+  {
+    "id": 54,
+    "name": "frag:fr_imide",
+    "partition": "readable"
+  },
+  {
+    "id": 55,
+    "name": "frag:fr_halogen",
+    "partition": "readable"
+  },
+  {
+    "id": 56,
+    "name": "frag:fr_alkyl_halide",
+    "partition": "readable"
+  },
+  {
+    "id": 57,
+    "name": "frag:fr_sulfide",
+    "partition": "readable"
+  },
+  {
+    "id": 58,
+    "name": "frag:fr_C=S",
+    "partition": "readable"
+  },
+  {
+    "id": 59,
+    "name": "frag:fr_sulfone",
+    "partition": "readable"
+  },
+  {
+    "id": 60,
+    "name": "frag:fr_sulfonamd",
+    "partition": "readable"
+  },
+  {
+    "id": 61,
+    "name": "frag:fr_prisulfonamd",
+    "partition": "readable"
+  },
+  {
+    "id": 62,
+    "name": "frag:fr_urea",
+    "partition": "readable"
+  },
+  {
+    "id": 63,
+    "name": "frag:fr_term_acetylene",
+    "partition": "readable"
+  },
+  {
+    "id": 64,
+    "name": "frag:fr_imidazole",
+    "partition": "readable"
+  },
+  {
+    "id": 65,
+    "name": "frag:fr_furan",
+    "partition": "readable"
+  },
+  {
+    "id": 66,
+    "name": "frag:fr_thiophene",
+    "partition": "readable"
+  },
+  {
+    "id": 67,
+    "name": "frag:fr_thiazole",
+    "partition": "readable"
+  },
+  {
+    "id": 68,
+    "name": "frag:fr_oxazole",
+    "partition": "readable"
+  },
+  {
+    "id": 69,
+    "name": "frag:fr_pyridine",
+    "partition": "readable"
+  },
+  {
+    "id": 70,
+    "name": "frag:fr_piperdine",
+    "partition": "readable"
+  },
+  {
+    "id": 71,
+    "name": "frag:fr_piperzine",
+    "partition": "readable"
+  },
+  {
+    "id": 72,
+    "name": "frag:fr_morpholine",
+    "partition": "readable"
+  },
+  {
+    "id": 73,
+    "name": "frag:fr_lactam",
+    "partition": "readable"
+  },
+  {
+    "id": 74,
+    "name": "frag:fr_lactone",
+    "partition": "readable"
+  },
+  {
+    "id": 75,
+    "name": "frag:fr_tetrazole",
+    "partition": "readable"
+  },
+  {
+    "id": 76,
+    "name": "frag:fr_unbrch_alkane",
+    "partition": "readable"
+  },
+  {
+    "id": 77,
+    "name": "frag:fr_bicyclic",
+    "partition": "readable"
+  },
+  {
+    "id": 78,
+    "name": "frag:fr_benzene",
+    "partition": "readable"
+  },
+  {
+    "id": 79,
+    "name": "frag:fr_nitro_arom",
+    "partition": "readable"
+  },
+  {
+    "id": 80,
+    "name": "frag:fr_nitro_arom_nonortho",
+    "partition": "readable"
+  },
+  {
+    "id": 81,
+    "name": "frag:fr_phenol_noOrthoHbond",
+    "partition": "readable"
+  },
+  {
+    "id": 82,
+    "name": "frag:fr_Al_OH_noTert",
+    "partition": "readable"
+  },
+  {
+    "id": 83,
+    "name": "frag:fr_para_hydroxylation",
+    "partition": "readable"
+  },
+  {
+    "id": 84,
+    "name": "frag:fr_allylic_oxid",
+    "partition": "readable"
+  },
+  {
+    "id": 85,
+    "name": "frag:fr_aryl_methyl",
+    "partition": "readable"
+  },
+  {
+    "id": 86,
+    "name": "frag:fr_Ndealkylation1",
+    "partition": "readable"
+  },
+  {
+    "id": 87,
+    "name": "frag:fr_Ndealkylation2",
+    "partition": "readable"
+  },
+  {
+    "id": 88,
+    "name": "frag:fr_alkyl_carbamate",
+    "partition": "readable"
+  },
+  {
+    "id": 89,
+    "name": "frag:fr_ketone_Topliss",
+    "partition": "readable"
+  },
+  {
+    "id": 90,
+    "name": "frag:fr_ArN",
+    "partition": "readable"
+  },
+  {
+    "id": 91,
+    "name": "ertl:C=CC",
+    "partition": "readable"
+  },
+  {
+    "id": 92,
+    "name": "ertl:CC#N",
+    "partition": "readable"
+  },
+  {
+    "id": 93,
+    "name": "ertl:CC(=O)C",
+    "partition": "readable"
+  },
+  {
+    "id": 94,
+    "name": "ertl:CC(=O)N(C)C",
+    "partition": "readable"
+  },
+  {
+    "id": 95,
+    "name": "ertl:CC(=O)NC",
+    "partition": "readable"
+  },
+  {
+    "id": 96,
+    "name": "ertl:CC(=O)O",
+    "partition": "readable"
+  },
+  {
+    "id": 97,
+    "name": "ertl:CC(=O)OC",
+    "partition": "readable"
+  },
+  {
+    "id": 98,
+    "name": "ertl:CC(C)=O",
+    "partition": "readable"
+  },
+  {
+    "id": 99,
+    "name": "ertl:CC(N)=O",
+    "partition": "readable"
+  },
+  {
+    "id": 100,
+    "name": "ertl:CC=C(C)C",
+    "partition": "readable"
+  },
+  {
+    "id": 101,
+    "name": "ertl:CC=CC",
+    "partition": "readable"
+  },
+  {
+    "id": 102,
+    "name": "ertl:CCl",
+    "partition": "readable"
+  },
+  {
+    "id": 103,
+    "name": "ertl:CF",
+    "partition": "readable"
+  },
+  {
+    "id": 104,
+    "name": "ertl:CN",
+    "partition": "readable"
+  },
+  {
+    "id": 105,
+    "name": "ertl:CN(C(C)=O)C",
+    "partition": "readable"
+  },
+  {
+    "id": 106,
+    "name": "ertl:CN(C)C",
+    "partition": "readable"
+  },
+  {
+    "id": 107,
+    "name": "ertl:CN(S(C)(=O)=O)C",
+    "partition": "readable"
+  },
+  {
+    "id": 108,
+    "name": "ertl:CN1C(=O)ccC1=O",
+    "partition": "readable"
+  },
+  {
+    "id": 109,
+    "name": "ertl:CN=C(NC)N(C)C",
+    "partition": "readable"
+  },
+  {
+    "id": 110,
+    "name": "ertl:CN=C(NC)NC",
+    "partition": "readable"
+  },
+  {
+    "id": 111,
+    "name": "ertl:CNC",
+    "partition": "readable"
+  },
+  {
+    "id": 112,
+    "name": "ertl:CNC(=O)C",
+    "partition": "readable"
+  },
+  {
+    "id": 113,
+    "name": "ertl:CNC(=O)N(C)C",
+    "partition": "readable"
+  },
+  {
+    "id": 114,
+    "name": "ertl:CNC(=O)NC",
+    "partition": "readable"
+  },
+  {
+    "id": 115,
+    "name": "ertl:CNC(=O)OC",
+    "partition": "readable"
+  },
+  {
+    "id": 116,
+    "name": "ertl:CNC(C)=O",
+    "partition": "readable"
+  },
+  {
+    "id": 117,
+    "name": "ertl:CO",
+    "partition": "readable"
+  },
+  {
+    "id": 118,
+    "name": "ertl:COC",
+    "partition": "readable"
+  },
+  {
+    "id": 119,
+    "name": "ertl:COC(=O)N(C)C",
+    "partition": "readable"
+  },
+  {
+    "id": 120,
+    "name": "ertl:COC(=O)NC",
+    "partition": "readable"
+  },
+  {
+    "id": 121,
+    "name": "ertl:COC(C)=O",
+    "partition": "readable"
+  },
+  {
+    "id": 122,
+    "name": "ertl:CS(=O)(=O)C",
+    "partition": "readable"
+  },
+  {
+    "id": 123,
+    "name": "ertl:CS(C)(=O)=O",
+    "partition": "readable"
+  },
+  {
+    "id": 124,
+    "name": "ertl:CSC",
+    "partition": "readable"
+  },
+  {
+    "id": 125,
+    "name": "ertl:Cn1ccnn1",
+    "partition": "readable"
+  },
+  {
+    "id": 126,
+    "name": "ertl:c-n(c)c",
+    "partition": "readable"
+  },
+  {
+    "id": 127,
+    "name": "ertl:c-n(c)nc",
+    "partition": "readable"
+  },
+  {
+    "id": 128,
+    "name": "ertl:c1cOCO1",
+    "partition": "readable"
+  },
+  {
+    "id": 129,
+    "name": "ertl:c=O",
+    "partition": "readable"
+  },
+  {
+    "id": 130,
+    "name": "ertl:cC#N",
+    "partition": "readable"
+  },
+  {
+    "id": 131,
+    "name": "ertl:cC(=O)N(C)C",
+    "partition": "readable"
+  },
+  {
+    "id": 132,
+    "name": "ertl:cC(=O)NC",
+    "partition": "readable"
+  },
+  {
+    "id": 133,
+    "name": "ertl:cC(=O)OC",
+    "partition": "readable"
+  },
+  {
+    "id": 134,
+    "name": "ertl:cC(C)=O",
+    "partition": "readable"
+  },
+  {
+    "id": 135,
+    "name": "ertl:cC(N)=O",
+    "partition": "readable"
+  },
+  {
+    "id": 136,
+    "name": "ertl:cCl",
+    "partition": "readable"
+  },
+  {
+    "id": 137,
+    "name": "ertl:cF",
+    "partition": "readable"
+  },
+  {
+    "id": 138,
+    "name": "ertl:cN",
+    "partition": "readable"
+  },
+  {
+    "id": 139,
+    "name": "ertl:cN(C)C",
+    "partition": "readable"
+  },
+  {
+    "id": 140,
+    "name": "ertl:cN(C)C(=O)C",
+    "partition": "readable"
+  },
+  {
+    "id": 141,
+    "name": "ertl:cN(C)S(C)(=O)=O",
+    "partition": "readable"
+  },
+  {
+    "id": 142,
+    "name": "ertl:cN(C)S(c)(=O)=O",
+    "partition": "readable"
+  },
+  {
+    "id": 143,
+    "name": "ertl:cN1C(=O)CCC1=O",
+    "partition": "readable"
+  },
+  {
+    "id": 144,
+    "name": "ertl:cNC",
+    "partition": "readable"
+  },
+  {
+    "id": 145,
+    "name": "ertl:cNC(=O)C",
+    "partition": "readable"
+  },
+  {
+    "id": 146,
+    "name": "ertl:cNC(=O)N(C)C",
+    "partition": "readable"
+  },
+  {
+    "id": 147,
+    "name": "ertl:cNC(=O)NC",
+    "partition": "readable"
+  },
+  {
+    "id": 148,
+    "name": "ertl:cNC(=O)OC",
+    "partition": "readable"
+  },
+  {
+    "id": 149,
+    "name": "ertl:cNC(C)=O",
+    "partition": "readable"
+  },
+  {
+    "id": 150,
+    "name": "ertl:cNC(c)=O",
+    "partition": "readable"
+  },
+  {
+    "id": 151,
+    "name": "ertl:cNS(C)(=O)=O",
+    "partition": "readable"
+  },
+  {
+    "id": 152,
+    "name": "ertl:cNS(c)(=O)=O",
+    "partition": "readable"
+  },
+  {
+    "id": 153,
+    "name": "ertl:cNc",
+    "partition": "readable"
+  },
+  {
+    "id": 154,
+    "name": "ertl:cO",
+    "partition": "readable"
+  },
+  {
+    "id": 155,
+    "name": "ertl:cOC",
+    "partition": "readable"
+  },
+  {
+    "id": 156,
+    "name": "ertl:cOc",
+    "partition": "readable"
+  },
+  {
+    "id": 157,
+    "name": "ertl:cS(=O)(=O)N(C)C",
+    "partition": "readable"
+  },
+  {
+    "id": 158,
+    "name": "ertl:cS(=O)(=O)NC",
+    "partition": "readable"
+  },
+  {
+    "id": 159,
+    "name": "ertl:cS(C)(=O)=O",
+    "partition": "readable"
+  },
+  {
+    "id": 160,
+    "name": "ertl:cS(N)(=O)=O",
+    "partition": "readable"
+  },
+  {
+    "id": 161,
+    "name": "ertl:cSC",
+    "partition": "readable"
+  },
+  {
+    "id": 162,
+    "name": "ertl:c[N+](=O)[O-]",
+    "partition": "readable"
+  },
+  {
+    "id": 163,
+    "name": "ertl:c[nH]c",
+    "partition": "readable"
+  },
+  {
+    "id": 164,
+    "name": "ertl:cn(C)c",
+    "partition": "readable"
+  },
+  {
+    "id": 165,
+    "name": "ertl:cn(c)c",
+    "partition": "readable"
+  },
+  {
+    "id": 166,
+    "name": "ertl:cn[nH]c",
+    "partition": "readable"
+  },
+  {
+    "id": 167,
+    "name": "ertl:cnc",
+    "partition": "readable"
+  },
+  {
+    "id": 168,
+    "name": "ertl:cnn(C)c",
+    "partition": "readable"
+  },
+  {
+    "id": 169,
+    "name": "ertl:cnn(c)c",
+    "partition": "readable"
+  },
+  {
+    "id": 170,
+    "name": "ertl:cnnc",
+    "partition": "readable"
+  },
+  {
+    "id": 171,
+    "name": "ertl:cnoc",
+    "partition": "readable"
+  },
+  {
+    "id": 172,
+    "name": "ertl:coc",
+    "partition": "readable"
+  },
+  {
+    "id": 173,
+    "name": "input:element_B",
+    "partition": "input"
+  },
+  {
+    "id": 174,
+    "name": "input:element_C",
+    "partition": "input"
+  },
+  {
+    "id": 175,
+    "name": "input:element_N",
+    "partition": "input"
+  },
+  {
+    "id": 176,
+    "name": "input:element_O",
+    "partition": "input"
+  },
+  {
+    "id": 177,
+    "name": "input:element_F",
+    "partition": "input"
+  },
+  {
+    "id": 178,
+    "name": "input:element_Si",
+    "partition": "input"
+  },
+  {
+    "id": 179,
+    "name": "input:element_P",
+    "partition": "input"
+  },
+  {
+    "id": 180,
+    "name": "input:element_S",
+    "partition": "input"
+  },
+  {
+    "id": 181,
+    "name": "input:element_Cl",
+    "partition": "input"
+  },
+  {
+    "id": 182,
+    "name": "input:element_Br",
+    "partition": "input"
+  },
+  {
+    "id": 183,
+    "name": "input:element_I",
+    "partition": "input"
+  },
+  {
+    "id": 184,
+    "name": "input:aromatic",
+    "partition": "input"
+  },
+  {
+    "id": 185,
+    "name": "input:charge_pos",
+    "partition": "input"
+  },
+  {
+    "id": 186,
+    "name": "input:charge_neg",
+    "partition": "input"
+  },
+  {
+    "id": 187,
+    "name": "input:totalH_0",
+    "partition": "input"
+  },
+  {
+    "id": 188,
+    "name": "input:totalH_1",
+    "partition": "input"
+  },
+  {
+    "id": 189,
+    "name": "input:totalH_2",
+    "partition": "input"
+  },
+  {
+    "id": 190,
+    "name": "input:totalH_3",
+    "partition": "input"
+  },
+  {
+    "id": 191,
+    "name": "input:hyb_SP",
+    "partition": "input"
+  },
+  {
+    "id": 192,
+    "name": "input:hyb_SP2",
+    "partition": "input"
+  },
+  {
+    "id": 193,
+    "name": "input:hyb_SP3",
+    "partition": "input"
+  },
+  {
+    "id": 194,
+    "name": "input:degree_1",
+    "partition": "input"
+  },
+  {
+    "id": 195,
+    "name": "input:degree_2",
+    "partition": "input"
+  },
+  {
+    "id": 196,
+    "name": "input:degree_3",
+    "partition": "input"
+  },
+  {
+    "id": 197,
+    "name": "input:degree_4",
+    "partition": "input"
+  },
+  {
+    "id": 198,
+    "name": "input:in_ring",
+    "partition": "input"
+  },
+  {
+    "id": 199,
+    "name": "fg:Halogen.Bromine",
+    "partition": "input_equivalent"
+  }
+]

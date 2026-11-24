@@ -1,0 +1,29 @@
+{
+  "rule": "lowest selection_digest among strict primary pairs, activation-blind",
+  "pair": {
+    "pair_id": "helix_start_vs_internal:9fvw_A:502-511",
+    "record_id": "9fvw_A",
+    "chain_id": "9fvw_A",
+    "group": "fresh-hg-1d22503981abf4fe9e055499",
+    "homology_group": "fresh-hg-1d22503981abf4fe9e055499",
+    "split": "E_new",
+    "task": "helix_start_vs_internal",
+    "aa": "K",
+    "index_positive": 502,
+    "index_negative": 511,
+    "positive_label_seq_id": 174,
+    "negative_label_seq_id": 183,
+    "positive_secondary": "H",
+    "negative_secondary": "H",
+    "positive_helix_segment_id": "9fvw_A:alpha174-189",
+    "negative_helix_segment_id": "9fvw_A:alpha174-189",
+    "same_helix_segment": true,
+    "positive_helix_offset0": 0,
+    "negative_helix_offset0": 9,
+    "positive_helix_length": 16,
+    "negative_helix_length": 16,
+    "negative_helix_distance_to_end": 6,
+    "selection_digest": "01c05fbcee960618275e6bae6531c8930ddbad03bb40ed344a739bb012df026a",
+    "sequence_sha256": "1d22503981abf4fe9e055499daefb205f13d2ede6922961c3c8528bd45860f73"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "protein_homology_groups": 47,
+  "development_groups": 23,
+  "confirmation_groups": 24,
+  "unique_sequences_used": 47,
+  "width": 1280,
+  "coordinate_sign_candidates": 2560,
+  "host_taxa": {
+    "Saccharomyces cerevisiae": 2,
+    "Arabidopsis thaliana": 3,
+    "Homo sapiens": 28,
+    "Caenorhabditis elegans": 1,
+    "Rattus norvegicus": 2,
+    "Mus musculus": 7,
+    "Saccharomyces cerevisiae S288C": 1,
+    "Bos taurus": 2,
+    "Danio rerio": 1
+  },
+  "length_min_max": [
+    91,
+    976
+  ],
+  "D_zero_differences": 0,
+  "E_zero_differences": 0,
+  "independent_units": "original homology groups; one natural structural pair each",
+  "confirmation_composition": {
+    "T": 15,
+    "B": 9
+  },
+  "source_cohort_chains": 74,
+  "source_cohort_unique_native_sequences": 54,
+  "source_cohort_homology_groups": 47,
+  "chosen_chains": 47,
+  "full_native_residues_forwarded": 22152,
+  "paired_sites": 94,
+  "minimum_nominal_binomial_successes": {
+    "23": 16,
+    "24": 17
+  },
+  "minimum_calibrated_search_successes_out_of_23": 22,
+  "source_computational_crosscheck_max_abs_error": 4.231929779052734e-06,
+  "freeze_utc": "2026-11-23T03:03:44.259039+00:00",
+  "result_utc": "2026-11-23T03:04:46.958432+00:00",
+  "actual_tests": {
+    "calibration_full_searches": 1999,
+    "evaluated_generated_label_searches": 3500,
+    "real_full_searches": 1,
+    "original_coordinates_per_search": 1280,
+    "signs_per_coordinate": 2,
+    "development_selected_binomial_tests_per_round": 1,
+    "independent_confirmation_tests_per_round": 1,
+    "search_empirical_rank_tests_per_round": 1,
+    "oracle_confirmation_tests_per_signal_round": 1,
+    "effect_threshold_comparisons_per_round": 2,
+    "full_search_coordinate_evaluations": 7040000,
+    "separate_nominal_methods_are_comparators_not_six_claims_adjusted_as_a_family": true
+  },
+  "seeds": {
+    "extract": 18472001,
+    "calibration": 28472003,
+    "null_evaluation": 28472009,
+    "truth": 38472011,
+    "single_0.25": 48472001,
+    "single_1": 48472003,
+    "single_4": 48472007,
+    "distributed_1": 58472003,
+    "distributed_4": 58472007,
+    "real_bootstrap": 68472001
+  },
+  "truth_original_zero_based_indices": {
+    "single": 465,
+    "distributed": [
+      754,
+      549,
+      1021,
+      840,
+      679,
+      780,
+      748,
+      1214
+    ],
+    "distributed_signs": [
+      1,
+      -1,
+      -1,
+      -1,
+      1,
+      1,
+      -1,
+      1
+    ]
+  },
+  "generated_label_archive": "generated_practice_labels.npz (rounds x 47 original group order; signed labels; development mask and groups included)",
+  "inference_scope": "conditional on one fixed 47-group natural background, one fixed A/B+T split, one single generator coordinate, one distributed generator and one independent finite calibration library"
+}

@@ -1,0 +1,106 @@
+{
+  "scored_utc": "2026-11-22T17:38:25.796019+00:00",
+  "groups": 967,
+  "sites": 1934,
+  "native_replay_max_logit_diff": 0.0,
+  "matched_dose_pair_sum_max_abs_diff": 1.6132865621187875e-07,
+  "arms": {
+    "mean": {
+      "JSD_nats": {
+        "estimate": 6.404163767629276e-07,
+        "ci95": [
+          3.612017604703683e-07,
+          1.1113664876516497e-06
+        ],
+        "ci_simultaneous_99_1667": [
+          3.32531980131006e-07,
+          1.3278704774835685e-06
+        ]
+      },
+      "mean_squared_displacement": 0.11081809057844738
+    },
+    "seq": {
+      "JSD_nats": {
+        "estimate": 6.511554070805264e-07,
+        "ci95": [
+          3.617560338931094e-07,
+          1.1419623798973535e-06
+        ],
+        "ci_simultaneous_99_1667": [
+          3.335308723161215e-07,
+          1.3590141864697706e-06
+        ]
+      },
+      "mean_squared_displacement": 0.10863931338077468
+    },
+    "full": {
+      "JSD_nats": {
+        "estimate": 6.521891126772981e-07,
+        "ci95": [
+          3.63720059181637e-07,
+          1.1491482091673354e-06
+        ],
+        "ci_simultaneous_99_1667": [
+          3.3589136517925896e-07,
+          1.3840697647058559e-06
+        ]
+      },
+      "mean_squared_displacement": 0.10652294330231027
+    },
+    "swapped": {
+      "JSD_nats": {
+        "estimate": 5.197867869505146e-07,
+        "ci95": [
+          4.149717597509406e-07,
+          6.50908448221918e-07
+        ],
+        "ci_simultaneous_99_1667": [
+          3.888941867365846e-07,
+          7.123125078833286e-07
+        ]
+      },
+      "mean_squared_displacement": 0.1065229435520351
+    }
+  },
+  "contrasts": {
+    "seq_minus_full_JSD": {
+      "estimate": -1.03370559677174e-09,
+      "ci95": [
+        -2.253156281458289e-08,
+        2.1925543884938592e-08
+      ],
+      "ci_simultaneous_99_1667": [
+        -2.999620563462928e-08,
+        3.189302452790538e-08
+      ]
+    },
+    "swapped_minus_full_JSD": {
+      "estimate": -1.3240232572678348e-07,
+      "ci95": [
+        -5.559837695893197e-07,
+        1.0724474079292971e-07
+      ],
+      "ci_simultaneous_99_1667": [
+        -8.501285878191629e-07,
+        1.3410764830475975e-07
+      ]
+    },
+    "mean_minus_full_JSD": {
+      "estimate": -1.1772735914370553e-08,
+      "ci95": [
+        -4.533603351593368e-08,
+        1.580463385288028e-08
+      ],
+      "ci_simultaneous_99_1667": [
+        -5.8728886435263047e-08,
+        2.424776130118541e-08
+      ]
+    }
+  },
+  "predeclared_joint_checks": {
+    "A_structure_beyond_sequence": true,
+    "B_structure_vs_sequence": false,
+    "B_structure_vs_placement": false
+  },
+  "all_three_positive": false
+}

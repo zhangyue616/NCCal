@@ -1,0 +1,296 @@
+[
+  {
+    "source_id": "validation/blind_benchmark/FREEZE.json",
+    "sha256": "90a6226f3f99f0d314721303443996895efc407571bfb2e61bde11336f718e62",
+    "bytes": 5049,
+    "modified_utc": "2026-11-23T03:03:44.352372+00:00",
+    "english_protocol": "PROTOCOL.md",
+    "reported_freeze_times": {
+      "utc": "2026-11-23T03:03:44.259039+00:00"
+    },
+    "random_seed_fields": {
+      "seeds": {
+        "extract": 18472001,
+        "calibration": 28472003,
+        "null_evaluation": 28472009,
+        "truth": 38472011,
+        "single_0.25": 48472001,
+        "single_1": 48472003,
+        "single_4": 48472007,
+        "distributed_1": 58472003,
+        "distributed_4": 58472007,
+        "real_bootstrap": 68472001
+      }
+    }
+  },
+  {
+    "source_id": "validation/blind_benchmark/PROTOCOL.md",
+    "sha256": "2b761b42d566bb288f7abe6e092312a7cd4a31ea385e22aa490ea2eca3aeb02c",
+    "bytes": 9786,
+    "modified_utc": "2026-11-23T03:01:38.696596+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "validation/blind_benchmark/REPORT_zh.md",
+    "sha256": "cb2f4d946e2ffa6c0fef63b3ff15078538e57cbdbc4bc4c4e423d7fc728531bb",
+    "bytes": 9425,
+    "modified_utc": "2026-11-23T03:08:03.282746+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "validation/decision_use/FREEZE.json",
+    "sha256": "f0e3225f6447ef825ddc38e5aa97c040cd9ad295bf5095d0fbd04cc54d90f034",
+    "bytes": 276,
+    "modified_utc": "2026-11-23T02:56:38.088326+00:00",
+    "english_protocol": "PROTOCOL.md",
+    "reported_freeze_times": {
+      "utc": "2026-11-23T02:56:38.0586409Z"
+    },
+    "random_seed_fields": {}
+  },
+  {
+    "source_id": "validation/decision_use/PROTOCOL.md",
+    "sha256": "a05c8152cbd44db6965dc066493574051aa3dfd0207efed4198e61beda1fa3eb",
+    "bytes": 3481,
+    "modified_utc": "2026-11-23T02:55:05.649817+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "validation/decision_use/REPORT_zh.md",
+    "sha256": "3c63713fea4d7ba155f028f16aa400bc94b6d0e1fd3fb4a223b2a7b0b5eb6488",
+    "bytes": 2266,
+    "modified_utc": "2026-11-23T03:17:34.288206+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "validation/independent/REPEAT_DECISION_REPORT_zh.md",
+    "sha256": "66584be295aa72fce51ab2c456da35280ed1fe9550ab623102940c5cd32cfbe8",
+    "bytes": 7598,
+    "modified_utc": "2026-11-23T03:19:43.462149+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "validation/independent/REPORT_zh.md",
+    "sha256": "7bd323078019066915d4a9537156c302e1a812ac725899da94f7048070695865",
+    "bytes": 7873,
+    "modified_utc": "2026-11-23T03:23:25.716336+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "validation/known_basis/FIGURE_CAPTIONS.md",
+    "sha256": "778b16e85c767eb9cf57d48891ee2cd3b3ea4ab8e57e2336313051d53237c8a4",
+    "bytes": 1464,
+    "modified_utc": "2026-11-23T03:07:10.432757+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "validation/known_basis/PROTOCOL.md",
+    "sha256": "83f157678f51407a675caeedfaf296a14f6518fac240bddc9766873069a68cc2",
+    "bytes": 6814,
+    "modified_utc": "2026-11-23T02:57:22.960607+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "validation/known_basis/README.md",
+    "sha256": "3a5bd3cff24c90d701dcbd1c25fbc7564e391fba145bf0be11000dc81f2d70bc",
+    "bytes": 2640,
+    "modified_utc": "2026-11-23T03:08:23.451309+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "validation/known_basis/REPORT_zh.md",
+    "sha256": "92ced4b71e79cfd3785fe95c3650f2b53b4960b7a628aa087be2664c3b4fb84b",
+    "bytes": 6282,
+    "modified_utc": "2026-11-23T03:08:55.432922+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "validation/repeat_structure/freeze.json",
+    "sha256": "556efeb0509266e765e4214682cb27a23fcde99f073fbdb1773e89d0cf2be030",
+    "bytes": 1761,
+    "modified_utc": "2026-11-23T02:57:44.190677+00:00",
+    "english_protocol": "PROTOCOL.md",
+    "reported_freeze_times": {
+      "frozen_utc": "2026-11-23T02:57:44.150379+00:00"
+    },
+    "random_seed_fields": {}
+  },
+  {
+    "source_id": "validation/repeat_structure/PROTOCOL.md",
+    "sha256": "b57bb633392d961ca1e532a979f26e2f62047d67a04f798643ca596d94ea5da3",
+    "bytes": 7142,
+    "modified_utc": "2026-11-23T02:56:06.713699+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "validation/repeat_structure/REPORT_zh.md",
+    "sha256": "114377eaa5f003c6aab24aa1b398819af6fa61fc6bb69c8b8f1bcfbcaa899c9f",
+    "bytes": 7334,
+    "modified_utc": "2026-11-23T03:08:46.761407+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "validation/repeat_structure/SAFETY_AMENDMENT.md",
+    "sha256": "82a2f702d922831100a33bd4f0e905f64f6daf8d97bbe74a85c0d1628f4a3c71",
+    "bytes": 1626,
+    "modified_utc": "2026-11-23T03:03:00.747667+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "validation/repeat_structure/safety_correction_freeze.json",
+    "sha256": "ae8b685f09321d840003e7fd0c60fda01ed2b3d95776f3b05f49375c78123dae",
+    "bytes": 2495,
+    "modified_utc": "2026-11-23T03:07:30.780475+00:00",
+    "english_protocol": "PROTOCOL.md",
+    "reported_freeze_times": {
+      "corrected_utc": "2026-11-23T03:07:30.755718+00:00"
+    },
+    "random_seed_fields": {}
+  },
+  {
+    "source_id": "validation/repeat_structure/safety_freeze.json",
+    "sha256": "32a47d29d630c91c572813af7321740c09e57b5b41ed8f62dbaa961add1d7ee5",
+    "bytes": 574,
+    "modified_utc": "2026-11-23T03:03:39.735871+00:00",
+    "english_protocol": "PROTOCOL.md",
+    "reported_freeze_times": {
+      "frozen_utc": "2026-11-23T03:03:39.704638+00:00"
+    },
+    "random_seed_fields": {}
+  },
+  {
+    "source_id": "validation/independent/blind_benchmark/REPORT_zh.md",
+    "sha256": "5c1004d624029f1714d3df40366699e08f35ac7b46dc47ed2330266a510794ff",
+    "bytes": 6754,
+    "modified_utc": "2026-11-23T03:18:46.981402+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "validation/independent/known_basis/REPORT_zh.md",
+    "sha256": "7dee917f8f8fef8da8426aa14157349eea96ac3ff4ad272c5535835f1e9ac020",
+    "bytes": 4759,
+    "modified_utc": "2026-11-23T03:16:12.166404+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "validation/repeat_structure/v1_before_raw_polymer_correction/REPORT_zh.md",
+    "sha256": "e81287d3c6579f73880a53e5de598b943e6d6f1fd98a370d0ba7a03512cc1cee",
+    "bytes": 6492,
+    "modified_utc": "2026-11-23T03:07:27.862957+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "disulfide/DECISION_zh.md",
+    "sha256": "b92abd89763bf2fbad4ca9764a1bd0e1d7dc56f73b5e80497565b776805fa1e6",
+    "bytes": 2481,
+    "modified_utc": "2026-11-23T01:57:34.442382+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "disulfide/EXTERNAL_RANK_PRESCORING_FREEZE.json",
+    "sha256": "a6f368a2df1552ec017fb10f98324354bd6d3a7f3273d1557e67c3a237b8df76",
+    "bytes": 575,
+    "modified_utc": "2026-11-23T01:46:19.011436+00:00",
+    "english_protocol": "PROTOCOL.md",
+    "reported_freeze_times": {
+      "utc": "2026-11-23T01:46:18.939641+00:00"
+    },
+    "random_seed_fields": {}
+  },
+  {
+    "source_id": "disulfide/INDEPENDENT_STATIC_REVIEW.md",
+    "sha256": "0d245dec700cd48a44aef0fa0afd705a053b0960c0ae304e95c88017a928ec67",
+    "bytes": 1400,
+    "modified_utc": "2026-11-23T01:43:04.156581+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "disulfide/PRESCORING_ADDENDUM_FREEZE.json",
+    "sha256": "6fa40b2d544cd162c469657f193541f14f6a8395fd945f84e9c354abe9782be8",
+    "bytes": 1131,
+    "modified_utc": "2026-11-23T01:42:50.681479+00:00",
+    "english_protocol": "PROTOCOL.md",
+    "reported_freeze_times": {
+      "utc": "2026-11-23T01:42:50.594493+00:00"
+    },
+    "random_seed_fields": {}
+  },
+  {
+    "source_id": "disulfide/PROTOCOL.md",
+    "sha256": "a60fd4e738452f1b458e8274276f3f89bd2c44ce06fbec2b14288bbd0c79f817",
+    "bytes": 9094,
+    "modified_utc": "2026-11-23T01:47:30.089783+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "disulfide/PROTOCOL_FREEZE.json",
+    "sha256": "57c787d6874f1c68db1ad741f07e1e78f2b83b66cb0d9efeb9c39cb94c7ecf34",
+    "bytes": 427,
+    "modified_utc": "2026-11-23T01:38:49.000323+00:00",
+    "english_protocol": "PROTOCOL.md",
+    "reported_freeze_times": {
+      "utc": "2026-11-23T01:38:48.979265+00:00"
+    },
+    "random_seed_fields": {}
+  },
+  {
+    "source_id": "disulfide/REPORT_zh.md",
+    "sha256": "0cd833a5b8d4c2832ca7f03a877e0d9362323e84c6fec24d35c1e7a2bdef8660",
+    "bytes": 11868,
+    "modified_utc": "2026-11-23T01:56:18.214191+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "disulfide/STRUCT_PLACEMENT_PRESCORING_FREEZE.json",
+    "sha256": "73743a65b6755ac251823602ab86cf8970792ebbb1407ca7dfe2afa124d5e991",
+    "bytes": 477,
+    "modified_utc": "2026-11-23T01:47:31.113678+00:00",
+    "english_protocol": "PROTOCOL.md",
+    "reported_freeze_times": {
+      "utc": "2026-11-23T01:47:31.056284+00:00"
+    },
+    "random_seed_fields": {}
+  },
+  {
+    "source_id": "protein_level_label/FREEZE.json",
+    "sha256": "df328490f4657352487bf600334e25ac482a141d2a81d0a5efdfb6b012721cc8",
+    "bytes": 196,
+    "modified_utc": "2026-11-23T01:39:37.903244+00:00",
+    "english_protocol": "PROTOCOL.md",
+    "reported_freeze_times": {
+      "timestamp_utc": "2026-11-23T01:39:37.7571817Z"
+    },
+    "random_seed_fields": {}
+  },
+  {
+    "source_id": "protein_level_label/PROTOCOL.md",
+    "sha256": "ff71a22de7be8db29a63437ac32409bc356fb0319db8ac6159d3047385421e77",
+    "bytes": 4075,
+    "modified_utc": "2026-11-23T01:39:25.707089+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "protein_level_label/REPORT.md",
+    "sha256": "8e732ee85c103549c1efe27eed4141953e6e7f46cc8475253c8f88ce22171dcb",
+    "bytes": 4387,
+    "modified_utc": "2026-11-23T01:52:57.684547+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "disulfide_controls/PROTOCOL.md",
+    "sha256": "70a78106f427502e3e5e8520346f71a8ea09ee67b22fac5dff602d5474dbd670",
+    "bytes": 3267
+  },
+  {
+    "source_id": "disulfide_controls/FREEZE.json",
+    "sha256": "4e36d7a0058d661b887ae78f027be6cc17416f382a0fe4c94c6cc8a3469c344c",
+    "bytes": 239
+  },
+  {
+    "source_id": "alanine_transfer/PROTOCOL.md",
+    "sha256": "3db20ecda12bd56f71df14a59a48c90a0849b1fe15a7f2ec4d20dfcb120fbfc5",
+    "bytes": 4707,
+    "modified_utc": "2026-11-22T17:27:23.302869+00:00",
+    "english_protocol": "PROTOCOL.md"
+  }
+]

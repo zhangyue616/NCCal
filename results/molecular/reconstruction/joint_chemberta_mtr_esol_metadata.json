@@ -1,0 +1,285 @@
+{
+  "scopes": [
+    {
+      "id": "selected/single/99",
+      "role": "selected",
+      "kind": "single",
+      "coordinates": [
+        99
+      ],
+      "representative_concept_ids": [
+        16
+      ]
+    },
+    {
+      "id": "selected/single/121",
+      "role": "selected",
+      "kind": "single",
+      "coordinates": [
+        121
+      ],
+      "representative_concept_ids": [
+        3
+      ]
+    },
+    {
+      "id": "selected/single/188",
+      "role": "selected",
+      "kind": "single",
+      "coordinates": [
+        188
+      ],
+      "representative_concept_ids": [
+        0
+      ]
+    },
+    {
+      "id": "selected/single/266",
+      "role": "selected",
+      "kind": "single",
+      "coordinates": [
+        266
+      ],
+      "representative_concept_ids": [
+        15
+      ]
+    },
+    {
+      "id": "selected/single/293",
+      "role": "selected",
+      "kind": "single",
+      "coordinates": [
+        293
+      ],
+      "representative_concept_ids": [
+        26
+      ]
+    },
+    {
+      "id": "selected/single/349",
+      "role": "selected",
+      "kind": "single",
+      "coordinates": [
+        349
+      ],
+      "representative_concept_ids": [
+        2
+      ]
+    },
+    {
+      "id": "selected/single/382",
+      "role": "selected",
+      "kind": "single",
+      "coordinates": [
+        382
+      ],
+      "representative_concept_ids": [
+        18
+      ]
+    },
+    {
+      "id": "selected/single/388",
+      "role": "selected",
+      "kind": "single",
+      "coordinates": [
+        388
+      ],
+      "representative_concept_ids": [
+        27
+      ]
+    },
+    {
+      "id": "selected/single/454",
+      "role": "selected",
+      "kind": "single",
+      "coordinates": [
+        454
+      ],
+      "representative_concept_ids": [
+        25
+      ]
+    },
+    {
+      "id": "selected/joint",
+      "role": "selected",
+      "kind": "joint",
+      "coordinates": [
+        99,
+        121,
+        188,
+        266,
+        293,
+        349,
+        382,
+        388,
+        454
+      ],
+      "representative_concept_ids": [
+        16,
+        3,
+        0,
+        15,
+        26,
+        2,
+        18,
+        27,
+        25
+      ]
+    },
+    {
+      "id": "matched_control/single/0",
+      "role": "matched_control",
+      "kind": "single",
+      "coordinates": [
+        0
+      ],
+      "representative_concept_ids": [
+        15
+      ]
+    },
+    {
+      "id": "matched_control/single/68",
+      "role": "matched_control",
+      "kind": "single",
+      "coordinates": [
+        68
+      ],
+      "representative_concept_ids": [
+        2
+      ]
+    },
+    {
+      "id": "matched_control/single/162",
+      "role": "matched_control",
+      "kind": "single",
+      "coordinates": [
+        162
+      ],
+      "representative_concept_ids": [
+        26
+      ]
+    },
+    {
+      "id": "matched_control/single/169",
+      "role": "matched_control",
+      "kind": "single",
+      "coordinates": [
+        169
+      ],
+      "representative_concept_ids": [
+        27
+      ]
+    },
+    {
+      "id": "matched_control/single/238",
+      "role": "matched_control",
+      "kind": "single",
+      "coordinates": [
+        238
+      ],
+      "representative_concept_ids": [
+        3
+      ]
+    },
+    {
+      "id": "matched_control/single/376",
+      "role": "matched_control",
+      "kind": "single",
+      "coordinates": [
+        376
+      ],
+      "representative_concept_ids": [
+        0
+      ]
+    },
+    {
+      "id": "matched_control/single/384",
+      "role": "matched_control",
+      "kind": "single",
+      "coordinates": [
+        384
+      ],
+      "representative_concept_ids": [
+        16
+      ]
+    },
+    {
+      "id": "matched_control/single/427",
+      "role": "matched_control",
+      "kind": "single",
+      "coordinates": [
+        427
+      ],
+      "representative_concept_ids": [
+        18
+      ]
+    },
+    {
+      "id": "matched_control/single/458",
+      "role": "matched_control",
+      "kind": "single",
+      "coordinates": [
+        458
+      ],
+      "representative_concept_ids": [
+        25
+      ]
+    },
+    {
+      "id": "matched_control/joint",
+      "role": "matched_control",
+      "kind": "joint",
+      "coordinates": [
+        0,
+        68,
+        162,
+        169,
+        238,
+        376,
+        384,
+        427,
+        458
+      ],
+      "representative_concept_ids": [
+        15,
+        2,
+        26,
+        27,
+        3,
+        0,
+        16,
+        18,
+        25
+      ]
+    }
+  ],
+  "conditions": [
+    "baseline",
+    "sham",
+    "development_mean",
+    "binary_mean",
+    "local_graph",
+    "residual_permutation_101",
+    "residual_permutation_102",
+    "residual_permutation_103",
+    "residual_permutation_104",
+    "residual_permutation_105",
+    "residual_permutation_106",
+    "residual_permutation_107",
+    "residual_permutation_108",
+    "residual_permutation_109",
+    "residual_permutation_110"
+  ],
+  "permutation_seeds": [
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109,
+    110
+  ]
+}

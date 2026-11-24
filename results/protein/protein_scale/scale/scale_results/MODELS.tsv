@@ -1,0 +1,4 @@
+model	block	selected_axis	correct	incorrect	tie	T_pairs	baseline_correct	untrained_minimum	untrained_median	untrained_maximum	more_active_exposed	more_active_buried	equal_activation
+8m	3	801	532	435	0	967	537	494	535.0	561	539	428	0
+35m	6	814	632	335	0	967	537	494	535.0	553	612	355	0
+650m	16	4566	614	353	0	967	537	509	537.0	558	596	371	0

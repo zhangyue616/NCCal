@@ -1,0 +1,16 @@
+[
+  {
+    "task": "helix_vs_strand",
+    "block_1": 5,
+    "channel_0": 1598,
+    "sign": -1,
+    "development_score": 0.6111326891499306
+  },
+  {
+    "task": "helix_start_vs_internal",
+    "block_1": 17,
+    "channel_0": 64,
+    "sign": 1,
+    "development_score": 0.7491319444444444
+  }
+]

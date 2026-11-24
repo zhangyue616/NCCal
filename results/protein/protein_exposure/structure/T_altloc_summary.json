@@ -1,0 +1,17 @@
+{
+  "created_utc": "2026-11-18T08:04:53.951204+00:00",
+  "scope_split": "T",
+  "source_groups": 1123,
+  "groups_with_any_altloc_protein_heavy_atoms": 520,
+  "quality_sites": 296009,
+  "quality_sites_with_possible_influence": 32022,
+  "strict_main_sites": 173859,
+  "strict_main_sites_with_possible_influence": 12758,
+  "strict_main_pairs": 967,
+  "strict_main_pairs_with_either_site_possible_influence": 131,
+  "definition": "Conservative possible influence: any residue heavy-atom SASA sphere overlaps an alternate-conformer protein-polymer heavy-atom exclusion sphere; distance < vdW_i+vdW_j+2*1.4 A, same element radii as SASA. This marks possible rather than measured numerical change.",
+  "no_SASA_recomputation": true,
+  "frozen_outputs_modified": false,
+  "main_endpoint_modified": false,
+  "file": "T_altloc_flags.tsv"
+}

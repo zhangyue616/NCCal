@@ -1,0 +1,58 @@
+[
+  {
+    "model": "chemberta_mlm",
+    "readability_fold": 2.457401613704458,
+    "axis_fold": 1.5277031578395808,
+    "readability_p": 0.005,
+    "axis_p": 0.005
+  },
+  {
+    "model": "chemberta_mtr",
+    "readability_fold": 1.8319093296995521,
+    "axis_fold": 1.7371176165492879,
+    "readability_p": 0.005,
+    "axis_p": 0.005
+  },
+  {
+    "model": "chemeleon",
+    "readability_fold": 1.1420620636430006,
+    "axis_fold": 1.9673043977290794,
+    "readability_p": 0.015,
+    "axis_p": 0.005
+  },
+  {
+    "model": "molclr_gin",
+    "readability_fold": 1.8246845722209462,
+    "axis_fold": 1.0536170852241444,
+    "readability_p": 0.005,
+    "axis_p": 0.13
+  },
+  {
+    "model": "hu_contextpred",
+    "readability_fold": 0.6638861631869861,
+    "axis_fold": 1.0948323810057137,
+    "readability_p": 1.0,
+    "axis_p": 0.005
+  },
+  {
+    "model": "hu_edgepred",
+    "readability_fold": 0.9989464060760359,
+    "axis_fold": 1.0629104300070153,
+    "readability_p": 0.515,
+    "axis_p": 0.11
+  },
+  {
+    "model": "hu_infomax",
+    "readability_fold": 0.631277761722845,
+    "axis_fold": 1.2401891617169039,
+    "readability_p": 1.0,
+    "axis_p": 0.005
+  },
+  {
+    "model": "hu_masking",
+    "readability_fold": 1.0117691131353206,
+    "axis_fold": 0.9526964338834953,
+    "readability_p": 0.625,
+    "axis_p": 0.97
+  }
+]

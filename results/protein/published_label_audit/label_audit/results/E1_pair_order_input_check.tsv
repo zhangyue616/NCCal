@@ -1,0 +1,5 @@
+exactconcept	frame	pairs	positive_earlier	positive_later	posthoc_input_check	new_fit
+OWN_HELIX_START	D	45	45	0	True	False
+OWN_HELIX_START	T	432	432	0	True	False
+OWN_HELIX_START	NEW	53	53	0	True	False
+OWN_HELIX_VS_BETA	NEW	140	71	69	True	False

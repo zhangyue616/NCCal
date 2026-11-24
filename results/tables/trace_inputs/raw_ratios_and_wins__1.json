@@ -1,0 +1,20 @@
+{
+ "row-1.trained_median_dictionary_over_native": 2.464234139545247,
+ "row-1.trained_strict_win_concepts": 141.0,
+ "row-1.trained_tied_concepts": 0.0,
+ "row-1.initialization_ratio_median": 0.9685981417723551,
+ "row-1.initialization_ratio_min": 0.8927596136612423,
+ "row-1.initialization_ratio_max": 1.0409731512029812,
+ "row-1.initialization_win_count_median": 79.0,
+ "row-1.initialization_win_count_min": 60.0,
+ "row-1.initialization_win_count_max": 98.0,
+ "row-2.trained_median_dictionary_over_native": 1.4254313933481477,
+ "row-2.trained_strict_win_concepts": 125.0,
+ "row-2.trained_tied_concepts": 0.0,
+ "row-2.initialization_ratio_median": 0.9685981417723551,
+ "row-2.initialization_ratio_min": 0.8927596136612423,
+ "row-2.initialization_ratio_max": 1.0409731512029812,
+ "row-2.initialization_win_count_median": 79.0,
+ "row-2.initialization_win_count_min": 60.0,
+ "row-2.initialization_win_count_max": 98.0
+}

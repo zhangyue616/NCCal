@@ -1,0 +1,8 @@
+{
+ "intersections.Test1__D.CID_intersection": 1.0,
+ "intersections.Test1__D.canonical_identity_intersection": 3.0,
+ "intersections.Test1__T.CID_intersection": 1.0,
+ "intersections.Test1__T.canonical_identity_intersection": 7.0,
+ "intersections.D__T.CID_intersection": 0.0,
+ "intersections.D__T.canonical_identity_intersection": 0.0
+}

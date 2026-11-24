@@ -1,0 +1,14 @@
+{
+  "state_sha256": "bb418fdc5852a348e51aa33f6f153b302e254cc9b572d6f2a4e69ab246e23488",
+  "matches_original_state": null,
+  "state_reference": null,
+  "config_sha256": "facb9355e8252149f6f99dff5fd1e32e890c3c655362b261d0c81cd6b5839c85",
+  "CPU_construction": true,
+  "torch": "2.11.0+cu128",
+  "transformers": "5.20.0",
+  "attention": "eager",
+  "dtype": "float32",
+  "TF32": false,
+  "embedding_lm_head_tied": true,
+  "completed_utc": "2026-11-21T07:37:17.446657+00:00"
+}

@@ -1,0 +1,234 @@
+[
+  {
+    "figure": "Figure 1",
+    "repository_intermediates": "results/artwork/main; data/artwork/molecules",
+    "repository_entry": "python -B figures/render.py 1",
+    "status": "portable_renderer_executed",
+    "note": "Derived 2CZL backbone is rendered locally; no raw deposited snapshot.",
+    "drawing_code": "native/main_1.py"
+  },
+  {
+    "figure": "Figure 2",
+    "repository_intermediates": "results/artwork/main; data/artwork/molecules",
+    "repository_entry": "python -B figures/render.py 2",
+    "status": "portable_renderer_executed",
+    "note": "",
+    "drawing_code": "native/main_2.py"
+  },
+  {
+    "figure": "Figure 3",
+    "repository_intermediates": "results/artwork/main; data/artwork/molecules",
+    "repository_entry": "python -B figures/render.py 3",
+    "status": "portable_renderer_executed",
+    "note": "",
+    "drawing_code": "native/main_3.py"
+  },
+  {
+    "figure": "Figure 4",
+    "repository_intermediates": "results/artwork/main; data/artwork/molecules",
+    "repository_entry": "python -B figures/render.py 4",
+    "status": "portable_renderer_executed",
+    "note": "",
+    "drawing_code": "native/main_4.py"
+  },
+  {
+    "figure": "Figure 5",
+    "repository_intermediates": "results/artwork/use; results/molecular/edits/raw_pairs.npz; results/artwork/examples/Fig5d_CID66277342_three_SMILES.json; data/artwork/examples/hydroxyl_pair_inputs.jsonl.gz",
+    "repository_entry": "python -B figures/render.py 5",
+    "status": "portable_renderer_executed",
+    "note": "Six native panels; accepted PNG reproduced byte for byte; published outputs are not inputs.",
+    "drawing_code": "native/main_5.py"
+  },
+  {
+    "figure": "Figure 6",
+    "repository_intermediates": "results/artwork/use; results/artwork/examples/Fig6d_Q9I398_E1_1900.json; data/artwork/protein_exposure_geometry.json; data/artwork/examples/exposure_pair_selection.tsv",
+    "repository_entry": "python -B figures/render.py 6",
+    "status": "portable_renderer_executed",
+    "note": "Six native panels; accepted PNG and regenerated structural component reproduced byte for byte; published outputs are not inputs.",
+    "drawing_code": "native/main_6.py; native/protein_exposure.py"
+  },
+  {
+    "figure": "Figure S-B1",
+    "repository_intermediates": "results/artwork/supplement/figure_s_b1.json",
+    "repository_entry": "python -B figures/render.py S-B1",
+    "status": "portable_renderer_executed",
+    "note": "Final label edits must be carried over.",
+    "drawing_code": "native/supplement_audits.py"
+  },
+  {
+    "figure": "Figure S-C1",
+    "repository_intermediates": "results/artwork/supplement/token_embedding_rows.csv; figure_s_c1.json",
+    "repository_entry": "python -B figures/render.py S-C1",
+    "status": "portable_renderer_executed",
+    "note": "Native source located for adjacent scope figures only; 593 row-level embedding norms and tokenizer examples are retained.",
+    "drawing_code": "native/supplement_tokenizer.py"
+  },
+  {
+    "figure": "Figure S-C2",
+    "repository_intermediates": "results/artwork/supplement/figure_s_c2.json; data/artwork/molecular_example_depictions.json",
+    "repository_entry": "python -B figures/render.py S-C2",
+    "status": "portable_renderer_executed",
+    "note": "Six fixed units and 36 molecule depictions regenerated from saved atom activations; no raster tile input.",
+    "drawing_code": "native/supplement_examples.py"
+  },
+  {
+    "figure": "Figure S-C3",
+    "repository_intermediates": "results/artwork/supplement/figure_s_c3.json; data/artwork/molecular_example_depictions.json",
+    "repository_entry": "python -B figures/render.py S-C3",
+    "status": "portable_renderer_executed",
+    "note": "Six fixed units and 36 molecule depictions regenerated from saved atom activations; no raster tile input.",
+    "drawing_code": "native/supplement_examples.py"
+  },
+  {
+    "figure": "Figure S-C4",
+    "repository_intermediates": "results/artwork/supplement/figure_s_c4.json; data/artwork/molecular_example_depictions.json",
+    "repository_entry": "python -B figures/render.py S-C4",
+    "status": "portable_renderer_executed",
+    "note": "Six fixed units and 36 molecule depictions regenerated from saved atom activations; no raster tile input.",
+    "drawing_code": "native/supplement_examples.py"
+  },
+  {
+    "figure": "Figure S-C5",
+    "repository_intermediates": "results/artwork/supplement/calibration_matrices/; calibration_gate_results.json",
+    "repository_entry": "python -B figures/render.py S-C5",
+    "status": "portable_renderer_executed",
+    "note": "All 16 displayed J1/J2 effects checked against the saved gate results.",
+    "drawing_code": "native/supplement_examples.py"
+  },
+  {
+    "figure": "Figure S-C6",
+    "repository_intermediates": "results/artwork/supplement/figure_s_c6.json",
+    "repository_entry": "python -B figures/render.py S-C6",
+    "status": "portable_renderer_executed",
+    "note": "Pilot and stored mixed atom-response examples are present; the complete final SI renderer is not in the old public package.",
+    "drawing_code": "native/supplement_pilot.py"
+  },
+  {
+    "figure": "Figure S-E1",
+    "repository_intermediates": "results/artwork/supplement/figure_s_e1.json",
+    "repository_entry": "python -B figures/render.py S-E1",
+    "status": "portable_renderer_executed",
+    "note": "Complete stored full-dose objects and intervals are present.",
+    "drawing_code": "native/supplement_mechanism.py"
+  },
+  {
+    "figure": "Figure S-G1",
+    "repository_intermediates": "results/artwork/main/concept_protein.json; protein_group_values.npz; protein_site_predictions.npz; data/artwork/protein_masked_geometry.json",
+    "repository_entry": "python -B figures/render.py S-G1",
+    "status": "portable_renderer_executed",
+    "note": "Composition of three freshly drawn numerical panels; supplied finished artwork is never opened.",
+    "drawing_code": "native/supplement_masked_components.py + compose_masked_supplement.py"
+  },
+  {
+    "figure": "Figure S-G2",
+    "repository_intermediates": "results/artwork/supplement/exposure_networks.tsv; exposure_inference.tsv; exposure_rotations.tsv",
+    "repository_entry": "python -B figures/render.py S-G2",
+    "status": "portable_renderer_executed",
+    "note": "No model inference required.",
+    "drawing_code": "native/supplement_exposure_endpoints.py"
+  },
+  {
+    "figure": "Figure S-G3",
+    "repository_intermediates": "results/artwork/main/concept_protein.json; data/artwork/protein_masked_geometry.json",
+    "repository_entry": "python -B figures/render.py S-G3",
+    "status": "portable_renderer_executed",
+    "note": "Crop of a freshly drawn four-interval numerical panel; supplied finished artwork is never opened.",
+    "drawing_code": "native/supplement_masked_components.py + compose_masked_supplement.py"
+  },
+  {
+    "figure": "Figure S-G4",
+    "repository_intermediates": "results/artwork/supplement/protein_null_selection.tsv; protein_null_summary.json; protein_basis_diagnostics.tsv; protein_repeated_structures.tsv; protein_decision_policies.tsv",
+    "repository_entry": "python -B figures/render.py S-G4",
+    "status": "portable_renderer_executed",
+    "note": "Five saved analysis panels, without rerunning the synthetic or structure experiments.",
+    "drawing_code": "native/supplement_protein_validation.py"
+  },
+  {
+    "figure": "Figure S-I1",
+    "repository_intermediates": "results/artwork/supplement/figure_s_i1.json",
+    "repository_entry": "python -B figures/render.py S-I1",
+    "status": "portable_renderer_executed",
+    "note": "Lineage and anchor-verification numerical fields are retained.",
+    "drawing_code": "native/supplement_audits.py"
+  },
+  {
+    "figure": "Figure S-J1",
+    "repository_intermediates": "results/artwork/supplement/figure_s_j1.json",
+    "repository_entry": "python -B figures/render.py S-J1",
+    "status": "portable_renderer_executed",
+    "note": "Frozen full-dose and matched-dose objects, axis contract and CI families are present.",
+    "drawing_code": "native/supplement_paired_dose.py"
+  },
+  {
+    "figure": "Figure S-J2",
+    "repository_intermediates": "results/artwork/supplement/notation_metrics.csv",
+    "repository_entry": "python -B figures/render.py S-J2",
+    "status": "portable_renderer_executed",
+    "note": "Twelve frozen paired estimates/intervals; equivalent display unit x0.001 avoids a missing Arial superscript glyph.",
+    "drawing_code": "native/supplement_notation.py"
+  },
+  {
+    "figure": "Figure S-M1",
+    "repository_intermediates": "results/artwork/supplement/matched_control_panels.json",
+    "repository_entry": "python -B figures/render.py S-M1",
+    "status": "portable_renderer_executed",
+    "note": "All 54 points and intervals equal saved plot values.",
+    "drawing_code": "native/supplement_matched_controls.py"
+  },
+  {
+    "figure": "Figure S-N1",
+    "repository_intermediates": "results/artwork/supplement/matched_control_panels.json",
+    "repository_entry": "python -B figures/render.py S-N1",
+    "status": "portable_renderer_executed",
+    "note": "All 216 singles, 12 joint-control intervals and four pairs of axis ranges equal saved plot values.",
+    "drawing_code": "native/supplement_matched_controls.py"
+  },
+  {
+    "figure": "Figure S-O1",
+    "repository_intermediates": "results/artwork/supplement/o_*.csv and o_layer_reconstruction_8_networks.tsv",
+    "repository_entry": "python -B figures/render.py S-O1",
+    "status": "portable_renderer_executed",
+    "note": "Frozen loader uses saved layer/dictionary tables; no scientific fitting.",
+    "drawing_code": "native/supplement_layer_dictionary.py"
+  },
+  {
+    "figure": "Figure S-P1",
+    "repository_intermediates": "results/artwork/supplement/p_*.csv",
+    "repository_entry": "python -B figures/render.py S-P1",
+    "status": "portable_renderer_executed",
+    "note": "Same native loader with distinct calibration site and dictionary recipe.",
+    "drawing_code": "native/supplement_layer_dictionary.py"
+  },
+  {
+    "figure": "Figure S-G5",
+    "repository_intermediates": "results/artwork/use/; results/artwork/main/; results/artwork/supplement/exposure_networks.tsv; derived protein geometry",
+    "repository_entry": "python -B figures/render.py S-G5",
+    "status": "portable_renderer_executed",
+    "note": "Freshly generated numerical panels and deterministic protein geometry rendering; raster composition differs from Word export.",
+    "drawing_code": "native/protein_panels.py + plot_protein_supplement.py"
+  },
+  {
+    "figure": "Figure S-Q1",
+    "repository_intermediates": "results/artwork/use/5b_and_s_q1_census.tsv",
+    "repository_entry": "python -B figures/render.py S-Q1",
+    "status": "portable_renderer_executed",
+    "note": "All 464 rows and RMS-output-deviation units retained.",
+    "drawing_code": "plot_use_results.py"
+  },
+  {
+    "figure": "Figure S-R1",
+    "repository_intermediates": "results/artwork/use/5a_and_s_r1_changed_atom_deltas.tsv; 5a_and_s_r1_primary_metrics.tsv",
+    "repository_entry": "python -B figures/render.py S-R1",
+    "status": "portable_renderer_executed",
+    "note": "Two units by five edits, atom-point arrays plus molecule-weighted R2.",
+    "drawing_code": "plot_use_results.py"
+  },
+  {
+    "figure": "Figure S-T1",
+    "repository_intermediates": "results/artwork/use/6b_and_s_t1_public_labels.tsv",
+    "repository_entry": "python -B figures/render.py S-T1",
+    "status": "portable_renderer_executed",
+    "note": "Both T and NEW rows, original identities and BH flags.",
+    "drawing_code": "plot_use_results.py"
+  }
+]

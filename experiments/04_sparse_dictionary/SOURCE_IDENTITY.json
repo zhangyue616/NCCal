@@ -1,0 +1,9 @@
+{
+  "experiment": "04_sparse_dictionary",
+  "original_document": "PROTOCOL_B_FROZEN.md",
+  "original_sha256": "f8907374a53fc16721f49c75336725c0234ad7d0443a799082c225cf1ab4fe8e",
+  "freeze_record": "PROTOCOL_B_FROZEN.json",
+  "freeze_time_utc": "2026-11-18T14:24:35.872855+00:00",
+  "english_document": "PROTOCOL.md",
+  "original_freeze_record_sha256": "551183628844717eeb1b63079be1e4d21601e3385b8114030ab3eb68caf7ff1b"
+}

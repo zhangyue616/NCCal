@@ -1,0 +1,9 @@
+{
+  "experiment": "06_molecular_edits",
+  "original_document": "PROTOCOL.md",
+  "original_sha256": "9bb673a272b81566f96c93d42bcf3fce22c8a84d24e2528eece2792064aeaccd",
+  "freeze_record": "FREEZE.json",
+  "freeze_time_utc": "2026-11-23T10:56:35.231910+00:00",
+  "english_document": "PROTOCOL.md",
+  "original_freeze_record_sha256": "0054219f7127713bb5e587b523aafed00ef39714427f8612d1fd2c59387eed48"
+}

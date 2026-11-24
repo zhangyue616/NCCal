@@ -1,0 +1,139 @@
+{
+  "08_protein_pair_replay": {
+    "covered": "Masked alanine, block-3 post-GELU coordinate 1246; native activation compared with the original cache.",
+    "not_covered": "Development coordinate search, full retrospective 199-network calibration, kernel fitting and all writeback arms were not rerun by this subset.",
+    "device": "CPU",
+    "entry": "experiments/08_protein_pair_replay/reproduce.py",
+    "forward_subset_status": "PASS",
+    "tested_device": "cpu",
+    "checks": [
+      {
+        "quantity": "native_activation",
+        "max_absolute_error": 1.1920928955078125e-07,
+        "passed": true
+      }
+    ],
+    "full_workflow_validated": false
+  },
+  "09_protein_exposure": {
+    "covered": "Unmasked block-3 neuron 801 at an eligible original exposure site, compared with its native activation cache.",
+    "not_covered": "Full structure retrieval/annotation, all-axis development selection and reference network forwards were not rerun.",
+    "device": "CPU",
+    "entry": "experiments/09_protein_exposure/reproduce.py",
+    "forward_subset_status": "PASS",
+    "tested_device": "cpu",
+    "checks": [
+      {
+        "quantity": "native_activation",
+        "max_absolute_error": 2.2351741790771484e-08,
+        "passed": true
+      }
+    ],
+    "full_workflow_validated": false
+  },
+  "10_protein_reconstruction": {
+    "covered": "Neighbour-masked 35M neuron 814, original twenty-amino-acid logits, and actual replacement by the frozen structure predictor.",
+    "not_covered": "Full development ridge cross-validation and all 1934 writeback inputs were not rerun.",
+    "device": "CPU",
+    "entry": "experiments/10_protein_reconstruction/reproduce.py",
+    "forward_subset_status": "PASS",
+    "tested_device": "cpu",
+    "checks": [
+      {
+        "quantity": "native_activation",
+        "max_absolute_error": 2.7567148208618164e-07,
+        "passed": true
+      },
+      {
+        "quantity": "masked_neighbour_logits",
+        "max_absolute_error": 2.6226043701171875e-06,
+        "passed": true
+      },
+      {
+        "quantity": "replacement_forward_finite",
+        "passed": true,
+        "max_absolute_logit_change": 0.02143096923828125
+      }
+    ],
+    "full_workflow_validated": false
+  },
+  "11_protein_scale": {
+    "covered": "650M block-16 neuron 4566 at an original eligible residue, compared with the stored selected-direction projection.",
+    "not_covered": "All 199 initializations, nine rotations, block-17 sensitivity and full 173859-residue extraction were not rerun.",
+    "device": "CPU",
+    "entry": "experiments/11_protein_scale/reproduce.py",
+    "forward_subset_status": "PASS",
+    "tested_device": "cpu",
+    "checks": [
+      {
+        "quantity": "native_activation",
+        "max_absolute_error": 1.4156103134155273e-07,
+        "passed": true
+      }
+    ],
+    "full_workflow_validated": false
+  },
+  "12_native_protein_candidates": {
+    "covered": "E1 block-20 channel 1900 post-SwiGLU difference on an original same-amino-acid helix/strand pair.",
+    "not_covered": "AMPLIFY, UniRep, CARP, ESM C and the complete native-channel discovery, chronological and sheet pipelines were not rerun.",
+    "device": "CPU",
+    "entry": "experiments/12_native_protein_candidates/reproduce.py",
+    "forward_subset_status": "PASS",
+    "tested_device": "cpu",
+    "checks": [
+      {
+        "quantity": "native_activation_difference",
+        "max_absolute_error": 1.1026859283447266e-06,
+        "passed": true
+      }
+    ],
+    "full_workflow_validated": false
+  },
+  "13_external_validation": {
+    "covered": "An original masked-neighbour input, a 16-direction orthogonal change and compensating decoder columns; full logits compared before and after compensation.",
+    "not_covered": "Random-label simulations, sparse recovery, repeated structure retrieval, disulfide and protein-level label model forwards were not rerun.",
+    "device": "CPU",
+    "entry": "experiments/13_external_validation/reproduce.py",
+    "forward_subset_status": "PASS",
+    "tested_device": "cpu",
+    "checks": [
+      {
+        "quantity": "native_activation",
+        "max_absolute_error": 2.7567148208618164e-07,
+        "passed": true
+      },
+      {
+        "quantity": "masked_neighbour_logits",
+        "max_absolute_error": 2.6226043701171875e-06,
+        "passed": true
+      },
+      {
+        "quantity": "replacement_forward_finite",
+        "passed": true,
+        "max_absolute_logit_change": 0.02143096923828125
+      },
+      {
+        "quantity": "compensated_basis_full_forward",
+        "max_absolute_error": 1.9073486328125e-05,
+        "passed": true
+      }
+    ],
+    "full_workflow_validated": false
+  },
+  "14_published_label_audit": {
+    "covered": "A fixed author-labelled signed pre-GELU pole on its original residue pair, with the activation difference compared against the frozen audit output.",
+    "not_covered": "HGB development cross-validation/refitting, all 203 source labels, ESM C gate-tagged extraction and 199-network across-layer searches were not rerun.",
+    "device": "CPU",
+    "entry": "experiments/14_published_label_audit/reproduce.py",
+    "forward_subset_status": "PASS",
+    "tested_device": "cpu",
+    "checks": [
+      {
+        "quantity": "native_activation_difference",
+        "max_absolute_error": 6.258487701416016e-07,
+        "passed": true
+      }
+    ],
+    "full_workflow_validated": false
+  }
+}

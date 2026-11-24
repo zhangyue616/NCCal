@@ -1,0 +1,10 @@
+[
+  "network",
+  "recipe",
+  "concept_id",
+  "best_dictionary_lift",
+  "best_dictionary_feature",
+  "best_native_lift",
+  "dictionary_over_native",
+  "dictionary_strictly_wins"
+]

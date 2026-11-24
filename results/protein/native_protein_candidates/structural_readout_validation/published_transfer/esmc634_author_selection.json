@@ -1,0 +1,49 @@
+{
+  "selection_rule": "model esmc_300, concept exactly Beta strand, arm mlp_positive; maximum author best_test_f1; tie lower layer then lower unit",
+  "winner": {
+    "author_row0": 23528,
+    "layer": 29,
+    "arm": "mlp_positive",
+    "concept": "Beta strand",
+    "best_feature": 634,
+    "best_test_f1": 0.09266363063273553,
+    "model": "esmc_300"
+  },
+  "rows_total": 23532,
+  "concepts": 636,
+  "author_layers0": [
+    7,
+    14,
+    22,
+    29
+  ],
+  "arms": [
+    "mlp_native",
+    "mlp_poles",
+    "mlp_positive",
+    "mlp_rotation0",
+    "mlp_rotation1",
+    "mlp_rotation2",
+    "residual",
+    "residual_poles",
+    "sae:esmc_300_layer23_k64_16384",
+    "shuffled_mlp_poles"
+  ],
+  "direct_readout_rows": 7632,
+  "direct_readout_concepts": 636,
+  "width": 2560,
+  "readout": "z=SiLU(gate)*up; mlp_positive=ReLU(z), not the gate-tagged mlp_native",
+  "block_index_evidence": "hallee_retest.stream_esmc_arms explicitly documents RetestBatch.layer as zero-based block; author_capture.BlockReader indexes transformer_blocks[block].",
+  "normalization": "Positive common source maximum scaling omitted: within-chain order and ties are unchanged.",
+  "source_table": "structural_readout_validation/published_transfer/hallee_ESMC300_e13_archive.parquet",
+  "source_sha256": "ba261af966654486604aa80feffe91041d07e4cdbf36db38bc7b1051ad5671b5",
+  "source_code_sha256": {
+    "structural_readout_validation/published_transfer/author_capture.py": "efc1b15b7c5e70cd518c7c1fcbb70e5bf1370df6fe18a316fecf15e8dbedec26",
+    "structural_readout_validation/published_transfer/author_bases.py": "c0105ee0d38599e79061c1317dcf06849be2b1f8c0427b147658accaa3003ac4",
+    "structural_readout_validation/published_transfer/author_poles.py": "88fd3e0290134a2362e70e134df4b6d0779009e1687e1de86e9a74c4a9b649c2",
+    "native_channels/published/hallee_retest.py": "224952951af99969949fdc984f089e8539eaa7722ebb181af71a132de187ba3b"
+  },
+  "protocol_sha256": "a9b9adad7b9d15f5300570242c3ec7f1bbcd145fdfdd6e9cf05c8a748978a470",
+  "candidate_row_count": 4,
+  "raw_candidate_rows_distribution": "Omitted external author-table subset; retrieve the pinned source under its own terms."
+}

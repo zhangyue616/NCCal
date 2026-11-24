@@ -1,0 +1,12 @@
+{
+  "expected_families": 18,
+  "observed_families": 18,
+  "missing_expected_family_count": 0,
+  "incomplete_expected_family_count": 0,
+  "unexpected_observed_family_count": 0,
+  "K199_complete_families": 18,
+  "nine_rotation_complete_families": 18,
+  "both_complete_families": 18,
+  "status": "EXPECTED_FROZEN_REFERENCE_UNIVERSE_COMPARED_WITH_ACTUAL_RECEIPTS",
+  "source": "Frozen UNIT_MANIFEST plus D/T pair groups>=20; actual CPU jobs accepted only after GPU COMPLETE. Wholly absent expected keys remain in denominator."
+}

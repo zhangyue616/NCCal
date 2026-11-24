@@ -1,0 +1,9 @@
+{
+  "experiment": "02_molecular_reconstruction",
+  "original_document": "CHEMISTRY_CONFIRMATION_PROTOCOL.md",
+  "original_sha256": "5f3b8ac91fef95fc8b40cadcff62f8cf947e0aee3e4fb130f4a5cb9f6524685c",
+  "freeze_record": "D_SECONDARY_FREEZE.json",
+  "freeze_time_utc": "2026-10-17T14:38:10.863828+00:00",
+  "english_document": "PROTOCOL.md",
+  "original_freeze_record_sha256": "2dcc48c0e308c35c2587914c67e037e455ca122719e80976934cf86a4e801c18"
+}

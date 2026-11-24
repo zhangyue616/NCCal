@@ -1,0 +1,709 @@
+[
+  {
+    "source_id": "cross_architecture/EXECUTION_NOTES_zh.md",
+    "sha256": "df7e295c675301be4b6d89c98380d450a21486fd8a907a5e813f63a9df3b4089",
+    "bytes": 1471,
+    "modified_utc": "2026-11-22T17:00:21.126234+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "cross_architecture/PROTOCOL.md",
+    "sha256": "f09c24911a3a3d23a410d5270a4eb6e82f80c2b71883155daed77a61b887f905",
+    "bytes": 9570,
+    "modified_utc": "2026-11-22T16:41:05.995994+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "cross_architecture/README.md",
+    "sha256": "b6cc3f47f49250648d1da7ec7ba24e2a55653300738fd99418d5dd719fbb6404",
+    "bytes": 3625,
+    "modified_utc": "2026-11-22T16:51:39.157724+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "cross_architecture/REPORT_zh.md",
+    "sha256": "b05567e25a7826802e3210d7f0996aad866b175f4a41edf4ebf60b00b7eceba2",
+    "bytes": 6495,
+    "modified_utc": "2026-11-22T17:03:58.529658+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "cross_architecture/external/PROTOCOL.md",
+    "sha256": "4cba62d68d7f5de989c9cf784670947baaae4110ff90c2cd97ee2fbb92bd652f",
+    "bytes": 5043,
+    "modified_utc": "2026-11-22T16:40:13.009218+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "cross_architecture/external/README.md",
+    "sha256": "61fb9c0fed051f501883f832a1bfd05c10b69e86712f8d8ed27ef6c98d060397",
+    "bytes": 2946,
+    "modified_utc": "2026-11-22T16:48:46.548161+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "cross_architecture/external/RESULT.md",
+    "sha256": "7dfe93e1c941bf71ebd8e4404464a7e330892d87510359645ae8337373088de1",
+    "bytes": 5321,
+    "modified_utc": "2026-11-22T16:52:35.732557+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "cross_architecture/external/TECHNICAL_AMENDMENT.md",
+    "sha256": "00e30f24c3167f4cd885722f9c67558c867b383a7e6a50c1f19463769e8419ea",
+    "bytes": 1250,
+    "modified_utc": "2026-11-22T16:44:42.807607+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "cross_architecture/prior_art/ENDPOINT_PRECEDENTS_zh.md",
+    "sha256": "ef8a0b156186728dcb1d8dab1ddb3fc96de9fb9b2ac1360471b7ae6ff26c41b0",
+    "bytes": 1434,
+    "modified_utc": "2026-11-22T17:02:11.268268+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "cross_architecture/prior_art/PRIOR_ART_FINDINGS.md",
+    "sha256": "26e2c843bde94410ffa34b911bb2d037eb419c78b291585d2187e577ccd1bbda",
+    "bytes": 14444,
+    "modified_utc": "2026-11-22T16:47:41.170450+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "cross_architecture/prior_art/retrieval_manifest.json",
+    "sha256": "8b42a35ffffdd7a7b327af93d36268d206310483ad0c24ddb154d1518d8edc02",
+    "bytes": 9583,
+    "modified_utc": "2026-11-22T16:40:48.136111+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "cross_architecture/validation/DIRECT_HOMOLOGY_CHECK.md",
+    "sha256": "ce83360eb2198e7fc8fd71d0da1a47e4698e4cc0c2729565c098fc812f47ee8d",
+    "bytes": 1311,
+    "modified_utc": "2026-11-22T16:47:48.408536+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "cross_architecture/validation/STATISTICAL_REVIEW_zh.md",
+    "sha256": "234f08779c983fbac54c98aa217bae7516c4b36845ce9559eb574138ce71e505",
+    "bytes": 4244,
+    "modified_utc": "2026-11-22T16:49:28.824893+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "cross_architecture/validation/STRUCTURE_COVERAGE.md",
+    "sha256": "60a7c40498a189d2092b17c9e8b760ba617849febf7b9e12121c88720304959e",
+    "bytes": 785,
+    "modified_utc": "2026-11-22T16:52:37.743968+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "cross_architecture/prior_art/sources/hallee_docs__runs.md",
+    "sha256": "509839f926363cc43c32104035634e174d8f2955bcf289be7161ad515157cf23",
+    "bytes": 17404,
+    "modified_utc": "2026-11-22T16:44:33.998524+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "cross_architecture/prior_art/sources/hallee_readme.md",
+    "sha256": "7420f908026a4676ab915ce77b67f8c75fedb5780f8537ad50aef212f3e8d8de",
+    "bytes": 14594,
+    "modified_utc": "2026-11-22T16:44:12.362984+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "native_channels/DESIGN_FREEZE.json",
+    "sha256": "89a5fffd1292a38d15b2fff5183d58d5ebee48864bcd9715d112dfe856517a4f",
+    "bytes": 201,
+    "modified_utc": "2026-11-23T03:47:18.364560+00:00",
+    "english_protocol": "PROTOCOL.md",
+    "reported_freeze_times": {
+      "utc": "2026-11-23T03:47:18.2329032Z"
+    },
+    "random_seed_fields": {}
+  },
+  {
+    "source_id": "native_channels/PROTOCOL.md",
+    "sha256": "f09ab73f12a321b6c8c2f6114ff9f820e76176c7e8fd0f1ff64bba6e0baf8e6e",
+    "bytes": 4789,
+    "modified_utc": "2026-11-23T03:47:02.748617+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "native_channels/REPORT_zh.md",
+    "sha256": "ee9cf4355aaf2043091cd0c5e0685d1767ad9970e954642244ff890689b43b4e",
+    "bytes": 7095,
+    "modified_utc": "2026-11-23T04:22:12.247271+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "native_channels/analysis/SECONDARY_FREEZE.json",
+    "sha256": "0c78c5e0d056bf634d1ee91337b16c22adf9614f4347ffd1376722b03ef8353e",
+    "bytes": 208,
+    "modified_utc": "2026-11-23T03:55:49.392253+00:00",
+    "english_protocol": "PROTOCOL.md",
+    "reported_freeze_times": {
+      "utc": "2026-11-23T03:55:49.2701149Z"
+    },
+    "random_seed_fields": {}
+  },
+  {
+    "source_id": "native_channels/analysis/SECONDARY_SCOPE.md",
+    "sha256": "f74d093cd3f00286774d1e57ce51fa537358fd8d98a6a082c6be063216f4b688",
+    "bytes": 843,
+    "modified_utc": "2026-11-23T03:55:48.847239+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "native_channels/cohort/COHORT_FREEZE.json",
+    "sha256": "be88700b38ea210fbbe39b5316f5ea9482fc52006113411fdbb224c02ae490bf",
+    "bytes": 4790,
+    "modified_utc": "2026-11-23T03:57:09.743859+00:00",
+    "english_protocol": "PROTOCOL.md",
+    "reported_freeze_times": {
+      "frozen_utc": "2026-11-23T03:54:20.688653+00:00",
+      "final_acceptance_utc": "2026-11-23T03:57:09.741968+00:00"
+    },
+    "random_seed_fields": {}
+  },
+  {
+    "source_id": "native_channels/cohort/PROTOCOL.md",
+    "sha256": "ee5dd14bc9bc20058d6b4d034b26d98db113f10e7cdfd3db6770434913925427",
+    "bytes": 7517,
+    "modified_utc": "2026-11-23T03:55:30.318365+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "native_channels/cohort/REPORT_zh.md",
+    "sha256": "7dfbc644f73da606da7637c9df141b2291a3708397215f631aa6a0fd17fb9870",
+    "bytes": 4214,
+    "modified_utc": "2026-11-23T03:58:44.509731+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "native_channels/cohort/SCHEMA.md",
+    "sha256": "ddbda38c0910b48d8ed01cf5885570614a824c5bb7c26816cefc3fcedb4786c5",
+    "bytes": 3725,
+    "modified_utc": "2026-11-23T03:55:30.320372+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "native_channels/e1/PROTOCOL.md",
+    "sha256": "0d7ba8a90c649bc5b107214ef6f0e44c230c3f03d630712f010b33910d1b0a8e",
+    "bytes": 4030,
+    "modified_utc": "2026-11-23T03:53:57.382706+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "native_channels/e1/TARGETED_REVIEW_zh.md",
+    "sha256": "6058dd49f5b35b7590bfdf615b2f160b936dc6f12b38f0d3a5c3efea96a9a5e9",
+    "bytes": 2143,
+    "modified_utc": "2026-11-23T04:09:57.367716+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "native_channels/e1/upstream_README.md",
+    "sha256": "d45e3d52d415d3f592da575dc95e6eb7419d98063dca507f50a2dcc9345df743",
+    "bytes": 6843,
+    "modified_utc": "2026-11-23T03:45:15.295802+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "native_channels/published/HALLEE786_INPUT_MANIFEST.json",
+    "sha256": "4a75ad5104da005dcbd7894fb2983ef9449adba8e528af9801c637793cf7deac",
+    "bytes": 1907,
+    "modified_utc": "2026-11-23T04:06:53.989793+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "native_channels/published/HALLEE786_PROTOCOL.md",
+    "sha256": "6790ed5e610fb72554ddd270bfea2569b6c5310b0a8aa665e0d5383538812dda",
+    "bytes": 2668,
+    "modified_utc": "2026-11-23T03:57:11.158297+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "native_channels/published/INPUT_MANIFEST.json",
+    "sha256": "ab1c9b1e5cd31bdff1428bd64a8e5b65c2682c0c6cb7392ccb9eec72372ec3e4",
+    "bytes": 4504,
+    "modified_utc": "2026-11-23T03:59:46.034084+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "native_channels/published/LOCKED_PROTOCOL.md",
+    "sha256": "d15e851c3692f8410d38d70e753647457231e796abc9f82be1c171671a1465f5",
+    "bytes": 4319,
+    "modified_utc": "2026-11-23T03:48:29.955336+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "native_channels/published/README.md",
+    "sha256": "1b0ebb6619df6a5e582041a95a10b86e44410eb96f5410f9e867faf0ff221375",
+    "bytes": 6004,
+    "modified_utc": "2026-11-23T03:45:30.546700+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "native_channels/published/REPORT_zh.md",
+    "sha256": "c74122a2538a3352f0209370a44a0a1d921b4ca5537c1f65bf4393b1256257f1",
+    "bytes": 7119,
+    "modified_utc": "2026-11-23T04:07:24.696664+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "native_channels/terminal_specificity/LOCKED_PROTOCOL.md",
+    "sha256": "32a5516d87a141d6ecb92f65f143b989f14ca8bed6f3cf9dd3f1c7fd85c1f82d",
+    "bytes": 5215,
+    "modified_utc": "2026-11-23T04:12:49.400384+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "native_channels/terminal_specificity/PRE_FORWARD_FREEZE.json",
+    "sha256": "f785557d8c8585078494b3cdd8bcf184e4dd386602a027ff84c54f9a5bf056a9",
+    "bytes": 4049,
+    "modified_utc": "2026-11-23T04:15:18.281957+00:00",
+    "english_protocol": "PROTOCOL.md",
+    "reported_freeze_times": {
+      "created_utc": "2026-11-23T04:15:18.239474+00:00"
+    },
+    "random_seed_fields": {}
+  },
+  {
+    "source_id": "native_channels/terminal_specificity/REPORT_zh.md",
+    "sha256": "482719cffe522eeeb4a69e79c32e05bc8c91961b1c7ecd300a1cc30a3fc4db55",
+    "bytes": 3262,
+    "modified_utc": "2026-11-23T04:15:43.985976+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "native_channels/amplify/official/README.md",
+    "sha256": "23d6eb44faa2283b2a7c71cbdd900596ffc5b2b557c33ae3aef233295298bb3f",
+    "bytes": 5579,
+    "modified_utc": "2026-11-23T03:47:25.165596+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "native_channels/e1/python_deps/huggingface_hub/templates/datasetcard_template.md",
+    "sha256": "5be10ca91eb09dd6eb9d9a2b915bf9e944563c6e3d97b3004c6788d35e644efb",
+    "bytes": 5503,
+    "modified_utc": "2026-11-23T03:48:02.998378+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "native_channels/e1/python_deps/huggingface_hub/templates/modelcard_template.md",
+    "sha256": "e00a80ad2ddca9db5b8ade41a3e0e18dc9c3151fa9cdae6112b2cb4cf33862e7",
+    "bytes": 6870,
+    "modified_utc": "2026-11-23T03:48:03.000537+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "native_channels/e1/upstream/E1-main/README.md",
+    "sha256": "d45e3d52d415d3f592da575dc95e6eb7419d98063dca507f50a2dcc9345df743",
+    "bytes": 6843,
+    "modified_utc": "2026-03-11T13:43:14+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "native_channels/published/source_repo/UniRep-analysis-master/README.md",
+    "sha256": "476a7680f9099aacbd411158e00f0142e0764f0d6593e3d02777876bc2707ddf",
+    "bytes": 6868,
+    "modified_utc": "2026-11-23T03:46:24.318203+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "structural_readout_validation/DESIGN_FREEZE.json",
+    "sha256": "7970ca2ff6f7f3ab75e5d70c4d8466ebefa8cafc31a242f684366426213fcf2c",
+    "bytes": 294,
+    "modified_utc": "2026-11-23T04:33:44.313574+00:00",
+    "english_protocol": "PROTOCOL.md",
+    "reported_freeze_times": {
+      "utc": "2026-11-23T04:33:44.2633670Z"
+    },
+    "random_seed_fields": {}
+  },
+  {
+    "source_id": "structural_readout_validation/PRIOR_ART.md",
+    "sha256": "404eb3eca9ae21c762cd35b7979547e6ece9cefcd005596104689ebecee5bf71",
+    "bytes": 5460,
+    "modified_utc": "2026-11-23T05:24:37.710088+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "structural_readout_validation/RESULTS_zh.md",
+    "sha256": "b1e25f5cb4bc9cca8282ae6e26305eb32dba4aad72dcda3e5f944e1edc506192",
+    "bytes": 6516,
+    "modified_utc": "2026-11-23T06:13:04.729380+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "structural_readout_validation/STUDY.md",
+    "sha256": "371361a1ad77f655d49496b6640bb9501433536d9a145a29348d603a5b2a69c2",
+    "bytes": 2433,
+    "modified_utc": "2026-11-23T04:33:43.719179+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "structural_readout_validation/fixed_axes/AA_SENSITIVITY.md",
+    "sha256": "b52e116311c854be168d7e15ace4d2a1a1bf9e749ddeb6b52c86e87a8f985e84",
+    "bytes": 1261,
+    "modified_utc": "2026-11-23T05:25:49.687406+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "structural_readout_validation/fixed_axes/FREEZE.json",
+    "sha256": "a5dd9b469da0d4d6a8f88ab9d1addaf4eac97b80393b21a6ac23c485c282e10e",
+    "bytes": 203,
+    "modified_utc": "2026-11-23T05:01:26.774545+00:00",
+    "english_protocol": "PROTOCOL.md",
+    "reported_freeze_times": {
+      "utc": "2026-11-23T05:01:26.6500766Z",
+      "fresh_outcomes_seen": false
+    },
+    "random_seed_fields": {}
+  },
+  {
+    "source_id": "structural_readout_validation/fixed_axes/HISTORICAL_SCOPE.md",
+    "sha256": "620e5ad9875ed1043f72cabf0a931e37f4bea7512ab0fef1ae78742672aeb3ba",
+    "bytes": 838,
+    "modified_utc": "2026-11-23T05:37:38.453216+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "structural_readout_validation/fixed_axes/PROTOCOL.md",
+    "sha256": "c1124eaf4682f98c607befd2682736836f31c4357986c3d581d5f3cc67e99ba1",
+    "bytes": 2024,
+    "modified_utc": "2026-11-23T05:01:17.826755+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "structural_readout_validation/fresh/ACQUISITION_FREEZE.json",
+    "sha256": "b23041526359d366ddd7feb97ff44f5ab6a13269f7cbb5f2f669d7e74e3232bd",
+    "bytes": 13367,
+    "modified_utc": "2026-11-23T04:56:26.947795+00:00",
+    "english_protocol": "PROTOCOL.md",
+    "reported_freeze_times": {
+      "utc": "2026-11-23T04:56:26.946288+00:00"
+    },
+    "random_seed_fields": {}
+  },
+  {
+    "source_id": "structural_readout_validation/fresh/ACQUISITION_FREEZE_INITIAL.json",
+    "sha256": "d50ce7715f487ee71c432a407a0d854c603c1fc90c826c670e9da1155d3b30c0",
+    "bytes": 13367,
+    "modified_utc": "2026-11-23T04:38:02.343426+00:00",
+    "english_protocol": "PROTOCOL.md",
+    "reported_freeze_times": {
+      "utc": "2026-11-23T04:38:02.329546+00:00"
+    },
+    "random_seed_fields": {}
+  },
+  {
+    "source_id": "structural_readout_validation/fresh/COHORT_FREEZE.json",
+    "sha256": "141bd69d8a5e331db8bd7c28eb2e08ca329137e1ad83be5315efb744885be1af",
+    "bytes": 3179,
+    "modified_utc": "2026-11-23T05:05:59.088475+00:00",
+    "english_protocol": "PROTOCOL.md",
+    "reported_freeze_times": {
+      "frozen_utc": "2026-11-23T05:05:58.667305+00:00"
+    },
+    "random_seed_fields": {}
+  },
+  {
+    "source_id": "structural_readout_validation/fresh/LOCKED_PROTOCOL.md",
+    "sha256": "9bbe77af4cdd623eadf8ee16a09ae4fc334a4595d1e952ed79bb58bda8bf3b36",
+    "bytes": 4709,
+    "modified_utc": "2026-11-23T04:37:59.941967+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "structural_readout_validation/fresh/PRE_SCORE_IMPLEMENTATION_NOTE.md",
+    "sha256": "b4b19a8a86fea600ed76bb0253c8e42a655140ee874d5a16efab8329b8e27b7d",
+    "bytes": 1897,
+    "modified_utc": "2026-11-23T04:54:04.485163+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "structural_readout_validation/fresh/REPORT_zh.md",
+    "sha256": "772ad6f6d30fece13d77f476b5f0d8a9d5de60a2c81d1b9161a3e2a848b9290e",
+    "bytes": 4540,
+    "modified_utc": "2026-11-23T05:09:23.595333+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "structural_readout_validation/localization/fresh_window_freeze.json",
+    "sha256": "2cc2ba161ccba5ee377886459be3450dc791cfddea1b832c5861cc77a8c40b94",
+    "bytes": 466,
+    "modified_utc": "2026-11-23T05:08:30.805209+00:00",
+    "english_protocol": "PROTOCOL.md",
+    "reported_freeze_times": {
+      "utc": "2026-11-23T05:08:30.786682+00:00"
+    },
+    "random_seed_fields": {}
+  },
+  {
+    "source_id": "structural_readout_validation/localization/legacy_window_freeze.json",
+    "sha256": "5710d6b35fa8a3e44b13282c0e32a797d85d3e528b2406f72ac02b2da50720fb",
+    "bytes": 631,
+    "modified_utc": "2026-11-23T04:35:22.835726+00:00",
+    "english_protocol": "PROTOCOL.md",
+    "reported_freeze_times": {
+      "utc": "2026-11-23T04:35:22.820306+00:00"
+    },
+    "random_seed_fields": {}
+  },
+  {
+    "source_id": "structural_readout_validation/localization/PROTOCOL.md",
+    "sha256": "09d510774f706f68b8d9d29e49798ce2823bd1679d038a1def10fb34bb09b9dc",
+    "bytes": 4089,
+    "modified_utc": "2026-11-23T04:33:43.722084+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "structural_readout_validation/older_pool/ACQUISITION_FREEZE.json",
+    "sha256": "d402299f3feaab69b54af4baea52601bd7b95f218c0330ebe377e502c8eb3d49",
+    "bytes": 209505,
+    "modified_utc": "2026-11-23T05:04:51.543004+00:00",
+    "english_protocol": "PROTOCOL.md",
+    "reported_freeze_times": {},
+    "random_seed_fields": {}
+  },
+  {
+    "source_id": "structural_readout_validation/older_pool/ACQUISITION_FREEZE_initial.json",
+    "sha256": "2310f785ccaa3549f00a8aef41b5a0d5898082957781d5e8858d6fe32283e658",
+    "bytes": 209503,
+    "modified_utc": "2026-11-23T04:56:14.212066+00:00",
+    "english_protocol": "PROTOCOL.md",
+    "reported_freeze_times": {},
+    "random_seed_fields": {}
+  },
+  {
+    "source_id": "structural_readout_validation/older_pool/BACKUP_ACQUISITION_FREEZE.json",
+    "sha256": "c80c33f5a861610080753543ab0e19d516771115598c63be189104e1c66e82e0",
+    "bytes": 245193,
+    "modified_utc": "2026-11-23T05:05:24.363004+00:00",
+    "english_protocol": "PROTOCOL.md",
+    "reported_freeze_times": {},
+    "random_seed_fields": {}
+  },
+  {
+    "source_id": "structural_readout_validation/older_pool/BACKUP_ACQUISITION_FREEZE_initial.json",
+    "sha256": "53bcba31fe9fd605966a89a16b4f78ac1322ef294ce74948bd2bfff2e45963e2",
+    "bytes": 235157,
+    "modified_utc": "2026-11-23T04:58:52.027832+00:00",
+    "english_protocol": "PROTOCOL.md",
+    "reported_freeze_times": {},
+    "random_seed_fields": {}
+  },
+  {
+    "source_id": "structural_readout_validation/older_pool/PLAN.md",
+    "sha256": "419e7abc582ba94dafab5c46f16a1bb7b6a9224b3faae98980821cc4bd24b2d1",
+    "bytes": 3825,
+    "modified_utc": "2026-11-23T05:04:45.545159+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "structural_readout_validation/published_transfer/ESMC634_INCREMENT_SCOPE.md",
+    "sha256": "742d0b4b71d2eb989c80a7026c89560be7003b0958ab6a9f4cfeafa2ec405850",
+    "bytes": 848,
+    "modified_utc": "2026-11-23T06:02:00.323282+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "structural_readout_validation/published_transfer/ESMC_STRAND_FREEZE.json",
+    "sha256": "e9c4115c122ced46697a4599f92c9ed3d4f80fed6b46c71c0f6e14dd99df8440",
+    "bytes": 313,
+    "modified_utc": "2026-11-23T05:08:11.180680+00:00",
+    "english_protocol": "PROTOCOL.md",
+    "reported_freeze_times": {
+      "utc": "2026-11-23T05:08:10.9697434Z"
+    },
+    "random_seed_fields": {}
+  },
+  {
+    "source_id": "structural_readout_validation/published_transfer/ESMC_STRAND_PROTOCOL.md",
+    "sha256": "a9b9adad7b9d15f5300570242c3ec7f1bbcd145fdfdd6e9cf05c8a748978a470",
+    "bytes": 2488,
+    "modified_utc": "2026-11-23T05:08:10.113860+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "structural_readout_validation/published_transfer/FREEZE.json",
+    "sha256": "5726c63526ed33321fdc6a90c20b3d5939d6cf4e65edb5549e28a247ddf6d35f",
+    "bytes": 328,
+    "modified_utc": "2026-11-23T04:51:48.918027+00:00",
+    "english_protocol": "PROTOCOL.md",
+    "reported_freeze_times": {
+      "utc": "2026-11-23T04:51:48.8249858Z",
+      "previous_legacy_outcomes_known": true,
+      "fresh_outcomes_read": false
+    },
+    "random_seed_fields": {}
+  },
+  {
+    "source_id": "structural_readout_validation/published_transfer/PROTOCOL.md",
+    "sha256": "4fd9c9d191fd13f4a2b5198fc57ea31af0abe62121cd4829348929846d3cf06f",
+    "bytes": 1849,
+    "modified_utc": "2026-11-23T04:51:40.976542+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "structural_readout_validation/scan/PROTOCOL.md",
+    "sha256": "3d54b91054402bd1131a168dd16e568991a64a0282f42854e0bbd3ee9688d9e4",
+    "bytes": 4669,
+    "modified_utc": "2026-11-23T04:49:32.599576+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "structural_readout_validation/scan/READINESS_zh.md",
+    "sha256": "1d4100d2c023200f987522e8792c6a311efeee07b43e6fc556a866636bf06ab6",
+    "bytes": 2054,
+    "modified_utc": "2026-11-23T04:46:48.726491+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "structural_readout_validation/sheet/COHORT_FREEZE.json",
+    "sha256": "bdebd7459dcc6e24399997e25bbc71dc43c3982de7e8b43924db850dcf831e20",
+    "bytes": 26890,
+    "modified_utc": "2026-11-23T04:45:32.281103+00:00",
+    "english_protocol": "PROTOCOL.md",
+    "reported_freeze_times": {
+      "utc": "2026-11-23T04:45:32.024496+00:00"
+    },
+    "random_seed_fields": {}
+  },
+  {
+    "source_id": "structural_readout_validation/sheet/COHORT_FREEZE_D_extra.json",
+    "sha256": "e3b4f97b4be59a9ee21734a52769d3a4f6c60d0750421dcb264aa5b1548aac0f",
+    "bytes": 7518,
+    "modified_utc": "2026-11-23T05:49:44.469865+00:00",
+    "english_protocol": "PROTOCOL.md",
+    "reported_freeze_times": {
+      "utc": "2026-11-23T05:49:44.244869+00:00"
+    },
+    "random_seed_fields": {}
+  },
+  {
+    "source_id": "structural_readout_validation/sheet/COHORT_FREEZE_F.json",
+    "sha256": "ec7c18a52bdcace6aca0f79a76e477aa8e88bf58ac0aee2e90accd023b8b4fd3",
+    "bytes": 5886,
+    "modified_utc": "2026-11-23T05:08:18.002720+00:00",
+    "english_protocol": "PROTOCOL.md",
+    "reported_freeze_times": {
+      "utc": "2026-11-23T05:08:17.126013+00:00"
+    },
+    "random_seed_fields": {}
+  },
+  {
+    "source_id": "structural_readout_validation/sheet/F_ORIGIN_FREEZE.json",
+    "sha256": "45529cb757fbc105de06a0371b521ccbb897497100e28e9fca3f0e8b31b82996",
+    "bytes": 747,
+    "modified_utc": "2026-11-23T05:06:58.412652+00:00",
+    "english_protocol": "PROTOCOL.md",
+    "reported_freeze_times": {
+      "utc": "2026-11-23T05:06:58.396427+00:00"
+    },
+    "random_seed_fields": {}
+  },
+  {
+    "source_id": "structural_readout_validation/sheet/PROTOCOL.md",
+    "sha256": "6f1cb609ee78f305e895569b284687dc46aa6c1929ae208f365f658c94c7add4",
+    "bytes": 5783,
+    "modified_utc": "2026-11-23T04:37:11.900859+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "structural_readout_validation/sheet/REPORT_F_zh.md",
+    "sha256": "199163f0ebe255d075f21b50176a5434e359fbf29152c5b29cce8c97aacfead0",
+    "bytes": 1472,
+    "modified_utc": "2026-11-23T05:08:17.317898+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "structural_readout_validation/sheet/REPORT_zh.md",
+    "sha256": "bd758bc591d7cc81057c617dc8a60a30993c69ae0030731f545bc676adc609a9",
+    "bytes": 2060,
+    "modified_utc": "2026-11-23T04:46:27.987698+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "structural_readout_validation/sheet/SCHEMA.md",
+    "sha256": "eeedfc93345a96d547c41c9d70ba093a7a19daa04324c28478aacba8ad7dfb47",
+    "bytes": 3299,
+    "modified_utc": "2026-11-23T04:45:31.439943+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "structural_readout_validation/strand_reference/FREEZE.json",
+    "sha256": "34f517aa73d378a197a38c049c493caf6d3cf62364354fc4545381289f965310",
+    "bytes": 191,
+    "modified_utc": "2026-11-23T04:41:01.179251+00:00",
+    "english_protocol": "PROTOCOL.md",
+    "reported_freeze_times": {
+      "utc": "2026-11-23T04:41:01.0516806Z"
+    },
+    "random_seed_fields": {}
+  },
+  {
+    "source_id": "structural_readout_validation/strand_reference/OLDER_HOLDOUT.md",
+    "sha256": "984d42eb7747642b1187a5f5ec0efb09ddde643861da871b26e2cee1dd82606b",
+    "bytes": 520,
+    "modified_utc": "2026-11-23T04:52:09.638126+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "structural_readout_validation/strand_reference/PROTOCOL.md",
+    "sha256": "32aa59876a259288fedcd108b2188b1614f18eb0c7a30bbef655c32b67e4705e",
+    "bytes": 2436,
+    "modified_utc": "2026-11-23T04:41:00.628075+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "structural_readout_validation/scan/esmc_weights/README.md",
+    "sha256": "85ed403af006f4830424e0de1c2810f39cb0d1aa825eaa93380ae3724288dfe6",
+    "bytes": 608,
+    "modified_utc": "2026-11-23T04:37:03.018332+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "structural_readout_validation/scan/esmc_deps/msgpack_numpy-0.4.8.dist-info/AUTHORS.md",
+    "sha256": "5fe0446ddd6d1c70fa298747368582dc1d91c23d62c8fb7228595bc87fd53232",
+    "bytes": 745,
+    "modified_utc": "2026-11-23T04:37:36.898440+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "structural_readout_validation/scan/esmc_deps/msgpack_numpy-0.4.8.dist-info/LICENSE.md",
+    "sha256": "509aa7af19ae2b5b1681b22b969627ee9e1fd15ff7ea5bf9f6e301fc44d5a6c2",
+    "bytes": 1551,
+    "modified_utc": "2026-11-23T04:37:36.899953+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "structural_readout_validation/scan/esmc_deps/esm-3.2.1.dist-info/licenses/LICENSE.md",
+    "sha256": "be40c7729e32ec4ed3d7a5bf2f8c2251d6eebfffc9bf0e320c7b8dae1001d497",
+    "bytes": 4729,
+    "modified_utc": "2026-11-23T04:35:37.104019+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "structural_readout_validation/scan/esmc_deps/httpcore-1.0.9.dist-info/licenses/LICENSE.md",
+    "sha256": "fdcb59154c74cbaba16a11242f7740bea9f23d6feb5547917d8c5f94a80392a5",
+    "bytes": 1518,
+    "modified_utc": "2026-11-23T04:40:33.184686+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "structural_readout_validation/scan/esmc_deps/httpx-0.28.1.dist-info/licenses/LICENSE.md",
+    "sha256": "4ec59d544f12b5f539a3a716fd321ac58ccd8030b465221f2c880200cdf28d8d",
+    "bytes": 1508,
+    "modified_utc": "2026-11-23T04:40:34.882631+00:00",
+    "english_protocol": "PROTOCOL.md"
+  },
+  {
+    "source_id": "structural_readout_validation/scan/esmc_deps/idna-3.20.dist-info/licenses/LICENSE.md",
+    "sha256": "1a9a4f0e3d479a27240ddd59a9137a66ab4a0f9dfdc8ca6188cc0bfd85187f04",
+    "bytes": 1541,
+    "modified_utc": "2026-11-23T04:40:32.419321+00:00",
+    "english_protocol": "PROTOCOL.md"
+  }
+]

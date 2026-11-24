@@ -1,0 +1,8 @@
+# Controlled functional-group pairs
+
+Fixed rules generate at most one partner per parent among hydroxyl-to-hydrogen, hydroxyl-to-methoxy, ketone-to-methylene, carboxylic-acid-to-methyl-ester and distant aromatic fluorination. Of 2,000 parents, 485 pass structure and correspondence checks and 467 pass the controlled-string criterion. The remaining 18 are canonical-only secondary cases. Primary class counts are 60, 61, 62, 91 and 193. Shared atoms whose radius-one environment changes form the prediction endpoint; added or removed atoms are not filled with zero.
+
+Each molecule has equal total weight. The rule predicts activation change without refitting on evaluation. Controls are the cross-fitted mean change of the edit and another molecule's rule prediction, with roles matched and midpoint quantile allocation. Both contrasts need positive 95% lower bounds; unchanged-environment displacement must have a 95% upper bound below 0.2 development standard deviations. Bootstrap uses 2,000 shared draws from SeedSequence([20261123,41,edit_class]). Category I requires all eight focal neuron-by-edit cells; category II at least one; category III requires all eight estimable and no positive mean advantage. Observed category II has four of eight passing. Among nine panel units, 11 of 36 pass the complete criterion; 12 beat both controls alone.
+
+Optional restoration writes measured or rule-predicted parental values into shared product atoms. Its output restoration fraction is a model-computation endpoint. Unfavourable restorations and intervals crossing zero are retained. One product identity overlaps an earlier structure pool, while parent identities are new; this does not change the fixed primary analysis.
+

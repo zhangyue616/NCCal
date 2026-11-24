@@ -1,0 +1,5 @@
+{
+  "dimension": 464,
+  "scale_formula": "sqrt(training_centered_sum_squares/(training_rows*dimension))",
+  "mean_normalized_squared_norm_formula": "training_centered_sum_squares/(scale_squared*training_rows)"
+}

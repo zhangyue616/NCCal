@@ -1,0 +1,14 @@
+{
+  "chemberta": {
+    "repository": "DeepChem/ChemBERTa-77M-MTR",
+    "filename": "tokenizer.json",
+    "sha256": "1197005224bc8917f46f8d6fc360aec71c6626858966e167b2ff8af62214f814",
+    "redistributed": false
+  },
+  "molformer": {
+    "repository": "ibm/MoLFormer-XL-both-10pct",
+    "filename": "tokenizer.json",
+    "sha256": "3df1f2219653c44fac9fa03b7f788b372eb2544ecc176737bb9aca8411b471a5",
+    "redistributed": false
+  }
+}

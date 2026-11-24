@@ -1,0 +1,2606 @@
+{
+  "reconstruction": [
+    {
+      "model": "chemberta_mtr",
+      "role": "matched_control",
+      "coordinate": 376,
+      "representative_concept_id": 0,
+      "predictor": "Development mean",
+      "point": -5.965704580446207e-05,
+      "CI95": [
+        -0.00023470298523838306,
+        -4.493935764904394e-07
+      ]
+    },
+    {
+      "model": "chemberta_mtr",
+      "role": "matched_control",
+      "coordinate": 376,
+      "representative_concept_id": 0,
+      "predictor": "Binary concept means",
+      "point": -2.2652896442654225e-05,
+      "CI95": [
+        -0.00019701520490938428,
+        3.9405309371765e-05
+      ]
+    },
+    {
+      "model": "chemberta_mtr",
+      "role": "matched_control",
+      "coordinate": 376,
+      "representative_concept_id": 0,
+      "predictor": "Local graph",
+      "point": 0.7715740170072901,
+      "CI95": [
+        0.7583705334661516,
+        0.7843155355696347
+      ]
+    },
+    {
+      "model": "chemberta_mtr",
+      "role": "matched_control",
+      "coordinate": 68,
+      "representative_concept_id": 2,
+      "predictor": "Development mean",
+      "point": -6.866742316979924e-07,
+      "CI95": [
+        -9.481252782044813e-05,
+        -2.399918309081738e-08
+      ]
+    },
+    {
+      "model": "chemberta_mtr",
+      "role": "matched_control",
+      "coordinate": 68,
+      "representative_concept_id": 2,
+      "predictor": "Binary concept means",
+      "point": 0.006130764954549117,
+      "CI95": [
+        0.0043870780157023725,
+        0.00788328566781514
+      ]
+    },
+    {
+      "model": "chemberta_mtr",
+      "role": "matched_control",
+      "coordinate": 68,
+      "representative_concept_id": 2,
+      "predictor": "Local graph",
+      "point": 0.20012811791505347,
+      "CI95": [
+        0.1762746904303155,
+        0.22304926829567182
+      ]
+    },
+    {
+      "model": "chemberta_mtr",
+      "role": "matched_control",
+      "coordinate": 238,
+      "representative_concept_id": 3,
+      "predictor": "Development mean",
+      "point": -5.33487565324009e-06,
+      "CI95": [
+        -0.00012331490934964774,
+        -2.9658323469350393e-08
+      ]
+    },
+    {
+      "model": "chemberta_mtr",
+      "role": "matched_control",
+      "coordinate": 238,
+      "representative_concept_id": 3,
+      "predictor": "Binary concept means",
+      "point": -4.709476421504988e-06,
+      "CI95": [
+        -0.00020897050182354105,
+        0.0001639682187993041
+      ]
+    },
+    {
+      "model": "chemberta_mtr",
+      "role": "matched_control",
+      "coordinate": 238,
+      "representative_concept_id": 3,
+      "predictor": "Local graph",
+      "point": 0.35777559473396847,
+      "CI95": [
+        0.33983021165590344,
+        0.375334321350944
+      ]
+    },
+    {
+      "model": "chemberta_mtr",
+      "role": "matched_control",
+      "coordinate": 0,
+      "representative_concept_id": 15,
+      "predictor": "Development mean",
+      "point": -8.351772546877356e-07,
+      "CI95": [
+        -8.257495744569688e-05,
+        -1.5986953927349413e-08
+      ]
+    },
+    {
+      "model": "chemberta_mtr",
+      "role": "matched_control",
+      "coordinate": 0,
+      "representative_concept_id": 15,
+      "predictor": "Binary concept means",
+      "point": 0.00019806304048175516,
+      "CI95": [
+        0.00010758755074019021,
+        0.00023054356339287927
+      ]
+    },
+    {
+      "model": "chemberta_mtr",
+      "role": "matched_control",
+      "coordinate": 0,
+      "representative_concept_id": 15,
+      "predictor": "Local graph",
+      "point": 0.4975648094385311,
+      "CI95": [
+        0.48646677384219555,
+        0.5085081923172112
+      ]
+    },
+    {
+      "model": "chemberta_mtr",
+      "role": "matched_control",
+      "coordinate": 384,
+      "representative_concept_id": 16,
+      "predictor": "Development mean",
+      "point": -1.505574265303622e-05,
+      "CI95": [
+        -0.0002325202323899933,
+        -3.6879327564021184e-08
+      ]
+    },
+    {
+      "model": "chemberta_mtr",
+      "role": "matched_control",
+      "coordinate": 384,
+      "representative_concept_id": 16,
+      "predictor": "Binary concept means",
+      "point": 2.449510772861707e-05,
+      "CI95": [
+        -0.00020273048899276946,
+        4.442927271735286e-05
+      ]
+    },
+    {
+      "model": "chemberta_mtr",
+      "role": "matched_control",
+      "coordinate": 384,
+      "representative_concept_id": 16,
+      "predictor": "Local graph",
+      "point": 0.9046301039554656,
+      "CI95": [
+        0.871039162077566,
+        0.9307122983995293
+      ]
+    },
+    {
+      "model": "chemberta_mtr",
+      "role": "matched_control",
+      "coordinate": 427,
+      "representative_concept_id": 18,
+      "predictor": "Development mean",
+      "point": -6.917983572729547e-05,
+      "CI95": [
+        -0.0003070235835366475,
+        -3.7651249528147934e-07
+      ]
+    },
+    {
+      "model": "chemberta_mtr",
+      "role": "matched_control",
+      "coordinate": 427,
+      "representative_concept_id": 18,
+      "predictor": "Binary concept means",
+      "point": -5.828120665696268e-05,
+      "CI95": [
+        -0.000299060376523641,
+        1.2539211537854199e-05
+      ]
+    },
+    {
+      "model": "chemberta_mtr",
+      "role": "matched_control",
+      "coordinate": 427,
+      "representative_concept_id": 18,
+      "predictor": "Local graph",
+      "point": 0.2547520928220033,
+      "CI95": [
+        0.23471744057618324,
+        0.2740957682934805
+      ]
+    },
+    {
+      "model": "chemberta_mtr",
+      "role": "matched_control",
+      "coordinate": 162,
+      "representative_concept_id": 26,
+      "predictor": "Development mean",
+      "point": -7.421392062378906e-05,
+      "CI95": [
+        -0.0003925190290557989,
+        -4.137025603145886e-07
+      ]
+    },
+    {
+      "model": "chemberta_mtr",
+      "role": "matched_control",
+      "coordinate": 162,
+      "representative_concept_id": 26,
+      "predictor": "Binary concept means",
+      "point": 5.764865305957212e-05,
+      "CI95": [
+        -0.00027530196998376555,
+        0.0001482375602500252
+      ]
+    },
+    {
+      "model": "chemberta_mtr",
+      "role": "matched_control",
+      "coordinate": 162,
+      "representative_concept_id": 26,
+      "predictor": "Local graph",
+      "point": 0.3903630391663816,
+      "CI95": [
+        0.3725209320933941,
+        0.4063073781230423
+      ]
+    },
+    {
+      "model": "chemberta_mtr",
+      "role": "matched_control",
+      "coordinate": 169,
+      "representative_concept_id": 27,
+      "predictor": "Development mean",
+      "point": -1.7429808161439908e-05,
+      "CI95": [
+        -0.00024484379320777183,
+        -4.91295186477727e-08
+      ]
+    },
+    {
+      "model": "chemberta_mtr",
+      "role": "matched_control",
+      "coordinate": 169,
+      "representative_concept_id": 27,
+      "predictor": "Binary concept means",
+      "point": 5.0663830010067024e-05,
+      "CI95": [
+        -0.0001714113334891576,
+        7.214376160736279e-05
+      ]
+    },
+    {
+      "model": "chemberta_mtr",
+      "role": "matched_control",
+      "coordinate": 169,
+      "representative_concept_id": 27,
+      "predictor": "Local graph",
+      "point": 0.7174269145649602,
+      "CI95": [
+        0.6842586705583961,
+        0.7471899986664533
+      ]
+    },
+    {
+      "model": "chemberta_mtr",
+      "role": "matched_control",
+      "coordinate": 458,
+      "representative_concept_id": 25,
+      "predictor": "Development mean",
+      "point": -0.00014806961188962298,
+      "CI95": [
+        -0.00036602880581234617,
+        -2.3110123571379323e-05
+      ]
+    },
+    {
+      "model": "chemberta_mtr",
+      "role": "matched_control",
+      "coordinate": 458,
+      "representative_concept_id": 25,
+      "predictor": "Binary concept means",
+      "point": 0.003884141347174186,
+      "CI95": [
+        0.0035596693233063163,
+        0.004174581287293008
+      ]
+    },
+    {
+      "model": "chemberta_mtr",
+      "role": "matched_control",
+      "coordinate": 458,
+      "representative_concept_id": 25,
+      "predictor": "Local graph",
+      "point": 0.566690074325912,
+      "CI95": [
+        0.5550178299782876,
+        0.577788239583553
+      ]
+    },
+    {
+      "model": "molformer",
+      "role": "matched_control",
+      "coordinate": 202,
+      "representative_concept_id": 0,
+      "predictor": "Development mean",
+      "point": -1.2573330479437317e-05,
+      "CI95": [
+        -9.882225911932441e-05,
+        -2.5006761322776847e-08
+      ]
+    },
+    {
+      "model": "molformer",
+      "role": "matched_control",
+      "coordinate": 202,
+      "representative_concept_id": 0,
+      "predictor": "Binary concept means",
+      "point": 0.013740109293747693,
+      "CI95": [
+        0.010285179185677104,
+        0.016925302033721085
+      ]
+    },
+    {
+      "model": "molformer",
+      "role": "matched_control",
+      "coordinate": 202,
+      "representative_concept_id": 0,
+      "predictor": "Local graph",
+      "point": 0.2143245460943255,
+      "CI95": [
+        0.20593333668369407,
+        0.22223705481116038
+      ]
+    },
+    {
+      "model": "molformer",
+      "role": "matched_control",
+      "coordinate": 129,
+      "representative_concept_id": 2,
+      "predictor": "Development mean",
+      "point": -1.2200295864683852e-06,
+      "CI95": [
+        -2.6130994955564368e-05,
+        -5.087824905825085e-09
+      ]
+    },
+    {
+      "model": "molformer",
+      "role": "matched_control",
+      "coordinate": 129,
+      "representative_concept_id": 2,
+      "predictor": "Binary concept means",
+      "point": 0.004999916111353198,
+      "CI95": [
+        0.004228360820134486,
+        0.005737915412828139
+      ]
+    },
+    {
+      "model": "molformer",
+      "role": "matched_control",
+      "coordinate": 129,
+      "representative_concept_id": 2,
+      "predictor": "Local graph",
+      "point": 0.4199221532933193,
+      "CI95": [
+        0.4139237067539923,
+        0.4263242382641752
+      ]
+    },
+    {
+      "model": "molformer",
+      "role": "matched_control",
+      "coordinate": 104,
+      "representative_concept_id": 3,
+      "predictor": "Development mean",
+      "point": -3.6605817961277154e-06,
+      "CI95": [
+        -0.00021865134622889304,
+        -3.5162882267014905e-08
+      ]
+    },
+    {
+      "model": "molformer",
+      "role": "matched_control",
+      "coordinate": 104,
+      "representative_concept_id": 3,
+      "predictor": "Binary concept means",
+      "point": 0.10958133406500548,
+      "CI95": [
+        0.10390286616848639,
+        0.1152033697177285
+      ]
+    },
+    {
+      "model": "molformer",
+      "role": "matched_control",
+      "coordinate": 104,
+      "representative_concept_id": 3,
+      "predictor": "Local graph",
+      "point": 0.36876356629094054,
+      "CI95": [
+        0.36193330176876803,
+        0.3755336418156331
+      ]
+    },
+    {
+      "model": "molformer",
+      "role": "matched_control",
+      "coordinate": 71,
+      "representative_concept_id": 15,
+      "predictor": "Development mean",
+      "point": -6.178243761034707e-05,
+      "CI95": [
+        -0.0002217951897843351,
+        -1.1427006186337613e-06
+      ]
+    },
+    {
+      "model": "molformer",
+      "role": "matched_control",
+      "coordinate": 71,
+      "representative_concept_id": 15,
+      "predictor": "Binary concept means",
+      "point": -8.693581449148446e-05,
+      "CI95": [
+        -0.00024805842749361375,
+        -1.8490677477850404e-05
+      ]
+    },
+    {
+      "model": "molformer",
+      "role": "matched_control",
+      "coordinate": 71,
+      "representative_concept_id": 15,
+      "predictor": "Local graph",
+      "point": 0.04856265556176875,
+      "CI95": [
+        0.043436191400882035,
+        0.053590429850944095
+      ]
+    },
+    {
+      "model": "molformer",
+      "role": "matched_control",
+      "coordinate": 411,
+      "representative_concept_id": 16,
+      "predictor": "Development mean",
+      "point": -1.2636287542999725e-06,
+      "CI95": [
+        -9.507211218167111e-05,
+        -2.412746768487591e-08
+      ]
+    },
+    {
+      "model": "molformer",
+      "role": "matched_control",
+      "coordinate": 411,
+      "representative_concept_id": 16,
+      "predictor": "Binary concept means",
+      "point": 3.149761046106203e-05,
+      "CI95": [
+        -6.632517688923701e-05,
+        4.446350323148994e-05
+      ]
+    },
+    {
+      "model": "molformer",
+      "role": "matched_control",
+      "coordinate": 411,
+      "representative_concept_id": 16,
+      "predictor": "Local graph",
+      "point": 0.34888781690422654,
+      "CI95": [
+        0.33967109556622577,
+        0.35808682638596495
+      ]
+    },
+    {
+      "model": "molformer",
+      "role": "matched_control",
+      "coordinate": 625,
+      "representative_concept_id": 18,
+      "predictor": "Development mean",
+      "point": -1.8397209604614773e-06,
+      "CI95": [
+        -5.22003503965307e-05,
+        -1.2656172543312937e-08
+      ]
+    },
+    {
+      "model": "molformer",
+      "role": "matched_control",
+      "coordinate": 625,
+      "representative_concept_id": 18,
+      "predictor": "Binary concept means",
+      "point": 0.008066072364168564,
+      "CI95": [
+        0.0058087258230776154,
+        0.01064536749203918
+      ]
+    },
+    {
+      "model": "molformer",
+      "role": "matched_control",
+      "coordinate": 625,
+      "representative_concept_id": 18,
+      "predictor": "Local graph",
+      "point": 0.32643011176166903,
+      "CI95": [
+        0.3124385299485738,
+        0.34025290871887687
+      ]
+    },
+    {
+      "model": "molformer",
+      "role": "matched_control",
+      "coordinate": 310,
+      "representative_concept_id": 27,
+      "predictor": "Development mean",
+      "point": -0.00012492639645889092,
+      "CI95": [
+        -0.00035515637759705456,
+        -1.2558093364556414e-05
+      ]
+    },
+    {
+      "model": "molformer",
+      "role": "matched_control",
+      "coordinate": 310,
+      "representative_concept_id": 27,
+      "predictor": "Binary concept means",
+      "point": -0.000121732822387699,
+      "CI95": [
+        -0.0003511856982093886,
+        -1.1283336283218762e-05
+      ]
+    },
+    {
+      "model": "molformer",
+      "role": "matched_control",
+      "coordinate": 310,
+      "representative_concept_id": 27,
+      "predictor": "Local graph",
+      "point": 0.10253750470186374,
+      "CI95": [
+        0.09426896953732113,
+        0.1103743522250216
+      ]
+    },
+    {
+      "model": "molformer",
+      "role": "matched_control",
+      "coordinate": 325,
+      "representative_concept_id": 24,
+      "predictor": "Development mean",
+      "point": -4.149356955363004e-06,
+      "CI95": [
+        -9.580522685468385e-05,
+        -1.4867157555054115e-08
+      ]
+    },
+    {
+      "model": "molformer",
+      "role": "matched_control",
+      "coordinate": 325,
+      "representative_concept_id": 24,
+      "predictor": "Binary concept means",
+      "point": 0.0039061236281635603,
+      "CI95": [
+        0.0037086124592242615,
+        0.004047430017852058
+      ]
+    },
+    {
+      "model": "molformer",
+      "role": "matched_control",
+      "coordinate": 325,
+      "representative_concept_id": 24,
+      "predictor": "Local graph",
+      "point": 0.13665923894310184,
+      "CI95": [
+        0.13132379245160067,
+        0.14157514138324015
+      ]
+    },
+    {
+      "model": "molformer",
+      "role": "matched_control",
+      "coordinate": 219,
+      "representative_concept_id": 25,
+      "predictor": "Development mean",
+      "point": -3.144189902659633e-06,
+      "CI95": [
+        -0.00012646826868125126,
+        -2.746191672953206e-08
+      ]
+    },
+    {
+      "model": "molformer",
+      "role": "matched_control",
+      "coordinate": 219,
+      "representative_concept_id": 25,
+      "predictor": "Binary concept means",
+      "point": 0.004819751441136666,
+      "CI95": [
+        0.0045333835461319055,
+        0.0049944838768573386
+      ]
+    },
+    {
+      "model": "molformer",
+      "role": "matched_control",
+      "coordinate": 219,
+      "representative_concept_id": 25,
+      "predictor": "Local graph",
+      "point": 0.7806775914551797,
+      "CI95": [
+        0.770834401938071,
+        0.7898573801603387
+      ]
+    }
+  ],
+  "singles": [
+    {
+      "model": "chemberta_mtr",
+      "task": "bace",
+      "scope": "selected/single/99",
+      "reference": "development_mean",
+      "role": "selected",
+      "point": 0.005090979824845702
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "bace",
+      "scope": "selected/single/121",
+      "reference": "development_mean",
+      "role": "selected",
+      "point": 0.0014562913596863302
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "bace",
+      "scope": "selected/single/188",
+      "reference": "development_mean",
+      "role": "selected",
+      "point": -0.00017795871903743358
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "bace",
+      "scope": "selected/single/266",
+      "reference": "development_mean",
+      "role": "selected",
+      "point": 0.002581591010149405
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "bace",
+      "scope": "selected/single/293",
+      "reference": "development_mean",
+      "role": "selected",
+      "point": 0.0148697109184669
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "bace",
+      "scope": "selected/single/349",
+      "reference": "development_mean",
+      "role": "selected",
+      "point": 0.0009254576629487472
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "bace",
+      "scope": "selected/single/382",
+      "reference": "development_mean",
+      "role": "selected",
+      "point": 0.03230804115170042
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "bace",
+      "scope": "selected/single/388",
+      "reference": "development_mean",
+      "role": "selected",
+      "point": 0.003463656943594535
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "bace",
+      "scope": "selected/single/454",
+      "reference": "development_mean",
+      "role": "selected",
+      "point": 0.004102202288440715
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "bace",
+      "scope": "matched_control/single/0",
+      "reference": "development_mean",
+      "role": "matched_control",
+      "point": 0.0012311458998126108
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "bace",
+      "scope": "matched_control/single/68",
+      "reference": "development_mean",
+      "role": "matched_control",
+      "point": 0.0004925445108826185
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "bace",
+      "scope": "matched_control/single/162",
+      "reference": "development_mean",
+      "role": "matched_control",
+      "point": 0.002505551133546142
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "bace",
+      "scope": "matched_control/single/169",
+      "reference": "development_mean",
+      "role": "matched_control",
+      "point": 0.005134654921054071
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "bace",
+      "scope": "matched_control/single/238",
+      "reference": "development_mean",
+      "role": "matched_control",
+      "point": 0.0005888403704532093
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "bace",
+      "scope": "matched_control/single/376",
+      "reference": "development_mean",
+      "role": "matched_control",
+      "point": 0.0050544889419287
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "bace",
+      "scope": "matched_control/single/384",
+      "reference": "development_mean",
+      "role": "matched_control",
+      "point": -0.0025762414754522543
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "bace",
+      "scope": "matched_control/single/427",
+      "reference": "development_mean",
+      "role": "matched_control",
+      "point": 0.002118486026303113
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "bace",
+      "scope": "matched_control/single/458",
+      "reference": "development_mean",
+      "role": "matched_control",
+      "point": 0.0008204106813410537
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "bace",
+      "scope": "selected/single/99",
+      "reference": "binary_mean",
+      "role": "selected",
+      "point": -0.0033952901031793705
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "bace",
+      "scope": "selected/single/121",
+      "reference": "binary_mean",
+      "role": "selected",
+      "point": 0.0013108364722999868
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "bace",
+      "scope": "selected/single/188",
+      "reference": "binary_mean",
+      "role": "selected",
+      "point": -0.001403546298541859
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "bace",
+      "scope": "selected/single/266",
+      "reference": "binary_mean",
+      "role": "selected",
+      "point": 0.0012484796930669196
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "bace",
+      "scope": "selected/single/293",
+      "reference": "binary_mean",
+      "role": "selected",
+      "point": 0.0007835981381461304
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "bace",
+      "scope": "selected/single/349",
+      "reference": "binary_mean",
+      "role": "selected",
+      "point": 0.0006887588222539862
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "bace",
+      "scope": "selected/single/382",
+      "reference": "binary_mean",
+      "role": "selected",
+      "point": 0.031583098016427495
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "bace",
+      "scope": "selected/single/388",
+      "reference": "binary_mean",
+      "role": "selected",
+      "point": 0.0017229580789658587
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "bace",
+      "scope": "selected/single/454",
+      "reference": "binary_mean",
+      "role": "selected",
+      "point": -9.202604643402278e-05
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "bace",
+      "scope": "matched_control/single/0",
+      "reference": "binary_mean",
+      "role": "matched_control",
+      "point": 0.0012219627578936281
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "bace",
+      "scope": "matched_control/single/68",
+      "reference": "binary_mean",
+      "role": "matched_control",
+      "point": 0.00043591842544903644
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "bace",
+      "scope": "matched_control/single/162",
+      "reference": "binary_mean",
+      "role": "matched_control",
+      "point": 0.002484656331679123
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "bace",
+      "scope": "matched_control/single/169",
+      "reference": "binary_mean",
+      "role": "matched_control",
+      "point": 0.005153835746071566
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "bace",
+      "scope": "matched_control/single/238",
+      "reference": "binary_mean",
+      "role": "matched_control",
+      "point": 0.0005849977419617441
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "bace",
+      "scope": "matched_control/single/376",
+      "reference": "binary_mean",
+      "role": "matched_control",
+      "point": 0.005054753412252013
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "bace",
+      "scope": "matched_control/single/384",
+      "reference": "binary_mean",
+      "role": "matched_control",
+      "point": -0.0025282611739429308
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "bace",
+      "scope": "matched_control/single/427",
+      "reference": "binary_mean",
+      "role": "matched_control",
+      "point": 0.002119965049206034
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "bace",
+      "scope": "matched_control/single/458",
+      "reference": "binary_mean",
+      "role": "matched_control",
+      "point": 0.0008026433038015292
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "bace",
+      "scope": "selected/single/99",
+      "reference": "residual_permutation",
+      "role": "selected",
+      "point": 0.0007890984916268079
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "bace",
+      "scope": "selected/single/121",
+      "reference": "residual_permutation",
+      "role": "selected",
+      "point": -0.0001273445738627717
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "bace",
+      "scope": "selected/single/188",
+      "reference": "residual_permutation",
+      "role": "selected",
+      "point": 0.0006313172837777699
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "bace",
+      "scope": "selected/single/266",
+      "reference": "residual_permutation",
+      "role": "selected",
+      "point": 0.0005147321165073421
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "bace",
+      "scope": "selected/single/293",
+      "reference": "residual_permutation",
+      "role": "selected",
+      "point": 0.0019482819454697833
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "bace",
+      "scope": "selected/single/349",
+      "reference": "residual_permutation",
+      "role": "selected",
+      "point": 6.269703414223213e-05
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "bace",
+      "scope": "selected/single/382",
+      "reference": "residual_permutation",
+      "role": "selected",
+      "point": -0.0018769429241220735
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "bace",
+      "scope": "selected/single/388",
+      "reference": "residual_permutation",
+      "role": "selected",
+      "point": 8.303206159280139e-05
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "bace",
+      "scope": "selected/single/454",
+      "reference": "residual_permutation",
+      "role": "selected",
+      "point": 0.001040956963230429
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "bace",
+      "scope": "matched_control/single/0",
+      "reference": "residual_permutation",
+      "role": "matched_control",
+      "point": -0.0006372081206457522
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "bace",
+      "scope": "matched_control/single/68",
+      "reference": "residual_permutation",
+      "role": "matched_control",
+      "point": 5.852691444203507e-05
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "bace",
+      "scope": "matched_control/single/162",
+      "reference": "residual_permutation",
+      "role": "matched_control",
+      "point": -0.0009562580513159121
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "bace",
+      "scope": "matched_control/single/169",
+      "reference": "residual_permutation",
+      "role": "matched_control",
+      "point": 0.0007757537023824909
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "bace",
+      "scope": "matched_control/single/238",
+      "reference": "residual_permutation",
+      "role": "matched_control",
+      "point": 8.105443944294484e-05
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "bace",
+      "scope": "matched_control/single/376",
+      "reference": "residual_permutation",
+      "role": "matched_control",
+      "point": 0.002920707086023623
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "bace",
+      "scope": "matched_control/single/384",
+      "reference": "residual_permutation",
+      "role": "matched_control",
+      "point": 0.00010894070170467338
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "bace",
+      "scope": "matched_control/single/427",
+      "reference": "residual_permutation",
+      "role": "matched_control",
+      "point": -0.0004702365464032729
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "bace",
+      "scope": "matched_control/single/458",
+      "reference": "residual_permutation",
+      "role": "matched_control",
+      "point": -0.00025550779409640314
+    },
+    {
+      "model": "molformer",
+      "task": "bace",
+      "scope": "selected/single/136",
+      "reference": "development_mean",
+      "role": "selected",
+      "point": 0.006090892471934909
+    },
+    {
+      "model": "molformer",
+      "task": "bace",
+      "scope": "selected/single/167",
+      "reference": "development_mean",
+      "role": "selected",
+      "point": 0.0018209164648608264
+    },
+    {
+      "model": "molformer",
+      "task": "bace",
+      "scope": "selected/single/203",
+      "reference": "development_mean",
+      "role": "selected",
+      "point": 0.007955994530620214
+    },
+    {
+      "model": "molformer",
+      "task": "bace",
+      "scope": "selected/single/364",
+      "reference": "development_mean",
+      "role": "selected",
+      "point": -0.0007694619338289569
+    },
+    {
+      "model": "molformer",
+      "task": "bace",
+      "scope": "selected/single/521",
+      "reference": "development_mean",
+      "role": "selected",
+      "point": 0.00021485585198164345
+    },
+    {
+      "model": "molformer",
+      "task": "bace",
+      "scope": "selected/single/534",
+      "reference": "development_mean",
+      "role": "selected",
+      "point": 0.00012686067343271017
+    },
+    {
+      "model": "molformer",
+      "task": "bace",
+      "scope": "selected/single/566",
+      "reference": "development_mean",
+      "role": "selected",
+      "point": 0.002033865607069053
+    },
+    {
+      "model": "molformer",
+      "task": "bace",
+      "scope": "selected/single/587",
+      "reference": "development_mean",
+      "role": "selected",
+      "point": 7.666047874181201e-05
+    },
+    {
+      "model": "molformer",
+      "task": "bace",
+      "scope": "selected/single/650",
+      "reference": "development_mean",
+      "role": "selected",
+      "point": -7.786534701040827e-05
+    },
+    {
+      "model": "molformer",
+      "task": "bace",
+      "scope": "matched_control/single/71",
+      "reference": "development_mean",
+      "role": "matched_control",
+      "point": 1.3637419000190631e-05
+    },
+    {
+      "model": "molformer",
+      "task": "bace",
+      "scope": "matched_control/single/104",
+      "reference": "development_mean",
+      "role": "matched_control",
+      "point": 0.0026530561752337515
+    },
+    {
+      "model": "molformer",
+      "task": "bace",
+      "scope": "matched_control/single/129",
+      "reference": "development_mean",
+      "role": "matched_control",
+      "point": 0.003472154938420334
+    },
+    {
+      "model": "molformer",
+      "task": "bace",
+      "scope": "matched_control/single/202",
+      "reference": "development_mean",
+      "role": "matched_control",
+      "point": 0.0007082561681010863
+    },
+    {
+      "model": "molformer",
+      "task": "bace",
+      "scope": "matched_control/single/219",
+      "reference": "development_mean",
+      "role": "matched_control",
+      "point": 0.0037523776072923686
+    },
+    {
+      "model": "molformer",
+      "task": "bace",
+      "scope": "matched_control/single/310",
+      "reference": "development_mean",
+      "role": "matched_control",
+      "point": -4.271578866329516e-06
+    },
+    {
+      "model": "molformer",
+      "task": "bace",
+      "scope": "matched_control/single/325",
+      "reference": "development_mean",
+      "role": "matched_control",
+      "point": 0.0003237654256243221
+    },
+    {
+      "model": "molformer",
+      "task": "bace",
+      "scope": "matched_control/single/411",
+      "reference": "development_mean",
+      "role": "matched_control",
+      "point": 0.0003621194745773757
+    },
+    {
+      "model": "molformer",
+      "task": "bace",
+      "scope": "matched_control/single/625",
+      "reference": "development_mean",
+      "role": "matched_control",
+      "point": -0.0003369296655853516
+    },
+    {
+      "model": "molformer",
+      "task": "bace",
+      "scope": "selected/single/136",
+      "reference": "binary_mean",
+      "role": "selected",
+      "point": 0.007008064705137856
+    },
+    {
+      "model": "molformer",
+      "task": "bace",
+      "scope": "selected/single/167",
+      "reference": "binary_mean",
+      "role": "selected",
+      "point": 0.0008417805004554607
+    },
+    {
+      "model": "molformer",
+      "task": "bace",
+      "scope": "selected/single/203",
+      "reference": "binary_mean",
+      "role": "selected",
+      "point": 0.004358394187472098
+    },
+    {
+      "model": "molformer",
+      "task": "bace",
+      "scope": "selected/single/364",
+      "reference": "binary_mean",
+      "role": "selected",
+      "point": -0.0008014933918887224
+    },
+    {
+      "model": "molformer",
+      "task": "bace",
+      "scope": "selected/single/521",
+      "reference": "binary_mean",
+      "role": "selected",
+      "point": 0.00021597158304097628
+    },
+    {
+      "model": "molformer",
+      "task": "bace",
+      "scope": "selected/single/534",
+      "reference": "binary_mean",
+      "role": "selected",
+      "point": 2.5802552964543124e-05
+    },
+    {
+      "model": "molformer",
+      "task": "bace",
+      "scope": "selected/single/566",
+      "reference": "binary_mean",
+      "role": "selected",
+      "point": 0.000815393900733474
+    },
+    {
+      "model": "molformer",
+      "task": "bace",
+      "scope": "selected/single/587",
+      "reference": "binary_mean",
+      "role": "selected",
+      "point": 4.834996704683689e-05
+    },
+    {
+      "model": "molformer",
+      "task": "bace",
+      "scope": "selected/single/650",
+      "reference": "binary_mean",
+      "role": "selected",
+      "point": -0.0003815592794609101
+    },
+    {
+      "model": "molformer",
+      "task": "bace",
+      "scope": "matched_control/single/71",
+      "reference": "binary_mean",
+      "role": "matched_control",
+      "point": 1.3225733886372188e-05
+    },
+    {
+      "model": "molformer",
+      "task": "bace",
+      "scope": "matched_control/single/104",
+      "reference": "binary_mean",
+      "role": "matched_control",
+      "point": 0.0023376643120713767
+    },
+    {
+      "model": "molformer",
+      "task": "bace",
+      "scope": "matched_control/single/129",
+      "reference": "binary_mean",
+      "role": "matched_control",
+      "point": 0.003543110956483982
+    },
+    {
+      "model": "molformer",
+      "task": "bace",
+      "scope": "matched_control/single/202",
+      "reference": "binary_mean",
+      "role": "matched_control",
+      "point": 0.000576765842123139
+    },
+    {
+      "model": "molformer",
+      "task": "bace",
+      "scope": "matched_control/single/219",
+      "reference": "binary_mean",
+      "role": "matched_control",
+      "point": 0.0038896351234995164
+    },
+    {
+      "model": "molformer",
+      "task": "bace",
+      "scope": "matched_control/single/310",
+      "reference": "binary_mean",
+      "role": "matched_control",
+      "point": -4.401810334096615e-06
+    },
+    {
+      "model": "molformer",
+      "task": "bace",
+      "scope": "matched_control/single/325",
+      "reference": "binary_mean",
+      "role": "matched_control",
+      "point": 0.0004203858861183781
+    },
+    {
+      "model": "molformer",
+      "task": "bace",
+      "scope": "matched_control/single/411",
+      "reference": "binary_mean",
+      "role": "matched_control",
+      "point": 0.0003633929070261124
+    },
+    {
+      "model": "molformer",
+      "task": "bace",
+      "scope": "matched_control/single/625",
+      "reference": "binary_mean",
+      "role": "matched_control",
+      "point": -0.00034135018195320286
+    },
+    {
+      "model": "molformer",
+      "task": "bace",
+      "scope": "selected/single/136",
+      "reference": "residual_permutation",
+      "role": "selected",
+      "point": 0.002178273403309705
+    },
+    {
+      "model": "molformer",
+      "task": "bace",
+      "scope": "selected/single/167",
+      "reference": "residual_permutation",
+      "role": "selected",
+      "point": 0.0005035338835280806
+    },
+    {
+      "model": "molformer",
+      "task": "bace",
+      "scope": "selected/single/203",
+      "reference": "residual_permutation",
+      "role": "selected",
+      "point": 0.0011024033330768379
+    },
+    {
+      "model": "molformer",
+      "task": "bace",
+      "scope": "selected/single/364",
+      "reference": "residual_permutation",
+      "role": "selected",
+      "point": -0.0004681892175730253
+    },
+    {
+      "model": "molformer",
+      "task": "bace",
+      "scope": "selected/single/521",
+      "reference": "residual_permutation",
+      "role": "selected",
+      "point": -9.778580231873184e-05
+    },
+    {
+      "model": "molformer",
+      "task": "bace",
+      "scope": "selected/single/534",
+      "reference": "residual_permutation",
+      "role": "selected",
+      "point": -1.9029067992239782e-05
+    },
+    {
+      "model": "molformer",
+      "task": "bace",
+      "scope": "selected/single/566",
+      "reference": "residual_permutation",
+      "role": "selected",
+      "point": 0.0010355396431671023
+    },
+    {
+      "model": "molformer",
+      "task": "bace",
+      "scope": "selected/single/587",
+      "reference": "residual_permutation",
+      "role": "selected",
+      "point": -0.0014346064012351982
+    },
+    {
+      "model": "molformer",
+      "task": "bace",
+      "scope": "selected/single/650",
+      "reference": "residual_permutation",
+      "role": "selected",
+      "point": -0.00028780081256358576
+    },
+    {
+      "model": "molformer",
+      "task": "bace",
+      "scope": "matched_control/single/71",
+      "reference": "residual_permutation",
+      "role": "matched_control",
+      "point": -0.00043129222730649145
+    },
+    {
+      "model": "molformer",
+      "task": "bace",
+      "scope": "matched_control/single/104",
+      "reference": "residual_permutation",
+      "role": "matched_control",
+      "point": 0.0013243948547562684
+    },
+    {
+      "model": "molformer",
+      "task": "bace",
+      "scope": "matched_control/single/129",
+      "reference": "residual_permutation",
+      "role": "matched_control",
+      "point": 0.002055493522406505
+    },
+    {
+      "model": "molformer",
+      "task": "bace",
+      "scope": "matched_control/single/202",
+      "reference": "residual_permutation",
+      "role": "matched_control",
+      "point": -0.0001328807487694578
+    },
+    {
+      "model": "molformer",
+      "task": "bace",
+      "scope": "matched_control/single/219",
+      "reference": "residual_permutation",
+      "role": "matched_control",
+      "point": -0.00023004145765857898
+    },
+    {
+      "model": "molformer",
+      "task": "bace",
+      "scope": "matched_control/single/310",
+      "reference": "residual_permutation",
+      "role": "matched_control",
+      "point": -0.0002554837942468702
+    },
+    {
+      "model": "molformer",
+      "task": "bace",
+      "scope": "matched_control/single/325",
+      "reference": "residual_permutation",
+      "role": "matched_control",
+      "point": -0.001425268181683938
+    },
+    {
+      "model": "molformer",
+      "task": "bace",
+      "scope": "matched_control/single/411",
+      "reference": "residual_permutation",
+      "role": "matched_control",
+      "point": -0.00021363024590831978
+    },
+    {
+      "model": "molformer",
+      "task": "bace",
+      "scope": "matched_control/single/625",
+      "reference": "residual_permutation",
+      "role": "matched_control",
+      "point": -0.0003727515376144192
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "esol",
+      "scope": "selected/single/99",
+      "reference": "development_mean",
+      "role": "selected",
+      "point": 0.0051535814527130476
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "esol",
+      "scope": "selected/single/121",
+      "reference": "development_mean",
+      "role": "selected",
+      "point": 0.0036282020214617474
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "esol",
+      "scope": "selected/single/188",
+      "reference": "development_mean",
+      "role": "selected",
+      "point": -0.0003250774483585911
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "esol",
+      "scope": "selected/single/266",
+      "reference": "development_mean",
+      "role": "selected",
+      "point": 0.003645322700479149
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "esol",
+      "scope": "selected/single/293",
+      "reference": "development_mean",
+      "role": "selected",
+      "point": 0.03369093701630984
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "esol",
+      "scope": "selected/single/349",
+      "reference": "development_mean",
+      "role": "selected",
+      "point": 0.0021207005521122137
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "esol",
+      "scope": "selected/single/382",
+      "reference": "development_mean",
+      "role": "selected",
+      "point": 0.005259168284294479
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "esol",
+      "scope": "selected/single/388",
+      "reference": "development_mean",
+      "role": "selected",
+      "point": 0.016326315745395475
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "esol",
+      "scope": "selected/single/454",
+      "reference": "development_mean",
+      "role": "selected",
+      "point": 0.00460056961467426
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "esol",
+      "scope": "matched_control/single/0",
+      "reference": "development_mean",
+      "role": "matched_control",
+      "point": 0.011879710629869368
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "esol",
+      "scope": "matched_control/single/68",
+      "reference": "development_mean",
+      "role": "matched_control",
+      "point": 0.001307176421066712
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "esol",
+      "scope": "matched_control/single/162",
+      "reference": "development_mean",
+      "role": "matched_control",
+      "point": 0.0016630331230151807
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "esol",
+      "scope": "matched_control/single/169",
+      "reference": "development_mean",
+      "role": "matched_control",
+      "point": 0.004293261249573727
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "esol",
+      "scope": "matched_control/single/238",
+      "reference": "development_mean",
+      "role": "matched_control",
+      "point": 0.0018483943838076195
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "esol",
+      "scope": "matched_control/single/376",
+      "reference": "development_mean",
+      "role": "matched_control",
+      "point": 0.00752531986929799
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "esol",
+      "scope": "matched_control/single/384",
+      "reference": "development_mean",
+      "role": "matched_control",
+      "point": 0.019910916310077603
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "esol",
+      "scope": "matched_control/single/427",
+      "reference": "development_mean",
+      "role": "matched_control",
+      "point": 0.0018267438698797483
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "esol",
+      "scope": "matched_control/single/458",
+      "reference": "development_mean",
+      "role": "matched_control",
+      "point": 0.011278120924888634
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "esol",
+      "scope": "selected/single/99",
+      "reference": "binary_mean",
+      "role": "selected",
+      "point": -0.0038123412010920552
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "esol",
+      "scope": "selected/single/121",
+      "reference": "binary_mean",
+      "role": "selected",
+      "point": 0.002249706231310114
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "esol",
+      "scope": "selected/single/188",
+      "reference": "binary_mean",
+      "role": "selected",
+      "point": -0.0022548786177471135
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "esol",
+      "scope": "selected/single/266",
+      "reference": "binary_mean",
+      "role": "selected",
+      "point": 0.001612230264394973
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "esol",
+      "scope": "selected/single/293",
+      "reference": "binary_mean",
+      "role": "selected",
+      "point": 0.0031342750024508223
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "esol",
+      "scope": "selected/single/349",
+      "reference": "binary_mean",
+      "role": "selected",
+      "point": 0.0013528529373014553
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "esol",
+      "scope": "selected/single/382",
+      "reference": "binary_mean",
+      "role": "selected",
+      "point": 0.003299962201514758
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "esol",
+      "scope": "selected/single/388",
+      "reference": "binary_mean",
+      "role": "selected",
+      "point": 0.003374276062091119
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "esol",
+      "scope": "selected/single/454",
+      "reference": "binary_mean",
+      "role": "selected",
+      "point": 0.0011222888939733376
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "esol",
+      "scope": "matched_control/single/0",
+      "reference": "binary_mean",
+      "role": "matched_control",
+      "point": 0.011931074847557037
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "esol",
+      "scope": "matched_control/single/68",
+      "reference": "binary_mean",
+      "role": "matched_control",
+      "point": 0.0009810722651873974
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "esol",
+      "scope": "matched_control/single/162",
+      "reference": "binary_mean",
+      "role": "matched_control",
+      "point": 0.0016242710597468713
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "esol",
+      "scope": "matched_control/single/169",
+      "reference": "binary_mean",
+      "role": "matched_control",
+      "point": 0.0042517277752911285
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "esol",
+      "scope": "matched_control/single/238",
+      "reference": "binary_mean",
+      "role": "matched_control",
+      "point": 0.0018738645317524154
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "esol",
+      "scope": "matched_control/single/376",
+      "reference": "binary_mean",
+      "role": "matched_control",
+      "point": 0.007536635860988009
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "esol",
+      "scope": "matched_control/single/384",
+      "reference": "binary_mean",
+      "role": "matched_control",
+      "point": 0.01997234822648812
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "esol",
+      "scope": "matched_control/single/427",
+      "reference": "binary_mean",
+      "role": "matched_control",
+      "point": 0.0018282871670305186
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "esol",
+      "scope": "matched_control/single/458",
+      "reference": "binary_mean",
+      "role": "matched_control",
+      "point": 0.011538509482219789
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "esol",
+      "scope": "selected/single/99",
+      "reference": "residual_permutation",
+      "role": "selected",
+      "point": 0.000992491466937294
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "esol",
+      "scope": "selected/single/121",
+      "reference": "residual_permutation",
+      "role": "selected",
+      "point": -0.000150129465336
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "esol",
+      "scope": "selected/single/188",
+      "reference": "residual_permutation",
+      "role": "selected",
+      "point": 0.0002056081362963543
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "esol",
+      "scope": "selected/single/266",
+      "reference": "residual_permutation",
+      "role": "selected",
+      "point": 0.0008943170436402509
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "esol",
+      "scope": "selected/single/293",
+      "reference": "residual_permutation",
+      "role": "selected",
+      "point": 0.0045599556126784645
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "esol",
+      "scope": "selected/single/349",
+      "reference": "residual_permutation",
+      "role": "selected",
+      "point": -0.00026080510460204216
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "esol",
+      "scope": "selected/single/382",
+      "reference": "residual_permutation",
+      "role": "selected",
+      "point": 0.0001798328607392089
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "esol",
+      "scope": "selected/single/388",
+      "reference": "residual_permutation",
+      "role": "selected",
+      "point": 0.0011274490761515505
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "esol",
+      "scope": "selected/single/454",
+      "reference": "residual_permutation",
+      "role": "selected",
+      "point": 0.0009323734484136247
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "esol",
+      "scope": "matched_control/single/0",
+      "reference": "residual_permutation",
+      "role": "matched_control",
+      "point": 0.0031236597738224475
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "esol",
+      "scope": "matched_control/single/68",
+      "reference": "residual_permutation",
+      "role": "matched_control",
+      "point": 0.0011364399073915462
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "esol",
+      "scope": "matched_control/single/162",
+      "reference": "residual_permutation",
+      "role": "matched_control",
+      "point": -0.0011353764280937428
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "esol",
+      "scope": "matched_control/single/169",
+      "reference": "residual_permutation",
+      "role": "matched_control",
+      "point": 0.00011498080737964761
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "esol",
+      "scope": "matched_control/single/238",
+      "reference": "residual_permutation",
+      "role": "matched_control",
+      "point": -6.303460536390989e-05
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "esol",
+      "scope": "matched_control/single/376",
+      "reference": "residual_permutation",
+      "role": "matched_control",
+      "point": 0.00034426614419135805
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "esol",
+      "scope": "matched_control/single/384",
+      "reference": "residual_permutation",
+      "role": "matched_control",
+      "point": 0.0005234787927555591
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "esol",
+      "scope": "matched_control/single/427",
+      "reference": "residual_permutation",
+      "role": "matched_control",
+      "point": -0.00027552201271390707
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "esol",
+      "scope": "matched_control/single/458",
+      "reference": "residual_permutation",
+      "role": "matched_control",
+      "point": -0.002409009408843581
+    },
+    {
+      "model": "molformer",
+      "task": "esol",
+      "scope": "selected/single/136",
+      "reference": "development_mean",
+      "role": "selected",
+      "point": 0.010968845062406604
+    },
+    {
+      "model": "molformer",
+      "task": "esol",
+      "scope": "selected/single/167",
+      "reference": "development_mean",
+      "role": "selected",
+      "point": 0.02119874295994431
+    },
+    {
+      "model": "molformer",
+      "task": "esol",
+      "scope": "selected/single/203",
+      "reference": "development_mean",
+      "role": "selected",
+      "point": 0.08907382117579625
+    },
+    {
+      "model": "molformer",
+      "task": "esol",
+      "scope": "selected/single/364",
+      "reference": "development_mean",
+      "role": "selected",
+      "point": 0.0012260690555148017
+    },
+    {
+      "model": "molformer",
+      "task": "esol",
+      "scope": "selected/single/521",
+      "reference": "development_mean",
+      "role": "selected",
+      "point": -0.0025858817528988036
+    },
+    {
+      "model": "molformer",
+      "task": "esol",
+      "scope": "selected/single/534",
+      "reference": "development_mean",
+      "role": "selected",
+      "point": -1.5271591318391536e-05
+    },
+    {
+      "model": "molformer",
+      "task": "esol",
+      "scope": "selected/single/566",
+      "reference": "development_mean",
+      "role": "selected",
+      "point": 0.006680100225279453
+    },
+    {
+      "model": "molformer",
+      "task": "esol",
+      "scope": "selected/single/587",
+      "reference": "development_mean",
+      "role": "selected",
+      "point": 0.007965912132318502
+    },
+    {
+      "model": "molformer",
+      "task": "esol",
+      "scope": "selected/single/650",
+      "reference": "development_mean",
+      "role": "selected",
+      "point": -0.000378744171797176
+    },
+    {
+      "model": "molformer",
+      "task": "esol",
+      "scope": "matched_control/single/71",
+      "reference": "development_mean",
+      "role": "matched_control",
+      "point": -0.00041435939666229215
+    },
+    {
+      "model": "molformer",
+      "task": "esol",
+      "scope": "matched_control/single/104",
+      "reference": "development_mean",
+      "role": "matched_control",
+      "point": 0.006413871765950889
+    },
+    {
+      "model": "molformer",
+      "task": "esol",
+      "scope": "matched_control/single/129",
+      "reference": "development_mean",
+      "role": "matched_control",
+      "point": 0.01008976436805773
+    },
+    {
+      "model": "molformer",
+      "task": "esol",
+      "scope": "matched_control/single/202",
+      "reference": "development_mean",
+      "role": "matched_control",
+      "point": 0.0026506736731449856
+    },
+    {
+      "model": "molformer",
+      "task": "esol",
+      "scope": "matched_control/single/219",
+      "reference": "development_mean",
+      "role": "matched_control",
+      "point": 0.005315378133594469
+    },
+    {
+      "model": "molformer",
+      "task": "esol",
+      "scope": "matched_control/single/310",
+      "reference": "development_mean",
+      "role": "matched_control",
+      "point": -0.0008275574595099518
+    },
+    {
+      "model": "molformer",
+      "task": "esol",
+      "scope": "matched_control/single/325",
+      "reference": "development_mean",
+      "role": "matched_control",
+      "point": 0.0034184111014380946
+    },
+    {
+      "model": "molformer",
+      "task": "esol",
+      "scope": "matched_control/single/411",
+      "reference": "development_mean",
+      "role": "matched_control",
+      "point": 0.006216713333499496
+    },
+    {
+      "model": "molformer",
+      "task": "esol",
+      "scope": "matched_control/single/625",
+      "reference": "development_mean",
+      "role": "matched_control",
+      "point": -0.0017546104529948161
+    },
+    {
+      "model": "molformer",
+      "task": "esol",
+      "scope": "selected/single/136",
+      "reference": "binary_mean",
+      "role": "selected",
+      "point": 0.00427960516537591
+    },
+    {
+      "model": "molformer",
+      "task": "esol",
+      "scope": "selected/single/167",
+      "reference": "binary_mean",
+      "role": "selected",
+      "point": 0.0076332400668476085
+    },
+    {
+      "model": "molformer",
+      "task": "esol",
+      "scope": "selected/single/203",
+      "reference": "binary_mean",
+      "role": "selected",
+      "point": 0.034650496585403194
+    },
+    {
+      "model": "molformer",
+      "task": "esol",
+      "scope": "selected/single/364",
+      "reference": "binary_mean",
+      "role": "selected",
+      "point": 0.0010837586079942973
+    },
+    {
+      "model": "molformer",
+      "task": "esol",
+      "scope": "selected/single/521",
+      "reference": "binary_mean",
+      "role": "selected",
+      "point": -0.0025783878033617605
+    },
+    {
+      "model": "molformer",
+      "task": "esol",
+      "scope": "selected/single/534",
+      "reference": "binary_mean",
+      "role": "selected",
+      "point": 0.000128164971357367
+    },
+    {
+      "model": "molformer",
+      "task": "esol",
+      "scope": "selected/single/566",
+      "reference": "binary_mean",
+      "role": "selected",
+      "point": 0.002276830812835271
+    },
+    {
+      "model": "molformer",
+      "task": "esol",
+      "scope": "selected/single/587",
+      "reference": "binary_mean",
+      "role": "selected",
+      "point": 0.00693198315391483
+    },
+    {
+      "model": "molformer",
+      "task": "esol",
+      "scope": "selected/single/650",
+      "reference": "binary_mean",
+      "role": "selected",
+      "point": -0.000827898360395677
+    },
+    {
+      "model": "molformer",
+      "task": "esol",
+      "scope": "matched_control/single/71",
+      "reference": "binary_mean",
+      "role": "matched_control",
+      "point": -0.00041479342263601163
+    },
+    {
+      "model": "molformer",
+      "task": "esol",
+      "scope": "matched_control/single/104",
+      "reference": "binary_mean",
+      "role": "matched_control",
+      "point": 0.003433908881058379
+    },
+    {
+      "model": "molformer",
+      "task": "esol",
+      "scope": "matched_control/single/129",
+      "reference": "binary_mean",
+      "role": "matched_control",
+      "point": 0.008726091529418858
+    },
+    {
+      "model": "molformer",
+      "task": "esol",
+      "scope": "matched_control/single/202",
+      "reference": "binary_mean",
+      "role": "matched_control",
+      "point": 0.0024790454886725252
+    },
+    {
+      "model": "molformer",
+      "task": "esol",
+      "scope": "matched_control/single/219",
+      "reference": "binary_mean",
+      "role": "matched_control",
+      "point": 0.005551375711709226
+    },
+    {
+      "model": "molformer",
+      "task": "esol",
+      "scope": "matched_control/single/310",
+      "reference": "binary_mean",
+      "role": "matched_control",
+      "point": -0.0008299084774314157
+    },
+    {
+      "model": "molformer",
+      "task": "esol",
+      "scope": "matched_control/single/325",
+      "reference": "binary_mean",
+      "role": "matched_control",
+      "point": 0.003429838771343584
+    },
+    {
+      "model": "molformer",
+      "task": "esol",
+      "scope": "matched_control/single/411",
+      "reference": "binary_mean",
+      "role": "matched_control",
+      "point": 0.006218501254299798
+    },
+    {
+      "model": "molformer",
+      "task": "esol",
+      "scope": "matched_control/single/625",
+      "reference": "binary_mean",
+      "role": "matched_control",
+      "point": -0.0017713923427645421
+    },
+    {
+      "model": "molformer",
+      "task": "esol",
+      "scope": "selected/single/136",
+      "reference": "residual_permutation",
+      "role": "selected",
+      "point": 0.0013805071784533233
+    },
+    {
+      "model": "molformer",
+      "task": "esol",
+      "scope": "selected/single/167",
+      "reference": "residual_permutation",
+      "role": "selected",
+      "point": 0.009133531390297982
+    },
+    {
+      "model": "molformer",
+      "task": "esol",
+      "scope": "selected/single/203",
+      "reference": "residual_permutation",
+      "role": "selected",
+      "point": -0.00014693051834294198
+    },
+    {
+      "model": "molformer",
+      "task": "esol",
+      "scope": "selected/single/364",
+      "reference": "residual_permutation",
+      "role": "selected",
+      "point": -0.00044519534861117634
+    },
+    {
+      "model": "molformer",
+      "task": "esol",
+      "scope": "selected/single/521",
+      "reference": "residual_permutation",
+      "role": "selected",
+      "point": -0.0018667507854945975
+    },
+    {
+      "model": "molformer",
+      "task": "esol",
+      "scope": "selected/single/534",
+      "reference": "residual_permutation",
+      "role": "selected",
+      "point": -0.0011928185409315467
+    },
+    {
+      "model": "molformer",
+      "task": "esol",
+      "scope": "selected/single/566",
+      "reference": "residual_permutation",
+      "role": "selected",
+      "point": 0.003262527942684177
+    },
+    {
+      "model": "molformer",
+      "task": "esol",
+      "scope": "selected/single/587",
+      "reference": "residual_permutation",
+      "role": "selected",
+      "point": 0.0001253955805372523
+    },
+    {
+      "model": "molformer",
+      "task": "esol",
+      "scope": "selected/single/650",
+      "reference": "residual_permutation",
+      "role": "selected",
+      "point": -0.0003309130527485733
+    },
+    {
+      "model": "molformer",
+      "task": "esol",
+      "scope": "matched_control/single/71",
+      "reference": "residual_permutation",
+      "role": "matched_control",
+      "point": -0.0015447425659718562
+    },
+    {
+      "model": "molformer",
+      "task": "esol",
+      "scope": "matched_control/single/104",
+      "reference": "residual_permutation",
+      "role": "matched_control",
+      "point": 0.0009380787068828173
+    },
+    {
+      "model": "molformer",
+      "task": "esol",
+      "scope": "matched_control/single/129",
+      "reference": "residual_permutation",
+      "role": "matched_control",
+      "point": 0.0027690946736573015
+    },
+    {
+      "model": "molformer",
+      "task": "esol",
+      "scope": "matched_control/single/202",
+      "reference": "residual_permutation",
+      "role": "matched_control",
+      "point": -9.988938362069954e-05
+    },
+    {
+      "model": "molformer",
+      "task": "esol",
+      "scope": "matched_control/single/219",
+      "reference": "residual_permutation",
+      "role": "matched_control",
+      "point": 0.0020525658752306363
+    },
+    {
+      "model": "molformer",
+      "task": "esol",
+      "scope": "matched_control/single/310",
+      "reference": "residual_permutation",
+      "role": "matched_control",
+      "point": -0.000768050251517855
+    },
+    {
+      "model": "molformer",
+      "task": "esol",
+      "scope": "matched_control/single/325",
+      "reference": "residual_permutation",
+      "role": "matched_control",
+      "point": 0.00037730759313101757
+    },
+    {
+      "model": "molformer",
+      "task": "esol",
+      "scope": "matched_control/single/411",
+      "reference": "residual_permutation",
+      "role": "matched_control",
+      "point": -0.0003650341036258982
+    },
+    {
+      "model": "molformer",
+      "task": "esol",
+      "scope": "matched_control/single/625",
+      "reference": "residual_permutation",
+      "role": "matched_control",
+      "point": 0.0006826287329444391
+    }
+  ],
+  "joint_controls": [
+    {
+      "model": "chemberta_mtr",
+      "task": "bace",
+      "scope": "matched_control/joint",
+      "reference": "development_mean",
+      "point": 0.007548679955286604,
+      "CI95": [
+        0.005525089033484748,
+        0.009638133526249476
+      ]
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "bace",
+      "scope": "matched_control/joint",
+      "reference": "binary_mean",
+      "point": 0.007605474195655332,
+      "CI95": [
+        0.005561154372864945,
+        0.009705519927444096
+      ]
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "bace",
+      "scope": "matched_control/joint",
+      "reference": "residual_permutation",
+      "point": -0.0006117814161932508,
+      "CI95": [
+        -0.001844511501826589,
+        0.0005308654422823156
+      ]
+    },
+    {
+      "model": "molformer",
+      "task": "bace",
+      "scope": "matched_control/joint",
+      "reference": "development_mean",
+      "point": 0.002171464021367469,
+      "CI95": [
+        0.0009630920698325594,
+        0.0033661195704797484
+      ]
+    },
+    {
+      "model": "molformer",
+      "task": "bace",
+      "scope": "matched_control/joint",
+      "reference": "binary_mean",
+      "point": 0.0029014424360605693,
+      "CI95": [
+        0.0017661583314840799,
+        0.0040517353449642055
+      ]
+    },
+    {
+      "model": "molformer",
+      "task": "bace",
+      "scope": "matched_control/joint",
+      "reference": "residual_permutation",
+      "point": -0.000303851567286527,
+      "CI95": [
+        -0.0013594658025124736,
+        0.0006867442953089347
+      ]
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "esol",
+      "scope": "matched_control/joint",
+      "reference": "development_mean",
+      "point": 0.026426461691530373,
+      "CI95": [
+        0.013484405434110305,
+        0.03787638880371028
+      ]
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "esol",
+      "scope": "matched_control/joint",
+      "reference": "binary_mean",
+      "point": 0.026541558326623603,
+      "CI95": [
+        0.013802286166052571,
+        0.03796217002613347
+      ]
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "esol",
+      "scope": "matched_control/joint",
+      "reference": "residual_permutation",
+      "point": 0.0019204221939789707,
+      "CI95": [
+        -0.000380770225424464,
+        0.004030194780787125
+      ]
+    },
+    {
+      "model": "molformer",
+      "task": "esol",
+      "scope": "matched_control/joint",
+      "reference": "development_mean",
+      "point": 0.010705658786778408,
+      "CI95": [
+        0.005371003116749697,
+        0.014641446232709293
+      ]
+    },
+    {
+      "model": "molformer",
+      "task": "esol",
+      "scope": "matched_control/joint",
+      "reference": "binary_mean",
+      "point": 0.009765475882386063,
+      "CI95": [
+        0.004810214573323969,
+        0.013389024011505608
+      ]
+    },
+    {
+      "model": "molformer",
+      "task": "esol",
+      "scope": "matched_control/joint",
+      "reference": "residual_permutation",
+      "point": 0.0022502916916935997,
+      "CI95": [
+        -0.000211396583299966,
+        0.004219218434535261
+      ]
+    }
+  ],
+  "fidelity_panel_order": [
+    [
+      "chemberta_mtr",
+      "bace"
+    ],
+    [
+      "molformer",
+      "bace"
+    ],
+    [
+      "chemberta_mtr",
+      "esol"
+    ],
+    [
+      "molformer",
+      "esol"
+    ]
+  ],
+  "fidelity_axis_ranges": [
+    {
+      "model": "chemberta_mtr",
+      "task": "bace",
+      "single": [
+        -0.01,
+        0.04
+      ],
+      "joint_controls": [
+        -0.005,
+        0.009999999999999998
+      ]
+    },
+    {
+      "model": "molformer",
+      "task": "bace",
+      "single": [
+        -0.005,
+        0.009999999999999998
+      ],
+      "joint_controls": [
+        -0.0025,
+        0.004999999999999999
+      ]
+    },
+    {
+      "model": "chemberta_mtr",
+      "task": "esol",
+      "single": [
+        -0.01,
+        0.04
+      ],
+      "joint_controls": [
+        -0.01,
+        0.04
+      ]
+    },
+    {
+      "model": "molformer",
+      "task": "esol",
+      "single": [
+        -0.02,
+        0.09999999999999999
+      ],
+      "joint_controls": [
+        -0.005,
+        0.015
+      ]
+    }
+  ],
+  "statistics_recomputed": false,
+  "model_or_GPU_access": false,
+  "render": [
+    {
+      "name": "Figure_S-M1",
+      "inches": [
+        7.2,
+        5.6
+      ],
+      "minimum_font_pt": 9,
+      "clipped_text": []
+    },
+    {
+      "name": "Figure_S-N1",
+      "inches": [
+        7.2,
+        7.2
+      ],
+      "minimum_font_pt": 9,
+      "clipped_text": []
+    }
+  ]
+}

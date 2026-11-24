@@ -1,0 +1,13 @@
+{
+  "model": "8m",
+  "axis_zero_based": 801,
+  "axis_candidates": 1280,
+  "cv_augmented_mae": 0.14679904047006231,
+  "cv_baseline_mae": 0.14772101351759478,
+  "penalty": 0.001,
+  "mean": -0.04216661736980121,
+  "slope": 0.06435218776036822,
+  "development_data_signature": "9df331898ba9726f1da7b8b3304fe490f6af541d23619ac3af7f30289716c25c",
+  "selected_utc": "2026-11-21T07:15:38.136373+00:00",
+  "before_confirmation_extraction": true
+}

@@ -1,0 +1,54 @@
+{
+  "K": 199,
+  "inference": [
+    {
+      "model": "8m",
+      "endpoint": "mae_gain",
+      "K": 199,
+      "trained_gain": 4.484330579275989e-05,
+      "untrained_ge": 21,
+      "p_raw": 0.11,
+      "untrained_median": -0.00017035244493072998,
+      "untrained_min": -0.0007891468027239485,
+      "untrained_max": 0.0003722083565754489,
+      "p_holm": null
+    },
+    {
+      "model": "8m",
+      "endpoint": "brier_gain",
+      "K": 199,
+      "trained_gain": -0.0025031775494968,
+      "untrained_ge": 175,
+      "p_raw": 0.88,
+      "untrained_median": -0.0005487686334826342,
+      "untrained_min": -0.013965402801162007,
+      "untrained_max": 0.0008295542605263636,
+      "p_holm": null
+    },
+    {
+      "model": "35m",
+      "endpoint": "mae_gain",
+      "K": 199,
+      "trained_gain": 0.0011420405021114232,
+      "untrained_ge": 0,
+      "p_raw": 0.005,
+      "untrained_median": -0.0001880287119607337,
+      "untrained_min": -0.0007446013180805989,
+      "untrained_max": 0.00046564535865182763,
+      "p_holm": 0.01
+    },
+    {
+      "model": "35m",
+      "endpoint": "brier_gain",
+      "K": 199,
+      "trained_gain": 0.028062869517628472,
+      "untrained_ge": 0,
+      "p_raw": 0.005,
+      "untrained_median": -0.0005969239342749625,
+      "untrained_min": -0.014157008675686089,
+      "untrained_max": 0.0005546744108423277,
+      "p_holm": 0.01
+    }
+  ],
+  "pass_both_35m": true
+}

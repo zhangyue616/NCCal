@@ -1,0 +1,409 @@
+{
+  "MS1": [
+    [
+      "Checkpoint",
+      "Architecture and objective",
+      "Reported corpus",
+      "Measured object",
+      "Design"
+    ],
+    [
+      "ChemBERTa-77M-MLM",
+      "RoBERTa; MLM",
+      "77M PubChem",
+      "Final FFN pre-GELU (464 neurons)",
+      "Cross-model comparison [33]"
+    ],
+    [
+      "ChemBERTa-77M-MTR",
+      "RoBERTa; descriptor regression",
+      "77M PubChem",
+      "Final FFN pre-GELU (464 neurons); block-2 post-GELU for locked neurons and panel reconstruction",
+      "Cross-model comparison; development and confirmation analysis ; panel reconstruction and named-task replacement [33]"
+    ],
+    [
+      "CheMeleon",
+      "Directed message passing; 1,613-descriptor regression",
+      "1M PubChem",
+      "Atom-output pre-ReLU (2,048 neurons)",
+      "Cross-model comparison [32]"
+    ],
+    [
+      "MolCLR GIN",
+      "GIN; contrastive",
+      "About 10M PubChem",
+      "Final GIN-MLP pre-ReLU (600 neurons)",
+      "Cross-model comparison [31]"
+    ],
+    [
+      "Hu masking",
+      "GIN; attribute masking",
+      "2M ZINC15",
+      "Final GIN-MLP pre-ReLU (600 neurons)",
+      "Cross-model comparison [30]"
+    ],
+    [
+      "Hu context prediction",
+      "GIN; context prediction",
+      "2M ZINC15",
+      "Final GIN-MLP pre-ReLU (600 neurons)",
+      "Cross-model comparison [30]"
+    ],
+    [
+      "Hu edge prediction",
+      "GIN; edge prediction",
+      "2M ZINC15",
+      "Final GIN-MLP pre-ReLU (600 neurons)",
+      "Cross-model comparison [30]"
+    ],
+    [
+      "Hu deep graph infomax",
+      "GIN; deep graph infomax",
+      "2M ZINC15",
+      "Final GIN-MLP pre-ReLU (600 neurons)",
+      "Cross-model comparison [30]"
+    ],
+    [
+      "MoLFormer-XL-both-10pct",
+      "Linear-attention Transformer; MLM",
+      "10% PubChem + 10% ZINC; about 110M SMILES",
+      "12 FFN pre-GELU layers (768 neurons each); selected layer 10 ; eleventh-block post-GELU for panel reconstruction and replacement",
+      "Separate MoLFormer evaluation ; panel reconstruction and named-task replacement [34,35]"
+    ],
+    [
+      "ESM-2 8M",
+      "Protein language model",
+      "Released ESM-2 pretraining",
+      "Block 3 post-GELU neurons 1246 and 801",
+      "Masked helix–strand reading and replacement (1246); unmasked exposure prediction (801) [36]"
+    ],
+    [
+      "ESM-2 35M",
+      "Protein language model",
+      "Released ESM-2 pretraining",
+      "Block 6 post-GELU neuron 814",
+      "Unmasked exposure prediction [36]"
+    ],
+    [
+      "ESM-2 650M",
+      "Protein language model",
+      "Released ESM-2 pretraining",
+      "Block 16 post-GELU neuron 4566",
+      "Unmasked exposure prediction [36]"
+    ],
+    [
+      "E1-150M",
+      "Protein language model",
+      "Released E1 pretraining",
+      "Post-SwiGLU channels 2192 and 735 (block 15); 2062 and 1900 (block 20)",
+      "Helix–strand and helix-start readings [40]"
+    ],
+    [
+      "ESM C 600M",
+      "Protein language model",
+      "Released ESM C pretraining",
+      "Native feed-forward units with published indices and signs",
+      "Residue annotation labels [23]"
+    ]
+  ],
+  "MS2": [
+    [
+      "Checkpoint",
+      "Neuron readability fold",
+      "Neuron readability p",
+      "Axis preference fold",
+      "Axis preference p",
+      "Evidence status"
+    ],
+    [
+      "ChemBERTa-77M-MLM",
+      "2.46",
+      "0.005",
+      "1.53",
+      "0.005",
+      "Family-corrected joint"
+    ],
+    [
+      "ChemBERTa-77M-MTR",
+      "1.83",
+      "0.005",
+      "1.74",
+      "0.005",
+      "Family-corrected joint"
+    ],
+    [
+      "CheMeleon",
+      "1.14",
+      "0.015",
+      "1.97",
+      "0.005",
+      "Nominal joint only"
+    ],
+    [
+      "MolCLR GIN",
+      "1.82",
+      "0.005",
+      "1.05",
+      "0.130",
+      "Neuron readability test only"
+    ],
+    [
+      "Hu masking",
+      "1.01",
+      "0.625",
+      "0.953",
+      "0.970",
+      "Neither criterion"
+    ],
+    [
+      "Hu contextpred",
+      "0.664",
+      "1.000",
+      "1.09",
+      "0.005",
+      "Axis preference test only"
+    ],
+    [
+      "Hu edgepred",
+      "0.999",
+      "0.515",
+      "1.06",
+      "0.110",
+      "Neither criterion"
+    ],
+    [
+      "Hu infomax",
+      "0.631",
+      "1.000",
+      "1.24",
+      "0.005",
+      "Axis preference test only"
+    ],
+    [
+      "MoLFormer (layer 10)",
+      "2.18",
+      "0.005",
+      "1.34",
+      "0.005",
+      "Layer-calibrated joint (maximum-over-layers axis preference test p = 0.005)"
+    ]
+  ],
+  "SI1": [
+    [
+      "Transfer statistic",
+      "Log-lift contrast",
+      "95% interval"
+    ],
+    [
+      "Axis preference (Θ)",
+      "0.507",
+      "[0.493, 0.522]"
+    ],
+    [
+      "Readability ( G init )",
+      "1.880",
+      "[1.859, 1.892]"
+    ]
+  ],
+  "SI2": [
+    [
+      "ESM-2 model",
+      "Block / neuron",
+      "MAE gain",
+      "Paired Brier gain",
+      "Pairs correct"
+    ],
+    [
+      "8M",
+      "3 / 801",
+      "0.000045",
+      "−0.002503",
+      "532"
+    ],
+    [
+      "35M",
+      "6 / 814",
+      "0.001142",
+      "0.028063",
+      "632"
+    ],
+    [
+      "650M",
+      "16 / 4566",
+      "−0.000029",
+      "0.016056",
+      "614"
+    ],
+    [
+      "650M sensitivity",
+      "17 / 4361",
+      "−0.000209",
+      "0.002154",
+      "549"
+    ]
+  ],
+  "SI3": [
+    [
+      "Reading / output",
+      "Concept-mean R 2",
+      "Bonding-environment R 2 (95% CI)",
+      "Mean-replacement MAE",
+      "Bonding-environment MAE"
+    ],
+    [
+      "Hydroxyl 293 / 115",
+      "0.662",
+      "0.834 [0.822, 0.844]",
+      "0.02019",
+      "0.00586"
+    ],
+    [
+      "Carbonyl 454 / 124",
+      "0.492",
+      "0.635 [0.628, 0.641]",
+      "0.00437",
+      "0.00233"
+    ]
+  ],
+  "SI4": [
+    [
+      "Encoder / network",
+      "Atom type",
+      "Bonding environment",
+      "Increment"
+    ],
+    [
+      "ChemBERTa-MTR trained",
+      "0.1058",
+      "0.5605",
+      "0.4547"
+    ],
+    [
+      "ChemBERTa-MTR untrained",
+      "0.3845–0.4330",
+      "0.4050–0.4533",
+      "0.0203–0.0215"
+    ],
+    [
+      "MoLFormer trained",
+      "0.0989",
+      "0.3260",
+      "0.2272"
+    ],
+    [
+      "MoLFormer untrained",
+      "0.8386–0.8518",
+      "0.8654–0.8784",
+      "0.0266–0.0269"
+    ]
+  ],
+  "SI5": [
+    [
+      "Model/output",
+      "Units",
+      "Usable",
+      "Retained",
+      "Failed",
+      "Unresolved"
+    ],
+    [
+      "ChemBERTa",
+      "464",
+      "54",
+      "26",
+      "5",
+      "23"
+    ],
+    [
+      "MoLFormer BACE",
+      "768",
+      "16",
+      "11",
+      "1",
+      "4"
+    ],
+    [
+      "MoLFormer ESOL",
+      "768",
+      "25",
+      "23",
+      "0",
+      "2"
+    ]
+  ],
+  "SI6": [
+    [
+      "Neuron",
+      "OH→H",
+      "OH→OMe",
+      "Ketone→CH₂",
+      "Acid→ester"
+    ],
+    [
+      "293",
+      "Yes",
+      "Yes",
+      "No",
+      "Yes"
+    ],
+    [
+      "454",
+      "No",
+      "No",
+      "Yes",
+      "No"
+    ]
+  ],
+  "SI7": [
+    [
+      "Basis",
+      "Directions",
+      "Retained"
+    ],
+    [
+      "Native",
+      "464",
+      "26"
+    ],
+    [
+      "Rotations",
+      "464",
+      "0–4"
+    ],
+    [
+      "Principal",
+      "464",
+      "8"
+    ],
+    [
+      "Dictionaries",
+      "928",
+      "53–55"
+    ],
+    [
+      "Top-464 dictionaries",
+      "464",
+      "41–44"
+    ]
+  ],
+  "SI8": [
+    [
+      "Protein frame",
+      "Eligible",
+      "Same AA",
+      "Sequence increment"
+    ],
+    [
+      "Confirmation",
+      "98",
+      "88",
+      "61"
+    ],
+    [
+      "Reserved/new",
+      "98",
+      "77",
+      "52"
+    ]
+  ]
+}

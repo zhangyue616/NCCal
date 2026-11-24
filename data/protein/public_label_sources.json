@@ -1,0 +1,51 @@
+[
+  {
+    "name": "retest__esm2_8m__e1_per_concept.parquet",
+    "url": "https://huggingface.co/datasets/GleghornLab/esmc_native_units_results/resolve/29283783665606476858b8e711fdb2fa0d048e58/retest/esm2_8m/e1_per_concept.parquet",
+    "bytes": 345058,
+    "sha256": "e7541ca20bfe6da5c2dd92699112e6572a8931015a2610146c438cdfb1e3b71c",
+    "redistribution": "Original table omitted; license not confirmed by the available offline record."
+  },
+  {
+    "name": "retest__esm2_650m__e1_per_concept.parquet",
+    "url": "https://huggingface.co/datasets/GleghornLab/esmc_native_units_results/resolve/29283783665606476858b8e711fdb2fa0d048e58/retest/esm2_650m/e1_per_concept.parquet",
+    "bytes": 352275,
+    "sha256": "31594e58ccc9da9077c8382252a3d008f8ad43b8a7718c3493b7be065e482371",
+    "redistribution": "Original table omitted; license not confirmed by the available offline record."
+  },
+  {
+    "name": "retest_esmc__esmc_600__e13_per_concept.parquet",
+    "url": "https://huggingface.co/datasets/GleghornLab/esmc_native_units_results/resolve/29283783665606476858b8e711fdb2fa0d048e58/retest_esmc/esmc_600/e13_per_concept.parquet",
+    "bytes": 255793,
+    "sha256": "a6d2693e7947f1319b6aa5eaba8bd2f37421b16826da43d1cc56a7848d52847e",
+    "redistribution": "Original table omitted; license not confirmed by the available offline record."
+  },
+  {
+    "name": "retest_esmc__esmc_600_depth__e13_per_concept.parquet",
+    "url": "https://huggingface.co/datasets/GleghornLab/esmc_native_units_results/resolve/29283783665606476858b8e711fdb2fa0d048e58/retest_esmc/esmc_600_depth/e13_per_concept.parquet",
+    "bytes": 922694,
+    "sha256": "5fb7442ef163efaf284085b6b288db90f81970e2c9e62b6358576f727b1baba7",
+    "redistribution": "Original table omitted; license not confirmed by the available offline record."
+  },
+  {
+    "name": "retest_esmc__esmc_600_mlp__e13_per_concept.parquet",
+    "url": "https://huggingface.co/datasets/GleghornLab/esmc_native_units_results/resolve/29283783665606476858b8e711fdb2fa0d048e58/retest_esmc/esmc_600_mlp/e13_per_concept.parquet",
+    "bytes": 51470,
+    "sha256": "7f192247ed759ca9798d62e533f15ff4a2128000e129de2701627fe3e90412ba",
+    "redistribution": "Original table omitted; license not confirmed by the available offline record."
+  },
+  {
+    "name": "banerjee_8M.csv",
+    "url": "https://raw.githubusercontent.com/arjun-banerjee/PLMNeuron/19a74a553c384430633462987eca0dce8603cc90/analysis/esm8M_500k_neuron_explanations.csv",
+    "bytes": 759985,
+    "sha256": "a651405b2a0f31cade13f0f20f02096a1a41015e2eb50b6a8c49fe348da0df33",
+    "redistribution": "Original table omitted; license not confirmed by the available offline record."
+  },
+  {
+    "name": "banerjee_35M.csv",
+    "url": "https://raw.githubusercontent.com/arjun-banerjee/PLMNeuron/19a74a553c384430633462987eca0dce8603cc90/analysis/esm35M_500k_neuron_explanations.csv",
+    "bytes": 1377834,
+    "sha256": "dc31e53157423873c62190a47b5ba241c7b87d43ca316ddc518ad02758f7736a",
+    "redistribution": "Original table omitted; license not confirmed by the available offline record."
+  }
+]

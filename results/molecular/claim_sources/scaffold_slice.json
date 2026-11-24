@@ -1,0 +1,7 @@
+{
+  "n_molecules": 7205,
+  "n_atoms": 193190,
+  "original_n_atoms": 246722,
+  "mask_sha256": "9868f076079c3321a37ce0c4ccbe109c3b6caa921380f3d83758dcac102d992b",
+  "freeze_sha256": "2343a2991c03b4ca6c36ad0d508a3146c75d3c8e89973f950aa884c8145c2ea3"
+}
