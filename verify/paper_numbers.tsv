@@ -70,19 +70,28 @@ MS-0067	MS10	26	1146	citation identifier	Reference index		1
 MS-0068	MS10	29	1149	citation identifier	Reference index		1		
 MS-0069	MS11	Four	304	study evidence selection	figures/native/main_1.py	Design: count the named scientific tests in the overview.	1		
 MS-0070	MS11	1	345	identifier or cross-reference	See experiment directory for the associated analysis		1		
-MS-2233	MS11	15	648	citation identifier	Reference index		1		
-MS-2234	MS11	24	651	citation identifier	Reference index		1		
-MS-0071	MS13	1	7	identifier or cross-reference	See experiment directory for the associated analysis		1		
-MS-0072	MS13	Four	10	study evidence selection	figures/native/main_1.py	Design: count the named scientific tests in the overview.	1		
-MS-0073	MS13	77	110	identifier or cross-reference	See experiment directory for the associated analysis		1		
-MS-0074	MS13	one	127	study evidence selection	results/artwork/main/activation_output.json	Design: one scalar activation per atom for a specified physical coordinate in the saved exemplar.	1		
-MS-0075	MS13	1	163	identifier or cross-reference	See experiment directory for the associated analysis		1		
-MS-0076	MS13	2	278	identifier or cross-reference	See experiment directory for the associated analysis		1		
-MS-0077	MS13	3	407	identifier or cross-reference	See experiment directory for the associated analysis		1		
-MS-0078	MS13	4	494	identifier or cross-reference	See experiment directory for the associated analysis		1		
-MS-0079	MS13	2	599	identifier or cross-reference	See experiment directory for the associated analysis		1		
-MS-0080	MS13	two	661	study evidence selection	experiments/08_protein_pair_replay/PROTOCOL.md | experiments/09_protein_exposure/PROTOCOL.md	Study design comprises the masked helix/strand question and the unmasked solvent-accessibility question.	1		
-MS-0081	MS13	two	743	study evidence selection	results/protein/published_label_audit/label_audit/inputs/pairs.tsv	Pair design: two distinct sites with the same recorded amino acid; check distinct site indices in every row.	1		
+MS-2233	MS11	15	651	citation identifier	Reference index		1		
+MS-2234	MS11	24	654	citation identifier	Reference index		1		
+MS-2293	MS11	1	866	identifier or cross-reference	figures/inventory.json	Main Figure 1 panel reference in the author-approved Introduction.	1		
+MS-2294	MS11	1	956	identifier or cross-reference	figures/inventory.json	Main Figure 1 panel reference in the author-approved Introduction.	1		
+MS-2275	MS13	1	7	identifier or cross-reference	figures/inventory.json	Main-figure identifier in the author-approved overview caption.	1		
+MS-2276	MS13	ChemBERTa-77M-MTR	91	affiliation or model metadata	results/tables/model_study_design.json	Frozen molecular encoder model identity.	1		
+MS-2277	MS13	one	118	explanatory example	figures/native/main_1.py	One scalar activation per neuron and atom in the illustrated measurement.	1		
+MS-2278	MS13	1	154	equation or test identifier	figures/native/main_1.py	Ordinal of calibration, transfer, reconstruction or output preservation in panels b-e.	1		
+MS-2288	MS13	two	189	study evidence selection	results/artwork/examples/Fig6d_Q9I398_E1_1900.json	Figure 1g: count the distinct arginine sites in the exact frozen Q9I398 example.	1		
+MS-2279	MS13	2	223	equation or test identifier	figures/native/main_1.py	Ordinal of calibration, transfer, reconstruction or output preservation in panels b-e.	1		
+MS-2280	MS13	3	302	equation or test identifier	figures/native/main_1.py	Ordinal of calibration, transfer, reconstruction or output preservation in panels b-e.	1		
+MS-2281	MS13	4	393	equation or test identifier	figures/native/main_1.py	Ordinal of calibration, transfer, reconstruction or output preservation in panels b-e.	1		
+MS-2282	MS13	one	523	study evidence selection	results/artwork/examples/Fig5d_CID66277342_three_SMILES.json	Figure 1f: count the single fixed molecule in the three-notation example.	1		
+MS-2283	MS13	three	539	study evidence selection	results/artwork/examples/Fig5d_CID66277342_three_SMILES.json	Figure 1f: count the saved SMILES encodings in the fixed molecular example.	1		
+MS-2284	MS13	464	822	bound numerical result	src/nccal/metrics.py	native.physical_n.min	1		
+MS-2285	MS13	one	955	study evidence selection	data/artwork/protein_masked_geometry.json	Figure 1g: count the single structural chain used for the illustrative alanine pair.	1		
+MS-2286	MS13	2CZL	970	symbol, model, or record identifier	data/artwork/protein_masked_geometry.json	PDB identifier of the illustrative alanine-pair geometry; digits are part of the identifier.	1		
+MS-2287	MS13	E1-1900	1014	symbol, model, or record identifier	results/artwork/examples/Fig6d_Q9I398_E1_1900.json	E1 model and fixed neuron identity; digits are part of the identifier.	1		
+MS-2289	MS13	Q9I398	1039	symbol, model, or record identifier	results/artwork/examples/Fig6d_Q9I398_E1_1900.json	UniProt accession of the E1 example; digits are part of the accession.	1		
+MS-2290	MS13	ESM-2	1131	affiliation or model metadata	results/artwork/main/exposure_example.json	Protein model family; digit is part of the model identity.	1		
+MS-2291	MS13	35M	1137	affiliation or model metadata	results/artwork/main/exposure_example.json	Protein checkpoint scale in the fixed exposure example.	1		
+MS-2292	MS13	814	1148	study evidence selection	results/artwork/main/exposure_example.json	Figure 1g: read the development-selected ESM-2 35M exposure neuron.	1		
 MS-0082	MS14	77	10	identifier or cross-reference	See experiment directory for the associated analysis		1		
 MS-0083	MS14	5,000	144	bound numerical result	src/nccal/metrics.py	anchors.D.molecules	1		
 MS-0084	MS14	84	171	bound numerical result	src/nccal/metrics.py	rewrite.293.canonical_R2	100		
@@ -686,8 +695,8 @@ MS-0648	MS110	1	411	symbol, model, or record identifier	See experiment directory
 MS-0649	MS110	2	565	identifier or cross-reference	See experiment directory for the associated analysis		1		
 MS-0650	MS110	814	584	study evidence selection	data/protein/forward_subset_identifiers.json	Read the ESM-2 exposure reconstruction target from the recorded checkpoint and FFN selection.	1		
 MS-0651	MS110	4566	592	study evidence selection	data/protein/forward_subset_identifiers.json	Read the development-selected ESM-2 650M exposure unit at the primary site.	1		
-MS-0652	MS110	26	1021	citation identifier	Reference index		1		
-MS-0653	MS110	29	1024	citation identifier	Reference index		1		
+MS-0652	MS110	26	1394	citation identifier	Reference index		1		
+MS-0653	MS110	29	1397	citation identifier	Reference index		1		
 MS-0654	MS111	three	14	editorial count	MS: Discussion	The three Before clauses address notation, replacement and matched amino acids.	1		
 MS-0655	MS111	0.8	191	study evidence selection	experiments/05_molecular_rewrites/PROTOCOL.md	Protocol setting: threshold for the prespecified same-atom tracking subgroup.	1		
 MS-0656	MS111	98	469	study evidence selection	results/tables/public_label_flags.json	Count the formally evaluable published residue annotations in the confirmation frame.	1		
@@ -722,8 +731,8 @@ MS-0684	MS121	140	94	bound numerical result	src/nccal/metrics.py	e1.1900.groups	
 MS-0685	MS121	199	118	bound numerical result	src/nccal/metrics.py	e1.1900.random_K	1		
 MS-0686	MS121	nine	145	bound numerical result	src/nccal/metrics.py	e1.1900.rotation_K	1		
 MS-0687	MS123	1	213	identifier or cross-reference	See experiment directory for the associated analysis		1		
-MS-0688	MS123	four	425	study evidence selection	experiments	Count the named protocols for rewriting, group edits, basis comparison and published-label evaluation.	1		
-MS-0689	MS123	1	466	identifier or cross-reference	See experiment directory for the associated analysis		1		
+MS-0688	MS123	four	438	study evidence selection	experiments	Count the named protocols for rewriting, group edits, basis comparison and published-label evaluation.	1		
+MS-0689	MS123	1	213	identifier or cross-reference	See experiment directory for the associated analysis		1		
 MS-0690	MS125	1	283	availability or authorship metadata	See experiment directory for the associated analysis		1		
 MS-0691	MS125	616	532	availability or authorship metadata	See experiment directory for the associated analysis		1		
 MS-0692	MS125	1.0	556	availability or authorship metadata	See experiment directory for the associated analysis		1		
@@ -738,7 +747,7 @@ MS-0700	MS131	6.1	34	availability or authorship metadata	See experiment director
 MS-0701	MS131	5.5	70	availability or authorship metadata	See experiment directory for the associated analysis		1		
 MS-0702	MS131	2026	223	availability or authorship metadata	See experiment directory for the associated analysis		1		
 MS-0703	MS131	5.2	340	availability or authorship metadata	See experiment directory for the associated analysis		1		
-MS-0704	MS131	five	401	availability or authorship metadata	See experiment directory for the associated analysis		1		
+MS-0704	MS131	six	401	availability or authorship metadata	See experiment directory for the associated analysis		1		
 MS-0705	MS132	5.5	51	availability or authorship metadata	See experiment directory for the associated analysis		1		
 MS-0706	MS132	6	229	availability or authorship metadata	See experiment directory for the associated analysis		1		
 MS-0707	MS132	6.1	294	availability or authorship metadata	See experiment directory for the associated analysis		1		
@@ -1321,9 +1330,9 @@ MS-1283	MS2:r9c3	1.34	0	checked table cell	src/nccal/tables.py	MS2	1	9	3
 MS-1284	MS2:r9c4	0.005	0	checked table cell	src/nccal/tables.py	MS2	1	9	4
 MS-1285	MS2:r9c5	0.005	69	checked table cell	src/nccal/tables.py	MS2	1	9	5
 SI-1286	SI2	616	16	availability or authorship metadata	Supplementary figures; see figures/inventory.tsv		1		
-SI-1287	SI3	Eight	65	study evidence selection	verify/table_display.json	Document structure: count the eight distinct supplementary summary tables.	1		
-SI-1288	SI3	1	176	identifier or cross-reference	Supplementary figures; see figures/inventory.tsv		1		
-SI-1289	SI3	2	269	identifier or cross-reference	Supplementary figures; see figures/inventory.tsv		1		
+SI-1287	SI3	Eight	80	study evidence selection	verify/table_display.json	Document structure: count the eight distinct supplementary summary tables.	1		
+SI-1288	SI3	1	191	identifier or cross-reference	Supplementary figures; see figures/inventory.tsv		1		
+SI-1289	SI3	2	284	identifier or cross-reference	Supplementary figures; see figures/inventory.tsv		1		
 SI-1290	SI5	one	38	study evidence selection	data/molecular_cohort_sources.json	Count the original PubChem intake pool in the archived cohort declarations.	1		
 SI-1291	SI5	50,000	50	bound numerical result	src/nccal/metrics.py	molecules.initial.cid	1		
 SI-1292	SI5	37	76	citation identifier	Reference index		1		
@@ -1989,185 +1998,185 @@ SI-1943	SI82	twelve	554	study evidence selection	results/protein/published_label
 SI-1944	SI82	1	615	identifier or cross-reference	Section S-T		1		
 SI-1945	SI82	4	620	identifier or cross-reference	Section S-T		1		
 SI-1946	SI83	8	14	identifier or cross-reference	Section S-T		1		
-SI-1947	SI85	1.0	87	availability or authorship metadata	Supplementary figures; see figures/inventory.tsv		1		
-SI-1948	SI85	0	91	availability or authorship metadata	Supplementary figures; see figures/inventory.tsv		1		
-SI-1949	SI85	54	105	availability or authorship metadata	Supplementary figures; see figures/inventory.tsv		1		
-SI-1950	SI85	1	129	availability or authorship metadata	Supplementary figures; see figures/inventory.tsv		1		
-SI-1951	SI85	16	287	availability or authorship metadata	Supplementary figures; see figures/inventory.tsv		1		
-SI-1952	SI85	4	485	availability or authorship metadata	Supplementary figures; see figures/inventory.tsv		1		
-SI-1953	SI85	17	494	availability or authorship metadata	Supplementary figures; see figures/inventory.tsv		1		
-SI-1954	SI85	18	591	availability or authorship metadata	Supplementary figures; see figures/inventory.tsv		1		
-SI-1955	SI85	4	605	availability or authorship metadata	Supplementary figures; see figures/inventory.tsv		1		
-SI-1956	SI85	19	792	availability or authorship metadata	Supplementary figures; see figures/inventory.tsv		1		
-SI-1957	SI86	5.5	146	availability or authorship metadata	Supplementary figures; see figures/inventory.tsv		1		
-SI-1958	SI86	6	282	availability or authorship metadata	Supplementary figures; see figures/inventory.tsv		1		
-SI-1959	SI86	6.1	345	availability or authorship metadata	Supplementary figures; see figures/inventory.tsv		1		
-SI-1960	SI86	6.1	419	availability or authorship metadata	Supplementary figures; see figures/inventory.tsv		1		
-SI-1961	SI86	32	442	availability or authorship metadata	Supplementary figures; see figures/inventory.tsv		1		
-SI-1962	SI86	1246	481	availability or authorship metadata	Supplementary figures; see figures/inventory.tsv		1		
-SI-1963	SI89	1	10	identifier or cross-reference	Supplementary figures; see figures/inventory.tsv		1		
-SI-1964	SI89	39	133	study evidence selection	results/artwork/supplement/figure_s_b1.json	Historical H3 initialization-reference count; separate from the later 199-reference calibration.	1		
-SI-1965	SI89	eight	160	study evidence selection	results/artwork/supplement/figure_s_b1.json	Count archived H3 model/readout rows.	1		
-SI-1966	SI89	1	327	study evidence selection	figures/native/supplement_audits.py	Figure S-B1 geometry: fold-axis neutral reference line, a ratio of one.	1		
-SI-1967	SI91	1	10	identifier or cross-reference	Supplementary figures; see figures/inventory.tsv		1		
-SI-1968	SI91	593	85	study evidence selection	results/artwork/supplement/figure_s_c1.json	Released tokenizer vocabulary row count, including unused and special tokens.	1		
-SI-1969	SI91	20,000	155	study evidence selection	results/artwork/supplement/figure_s_c1.json	Number of molecule strings in the frozen pilot corpus.	1		
-SI-1970	SI91	0.392	225	study evidence selection	results/artwork/supplement/figure_s_c1.json	Archived expected random-initialization embedding norm for the MTR architecture.	1		
-SI-1971	SI91	four	283	study evidence selection	figures/native/supplement_tokenizer.py; results/artwork/supplement/figure_s_c1.json	Count only the explicit tokenizer strings rendered in panel c, rather than every archived candidate example.	1		
-SI-1972	SI93	2	10	identifier or cross-reference	Supplementary figures; see figures/inventory.tsv		1		
-SI-1973	SI93	77	23	identifier or cross-reference	Supplementary figures; see figures/inventory.tsv		1		
-SI-1974	SI93	six	73	study evidence selection	data/artwork/molecular_example_depictions.json	Count rendered molecule cells within each chemberta_mlm concept panel; distinct from the number of concepts.	1		
-SI-1975	SI93	one	107	study evidence selection	results/artwork/supplement/figure_s_c2.json	One named concept supplies each group of six illustrated molecular examples.	1		
-SI-1976	SI93	six	114	study evidence selection	results/artwork/supplement/figure_s_c2.json	Count fixed concept panels in the frozen activation-example specification.	1		
-SI-1977	SI93	100	229	study evidence selection	results/artwork/supplement/figure_s_c2.json	Figure S-C2: precision@k denominator encoded by the original precision_top100 field, not the number of displayed molecules.	1		
-SI-1978	SI93	39	248	study evidence selection	results/artwork/supplement/figure_s_b1.json	Historical H3 initialization-reference count; separate from the later 199-reference calibration.	1		
-SI-1979	SI93	30	377	study evidence selection	figures/native/supplement_examples.py	Figure S-C2–C4 depiction design: actual non-target highlight cutoff in draw_cell_grid, multiplied by 100 for percent of each molecule's peak.	1		
-SI-1980	SI95	3	10	identifier or cross-reference	Supplementary figures; see figures/inventory.tsv		1		
-SI-1981	SI95	77	23	identifier or cross-reference	Supplementary figures; see figures/inventory.tsv		1		
-SI-1982	SI95	six	56	study evidence selection	results/artwork/supplement/figure_s_c3.json	Count fixed concept panels in the frozen activation-example specification.	1		
-SI-1983	SI95	six	106	study evidence selection	results/artwork/supplement/figure_s_c3.json	Count fixed concept panels in the frozen activation-example specification.	1		
-SI-1984	SI95	30	246	study evidence selection	figures/native/supplement_examples.py	Figure S-C2–C4 depiction design: actual non-target highlight cutoff in draw_cell_grid, multiplied by 100 for percent of each molecule's peak.	1		
-SI-1985	SI95	2	318	identifier or cross-reference	Supplementary figures; see figures/inventory.tsv		1		
-SI-1986	SI97	4	10	identifier or cross-reference	Supplementary figures; see figures/inventory.tsv		1		
-SI-1987	SI97	six	65	study evidence selection	data/artwork/molecular_example_depictions.json	Count rendered molecule cells within each chemeleon concept panel; distinct from the number of concepts.	1		
-SI-1988	SI97	30	225	study evidence selection	figures/native/supplement_examples.py	Figure S-C2–C4 depiction design: actual non-target highlight cutoff in draw_cell_grid, multiplied by 100 for percent of each molecule's peak.	1		
-SI-1989	SI97	2	313	identifier or cross-reference	Supplementary figures; see figures/inventory.tsv		1		
-SI-1990	SI99	5	10	identifier or cross-reference	Supplementary figures; see figures/inventory.tsv		1		
-SI-1991	SI99	two	47	study evidence selection	results/artwork/supplement/figure_s_b1.json	Design: count the two named calibration criteria J1 and J2.	1		
-SI-1992	SI99	eight	82	study evidence selection	results/artwork/supplement/figure_s_b1.json	Count archived H3 model/readout rows.	1		
-SI-1993	SI99	173	101	bound numerical result	src/nccal/metrics.py	trace.figure_2_ab__1.audit.molformer_primary.n_concepts	1		
-SI-1994	SI99	one	135	study evidence selection	results/artwork/supplement/figure_s_c5.json	Leave-one-out reference: compare each single untrained network with every other recorded reference network.	1		
-SI-1995	SI99	38	175	study evidence selection	results/artwork/supplement/figure_s_b1.json	For one untrained network, compare it with the remaining historical untrained networks: 39 minus itself.	1		
-SI-1996	SI99	0.05	278	study evidence selection	figures/native/supplement_examples.py	Figure S-C5 design: actual nominal p threshold used to fill a positive-effect diamond; this is not a family-adjusted decision.	1		
-SI-1997	SI99	1	307	study evidence selection	figures/native/supplement_examples.py	Figure S-C5 geometry: neutral fold-one line on each logarithmic axis.	1		
-SI-1998	SI101	6	10	identifier or cross-reference	Supplementary figures; see figures/inventory.tsv		1		
-SI-1999	SI101	three	111	study evidence selection	results/artwork/supplement/figure_s_c6.json	Count initialization-network measurements in the earlier pilot; not the main rank-test family.	1		
-SI-2000	SI101	ten	140	study evidence selection	results/artwork/supplement/figure_s_c6.json	Count earlier pilot rotation measurements; not independent networks.	1		
-SI-2001	SI101	20,000	157	study evidence selection	results/artwork/supplement/figure_s_c1.json	Number of molecule strings in the frozen pilot corpus.	1		
-SI-2002	SI101	100	199	identifier or cross-reference	Supplementary figures; see figures/inventory.tsv		1		
-SI-2003	SI101	85	247	study evidence selection	results/artwork/supplement/figure_s_c6.json	Count nitro-concept atoms in the MTR example top-100 composition.	1		
-SI-2004	SI101	56	302	study evidence selection	results/artwork/supplement/figure_s_c6.json	Count ketone carbonyl-carbon atoms in the CheMeleon example top-100 composition.	1		
-SI-2005	SI101	32	333	study evidence selection	results/artwork/supplement/figure_s_c6.json	Count sulfonyl sulfur atoms in the CheMeleon example top-100 composition.	1		
-SI-2006	SI103	1	10	identifier or cross-reference	Supplementary figures; see figures/inventory.tsv		1		
-SI-2007	SI103	three	36	bound numerical result	src/nccal/metrics.py	clamp.objects	1		
-SI-2008	SI103	two	64	study evidence selection	results/artwork/supplement/figure_s_e1.json	Count the two carbonyl definitions sharing one physical coordinate.	1		
-SI-2009	SI103	454	102	bound numerical result	src/nccal/metrics.py	clamp.24.unit	1		
-SI-2010	SI103	293	138	bound numerical result	src/nccal/metrics.py	clamp.26.unit	1		
-SI-2011	SI103	five	225	bound numerical result	src/nccal/metrics.py	clamp.26.controls	1		
-SI-2012	SI103	three	351	bound numerical result	src/nccal/metrics.py	clamp.objects	1		
-SI-2013	SI103	2,000	388	bound numerical result	src/nccal/metrics.py	clamp.bootstrap	1		
-SI-2014	SI103	200	455	bound numerical result	src/nccal/metrics.py	clamp.26.positive	1		
-SI-2015	SI103	200	472	bound numerical result	src/nccal/metrics.py	clamp.26.negative	1		
-SI-2016	SI103	five	566	bound numerical result	src/nccal/metrics.py	clamp.26.controls	1		
-SI-2017	SI105	1	10	identifier or cross-reference	Supplementary figures; see figures/inventory.tsv		1		
-SI-2018	SI105	1,304	46	bound numerical result	src/nccal/metrics.py	1246.n	1		
-SI-2019	SI105	1246	197	study evidence selection	results/artwork/main/concept_protein.json	Read the frozen ESM-2 alanine helix/strand FFN coordinate.	1		
-SI-2020	SI105	870	247	bound numerical result	src/nccal/metrics.py	1246.higher	1		
-SI-2021	SI105	434	282	bound numerical result	src/nccal/metrics.py	1246.lower	1		
-SI-2022	SI105	716	342	bound numerical result	src/nccal/metrics.py	1246.higher.improves	1		
-SI-2023	SI105	383	377	bound numerical result	src/nccal/metrics.py	1246.lower.worsens	1		
-SI-2024	SI107	2	10	identifier or cross-reference	Supplementary figures; see figures/inventory.tsv		1		
-SI-2025	SI107	two	85	study evidence selection	results/artwork/supplement/exposure_inference.tsv	Figure S-G2: distinct endpoint names mae_gain and brier_gain, not the number of model widths.	1		
-SI-2026	SI107	10	160	mathematical notation	figures/native/supplement_exposure_endpoints.py	Radix ten in the axis display unit for the two exposure endpoints.	1		
-SI-2027	SI107	³	163	mathematical notation	Supplementary figures; see figures/inventory.tsv		1		
-SI-2028	SI107	199	187	study evidence selection	results/artwork/supplement/exposure_inference.tsv	Figure S-G2: untrained networks per model and endpoint from the saved inference denominator K.	1		
-SI-2029	SI107	nine	221	study evidence selection	results/artwork/supplement/exposure_rotations.tsv	Figure S-G2: count non-native basis rows per model; these nine rotations are dependent references.	1		
-SI-2030	SI107	814	303	study evidence selection	data/protein/forward_subset_identifiers.json	Read the ESM-2 exposure reconstruction target from the recorded checkpoint and FFN selection.	1		
-SI-2031	SI107	8	402	symbol, model, or record identifier	Supplementary figures; see figures/inventory.tsv		1		
-SI-2032	SI109	3	10	identifier or cross-reference	Supplementary figures; see figures/inventory.tsv		1		
-SI-2033	SI109	1246	43	study evidence selection	results/artwork/main/concept_protein.json	Read the frozen ESM-2 alanine helix/strand FFN coordinate.	1		
-SI-2034	SI109	three	65	study evidence selection	results/artwork/main/concept_protein.json	Count paired Brier gains over composition, ordered local sequence and interaction references.	1		
-SI-2035	SI109	three	199	study evidence selection	results/artwork/main/concept_protein.json	Count paired Brier gains over composition, ordered local sequence and interaction references.	1		
-SI-2036	SI109	95	304	study evidence selection	results/artwork/main/concept_protein.json	Figure S-G3 thick bars: nominal percent encoded by the stored CI95 lower/upper fields.	1		
-SI-2037	SI109	98.75	312	study evidence selection	results/artwork/main/concept_protein.json	Figure S-G3 thin bars: nominal percent encoded by stored CI98_75 lower/upper fields.	1		
-SI-2038	SI109	1,304	332	bound numerical result	src/nccal/metrics.py	1246.n	1		
-SI-2039	SI109	four	350	study evidence selection	results/artwork/main/concept_protein.json	Count rejected tests in the four-endpoint within-protein Holm family.	1		
-SI-2040	SI109	1	396	identifier or cross-reference	Supplementary figures; see figures/inventory.tsv		1		
-SI-2041	SI111	4	10	identifier or cross-reference	Supplementary figures; see figures/inventory.tsv		1		
-SI-2042	SI111	Four	13	study evidence selection	figures/native/supplement_protein_validation.py	Figure S-G4 layout: count the four named interpretation checks a–d, excluding the separate decision ledger e.	1		
-SI-2043	SI111	one	93	study evidence selection	results/protein/external_validation/validation/blind_benchmark/fixed_pair_background.npz	Figure S-G4a design: one fixed natural residue-pair activation difference row per distinct homology group.	1		
-SI-2044	SI111	1,280	142	study evidence selection	results/artwork/supplement/protein_null_summary.json	Figure S-G4a design: physical activation axes searched per random-label trial, excluding the separate sign count.	1		
-SI-2045	SI111	23	156	study evidence selection	results/artwork/supplement/protein_null_summary.json	Figure S-G4a: actual development homology-group count.	1		
-SI-2046	SI111	1,999	229	study evidence selection	results/artwork/supplement/protein_null_summary.json	Figure S-G4a: independent null full-search maxima used for maximum-search calibration.	1		
-SI-2047	SI111	24	297	study evidence selection	results/artwork/supplement/protein_null_summary.json	Figure S-G4a: other homology groups used to test the development-locked axis.	1		
-SI-2048	SI111	95	345	study evidence selection	results/artwork/supplement/protein_null_summary.json	Figure S-G4a design: nominal Wilson Monte Carlo interval percent encoded in retention_mc95 fields.	1		
-SI-2049	SI111	1,000	373	study evidence selection	results/artwork/supplement/protein_null_summary.json	Figure S-G4a: number of random-label trials, distinct from independent calibration searches.	1		
-SI-2050	SI111	500	394	study evidence selection	results/artwork/supplement/protein_null_summary.json	Figure S-G4b: number of trials in each displayed known-generator signal condition.	1		
-SI-2051	SI111	one	420	study evidence selection	experiments/13_external_validation/PROTOCOL.md	Figure S-G4b design: the frozen protocol's single-axis generating condition.	1		
-SI-2052	SI111	eight	427	study evidence selection	experiments/13_external_validation/PROTOCOL.md	Figure S-G4b design: the frozen protocol's eight-axis distributed generating condition.	1		
-SI-2053	SI111	2	681	identifier or cross-reference	Supplementary figures; see figures/inventory.tsv		1		
-SI-2054	SI111	35	683	symbol, model, or record identifier	Supplementary figures; see figures/inventory.tsv		1		
-SI-2055	SI111	814	694	study evidence selection	data/protein/forward_subset_identifiers.json	Read the ESM-2 exposure reconstruction target from the recorded checkpoint and FFN selection.	1		
-SI-2056	SI111	one	711	study evidence selection	results/protein/external_validation/validation/known_basis/SUMMARY.json	Figure S-G4c: smallest planted support size among the four plotted function-preserving transforms.	1		
-SI-2057	SI111	16	718	study evidence selection	results/protein/external_validation/validation/known_basis/SUMMARY.json	Figure S-G4c: largest planted support size among the four plotted transforms.	1		
-SI-2058	SI111	15	840	study evidence selection	results/protein/external_validation/validation/known_basis/SUMMARY.json	Figure S-G4c: held-out T homology groups used to evaluate activation recovery.	1		
-SI-2059	SI111	two	904	study evidence selection	results/artwork/supplement/protein_repeated_structures.tsv	Figure S-G4d: distinct original and second PDB entries for each atom-matched repeated-structure residue pair.	1		
-SI-2060	SI111	814	1090	study evidence selection	data/protein/forward_subset_identifiers.json	Read the ESM-2 exposure reconstruction target from the recorded checkpoint and FFN selection.	1		
-SI-2061	SI111	967	1127	bound numerical result	src/nccal/metrics.py	exposure.pairs	1		
-SI-2062	SI111	322	1144	study evidence selection	results/artwork/supplement/protein_decision_policies.tsv	Figure S-G4e: actual fixed routing budget, not all original exposure pairs.	1		
-SI-2063	SI111	0.5	1177	study evidence selection	results/protein/external_validation/validation/decision_use/group_decisions.tsv	Figure S-G4e design: binary probability midpoint; verify that all selected routing pairs are closest to this midpoint.	1		
-SI-2064	SI111	18	1195	identifier or cross-reference	Supplementary figures; see figures/inventory.tsv		1		
-SI-2065	SI113	1	10	identifier or cross-reference	Supplementary figures; see figures/inventory.tsv		1		
-SI-2066	SI113	7,205	143	bound numerical result	src/nccal/metrics.py	trace.prepared__1.n_molecules	1		
-SI-2067	SI113	9,835	208	study evidence selection	results/molecular/claim_sources/anchor_chemberta_mtr.npz	Count unique positional-anchor matches; does not assert complete token identity.	1		
-SI-2068	SI113	zero	250	study evidence selection	results/molecular/claim_sources/anchor_chemberta_mtr.npz	Sum actual atom-position disagreements in the archived positional comparison.	1		
-SI-2069	SI113	165	318	study evidence selection	results/molecular/claim_sources/anchor_chemberta_mtr.npz	Count unresolved calibration molecules, without replacing the original cohort.	1		
-SI-2070	SI115	1	10	identifier or cross-reference	Supplementary figures; see figures/inventory.tsv		1		
-SI-2071	SI115	five	93	bound numerical result	src/nccal/metrics.py	clamp.26.controls	1		
-SI-2072	SI115	0.25	131	bound numerical result	src/nccal/metrics.py	dose.scale.0	1		
-SI-2073	SI115	0.5	137	bound numerical result	src/nccal/metrics.py	dose.scale.1	1		
-SI-2074	SI115	1	145	bound numerical result	src/nccal/metrics.py	dose.scale.2	1		
-SI-2075	SI115	98.3333	162	bound numerical result	src/nccal/metrics.py	clamp.26.confidence	1		
-SI-2076	SI115	2,000	186	study evidence selection	results/molecular/claim_sources/paired_dose_configuration.json	Design: fixed paired-dose bootstrap draw count.	1		
-SI-2077	SI115	three	210	bound numerical result	src/nccal/metrics.py	clamp.objects	1		
-SI-2078	SI115	0.005	316	study evidence selection	figures/native/supplement_paired_dose.py; results/artwork/supplement/figure_s_j1.json	Figure S-J1b geometry: right edge of the lower full-clamp axis divided by its display multiplier, yielding original output units.	1		
-SI-2079	SI115	0.12	322	study evidence selection	figures/native/supplement_paired_dose.py; results/artwork/supplement/figure_s_j1.json	Figure S-J1b geometry: left edge of the upper full-clamp axis divided by its display multiplier; this is the omitted range's upper endpoint.	1		
-SI-2080	SI115	twelve	444	study evidence selection	results/molecular/claim_sources/paired_dose_configuration.json	Design: common scalar dose is bounded by positive and negative full-clamp doses for all selected/control coordinates.	1		
-SI-2081	SI117	2	10	identifier or cross-reference	Supplementary figures; see figures/inventory.tsv		1		
-SI-2082	SI117	two	40	study evidence selection	results/molecular/claim_sources/reconstruction_configuration.json	Design: count the two frozen focal coordinate replacements.	1		
-SI-2083	SI117	293	164	bound numerical result	src/nccal/metrics.py	clamp.26.unit	1		
-SI-2084	SI117	115	169	bound numerical result	src/nccal/metrics.py	clamp.26.output	1		
-SI-2085	SI117	454	177	bound numerical result	src/nccal/metrics.py	clamp.24.unit	1		
-SI-2086	SI117	124	182	bound numerical result	src/nccal/metrics.py	clamp.24.output	1		
-SI-2087	SI117	95	607	study evidence selection	results/molecular/claim_sources/notation_interval_configuration.json	Design: 100 times the difference between frozen upper and lower percentile probabilities; marginal interval coverage.	1		
-SI-2088	SI117	483	630	study evidence selection	results/molecular/claim_sources/notation_support.npz	Count accepted parent molecules in the common three-notation support.	1		
-SI-2089	SI117	4	764	identifier or cross-reference	Supplementary figures; see figures/inventory.tsv		1		
-SI-2090	SI117	268	799	study evidence selection	results/molecular/claim_sources/notation_support.npz	Count parents with no identity loss and complete offsets in all three notations.	1		
-SI-2091	SI119	1	10	identifier or cross-reference	Supplementary figures; see figures/inventory.tsv		1		
-SI-2092	SI119	Nine	67	bound numerical result	src/nccal/metrics.py	chemberta_mtr.control.count	1		
-SI-2093	SI119	123,245	230	bound numerical result	src/nccal/metrics.py	chemberta_mtr.panel.n_atoms	1		
-SI-2094	SI119	5,000	247	bound numerical result	src/nccal/metrics.py	chemberta_mtr.panel.n_molecules	1		
-SI-2095	SI119	2	303	symbol, model, or record identifier	Supplementary figures; see figures/inventory.tsv		1		
-SI-2096	SI119	0.518	308	bound numerical result	src/nccal/metrics.py	chemberta_mtr.control.mean_r2	1		
-SI-2097	SI119	0.305	332	bound numerical result	src/nccal/metrics.py	molformer.control.mean_r2	1		
-SI-2098	SI119	95	375	study evidence selection	results/artwork/supplement/matched_control_panels.json	Figure S-M1 design: nominal percent encoded in the saved reconstruction CI95 fields, descriptive rather than family-adjusted.	1		
-SI-2099	SI121	1	10	identifier or cross-reference	Supplementary figures; see figures/inventory.tsv		1		
-SI-2100	SI121	nine	82	study evidence selection	results/molecular/reconstruction/panel_units.tsv	Count distinct selected physical coordinates per encoder.	1		
-SI-2101	SI121	nine	100	study evidence selection	results/molecular/reconstruction/panel_units.tsv	Count matched physical control coordinates per encoder, selected on development only.	1		
-SI-2102	SI121	95	214	study evidence selection	results/artwork/supplement/matched_control_panels.json	Figure S-N1 design: nominal percent encoded in joint-control CI95 fields; unadjusted scaffold-bootstrap intervals.	1		
-SI-2103	SI121	1	324	identifier or cross-reference	Supplementary figures; see figures/inventory.tsv		1		
-SI-2104	SI123	1	10	identifier or cross-reference	Supplementary figures; see figures/inventory.tsv		1		
-SI-2105	SI123	three	180	study evidence selection	results/molecular/whole_layer/layer_reconstruction_8_networks.tsv	Count distinct untrained references within each encoder, rather than combining the two encoder reference sets.	1		
-SI-2106	SI123	eight	378	study evidence selection	results/molecular/whole_layer/primary_12_family.tsv	Count positive local-versus-mean/radius-zero fidelity advantages with Holm-adjusted p <=0.05 in the fixed twelve-test family.	1		
-SI-2107	SI123	three	468	study evidence selection	results/molecular/whole_layer/primary_12_family.tsv	Count task/encoder contrasts where residual shuffling has smaller deviations and Holm-adjusted p <=0.05.	1		
-SI-2108	SI123	four	477	study evidence selection	results/molecular/whole_layer/primary_12_family.tsv	Count the two tasks times two encoders in the residual-permutation comparison.	1		
-SI-2109	SI125	1	10	identifier or cross-reference	Supplementary figures; see figures/inventory.tsv		1		
-SI-2110	SI125	95	235	study evidence selection	results/artwork/supplement/p_primary_four_tests.csv	Figure S-P1 design: nominal confidence percent encoded in the frozen concept-bootstrap interval field.	1		
-SI-2111	SI125	173	335	bound numerical result	src/nccal/metrics.py	trace.figure_2_ab__1.audit.molformer_primary.n_concepts	1		
-SI-2112	SI125	928	349	bound numerical result	src/nccal/metrics.py	trace.training_log_summary__1.row-1.width	1		
-SI-2113	SI125	199	378	study evidence selection	results/molecular/dictionary/per_concept_per_network_scores.tsv	Count distinct initialization networks in the primary scored dictionaries.	1		
-SI-2114	SI127	5	10	identifier or cross-reference	Supplementary figures; see figures/inventory.tsv		1		
-SI-2115	SI127	814	52	study evidence selection	data/protein/forward_subset_identifiers.json	Read the ESM-2 exposure reconstruction target from the recorded checkpoint and FFN selection.	1		
-SI-2116	SI127	1246	116	identifier or cross-reference	Supplementary figures; see figures/inventory.tsv		1		
-SI-2117	SI129	1	10	identifier or cross-reference	Supplementary figures; see figures/inventory.tsv		1		
-SI-2118	SI129	464	103	study evidence selection	results/tables/basis_counts.json	Read the denominator of physical directions in the native molecular basis.	1		
-SI-2119	SI129	293	126	study evidence selection	results/artwork/use/5a_and_s_r1_changed_atom_deltas.tsv; results/artwork/supplement/figure_s_e1.json	Figure S-Q1/S-R1: the designated hydroxyl coordinate present in the frozen changed-atom rows.	1		
-SI-2120	SI129	454	134	study evidence selection	results/artwork/use/5a_and_s_r1_changed_atom_deltas.tsv; results/artwork/supplement/figure_s_e1.json	Figure S-Q1/S-R1: the designated carbonyl coordinate present in the frozen changed-atom rows.	1		
-SI-2121	SI131	1	10	identifier or cross-reference	Supplementary figures; see figures/inventory.tsv		1		
-SI-2122	SI131	293	70	study evidence selection	results/artwork/use/5a_and_s_r1_changed_atom_deltas.tsv; results/artwork/supplement/figure_s_e1.json	Figure S-Q1/S-R1: the designated hydroxyl coordinate present in the frozen changed-atom rows.	1		
-SI-2123	SI131	454	78	study evidence selection	results/artwork/use/5a_and_s_r1_changed_atom_deltas.tsv; results/artwork/supplement/figure_s_e1.json	Figure S-Q1/S-R1: the designated carbonyl coordinate present in the frozen changed-atom rows.	1		
-SI-2124	SI131	five	89	study evidence selection	results/artwork/use/5a_and_s_r1_changed_atom_deltas.tsv	Figure S-R1: count displayed edit classes per focal neuron, including the remote aryl-fluorine control.	1		
-SI-2125	SI133	1	10	identifier or cross-reference	Supplementary figures; see figures/inventory.tsv		1		
+SI-1947	SI87	1.0	87	availability or authorship metadata	Supplementary figures; see figures/inventory.tsv		1		
+SI-1948	SI87	0	91	availability or authorship metadata	Supplementary figures; see figures/inventory.tsv		1		
+SI-1949	SI87	54	105	availability or authorship metadata	Supplementary figures; see figures/inventory.tsv		1		
+SI-1950	SI87	1	129	availability or authorship metadata	Supplementary figures; see figures/inventory.tsv		1		
+SI-1951	SI87	16	287	availability or authorship metadata	Supplementary figures; see figures/inventory.tsv		1		
+SI-1952	SI87	4	485	availability or authorship metadata	Supplementary figures; see figures/inventory.tsv		1		
+SI-1953	SI87	17	494	availability or authorship metadata	Supplementary figures; see figures/inventory.tsv		1		
+SI-1954	SI87	18	591	availability or authorship metadata	Supplementary figures; see figures/inventory.tsv		1		
+SI-1955	SI87	4	605	availability or authorship metadata	Supplementary figures; see figures/inventory.tsv		1		
+SI-1956	SI87	19	792	availability or authorship metadata	Supplementary figures; see figures/inventory.tsv		1		
+SI-1957	SI88	5.5	146	availability or authorship metadata	Supplementary figures; see figures/inventory.tsv		1		
+SI-1958	SI88	6	282	availability or authorship metadata	Supplementary figures; see figures/inventory.tsv		1		
+SI-1959	SI88	6.1	345	availability or authorship metadata	Supplementary figures; see figures/inventory.tsv		1		
+SI-1960	SI88	6.1	419	availability or authorship metadata	Supplementary figures; see figures/inventory.tsv		1		
+SI-1961	SI88	32	442	availability or authorship metadata	Supplementary figures; see figures/inventory.tsv		1		
+SI-1962	SI88	1246	481	availability or authorship metadata	Supplementary figures; see figures/inventory.tsv		1		
+SI-1963	SI91	1	10	identifier or cross-reference	Supplementary figures; see figures/inventory.tsv		1		
+SI-1964	SI91	39	133	study evidence selection	results/artwork/supplement/figure_s_b1.json	Historical H3 initialization-reference count; separate from the later 199-reference calibration.	1		
+SI-1965	SI91	eight	160	study evidence selection	results/artwork/supplement/figure_s_b1.json	Count archived H3 model/readout rows.	1		
+SI-1966	SI91	1	327	study evidence selection	figures/native/supplement_audits.py	Figure S-B1 geometry: fold-axis neutral reference line, a ratio of one.	1		
+SI-1967	SI93	1	10	identifier or cross-reference	Supplementary figures; see figures/inventory.tsv		1		
+SI-1968	SI93	593	85	study evidence selection	results/artwork/supplement/figure_s_c1.json	Released tokenizer vocabulary row count, including unused and special tokens.	1		
+SI-1969	SI93	20,000	155	study evidence selection	results/artwork/supplement/figure_s_c1.json	Number of molecule strings in the frozen pilot corpus.	1		
+SI-1970	SI93	0.392	225	study evidence selection	results/artwork/supplement/figure_s_c1.json	Archived expected random-initialization embedding norm for the MTR architecture.	1		
+SI-1971	SI93	four	283	study evidence selection	figures/native/supplement_tokenizer.py; results/artwork/supplement/figure_s_c1.json	Count only the explicit tokenizer strings rendered in panel c, rather than every archived candidate example.	1		
+SI-1972	SI95	2	10	identifier or cross-reference	Supplementary figures; see figures/inventory.tsv		1		
+SI-1973	SI95	77	23	identifier or cross-reference	Supplementary figures; see figures/inventory.tsv		1		
+SI-1974	SI95	six	73	study evidence selection	data/artwork/molecular_example_depictions.json	Count rendered molecule cells within each chemberta_mlm concept panel; distinct from the number of concepts.	1		
+SI-1975	SI95	one	107	study evidence selection	results/artwork/supplement/figure_s_c2.json	One named concept supplies each group of six illustrated molecular examples.	1		
+SI-1976	SI95	six	114	study evidence selection	results/artwork/supplement/figure_s_c2.json	Count fixed concept panels in the frozen activation-example specification.	1		
+SI-1977	SI95	100	229	study evidence selection	results/artwork/supplement/figure_s_c2.json	Figure S-C2: precision@k denominator encoded by the original precision_top100 field, not the number of displayed molecules.	1		
+SI-1978	SI95	39	248	study evidence selection	results/artwork/supplement/figure_s_b1.json	Historical H3 initialization-reference count; separate from the later 199-reference calibration.	1		
+SI-1979	SI95	30	377	study evidence selection	figures/native/supplement_examples.py	Figure S-C2–C4 depiction design: actual non-target highlight cutoff in draw_cell_grid, multiplied by 100 for percent of each molecule's peak.	1		
+SI-1980	SI97	3	10	identifier or cross-reference	Supplementary figures; see figures/inventory.tsv		1		
+SI-1981	SI97	77	23	identifier or cross-reference	Supplementary figures; see figures/inventory.tsv		1		
+SI-1982	SI97	six	56	study evidence selection	results/artwork/supplement/figure_s_c3.json	Count fixed concept panels in the frozen activation-example specification.	1		
+SI-1983	SI97	six	106	study evidence selection	results/artwork/supplement/figure_s_c3.json	Count fixed concept panels in the frozen activation-example specification.	1		
+SI-1984	SI97	30	246	study evidence selection	figures/native/supplement_examples.py	Figure S-C2–C4 depiction design: actual non-target highlight cutoff in draw_cell_grid, multiplied by 100 for percent of each molecule's peak.	1		
+SI-1985	SI97	2	318	identifier or cross-reference	Supplementary figures; see figures/inventory.tsv		1		
+SI-1986	SI99	4	10	identifier or cross-reference	Supplementary figures; see figures/inventory.tsv		1		
+SI-1987	SI99	six	65	study evidence selection	data/artwork/molecular_example_depictions.json	Count rendered molecule cells within each chemeleon concept panel; distinct from the number of concepts.	1		
+SI-1988	SI99	30	225	study evidence selection	figures/native/supplement_examples.py	Figure S-C2–C4 depiction design: actual non-target highlight cutoff in draw_cell_grid, multiplied by 100 for percent of each molecule's peak.	1		
+SI-1989	SI99	2	313	identifier or cross-reference	Supplementary figures; see figures/inventory.tsv		1		
+SI-1990	SI101	5	10	identifier or cross-reference	Supplementary figures; see figures/inventory.tsv		1		
+SI-1991	SI101	two	47	study evidence selection	results/artwork/supplement/figure_s_b1.json	Design: count the two named calibration criteria J1 and J2.	1		
+SI-1992	SI101	eight	82	study evidence selection	results/artwork/supplement/figure_s_b1.json	Count archived H3 model/readout rows.	1		
+SI-1993	SI101	173	101	bound numerical result	src/nccal/metrics.py	trace.figure_2_ab__1.audit.molformer_primary.n_concepts	1		
+SI-1994	SI101	one	135	study evidence selection	results/artwork/supplement/figure_s_c5.json	Leave-one-out reference: compare each single untrained network with every other recorded reference network.	1		
+SI-1995	SI101	38	175	study evidence selection	results/artwork/supplement/figure_s_b1.json	For one untrained network, compare it with the remaining historical untrained networks: 39 minus itself.	1		
+SI-1996	SI101	0.05	278	study evidence selection	figures/native/supplement_examples.py	Figure S-C5 design: actual nominal p threshold used to fill a positive-effect diamond; this is not a family-adjusted decision.	1		
+SI-1997	SI101	1	307	study evidence selection	figures/native/supplement_examples.py	Figure S-C5 geometry: neutral fold-one line on each logarithmic axis.	1		
+SI-1998	SI103	6	10	identifier or cross-reference	Supplementary figures; see figures/inventory.tsv		1		
+SI-1999	SI103	three	111	study evidence selection	results/artwork/supplement/figure_s_c6.json	Count initialization-network measurements in the earlier pilot; not the main rank-test family.	1		
+SI-2000	SI103	ten	140	study evidence selection	results/artwork/supplement/figure_s_c6.json	Count earlier pilot rotation measurements; not independent networks.	1		
+SI-2001	SI103	20,000	157	study evidence selection	results/artwork/supplement/figure_s_c1.json	Number of molecule strings in the frozen pilot corpus.	1		
+SI-2002	SI103	100	199	identifier or cross-reference	Supplementary figures; see figures/inventory.tsv		1		
+SI-2003	SI103	85	247	study evidence selection	results/artwork/supplement/figure_s_c6.json	Count nitro-concept atoms in the MTR example top-100 composition.	1		
+SI-2004	SI103	56	302	study evidence selection	results/artwork/supplement/figure_s_c6.json	Count ketone carbonyl-carbon atoms in the CheMeleon example top-100 composition.	1		
+SI-2005	SI103	32	333	study evidence selection	results/artwork/supplement/figure_s_c6.json	Count sulfonyl sulfur atoms in the CheMeleon example top-100 composition.	1		
+SI-2006	SI105	1	10	identifier or cross-reference	Supplementary figures; see figures/inventory.tsv		1		
+SI-2007	SI105	three	36	bound numerical result	src/nccal/metrics.py	clamp.objects	1		
+SI-2008	SI105	two	64	study evidence selection	results/artwork/supplement/figure_s_e1.json	Count the two carbonyl definitions sharing one physical coordinate.	1		
+SI-2009	SI105	454	102	bound numerical result	src/nccal/metrics.py	clamp.24.unit	1		
+SI-2010	SI105	293	138	bound numerical result	src/nccal/metrics.py	clamp.26.unit	1		
+SI-2011	SI105	five	225	bound numerical result	src/nccal/metrics.py	clamp.26.controls	1		
+SI-2012	SI105	three	351	bound numerical result	src/nccal/metrics.py	clamp.objects	1		
+SI-2013	SI105	2,000	388	bound numerical result	src/nccal/metrics.py	clamp.bootstrap	1		
+SI-2014	SI105	200	455	bound numerical result	src/nccal/metrics.py	clamp.26.positive	1		
+SI-2015	SI105	200	472	bound numerical result	src/nccal/metrics.py	clamp.26.negative	1		
+SI-2016	SI105	five	566	bound numerical result	src/nccal/metrics.py	clamp.26.controls	1		
+SI-2017	SI107	1	10	identifier or cross-reference	Supplementary figures; see figures/inventory.tsv		1		
+SI-2018	SI107	1,304	46	bound numerical result	src/nccal/metrics.py	1246.n	1		
+SI-2019	SI107	1246	197	study evidence selection	results/artwork/main/concept_protein.json	Read the frozen ESM-2 alanine helix/strand FFN coordinate.	1		
+SI-2020	SI107	870	247	bound numerical result	src/nccal/metrics.py	1246.higher	1		
+SI-2021	SI107	434	282	bound numerical result	src/nccal/metrics.py	1246.lower	1		
+SI-2022	SI107	716	342	bound numerical result	src/nccal/metrics.py	1246.higher.improves	1		
+SI-2023	SI107	383	377	bound numerical result	src/nccal/metrics.py	1246.lower.worsens	1		
+SI-2024	SI109	2	10	identifier or cross-reference	Supplementary figures; see figures/inventory.tsv		1		
+SI-2025	SI109	two	85	study evidence selection	results/artwork/supplement/exposure_inference.tsv	Figure S-G2: distinct endpoint names mae_gain and brier_gain, not the number of model widths.	1		
+SI-2026	SI109	10	160	mathematical notation	figures/native/supplement_exposure_endpoints.py	Radix ten in the axis display unit for the two exposure endpoints.	1		
+SI-2027	SI109	³	163	mathematical notation	Supplementary figures; see figures/inventory.tsv		1		
+SI-2028	SI109	199	187	study evidence selection	results/artwork/supplement/exposure_inference.tsv	Figure S-G2: untrained networks per model and endpoint from the saved inference denominator K.	1		
+SI-2029	SI109	nine	221	study evidence selection	results/artwork/supplement/exposure_rotations.tsv	Figure S-G2: count non-native basis rows per model; these nine rotations are dependent references.	1		
+SI-2030	SI109	814	303	study evidence selection	data/protein/forward_subset_identifiers.json	Read the ESM-2 exposure reconstruction target from the recorded checkpoint and FFN selection.	1		
+SI-2031	SI109	8	402	symbol, model, or record identifier	Supplementary figures; see figures/inventory.tsv		1		
+SI-2032	SI111	3	10	identifier or cross-reference	Supplementary figures; see figures/inventory.tsv		1		
+SI-2033	SI111	1246	43	study evidence selection	results/artwork/main/concept_protein.json	Read the frozen ESM-2 alanine helix/strand FFN coordinate.	1		
+SI-2034	SI111	three	65	study evidence selection	results/artwork/main/concept_protein.json	Count paired Brier gains over composition, ordered local sequence and interaction references.	1		
+SI-2035	SI111	three	199	study evidence selection	results/artwork/main/concept_protein.json	Count paired Brier gains over composition, ordered local sequence and interaction references.	1		
+SI-2036	SI111	95	304	study evidence selection	results/artwork/main/concept_protein.json	Figure S-G3 thick bars: nominal percent encoded by the stored CI95 lower/upper fields.	1		
+SI-2037	SI111	98.75	312	study evidence selection	results/artwork/main/concept_protein.json	Figure S-G3 thin bars: nominal percent encoded by stored CI98_75 lower/upper fields.	1		
+SI-2038	SI111	1,304	332	bound numerical result	src/nccal/metrics.py	1246.n	1		
+SI-2039	SI111	four	350	study evidence selection	results/artwork/main/concept_protein.json	Count rejected tests in the four-endpoint within-protein Holm family.	1		
+SI-2040	SI111	1	396	identifier or cross-reference	Supplementary figures; see figures/inventory.tsv		1		
+SI-2041	SI113	4	10	identifier or cross-reference	Supplementary figures; see figures/inventory.tsv		1		
+SI-2042	SI113	Four	13	study evidence selection	figures/native/supplement_protein_validation.py	Figure S-G4 layout: count the four named interpretation checks a–d, excluding the separate decision ledger e.	1		
+SI-2043	SI113	one	93	study evidence selection	results/protein/external_validation/validation/blind_benchmark/fixed_pair_background.npz	Figure S-G4a design: one fixed natural residue-pair activation difference row per distinct homology group.	1		
+SI-2044	SI113	1,280	142	study evidence selection	results/artwork/supplement/protein_null_summary.json	Figure S-G4a design: physical activation axes searched per random-label trial, excluding the separate sign count.	1		
+SI-2045	SI113	23	156	study evidence selection	results/artwork/supplement/protein_null_summary.json	Figure S-G4a: actual development homology-group count.	1		
+SI-2046	SI113	1,999	229	study evidence selection	results/artwork/supplement/protein_null_summary.json	Figure S-G4a: independent null full-search maxima used for maximum-search calibration.	1		
+SI-2047	SI113	24	297	study evidence selection	results/artwork/supplement/protein_null_summary.json	Figure S-G4a: other homology groups used to test the development-locked axis.	1		
+SI-2048	SI113	95	345	study evidence selection	results/artwork/supplement/protein_null_summary.json	Figure S-G4a design: nominal Wilson Monte Carlo interval percent encoded in retention_mc95 fields.	1		
+SI-2049	SI113	1,000	373	study evidence selection	results/artwork/supplement/protein_null_summary.json	Figure S-G4a: number of random-label trials, distinct from independent calibration searches.	1		
+SI-2050	SI113	500	394	study evidence selection	results/artwork/supplement/protein_null_summary.json	Figure S-G4b: number of trials in each displayed known-generator signal condition.	1		
+SI-2051	SI113	one	420	study evidence selection	experiments/13_external_validation/PROTOCOL.md	Figure S-G4b design: the frozen protocol's single-axis generating condition.	1		
+SI-2052	SI113	eight	427	study evidence selection	experiments/13_external_validation/PROTOCOL.md	Figure S-G4b design: the frozen protocol's eight-axis distributed generating condition.	1		
+SI-2053	SI113	2	681	identifier or cross-reference	Supplementary figures; see figures/inventory.tsv		1		
+SI-2054	SI113	35	683	symbol, model, or record identifier	Supplementary figures; see figures/inventory.tsv		1		
+SI-2055	SI113	814	694	study evidence selection	data/protein/forward_subset_identifiers.json	Read the ESM-2 exposure reconstruction target from the recorded checkpoint and FFN selection.	1		
+SI-2056	SI113	one	711	study evidence selection	results/protein/external_validation/validation/known_basis/SUMMARY.json	Figure S-G4c: smallest planted support size among the four plotted function-preserving transforms.	1		
+SI-2057	SI113	16	718	study evidence selection	results/protein/external_validation/validation/known_basis/SUMMARY.json	Figure S-G4c: largest planted support size among the four plotted transforms.	1		
+SI-2058	SI113	15	840	study evidence selection	results/protein/external_validation/validation/known_basis/SUMMARY.json	Figure S-G4c: held-out T homology groups used to evaluate activation recovery.	1		
+SI-2059	SI113	two	904	study evidence selection	results/artwork/supplement/protein_repeated_structures.tsv	Figure S-G4d: distinct original and second PDB entries for each atom-matched repeated-structure residue pair.	1		
+SI-2060	SI113	814	1090	study evidence selection	data/protein/forward_subset_identifiers.json	Read the ESM-2 exposure reconstruction target from the recorded checkpoint and FFN selection.	1		
+SI-2061	SI113	967	1127	bound numerical result	src/nccal/metrics.py	exposure.pairs	1		
+SI-2062	SI113	322	1144	study evidence selection	results/artwork/supplement/protein_decision_policies.tsv	Figure S-G4e: actual fixed routing budget, not all original exposure pairs.	1		
+SI-2063	SI113	0.5	1177	study evidence selection	results/protein/external_validation/validation/decision_use/group_decisions.tsv	Figure S-G4e design: binary probability midpoint; verify that all selected routing pairs are closest to this midpoint.	1		
+SI-2064	SI113	18	1195	identifier or cross-reference	Supplementary figures; see figures/inventory.tsv		1		
+SI-2065	SI115	1	10	identifier or cross-reference	Supplementary figures; see figures/inventory.tsv		1		
+SI-2066	SI115	7,205	143	bound numerical result	src/nccal/metrics.py	trace.prepared__1.n_molecules	1		
+SI-2067	SI115	9,835	208	study evidence selection	results/molecular/claim_sources/anchor_chemberta_mtr.npz	Count unique positional-anchor matches; does not assert complete token identity.	1		
+SI-2068	SI115	zero	250	study evidence selection	results/molecular/claim_sources/anchor_chemberta_mtr.npz	Sum actual atom-position disagreements in the archived positional comparison.	1		
+SI-2069	SI115	165	318	study evidence selection	results/molecular/claim_sources/anchor_chemberta_mtr.npz	Count unresolved calibration molecules, without replacing the original cohort.	1		
+SI-2070	SI117	1	10	identifier or cross-reference	Supplementary figures; see figures/inventory.tsv		1		
+SI-2071	SI117	five	93	bound numerical result	src/nccal/metrics.py	clamp.26.controls	1		
+SI-2072	SI117	0.25	131	bound numerical result	src/nccal/metrics.py	dose.scale.0	1		
+SI-2073	SI117	0.5	137	bound numerical result	src/nccal/metrics.py	dose.scale.1	1		
+SI-2074	SI117	1	145	bound numerical result	src/nccal/metrics.py	dose.scale.2	1		
+SI-2075	SI117	98.3333	162	bound numerical result	src/nccal/metrics.py	clamp.26.confidence	1		
+SI-2076	SI117	2,000	186	study evidence selection	results/molecular/claim_sources/paired_dose_configuration.json	Design: fixed paired-dose bootstrap draw count.	1		
+SI-2077	SI117	three	210	bound numerical result	src/nccal/metrics.py	clamp.objects	1		
+SI-2078	SI117	0.005	316	study evidence selection	figures/native/supplement_paired_dose.py; results/artwork/supplement/figure_s_j1.json	Figure S-J1b geometry: right edge of the lower full-clamp axis divided by its display multiplier, yielding original output units.	1		
+SI-2079	SI117	0.12	322	study evidence selection	figures/native/supplement_paired_dose.py; results/artwork/supplement/figure_s_j1.json	Figure S-J1b geometry: left edge of the upper full-clamp axis divided by its display multiplier; this is the omitted range's upper endpoint.	1		
+SI-2080	SI117	twelve	444	study evidence selection	results/molecular/claim_sources/paired_dose_configuration.json	Design: common scalar dose is bounded by positive and negative full-clamp doses for all selected/control coordinates.	1		
+SI-2081	SI119	2	10	identifier or cross-reference	Supplementary figures; see figures/inventory.tsv		1		
+SI-2082	SI119	two	40	study evidence selection	results/molecular/claim_sources/reconstruction_configuration.json	Design: count the two frozen focal coordinate replacements.	1		
+SI-2083	SI119	293	164	bound numerical result	src/nccal/metrics.py	clamp.26.unit	1		
+SI-2084	SI119	115	169	bound numerical result	src/nccal/metrics.py	clamp.26.output	1		
+SI-2085	SI119	454	177	bound numerical result	src/nccal/metrics.py	clamp.24.unit	1		
+SI-2086	SI119	124	182	bound numerical result	src/nccal/metrics.py	clamp.24.output	1		
+SI-2087	SI119	95	607	study evidence selection	results/molecular/claim_sources/notation_interval_configuration.json	Design: 100 times the difference between frozen upper and lower percentile probabilities; marginal interval coverage.	1		
+SI-2088	SI119	483	630	study evidence selection	results/molecular/claim_sources/notation_support.npz	Count accepted parent molecules in the common three-notation support.	1		
+SI-2089	SI119	4	764	identifier or cross-reference	Supplementary figures; see figures/inventory.tsv		1		
+SI-2090	SI119	268	799	study evidence selection	results/molecular/claim_sources/notation_support.npz	Count parents with no identity loss and complete offsets in all three notations.	1		
+SI-2091	SI121	1	10	identifier or cross-reference	Supplementary figures; see figures/inventory.tsv		1		
+SI-2092	SI121	Nine	67	bound numerical result	src/nccal/metrics.py	chemberta_mtr.control.count	1		
+SI-2093	SI121	123,245	230	bound numerical result	src/nccal/metrics.py	chemberta_mtr.panel.n_atoms	1		
+SI-2094	SI121	5,000	247	bound numerical result	src/nccal/metrics.py	chemberta_mtr.panel.n_molecules	1		
+SI-2095	SI121	2	303	symbol, model, or record identifier	Supplementary figures; see figures/inventory.tsv		1		
+SI-2096	SI121	0.518	308	bound numerical result	src/nccal/metrics.py	chemberta_mtr.control.mean_r2	1		
+SI-2097	SI121	0.305	332	bound numerical result	src/nccal/metrics.py	molformer.control.mean_r2	1		
+SI-2098	SI121	95	375	study evidence selection	results/artwork/supplement/matched_control_panels.json	Figure S-M1 design: nominal percent encoded in the saved reconstruction CI95 fields, descriptive rather than family-adjusted.	1		
+SI-2099	SI123	1	10	identifier or cross-reference	Supplementary figures; see figures/inventory.tsv		1		
+SI-2100	SI123	nine	82	study evidence selection	results/molecular/reconstruction/panel_units.tsv	Count distinct selected physical coordinates per encoder.	1		
+SI-2101	SI123	nine	100	study evidence selection	results/molecular/reconstruction/panel_units.tsv	Count matched physical control coordinates per encoder, selected on development only.	1		
+SI-2102	SI123	95	214	study evidence selection	results/artwork/supplement/matched_control_panels.json	Figure S-N1 design: nominal percent encoded in joint-control CI95 fields; unadjusted scaffold-bootstrap intervals.	1		
+SI-2103	SI123	1	324	identifier or cross-reference	Supplementary figures; see figures/inventory.tsv		1		
+SI-2104	SI125	1	10	identifier or cross-reference	Supplementary figures; see figures/inventory.tsv		1		
+SI-2105	SI125	three	180	study evidence selection	results/molecular/whole_layer/layer_reconstruction_8_networks.tsv	Count distinct untrained references within each encoder, rather than combining the two encoder reference sets.	1		
+SI-2106	SI125	eight	378	study evidence selection	results/molecular/whole_layer/primary_12_family.tsv	Count positive local-versus-mean/radius-zero fidelity advantages with Holm-adjusted p <=0.05 in the fixed twelve-test family.	1		
+SI-2107	SI125	three	468	study evidence selection	results/molecular/whole_layer/primary_12_family.tsv	Count task/encoder contrasts where residual shuffling has smaller deviations and Holm-adjusted p <=0.05.	1		
+SI-2108	SI125	four	477	study evidence selection	results/molecular/whole_layer/primary_12_family.tsv	Count the two tasks times two encoders in the residual-permutation comparison.	1		
+SI-2109	SI127	1	10	identifier or cross-reference	Supplementary figures; see figures/inventory.tsv		1		
+SI-2110	SI127	95	235	study evidence selection	results/artwork/supplement/p_primary_four_tests.csv	Figure S-P1 design: nominal confidence percent encoded in the frozen concept-bootstrap interval field.	1		
+SI-2111	SI127	173	335	bound numerical result	src/nccal/metrics.py	trace.figure_2_ab__1.audit.molformer_primary.n_concepts	1		
+SI-2112	SI127	928	349	bound numerical result	src/nccal/metrics.py	trace.training_log_summary__1.row-1.width	1		
+SI-2113	SI127	199	378	study evidence selection	results/molecular/dictionary/per_concept_per_network_scores.tsv	Count distinct initialization networks in the primary scored dictionaries.	1		
+SI-2114	SI129	5	10	identifier or cross-reference	Supplementary figures; see figures/inventory.tsv		1		
+SI-2115	SI129	814	52	study evidence selection	data/protein/forward_subset_identifiers.json	Read the ESM-2 exposure reconstruction target from the recorded checkpoint and FFN selection.	1		
+SI-2116	SI129	1246	116	identifier or cross-reference	Supplementary figures; see figures/inventory.tsv		1		
+SI-2117	SI131	1	10	identifier or cross-reference	Supplementary figures; see figures/inventory.tsv		1		
+SI-2118	SI131	464	103	study evidence selection	results/tables/basis_counts.json	Read the denominator of physical directions in the native molecular basis.	1		
+SI-2119	SI131	293	126	study evidence selection	results/artwork/use/5a_and_s_r1_changed_atom_deltas.tsv; results/artwork/supplement/figure_s_e1.json	Figure S-Q1/S-R1: the designated hydroxyl coordinate present in the frozen changed-atom rows.	1		
+SI-2120	SI131	454	134	study evidence selection	results/artwork/use/5a_and_s_r1_changed_atom_deltas.tsv; results/artwork/supplement/figure_s_e1.json	Figure S-Q1/S-R1: the designated carbonyl coordinate present in the frozen changed-atom rows.	1		
+SI-2121	SI133	1	10	identifier or cross-reference	Supplementary figures; see figures/inventory.tsv		1		
+SI-2122	SI133	293	70	study evidence selection	results/artwork/use/5a_and_s_r1_changed_atom_deltas.tsv; results/artwork/supplement/figure_s_e1.json	Figure S-Q1/S-R1: the designated hydroxyl coordinate present in the frozen changed-atom rows.	1		
+SI-2123	SI133	454	78	study evidence selection	results/artwork/use/5a_and_s_r1_changed_atom_deltas.tsv; results/artwork/supplement/figure_s_e1.json	Figure S-Q1/S-R1: the designated carbonyl coordinate present in the frozen changed-atom rows.	1		
+SI-2124	SI133	five	89	study evidence selection	results/artwork/use/5a_and_s_r1_changed_atom_deltas.tsv	Figure S-R1: count displayed edit classes per focal neuron, including the remote aryl-fluorine control.	1		
+SI-2125	SI135	1	10	identifier or cross-reference	Supplementary figures; see figures/inventory.tsv		1		
 SI-2126	SI1:r0c2	95	0	documentary table cell	src/nccal/tables.py	SI1	1	0	2
 SI-2127	SI1:r1c1	0.507	0	checked table cell	src/nccal/tables.py	SI1	1	1	1
 SI-2128	SI1:r1c2	0.493	1	checked table cell	src/nccal/tables.py	SI1	1	1	2
@@ -2274,3 +2283,103 @@ SI-2228	SI8:r1c3	61	0	checked table cell	src/nccal/tables.py	SI8	1	1	3
 SI-2229	SI8:r2c1	98	0	checked table cell	src/nccal/tables.py	SI8	1	2	1
 SI-2230	SI8:r2c2	77	0	checked table cell	src/nccal/tables.py	SI8	1	2	2
 SI-2231	SI8:r2c3	52	0	checked table cell	src/nccal/tables.py	SI8	1	2	3
+MS-2295	MS110	three	1104	study evidence selection	results/ctp_case/Table_S-U5.tsv	Count distinct Table 5 cohorts in the frozen paired protein comparisons; no cohort has both a positive native-minus-median-rotation mean and Holm p below 0.05.	1		
+MS-2296	MS110	one	1128	study evidence selection	results/ctp_case/Table_S-U5.tsv	Count distinct Table 5 E2 confirmation cohorts, distinct from UCSF and JDM old cohorts scored after locking.	1		
+MS-2297	MS110	1	1178	identifier or cross-reference	figures/inventory.tsv	Supplementary Data or worksheet identifier in the case pointer.	1		
+MS-2298	MS110	1	1194	identifier or cross-reference	figures/inventory.tsv	Supplementary Data or worksheet identifier in the case pointer.	1		
+MS-2299	MS123	1	345	identifier or cross-reference	figures/inventory.tsv	Supplementary Data or Figure S-U1 identifier.	1		
+MS-2300	MS123	1	479	identifier or cross-reference	figures/inventory.tsv	Supplementary Data or Figure S-U1 identifier.	1		
+SI-2281	SI85	128	8	study evidence selection	data/ctp_case/intermediates/basis_naming_and_retrieval/basis/naming_opportunities.tsv	Read the common coordinate budget of the 16 archived basis naming inventories.	1		
+SI-2282	SI85	65	37	citation identifier	Reference index	New case source citation.	1		
+SI-2283	SI85	1	55	identifier or cross-reference	figures/inventory.tsv	Supplementary Data, worksheet or figure identifier.	1		
+SI-2284	SI85	1	79	identifier or cross-reference	figures/inventory.tsv	Supplementary Data, worksheet or figure identifier.	1		
+SI-2285	SI85	66	147	citation identifier	Reference index	New case source citation.	1		
+SI-2286	SI85	74	150	citation identifier	Reference index	New case source citation.	1		
+SI-2287	SI85	1	184	identifier or cross-reference	figures/inventory.tsv	Supplementary Data, worksheet or figure identifier.	1		
+SI-2288	SI85	1	201	identifier or cross-reference	figures/inventory.tsv	Supplementary Data, worksheet or figure identifier.	1		
+SI-2289	SI85	5	206	identifier or cross-reference	figures/inventory.tsv	Supplementary Data, worksheet or figure identifier.	1		
+MS-2301	MS202	65	0	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2302	MS202	2020	127	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2303	MS202	11	132	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2304	MS202	1	135	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2305	MS202	651	138	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2306	MS202	10.1038	159	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2307	MS202	41467	168	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2308	MS202	020	174	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2309	MS202	14391	178	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2310	MS202	0	184	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2311	MS203	66	0	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2312	MS203	19	10	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2313	MS203	19	81	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2314	MS203	2022	144	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2315	MS203	185	149	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2316	MS203	5	153	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2317	MS203	916	156	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2318	MS203	938	160	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2319	MS203	58	165	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2320	MS203	10.1016	185	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2321	MS203	2022.01.012	200	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2322	MS204	67	0	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2323	MS204	2021	100	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2324	MS204	184	105	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2325	MS204	13	109	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2326	MS204	3573	113	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2327	MS204	3587	118	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2328	MS204	29	124	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2329	MS204	10.1016	144	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2330	MS204	2021.04.048	159	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2331	MS205	68	0	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2332	MS205	345981	154	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2333	MS205	2026	161	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2334	MS205	345981	221	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2335	MS206	69	0	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2336	MS206	2024	148	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2337	MS206	9	153	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2338	MS206	12	155	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2339	MS206	176963	160	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2340	MS206	10.1172	184	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2341	MS206	176963	204	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2342	MS207	70	0	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2343	MS207	2025	148	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2344	MS207	26	153	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2345	MS207	9	156	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2346	MS207	1612	159	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2347	MS207	1625	164	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2348	MS207	10.1038	186	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2349	MS207	41590	195	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2350	MS207	025	201	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2351	MS207	02241	205	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2352	MS207	4	211	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2353	MS208	71	0	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2354	MS208	2022	216	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2355	MS208	13	221	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2356	MS208	835760	224	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2357	MS208	10.3389	248	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2358	MS208	2022.835760	262	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2359	MS209	72	0	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2360	MS209	2026	126	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2361	MS209	189	131	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2362	MS209	10	135	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2363	MS209	3144	139	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2364	MS209	3163	144	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2365	MS209	20	150	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2366	MS209	10.1016	170	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2367	MS209	2026.02.003	185	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2368	MS210	73	0	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2369	MS210	8	142	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2370	MS210	2023	175	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2371	MS210	14	180	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2372	MS210	1	183	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2373	MS210	7461	186	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2374	MS210	10.1038	208	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2375	MS210	41467	217	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2376	MS210	023	223	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2377	MS210	43053	227	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2378	MS210	0	233	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2379	MS211	74	0	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2380	MS211	2026	197	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2381	MS211	8	202	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2382	MS211	5	204	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2383	MS211	101817	207	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2384	MS211	10.1016	231	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		
+MS-2385	MS211	2026.101817	247	bibliographic metadata	Reference index	New case reference metadata; not an experimental result.	1		

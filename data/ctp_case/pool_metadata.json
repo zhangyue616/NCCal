@@ -1,0 +1,9 @@
+{
+  "HC": {
+    "donors_pooled": 4
+  },
+  "PD": {
+    "donors_pooled": 5
+  },
+  "unit": "Pre-sequencing pools. The counts do not imply donor-level AUROCs."
+}

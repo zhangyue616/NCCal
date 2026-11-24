@@ -2,7 +2,7 @@
 
 NCCal tests what a name attached to an individual neuron can predict. A molecular example follows a hydroxyl-related neuron from its response on a new molecule through a functional-group edit and replacement of its activation in the frozen model. The protein experiments ask which published and newly identified neurons distinguish matched residues after accounting for their amino acid and surrounding sequence.
 
-This repository accompanies *NCCal: reading, testing and replacing individual neurons in molecular and protein language models*. The software version is **v2.0.0**. The article and Supplementary Information identify summary results by figure, table and section. The numbered worksheets belong to the article's separately distributed Supplementary Data 1.
+This repository accompanies *NCCal: reading, testing and replacing individual neurons in molecular and protein language models*. The software version is **v2.0.1**. The article and Supplementary Information identify summary results by figure, table and section. The numbered worksheets belong to the article's separately distributed Supplementary Data 1.
 
 ## Recalculate stored results on a CPU
 
@@ -11,11 +11,11 @@ From the top of the extracted repository, use Python 3.11.15 and the pinned pack
 ```sh
 python -m venv .venv
 # Activate .venv in the current shell.
-python -m pip install -r environment/cpu.txt
+python -m pip install -r environment/ctp-case.txt
 python -B verify/run.py --experiments --out ../nccal-verification
 ```
 
-The command writes all ten manuscript and supplementary table grids, a record for each displayed numerical position, and an experimental verification result for each of the 14 directories. Exit status 0 means all recorded positions are accounted for; 1 indicates a disagreement or a failed experimental check; 2 indicates missing coverage. The `source` and `field_or_operation` columns in `verify/paper_numbers.tsv` identify calculations, archived study statistics, protocol settings and notation. For example, the primary sparse-dictionary calibration fold is recalculated from 173 concepts and 199 untrained networks. Protein point estimates are recalculated where the contributing observations are available, and frozen interval endpoints are retrieved by task, readout and comparison. The command runs independently of the article workbook. Further keyed checks on archived intermediates appear in `keyed-trace.tsv`.
+The command writes the ten manuscript and supplementary summary-table grids, the five single-cell source tables, a record for each displayed numerical position, and a verification result for each of the 15 experiment directories. Install `environment/ctp-case.txt` for the combined numerical replay. Exit status 0 means all recorded positions are accounted for; 1 indicates a disagreement or a failed experimental check; 2 indicates missing coverage. The `source` and `field_or_operation` columns in `verify/paper_numbers.tsv` identify calculations, archived study statistics, protocol settings and notation. For example, the primary sparse-dictionary calibration fold is recalculated from 173 concepts and 199 untrained networks. Protein point estimates are recalculated where the contributing observations are available, and frozen interval endpoints are retrieved by task, readout and comparison. The command runs independently of the article workbook. Further keyed checks on archived intermediates appear in `keyed-trace.tsv`.
 
 To rebuild the tables or check two main figures separately:
 
@@ -24,7 +24,9 @@ python -B src/nccal/tables.py --out ../nccal-tables
 python -B figures/render.py 2 3 --output ../nccal-figures
 ```
 
-The figures use a separate display environment. Versions, rendering commands and the inputs behind individual panels appear in [the figure guide](figures/README.md). The [complete artwork index](figures/inventory.tsv) covers the six main and 23 supplementary figures. The scientific table inputs are in [results/tables](results/tables).
+Figure 1 maps calibration, transfer, reconstruction and output preservation to the molecular uses and matched protein readouts. The [overview guide](figures/FIGURE_1.md) identifies its sources and schematic elements.
+
+The figures use a separate display environment. Versions, rendering commands and the inputs behind individual panels appear in [the figure guide](figures/README.md). The [complete artwork index](figures/inventory.tsv) covers the six main and 24 supplementary figures. The scientific table inputs are in [results/tables](results/tables).
 
 ## Recompute model outputs
 
@@ -57,9 +59,10 @@ The full nine-encoder calibration, refitting of all downstream heads, training e
 | Figure 6, S-G | 08 protein pair replay, 09 protein exposure, 10 protein reconstruction, 11 protein scale | Within-protein readouts, sequence controls, exposure and replacement |
 | Figure 6, S-G, S-T | 12 native protein candidates, 13 external validation, 14 published label audit | External protein cases, new-protein validation, fixed and public readouts |
 | S-H, S-K | Protocols and deviations in the corresponding experiments | Execution departures, scope of each comparison and guidance for interpretation |
+| S-U, Figure S-U1 | 15 cTP-net phenotype names | Five derived tables; donor, pool, basis and frozen exam comparisons with distinct denominators |
 
-The numerical and plotting inputs are under `results/molecular`, `results/protein` and `results/artwork`. The `data` directory holds identifiers, small study-derived fixtures and acquisition code. Original third-party label tables, pretrained model weights and bulk database snapshots remain at their sources. Study records retain unfavourable comparisons, including the whole-layer placement controls and the prespecified exposure endpoints.
+The numerical and plotting inputs are under `results/molecular`, `results/protein`, `results/ctp_case` and `results/artwork`. The `data` directory holds identifiers, small study-derived fixtures and acquisition code. Original third-party label tables, pretrained model weights and bulk database snapshots remain at their sources. Study records retain unfavourable comparisons, including the whole-layer placement controls and the prespecified exposure endpoints.
 
 ## Citation and licence
 
-Cite Yue Zhang, *NCCal*, software version v2.0.0. The [citation record](CITATION.cff) identifies the intended project URL [zhangyue616/NCCal](https://github.com/zhangyue616/NCCal). The [MIT licence](LICENSE) applies to first-party code. Original data are subject to their providers' terms. The source and data guide identifies the licence for first-party derived material.
+Cite Yue Zhang, *NCCal*, software version v2.0.1. The [citation record](CITATION.cff) identifies the intended project URL [zhangyue616/NCCal](https://github.com/zhangyue616/NCCal). The [MIT licence](LICENSE) applies to first-party code. Original data are subject to their providers' terms. The source and data guide identifies the licence for first-party derived material. The single-cell [source inventory](data/ctp_case/data_inventory.tsv) and [reuse guide](data/ctp_case/RIGHTS.md) record provider-specific rights and remaining unknowns for that case. Its [reconstruction guide](experiments/15_ctp_case/README.md) distinguishes calculations from frozen summary retrieval.

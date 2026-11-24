@@ -1,10 +1,10 @@
 [
   {
     "figure": "Figure 1",
-    "repository_intermediates": "results/artwork/main; data/artwork/molecules",
+    "repository_intermediates": "results/artwork/main; results/artwork/examples; results/artwork/use; results/molecular/edits/raw_pairs.npz; data/artwork/molecules; data/artwork/examples; data/artwork/generated",
     "repository_entry": "python -B figures/render.py 1",
     "status": "portable_renderer_executed",
-    "note": "Derived 2CZL backbone is rendered locally; no raw deposited snapshot.",
+    "note": "Overview of calibration, transfer, reconstruction, output preservation, molecular use and matched protein readouts. Author-selected PNG/SVG/PDF are in published/; FIGURE_1.md identifies every input and panel.",
     "drawing_code": "native/main_1.py"
   },
   {
@@ -230,5 +230,13 @@
     "status": "portable_renderer_executed",
     "note": "Both T and NEW rows, original identities and BH flags.",
     "drawing_code": "plot_use_results.py"
+  },
+  {
+    "figure": "Figure S-U1",
+    "repository_intermediates": "results/artwork/ctp_case/figure_data.tsv; results/ctp_case/Table_S-U1.tsv; results/ctp_case/Table_S-U2.tsv",
+    "repository_entry": "python -B figures/render.py S-U1",
+    "status": "supplied_renderer_and_values",
+    "note": "16 basis counts, 32 table-bound conditional rates and 63 supplied donor-order points; no model rerun.",
+    "drawing_code": "plot_figure_s_u1.py"
   }
 ]

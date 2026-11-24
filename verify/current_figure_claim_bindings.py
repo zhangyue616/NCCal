@@ -118,4 +118,18 @@ def bindings(root):
     source='src/nccal/metrics.py';tree=ast.parse((root/source).read_text('utf8'))
     cutoffs=[n.comparators[0].value for n in ast.walk(tree)if isinstance(n,ast.Compare)and len(n.ops)==1 and isinstance(n.ops[0],ast.GtE)and isinstance(n.left,ast.Call)and isinstance(n.left.func,ast.Name)and n.left.func.id=='float'and n.left.args and isinstance(n.left.args[0],ast.Subscript)and isinstance(n.left.args[0].slice,ast.Constant)and n.left.args[0].slice.value=='auc_mean'and isinstance(n.comparators[0],ast.Constant)]
     put('MS-0573',common(cutoffs),source,'Manuscript public-label subset cutoff: auc_mean >=0.70 in public.auroc70.eligible; this is a descriptive subset definition, not a line in the current Figure6b or a BH test threshold.')
+    # Overview caption: selectors follow the actual fixed examples.
+    f1mol=load(example5)
+    assert f1mol["cid"]==66277342
+    f1geom=load("data/artwork/protein_masked_geometry.json")
+    f1pair=load(example6)["selected"]["pair"]
+    assert f1pair["accession"]=="Q9I398" and f1pair["amino_acid"]=="R"
+    assert f1pair["helix_position1"]!=f1pair["strand_position1"]
+    f1exposure=load("results/artwork/main/exposure_example.json")
+    assert f1exposure["selection"]["model"]=="35m"
+    put('MS-2282',len({f1mol["cid"]}),'results/artwork/examples/Fig5d_CID66277342_three_SMILES.json','Figure 1f: count the single fixed molecule in the three-notation example.')
+    put('MS-2283',len(f1mol["encodings"]),'results/artwork/examples/Fig5d_CID66277342_three_SMILES.json','Figure 1f: count the saved SMILES encodings in the fixed molecular example.')
+    put('MS-2285',len({f1geom['chain']}),'data/artwork/protein_masked_geometry.json','Figure 1g: count the single structural chain used for the illustrative alanine pair.')
+    put('MS-2288',len({f1pair["helix_position1"],f1pair["strand_position1"]}),'results/artwork/examples/Fig6d_Q9I398_E1_1900.json','Figure 1g: count the distinct arginine sites in the exact frozen Q9I398 example.')
+    put('MS-2292',f1exposure["selection"]["axis_zero_based"],'results/artwork/main/exposure_example.json','Figure 1g: read the development-selected ESM-2 35M exposure neuron.')
     return out

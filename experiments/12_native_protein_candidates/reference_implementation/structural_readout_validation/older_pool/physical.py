@@ -50,7 +50,7 @@ def raw_entity(path,entity):
     if not ranges:return None,'no_sheet_annotation'
     return dict(record_id=f'{pid}_{ch}',chain_id=f'{pid}_{ch}',pdb_id=pid,label_asym_id=ch,entity_id=eid,accession=next(iter(accs)),entity_sequence=seq,sequence=seq,sequence_length=len(seq),sequence_sha256=old.digest(seq),native_offset0=0,source_cif=path,source_cif_sha256=old.sha(path),taxid=str(next(iter(tax))),organism=';'.join(sorted(names)),protein_name=name,resolution_A=res,structure_initial_release_date=dates[0],public_cif_url=f'https://files.rcsb.org/download/{pid}.cif.gz'),''
 def worker(group):
-    cache=P/f"physical_groups_v2/{group['cluster']}.json";cache.parent.mkdir(exist_ok=True)
+    cache=P/f"physical_group_graph_cache/{group['cluster']}.json";cache.parent.mkdir(exist_ok=True)
     priorcache=P/f"physical_groups/{group['cluster']}.json"
     previous=json.loads(cache.read_text()) if cache.exists() else (json.loads(priorcache.read_text()) if priorcache.exists() else None)
     if previous:

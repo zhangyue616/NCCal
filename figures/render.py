@@ -6,13 +6,13 @@ HERE=Path(__file__).resolve().parent;ROOT=HERE.parent
 M=ROOT/'results/artwork/main';D=ROOT/'data/artwork/molecules'
 p=argparse.ArgumentParser(description=__doc__)
 p.add_argument('figures',nargs='*',help='Main numbers 1-6 or supplementary identifiers such as S-C2.')
-p.add_argument('--all',action='store_true',help='Render all 6 main and 23 supplementary figures.')
+p.add_argument('--all',action='store_true',help='Render all 6 main and 24 supplementary figures.')
 p.add_argument('--output',type=Path,default=HERE/'rendered')
 a=p.parse_args();a.output=a.output.resolve();a.output.mkdir(parents=True,exist_ok=True)
-if a.all:a.figures=['1','2','3','4','5','6','S-B1','S-C1','S-C2','S-C3','S-C4','S-C5','S-C6','S-E1','S-G1','S-G2','S-G3','S-G4','S-I1','S-J1','S-J2','S-M1','S-N1','S-O1','S-P1','S-G5','S-Q1','S-R1','S-T1']
+if a.all:a.figures=['1','2','3','4','5','6','S-B1','S-C1','S-C2','S-C3','S-C4','S-C5','S-C6','S-E1','S-G1','S-G2','S-G3','S-G4','S-I1','S-J1','S-J2','S-M1','S-N1','S-O1','S-P1','S-G5','S-Q1','S-R1','S-T1','S-U1']
 if not a.figures:p.error('Supply figure identifiers or --all.')
 arguments={
- '1':[D/'fig1_mol2d.json',D/'ketone2_heat.json',D/'fig4_mol2d.json',M/'activation_output.json',M/'calibration.json',M/'concept_protein.json',M/'atom_activations.npz',D/'selected_atom_alignment.json',ROOT/'data/artwork/generated/prot_gray_two_sites.png',ROOT/'data/artwork/generated/protein_masked_sites_manifest.json',a.output,M/'exposure_example.json'],
+ '1':[D/'fig1_mol2d.json',D/'ketone2_heat.json',D/'fig4_mol2d.json',M/'activation_output.json',M/'calibration.json',M/'concept_protein.json',M/'atom_activations.npz',D/'selected_atom_alignment.json',ROOT/'data/artwork/generated/prot_gray_two_sites.png',ROOT/'data/artwork/generated/protein_masked_sites_manifest.json',a.output,M/'exposure_example.json',ROOT/'results/artwork/examples/Fig5d_CID66277342_three_SMILES.json',ROOT/'results/artwork/use/5c_and_s_s1_basis_summary.tsv',ROOT/'results/molecular/edits/raw_pairs.npz',ROOT/'data/artwork/examples/hydroxyl_pair_inputs.jsonl.gz',ROOT/'results/artwork/examples/Fig6d_Q9I398_E1_1900.json'],
  '2':[M/'calibration.json',M/'pilot.json',M/'concept_protein.json'],
  '3':[M/'concept_protein.json',M/'activation_output.json',M/'reconstruction_panel.json',D/'fig4_mol2d.json',M/'atom_activations.npz'],
  '4':[M/'activation_output.json',M/'task_output_panel.json',M/'reconstruction_panel.json',M/'concept_protein.json',M/'output_deviations.npz',M/'matched_dose.npz',M/'mechanism.json',M/'paired_dose.json'],
@@ -22,6 +22,9 @@ done=set()
 supplement_groups=[(['S-B1','S-I1'],'supplement_audits.py'),(['S-C1'],'supplement_tokenizer.py'),(['S-C2','S-C3','S-C4','S-C5'],'supplement_examples.py'),(['S-C6'],'supplement_pilot.py'),(['S-E1'],'supplement_mechanism.py'),(['S-G4'],'supplement_protein_validation.py'),(['S-J1'],'supplement_paired_dose.py'),(['S-J2'],'supplement_notation.py'),(['S-M1','S-N1'],'supplement_matched_controls.py'),(['S-O1','S-P1'],'supplement_layer_dictionary.py')]
 for name in a.figures:
  if name in done:continue
+ if name=='S-U1':
+  subprocess.run([sys.executable,'-B',str(HERE/'plot_figure_s_u1.py'),'--data',str(ROOT/'results/artwork/ctp_case/figure_data.tsv'),'--output',str(a.output)],check=True,env=env)
+  done.add(name);continue
  if name in ['5','6']:
   examples=ROOT/'data/artwork/examples';numbers=ROOT/'results/artwork/examples'
   if name=='5':

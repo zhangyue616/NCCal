@@ -1,0 +1,9 @@
+basis	source	description	unit	side	roster	valid	median_rank	top1	top5	median_score	median_full_margin
+PCA128	JDM	KLRG1_high	5	high	20	20	17.5	1	4	0.17578125	-0.1953125
+PCA128	JDM	KLRG1_low	8	high	20	20	1.0	12	17	0.29248046875	0.0191406249999999
+PCA128	Wells_blood	KLRG1_high	5	high	19	18	11.0	1	7	0.23046875	-0.123046875
+PCA128	Wells_blood	KLRG1_low	8	high	19	18	2.0	8	14	0.2669221244399654	-0.0278124999999999
+release	JDM	KLRG1_high	67	high	20	20	3.5	4	14	0.4208984375	-0.0462239583333332
+release	JDM	KLRG1_low	49	high	20	20	2.0	7	19	0.4059392755681817	-0.0033735795454545
+release	Wells_blood	KLRG1_high	67	high	19	18	5.0	2	11	0.40234375	-0.0488281249999999
+release	Wells_blood	KLRG1_low	49	high	19	18	3.0	7	14	0.43359375	-0.0166015624999999

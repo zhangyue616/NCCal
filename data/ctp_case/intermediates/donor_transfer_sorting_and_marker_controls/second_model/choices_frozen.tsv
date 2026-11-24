@@ -1,0 +1,5 @@
+description	selector	unit	unit_name	development_score	runnerup	runnerup_score	same_name_member	same_name_size	same_name_rival	search_budget	sign
+KLRG1_low	overlap	115	SCVI-U115	0.23388671875	0	0.22900390625	False	0	-1	128	1
+KLRG1_low	protein_correlation	50	SCVI-U50	0.1497296625405519	109	0.1473386649116494	False	0	-1	128	1
+KLRG1_high	overlap	68	SCVI-U68	0.32666015625	59	0.2900390625	False	0	-1	128	1
+KLRG1_high	protein_correlation	126	SCVI-U126	0.5297709191037121	36	0.5086635894140717	False	0	-1	128	1

@@ -2,7 +2,7 @@
 
 ## Numerical replay
 
-Use CPython 3.11.15 and `cpu.txt` for the manuscript table and experimental calculations. `verify/run.py --experiments` writes its outputs to the chosen directory. It uses the stored first-party results and requires no model checkpoint or GPU.
+Use CPython 3.11.15 and `cpu.txt` for the manuscript table and experimental calculations. `verify/run.py --experiments` writes its outputs to the chosen directory. It uses the stored first-party results and requires no model checkpoint or GPU. The combined 15-experiment replay additionally requires `ctp-case.txt`, which adds pandas for the five single-cell tables. The cTP-case script reaggregates available observations and retrieves frozen inference fields without refitting models.
 
 ## Figure rendering
 

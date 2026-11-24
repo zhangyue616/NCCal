@@ -1,0 +1,112 @@
+panel	cohort	basis	value	unit	table_ref	donor_order
+A	Oxford	release	116.0	pairs	S-U2/release	
+B	JDM	release	2.89861837191934	%	S-U1/high/three	
+B	Wells	release	2.8846153846153797	%	S-U1/high/three	
+A	Oxford	rotation_14001	222.0	pairs	S-U2/rotation_14001	
+B	JDM	rotation_14001	3.1531531531531503	%	S-U1/high/three	
+B	Wells	rotation_14001	1.8018018018018	%	S-U1/high/three	
+A	Oxford	rotation_14002	194.0	pairs	S-U2/rotation_14002	
+B	JDM	rotation_14002	2.06185567010309	%	S-U1/high/three	
+B	Wells	rotation_14002	2.06185567010309	%	S-U1/high/three	
+A	Oxford	rotation_14003	195.0	pairs	S-U2/rotation_14003	
+B	JDM	rotation_14003	2.0512820512820498	%	S-U1/high/three	
+B	Wells	rotation_14003	1.7948717948717898	%	S-U1/high/three	
+A	Oxford	rotation_14004	192.0	pairs	S-U2/rotation_14004	
+B	JDM	rotation_14004	1.8229166666666599	%	S-U1/high/three	
+B	Wells	rotation_14004	2.08333333333333	%	S-U1/high/three	
+A	Oxford	rotation_14005	177.0	pairs	S-U2/rotation_14005	
+B	JDM	rotation_14005	2.25988700564971	%	S-U1/high/three	
+B	Wells	rotation_14005	1.1299435028248501	%	S-U1/high/three	
+A	Oxford	rotation_14006	225.0	pairs	S-U2/rotation_14006	
+B	JDM	rotation_14006	2.2222222222222197	%	S-U1/high/three	
+B	Wells	rotation_14006	1.55555555555555	%	S-U1/high/three	
+A	Oxford	rotation_14007	180.0	pairs	S-U2/rotation_14007	
+B	JDM	rotation_14007	3.33333333333333	%	S-U1/high/three	
+B	Wells	rotation_14007	1.94444444444444	%	S-U1/high/three	
+A	Oxford	rotation_14008	200.0	pairs	S-U2/rotation_14008	
+B	JDM	rotation_14008	2.5	%	S-U1/high/three	
+B	Wells	rotation_14008	2.25	%	S-U1/high/three	
+A	Oxford	untrained_1401	164.0	pairs	S-U2/untrained_1401	
+B	JDM	untrained_1401	0.30487804878048	%	S-U1/high/three	
+B	Wells	untrained_1401	0.0	%	S-U1/high/three	
+A	Oxford	untrained_1402	160.0	pairs	S-U2/untrained_1402	
+B	JDM	untrained_1402	0.0	%	S-U1/high/three	
+B	Wells	untrained_1402	0.0	%	S-U1/high/three	
+A	Oxford	untrained_1403	126.0	pairs	S-U2/untrained_1403	
+B	JDM	untrained_1403	0.0	%	S-U1/high/three	
+B	Wells	untrained_1403	0.0	%	S-U1/high/three	
+A	Oxford	PCA128	515.0	pairs	S-U2/PCA128	
+B	JDM	PCA128	0.0	%	S-U1/high/three	
+B	Wells	PCA128	0.0	%	S-U1/high/three	
+A	Oxford	retrained_1401	45.0	pairs	S-U2/retrained_1401	
+B	JDM	retrained_1401	8.888888888888879	%	S-U1/high/three	
+B	Wells	retrained_1401	8.888888888888879	%	S-U1/high/three	
+A	Oxford	retrained_1402	29.0	pairs	S-U2/retrained_1402	
+B	JDM	retrained_1402	14.28571428571428	%	S-U1/high/three	
+B	Wells	retrained_1402	7.14285714285714	%	S-U1/high/three	
+A	Oxford	retrained_1403	25.0	pairs	S-U2/retrained_1403	
+B	JDM	retrained_1403	14.000000000000002	%	S-U1/high/three	
+B	Wells	retrained_1403	16.0	%	S-U1/high/three	
+C	UCSF	native - median rotation	0.0026104223493945	difference in partial rank correlation	S-U5/UCSF/native vs median rotation	1.0
+C	UCSF	native - median rotation	-0.0121256290552119	difference in partial rank correlation	S-U5/UCSF/native vs median rotation	2.0
+C	UCSF	native - median rotation	0.0039902113472415	difference in partial rank correlation	S-U5/UCSF/native vs median rotation	3.0
+C	UCSF	native - median rotation	-0.0006986497628819	difference in partial rank correlation	S-U5/UCSF/native vs median rotation	4.0
+C	UCSF	native - median rotation	0.0044147827470993	difference in partial rank correlation	S-U5/UCSF/native vs median rotation	5.0
+C	UCSF	native - median rotation	0.0069536129176744	difference in partial rank correlation	S-U5/UCSF/native vs median rotation	6.0
+C	UCSF	native - median rotation	-0.0004609189576137	difference in partial rank correlation	S-U5/UCSF/native vs median rotation	7.0
+C	UCSF	native - median rotation	-0.0016164940095382	difference in partial rank correlation	S-U5/UCSF/native vs median rotation	8.0
+C	UCSF	native - median rotation	-0.0104118745273454	difference in partial rank correlation	S-U5/UCSF/native vs median rotation	9.0
+C	UCSF	native - median rotation	-0.0095955754437659	difference in partial rank correlation	S-U5/UCSF/native vs median rotation	10.0
+C	UCSF	native - median rotation	-0.0008261115346446	difference in partial rank correlation	S-U5/UCSF/native vs median rotation	11.0
+C	UCSF	native - median rotation	0.0034454388781954	difference in partial rank correlation	S-U5/UCSF/native vs median rotation	12.0
+C	UCSF	native - median rotation	-0.0014977301017823	difference in partial rank correlation	S-U5/UCSF/native vs median rotation	13.0
+C	UCSF	native - median rotation	0.0056570379125069	difference in partial rank correlation	S-U5/UCSF/native vs median rotation	14.0
+C	UCSF	native - median rotation	0.0090192305107121	difference in partial rank correlation	S-U5/UCSF/native vs median rotation	15.0
+C	UCSF	native - median rotation	0.0111716456823065	difference in partial rank correlation	S-U5/UCSF/native vs median rotation	16.0
+C	UCSF	native - median rotation	0.0021704532364025	difference in partial rank correlation	S-U5/UCSF/native vs median rotation	17.0
+C	UCSF	native - median rotation	0.0043644168965294	difference in partial rank correlation	S-U5/UCSF/native vs median rotation	18.0
+C	UCSF	native - median rotation	0.0159194766241634	difference in partial rank correlation	S-U5/UCSF/native vs median rotation	19.0
+C	UCSF	native - median rotation	0.0116420106444074	difference in partial rank correlation	S-U5/UCSF/native vs median rotation	20.0
+C	JDM	native - median rotation	-0.0041023024902843	difference in partial rank correlation	S-U5/JDM/native vs median rotation	1.0
+C	JDM	native - median rotation	-0.0038758579856606	difference in partial rank correlation	S-U5/JDM/native vs median rotation	2.0
+C	JDM	native - median rotation	-0.0067069629837152	difference in partial rank correlation	S-U5/JDM/native vs median rotation	3.0
+C	JDM	native - median rotation	-0.0016218667853557	difference in partial rank correlation	S-U5/JDM/native vs median rotation	4.0
+C	JDM	native - median rotation	-0.0078533519697574	difference in partial rank correlation	S-U5/JDM/native vs median rotation	5.0
+C	JDM	native - median rotation	-0.0133934408630125	difference in partial rank correlation	S-U5/JDM/native vs median rotation	6.0
+C	JDM	native - median rotation	-0.0094083044230121	difference in partial rank correlation	S-U5/JDM/native vs median rotation	7.0
+C	JDM	native - median rotation	-0.0060491983209879	difference in partial rank correlation	S-U5/JDM/native vs median rotation	8.0
+C	JDM	native - median rotation	-0.0045616397192212	difference in partial rank correlation	S-U5/JDM/native vs median rotation	9.0
+C	JDM	native - median rotation	-7.308500319493094e-05	difference in partial rank correlation	S-U5/JDM/native vs median rotation	10.0
+C	JDM	native - median rotation	-0.0012465885246286	difference in partial rank correlation	S-U5/JDM/native vs median rotation	11.0
+C	JDM	native - median rotation	-0.0045015928568229	difference in partial rank correlation	S-U5/JDM/native vs median rotation	12.0
+C	JDM	native - median rotation	0.0003183878312145	difference in partial rank correlation	S-U5/JDM/native vs median rotation	13.0
+C	JDM	native - median rotation	-0.0060652084288271	difference in partial rank correlation	S-U5/JDM/native vs median rotation	14.0
+C	JDM	native - median rotation	0.0004568257359327	difference in partial rank correlation	S-U5/JDM/native vs median rotation	15.0
+C	JDM	native - median rotation	-0.0044910968770511	difference in partial rank correlation	S-U5/JDM/native vs median rotation	16.0
+C	JDM	native - median rotation	0.0050890233467395	difference in partial rank correlation	S-U5/JDM/native vs median rotation	17.0
+C	JDM	native - median rotation	0.0022488651977433	difference in partial rank correlation	S-U5/JDM/native vs median rotation	18.0
+C	JDM	native - median rotation	-0.0031973426671857	difference in partial rank correlation	S-U5/JDM/native vs median rotation	19.0
+C	JDM	native - median rotation	0.0177409429331099	difference in partial rank correlation	S-U5/JDM/native vs median rotation	20.0
+C	GSE313642	native - median rotation	-0.0151362411697925	difference in partial rank correlation	S-U5/GSE313642/native vs median rotation	1.0
+C	GSE313642	native - median rotation	-0.0170955325207791	difference in partial rank correlation	S-U5/GSE313642/native vs median rotation	2.0
+C	GSE313642	native - median rotation	-0.0066659732105507	difference in partial rank correlation	S-U5/GSE313642/native vs median rotation	3.0
+C	GSE313642	native - median rotation	-0.0057215357651934	difference in partial rank correlation	S-U5/GSE313642/native vs median rotation	4.0
+C	GSE313642	native - median rotation	-0.001430995785091	difference in partial rank correlation	S-U5/GSE313642/native vs median rotation	5.0
+C	GSE313642	native - median rotation	-0.0087715688198748	difference in partial rank correlation	S-U5/GSE313642/native vs median rotation	6.0
+C	GSE313642	native - median rotation	-0.0120056060643994	difference in partial rank correlation	S-U5/GSE313642/native vs median rotation	7.0
+C	GSE313642	native - median rotation	-0.0078502531889212	difference in partial rank correlation	S-U5/GSE313642/native vs median rotation	8.0
+C	GSE313642	native - median rotation	-0.010871791915548	difference in partial rank correlation	S-U5/GSE313642/native vs median rotation	9.0
+C	GSE313642	native - median rotation	0.0005870869821152	difference in partial rank correlation	S-U5/GSE313642/native vs median rotation	10.0
+C	GSE313642	native - median rotation	-0.0352087331066333	difference in partial rank correlation	S-U5/GSE313642/native vs median rotation	11.0
+C	GSE313642	native - median rotation	-0.0071247692103796	difference in partial rank correlation	S-U5/GSE313642/native vs median rotation	12.0
+C	GSE313642	native - median rotation	-0.0004273930029526	difference in partial rank correlation	S-U5/GSE313642/native vs median rotation	13.0
+C	GSE313642	native - median rotation	-0.0071990115616964	difference in partial rank correlation	S-U5/GSE313642/native vs median rotation	14.0
+C	GSE313642	native - median rotation	-0.0075466235881217	difference in partial rank correlation	S-U5/GSE313642/native vs median rotation	15.0
+C	GSE313642	native - median rotation	0.0045921505337139	difference in partial rank correlation	S-U5/GSE313642/native vs median rotation	16.0
+C	GSE313642	native - median rotation	-0.0106890216050609	difference in partial rank correlation	S-U5/GSE313642/native vs median rotation	17.0
+C	GSE313642	native - median rotation	-0.0069178645575479	difference in partial rank correlation	S-U5/GSE313642/native vs median rotation	18.0
+C	GSE313642	native - median rotation	-0.0156690960092843	difference in partial rank correlation	S-U5/GSE313642/native vs median rotation	19.0
+C	GSE313642	native - median rotation	0.0029205047330948	difference in partial rank correlation	S-U5/GSE313642/native vs median rotation	20.0
+C	GSE313642	native - median rotation	-0.0009186362028047	difference in partial rank correlation	S-U5/GSE313642/native vs median rotation	21.0
+C	GSE313642	native - median rotation	-0.0077858394658114	difference in partial rank correlation	S-U5/GSE313642/native vs median rotation	22.0
+C	GSE313642	native - median rotation	-0.0028543757013546	difference in partial rank correlation	S-U5/GSE313642/native vs median rotation	23.0

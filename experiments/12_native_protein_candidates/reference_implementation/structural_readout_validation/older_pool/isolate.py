@@ -68,7 +68,7 @@ def main():
     for rr in cc.values():
         ids=sorted(r['original_group']for r in rr);seqids=sorted(r['sequence_sha256']for r in rr);gid='older-hg-'+sh.h('|'.join(ids+seqids))[:24];split='H'if int(sh.h('older-sheet-split-20261123|'+gid),16)%3==0 else'D';r=min(rr,key=lambda z:rank[z['original_group']]);oldg=r['original_group'];r.update(group=gid,homology_group=gid,split=split,original_split=split)
         final.append(r);roster.append({'group':gid,'split':split,'rcsb30_groups':ids,'native_sequence_sha256':seqids,'chosen_record_id':r['record_id']})
-        cached=json.loads((P/f'physical_groups_v2/{oldg}.json').read_text())
+        cached=json.loads((P/f'physical_group_graph_cache/{oldg}.json').read_text())
         for g in cached['graphs']:graphs.append(dict(g,group=gid,split=split))
         for s in cached['sites']:sites.append(dict(s,group=gid,split=split))
     final.sort(key=lambda r:r['record_id']);pairs=sh.select(final,sites);sh.jl(P/'chains.jsonl',final);sh.jl(P/'group_roster.jsonl',roster);sh.jl(P/f'homology_exclusions_{args.limit}.jsonl',ex);sh.tsv(P/f'new_components_audit_{args.limit}.tsv',audits)

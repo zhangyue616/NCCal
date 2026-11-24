@@ -1,0 +1,18 @@
+{
+  "original_record_map": "data/ctp_case/original_record_map.tsv",
+  "case_source_record_ids": {
+    "table1.tsv": "ctp-source-00066",
+    "table2.tsv": "ctp-source-00067",
+    "table3.tsv": "ctp-source-00068",
+    "table4.tsv": "ctp-source-00069",
+    "table5.tsv": "ctp-source-00070",
+    "audit/scvi.tsv": "ctp-source-00071",
+    "data_inventory.tsv": "ctp-source-00072",
+    "locks/LOCK1.json": "ctp-source-00073",
+    "locks/LOCK2.json": "ctp-source-00074",
+    "scripts/early.py": "ctp-source-00075",
+    "scripts/case_tables.py": "ctp-source-00076"
+  },
+  "original_scripts": "Original assembly script digests identify historical provenance. The English replay uses explicit numeric source selectors and aggregation recipes in table_recipes.json.",
+  "minimum_inputs": "data/ctp_case/source_archive.json"
+}

@@ -1,0 +1,2 @@
+-r cpu.txt
+pandas==3.0.6

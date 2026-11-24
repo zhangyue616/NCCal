@@ -1,0 +1,10 @@
+model	k	denominator	truth	locked_exams	fully_evaluable_exams	read_out_count
+release	5	main	native	75	65	0
+release	5	main	rot_0	75	65	0
+release	5	main	rot_1	75	65	0
+release	5	main	rot_2	75	65	0
+release	5	main	rot_3	75	65	0
+release	5	main	rot_4	75	65	0
+release	5	main	rot_5	75	65	0
+release	5	main	rot_6	75	65	0
+release	5	main	rot_7	75	65	0

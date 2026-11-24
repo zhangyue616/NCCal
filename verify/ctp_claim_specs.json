@@ -1,0 +1,20 @@
+[
+  {
+    "id": "MS-2295",
+    "selector": "external_cohorts",
+    "source": "results/ctp_case/Table_S-U5.tsv",
+    "operation": "Count distinct Table 5 cohorts in the frozen paired protein comparisons; no cohort has both a positive native-minus-median-rotation mean and Holm p below 0.05."
+  },
+  {
+    "id": "MS-2296",
+    "selector": "previously_unused_cohorts",
+    "source": "results/ctp_case/Table_S-U5.tsv",
+    "operation": "Count distinct Table 5 E2 confirmation cohorts, distinct from UCSF and JDM old cohorts scored after locking."
+  },
+  {
+    "id": "SI-2281",
+    "selector": "hidden_units",
+    "source": "data/ctp_case/intermediates/basis_naming_and_retrieval/basis/naming_opportunities.tsv",
+    "operation": "Read the common coordinate budget of the 16 archived basis naming inventories."
+  }
+]

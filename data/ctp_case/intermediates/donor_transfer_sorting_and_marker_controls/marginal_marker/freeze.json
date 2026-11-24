@@ -1,0 +1,24 @@
+{
+  "utc": "2026-11-23T09:36:40.685755+00:00",
+  "selection": "17 outcome-selected rows of704: outside original24 outputs; >=12 valid in all5 and prior linear3-vs-fixed-conventional3 median>=.03 in every source",
+  "retrospective": true,
+  "independent_external_confirmation": false,
+  "no_HC4": true,
+  "no_new_download": true,
+  "model": "New linear2 original+secondary only, exact same Oxford donors as each stored linear3; same census truth classes0/1/2 on full pool; equal donor weights normalized to mean1; LogisticRegression C=1, L2, lbfgs, max_iter600,tol1e-6",
+  "orientation": "Original/secondary/third marker signs frozen, but L2 coefficients trained under original recipe; no test-donor fitting",
+  "endpoint": "Same donor and full T-like cell pool, same RNA labels; exact fractional each10% tail net purity average; compare existing linear3 minus new linear2, with high/low separately retained",
+  "reuse": "Stored census linear3 purity reused, no re-fitting third-marker or conventional models; identical two-marker pair/donor training inputs share one model",
+  "interpretation": "Conditional incremental predictive readout with re-fitting under same L2 recipe, not antibody causal effect; postselected descriptive results, no p-values or confirmatory claims",
+  "summaries": "Keep all17, five sources each; report valid and median gain; descriptive all5 positive and all5>=3pp separately, never external PASS",
+  "minimum_valid_donors": 12,
+  "minimum_gain_percentage_points": 3,
+  "input_record_ids": [
+    "ctp-source-00052",
+    "ctp-source-02960",
+    "ctp-source-02961",
+    "ctp-source-02962"
+  ],
+  "fixed17_record_id": "ctp-source-00053",
+  "linear3_reference_original_sha256": "d8631b5ecd04b1d7faf18d41f8ee8db2911f546b5c5f68c897af3625cebe57c4"
+}

@@ -1,0 +1,111 @@
+{
+  "figure": "Figure 1",
+  "canvas_pt": [
+    504,
+    404
+  ],
+  "inputs": [
+    {
+      "path": "data/artwork/molecules/fig1_mol2d.json",
+      "bytes": 20986,
+      "sha256": "10a48dff7ea1b9dca0300a793389cf93eb1def964a4a3793a7d88c2bcbff9f57",
+      "role": "retained released source"
+    },
+    {
+      "path": "data/artwork/molecules/ketone2_heat.json",
+      "bytes": 1095,
+      "sha256": "ee9e5b30a3597a24108e52a56e9e8b880e8a210e32ad39b1eb679d94b1ba85a5",
+      "role": "retained released source"
+    },
+    {
+      "path": "data/artwork/molecules/fig4_mol2d.json",
+      "bytes": 22258,
+      "sha256": "76b276eecde73518ca88a8e12a3e3bc15cd110287fb2f863eeceee102458cce4",
+      "role": "retained released source"
+    },
+    {
+      "path": "results/artwork/main/activation_output.json",
+      "bytes": 174754,
+      "sha256": "7e443ff11528bffb3aabe9df49606bcb790c124f13cbac8d86c2c169afd217b9",
+      "role": "retained released source"
+    },
+    {
+      "path": "results/artwork/main/calibration.json",
+      "bytes": 1017342,
+      "sha256": "cbacdfdd929991deda2b3977fb863e972db64d5f2c02e3f6a28edd670d399ca6",
+      "role": "retained released source"
+    },
+    {
+      "path": "results/artwork/main/concept_protein.json",
+      "bytes": 182812,
+      "sha256": "5ecd1cfccbfcbfb8011eb22fa082ac4cc22c3a13d415f158917acf9cb8924dd5",
+      "role": "retained released source"
+    },
+    {
+      "path": "results/artwork/main/atom_activations.npz",
+      "bytes": 3526474,
+      "sha256": "728a91a0449447d3fd78dfbab61773f2d0ce1aebbc1de5639b819778b511d345",
+      "role": "retained released source"
+    },
+    {
+      "path": "data/artwork/molecules/selected_atom_alignment.json",
+      "bytes": 6536,
+      "sha256": "af4f649fc82d140a350c4d139e1d7c0bb160901450c5facc4af2e70cd43a2c34",
+      "role": "retained released source"
+    },
+    {
+      "path": "data/artwork/generated/prot_gray_two_sites.png",
+      "bytes": 562649,
+      "sha256": "4e994a14291cf0384171b1e57e8582702b5767c5823fbf136d00fba38f290cb8",
+      "role": "retained released source"
+    },
+    {
+      "path": "data/artwork/generated/protein_masked_sites_manifest.json",
+      "bytes": 2120,
+      "sha256": "82acbcef518206bd7fd1278e264cb437a3f99dfe6655c666244ae22b01e394af",
+      "role": "retained released source"
+    },
+    {
+      "path": "data/artwork/protein_masked_geometry.json",
+      "bytes": 104287,
+      "sha256": "acbeaae1e903c9da137c1839c10e435b08358f81fb7d5ae80f644ce128f88afc",
+      "role": "retained released source"
+    },
+    {
+      "path": "results/artwork/main/exposure_example.json",
+      "bytes": 1441,
+      "sha256": "d9f02d0a412734770b023d9bb0593c038047688e8478698d4e12eb39ab8da2d1",
+      "role": "retained released source"
+    },
+    {
+      "path": "results/artwork/examples/Fig5d_CID66277342_three_SMILES.json",
+      "bytes": 161598,
+      "sha256": "79ae8f7a640719f8231a34c2769e2d9190c5f71b89c9fdc9f73cc1a7289234d2",
+      "role": "retained released source"
+    },
+    {
+      "path": "results/artwork/use/5c_and_s_s1_basis_summary.tsv",
+      "bytes": 2459,
+      "sha256": "f189218fd492c2d71829c69a01d462cb112191f6ccef2d3be044a51f611dbb4d",
+      "role": "retained released source"
+    },
+    {
+      "path": "results/molecular/edits/raw_pairs.npz",
+      "bytes": 46567589,
+      "sha256": "5da11c6acb1da9a5eee4e0d162d77823c20950895735414f23a93a95991af0f2",
+      "role": "retained released source"
+    },
+    {
+      "path": "data/artwork/examples/hydroxyl_pair_inputs.jsonl.gz",
+      "bytes": 2421,
+      "sha256": "ddde97851a74ca47817c940493ff2c32342c99bbfef703dcba3ed3ad8942b6cc",
+      "role": "retained released source"
+    },
+    {
+      "path": "results/artwork/examples/Fig6d_Q9I398_E1_1900.json",
+      "bytes": 562545,
+      "sha256": "15a08dcfabcb6c1f55b1a964ed9e245a0e9116d18ce96abdb8eed143b414cf1b",
+      "role": "retained released source"
+    }
+  ]
+}

@@ -80,7 +80,7 @@ def verify(out,with_experiments):
             (out/(name+'.log')).write_text(proc.stdout+proc.stderr,encoding='utf-8')
             checks[name]={'exit':proc.returncode,'receipt':dest.is_file(),'seconds':round(time.perf_counter()-start,3)}
             errors|=proc.returncode!=0 or not dest.is_file()
-        summary['branches']=checks;errors|=len(checks)!=14
+        summary['branches']=checks;errors|=len(checks)!=15
     summary['numerical_differences_or_failed_runs']=bool(errors)
     summary['all_display_positions_accounted_for']=not errors and not outcomes['UNVERIFIED']
     summary['validation_scope']='Stored-result calculations and evidence fields, table cells, documentary quantities and notation are distinguished in number-coverage.tsv. This replay does not repeat all model fits from public inputs.'

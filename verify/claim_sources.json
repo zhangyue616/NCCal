@@ -5,10 +5,6 @@
   "MS-0040": "shared",
   "MS-0049": "shared",
   "MS-0069": "shared",
-  "MS-0072": "shared",
-  "MS-0074": "shared",
-  "MS-0080": "shared",
-  "MS-0081": "shared",
   "MS-0086": "shared",
   "MS-0090": "shared",
   "MS-0098": "shared",
@@ -670,5 +666,13 @@
   "SI-2123": "figure",
   "SI-2124": "figure",
   "SI-2242": "effects",
-  "SI-2243": "effects"
+  "SI-2243": "effects",
+  "MS-2282": "current_figure",
+  "MS-2283": "current_figure",
+  "MS-2285": "current_figure",
+  "MS-2288": "current_figure",
+  "MS-2292": "current_figure",
+  "MS-2295": "ctp",
+  "MS-2296": "ctp",
+  "SI-2281": "ctp"
 }

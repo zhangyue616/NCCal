@@ -1,3 +1,8 @@
+"""Draw the NCCal overview from archived molecular and protein evidence.
+
+Run from the repository root with python -B figures/render.py 1.
+The same stored examples support Figures 3, 5 and 6.
+"""
 import sys, os, math, gzip, json
 sys.dont_write_bytecode = True
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
@@ -11,8 +16,9 @@ VALUES = "--values" in sys.argv
 ARG = [a for a in sys.argv[1:] if not a.startswith("--")]
 G1, HEAT, G4, D4, D2, D3 = [J(p) for p in ARG[:6]]
 ACT, ANCH, PROT, MAN, OUT, EXPO = ARG[6], ARG[7], ARG[8], J(ARG[9]), ARG[10], J(ARG[11])
+F5D, BASIS, RAWP, PAIRS, F6D = J(ARG[12]), ARG[13], ARG[14], ARG[15], J(ARG[16])
 NAME = "Figure_1"
-W, H = 504.0, 287.0
+W, H = 504.0, 404.0
 cv = Canvas(W, H)
 ov, txt = cv.ov, cv.txt
 PINK, PLUM = "#CC6A8C", TAB
@@ -339,12 +345,176 @@ assert by0 + 33.0 < MBY - 4.0
 arrow(x + w / 2.0, by0 + 36.0, x + w / 2.0, MBY - 1.5)
 result(x + 6.0, MBY, w - 12.0, (("MAE", False), ("%.4f" % mae["D_mean"], True), ("→", False), ("%.4f" % mae["M2"], True)) if VALUES else (("Output deviation", True),), PINK)
 
-FY0, FL0, FL1 = 207.0, 226.0, 284.0
-FM = 255.0
+# ================================================================ row 2: putting a passing name to use
+import csv, io
+from rdkit.Chem import AllChem
+GOLD = GROUPC["Amine"]
+UY0, UL0, UL1 = 207.0, 226.0, 312.0
+ov.add_patch(Rectangle((0.0, UY0), W, 15.0, facecolor=tint(GOLD, 0.40), edgecolor="none", zorder=3))
+ov.add_patch(Rectangle((0.0, UY0), 14.0, 15.0, facecolor=GOLD, edgecolor="none", zorder=4))
+txt(7.0, UY0 + 11.0, "f" if "6" in OPT else "F", 9, "bold", color="white", ha="center")
+txt(19.0, UY0 + 10.5, "Putting a passing name to use", 7.0, "bold")
+txt(500.0, UY0 + 10.3, "for names that pass b–e", 6.0, color=INK, ha="right")
+rbox(0.0, UL0, W, UL1 - UL0, ground(GOLD), r=4.0, z=2)
+for xs_ in (183.0, 326.0):
+    line([xs_, xs_], [UL0 + 7.0, UL1 - 7.0], color="white", lw=1.4, z=3)
+SUBY, RBY, VM5 = UL0 + 11.5, UL1 - 23.0, 10.0
+
+# ---- rewrite the string: one molecule, three notations, the same atom
+txt(6.0, SUBY, "Rewrite the string", 6.5, "bold")
+HI5 = int(F5D["highlighted_site_from_figure_5a_edit"]["canonical_carbon_atom_index_0"])
+CW5, CH5, RX0, BX5, BK5 = 4.7, 7.6, 6.0, 106.0, 5.0
+marks5 = []
+for k5, enc in enumerate(F5D["encodings"]):
+    y5 = UL0 + 18.5 + k5 * 12.6
+    val5, mark5 = {}, None
+    for a5 in enc["atoms_in_canonical_order"]:
+        st5, en5 = a5["source_element_character_span"]["zero_based_half_open"]
+        v5 = float(a5["neurons"]["293"]["measured_post_gelu"])
+        for c5 in range(st5, en5):
+            val5[c5] = v5
+        if int(a5["canonical_atom_index_0"]) == HI5:
+            mark5 = (st5, en5, v5, float(a5["neurons"]["293"]["frozen_rule_prediction"]))
+    for c5, ch5 in enumerate(enc["smiles"]):
+        ov.add_patch(Rectangle((RX0 + c5 * CW5, y5), CW5 - 0.45, CH5, facecolor=tint(ORANGE, min(max(val5[c5], 0.0) / VM5, 1.0)) if c5 in val5 else "white",
+                               edgecolor=GREY if c5 in val5 else LIGHT, linewidth=0.35, zorder=23))
+        ov.text(RX0 + c5 * CW5 + (CW5 - 0.45) / 2.0, y5 + 5.6, ch5, fontsize=5.0, family="DejaVu Sans Mono", color=INK, ha="center", va="baseline", zorder=30)
+    cv.texts.append((ov.texts[-1], enc["smiles"]))
+    ov.add_patch(Rectangle((RX0 + mark5[0] * CW5 - 0.4, y5 - 0.4), (mark5[1] - mark5[0]) * CW5 + 0.35, CH5 + 0.8, facecolor="none", edgecolor=INK, linewidth=0.8, zorder=31))
+    ov.add_patch(Rectangle((BX5, y5 + 1.3), mark5[2] * BK5, 5.0, facecolor=ORANGE, edgecolor="none", zorder=23))
+    line([BX5 + mark5[3] * BK5] * 2, [y5 - 0.2, y5 + 7.8], color=DARK, lw=1.0, z=25)
+    marks5.append(mark5)
+sq(6.0, RBY + 2.2, 5.0, ORANGE)
+txt(13.5, RBY + 6.8, "Measured", 5.8)
+line([8.5, 8.5], [RBY + 10.0, RBY + 17.0], color=DARK, lw=1.0, z=25)
+txt(13.5, RBY + 15.6, "Rule value", 5.8)
+arrow(BX5 + 20.0, RBY - 8.5, BX5 + 20.0, RBY - 1.5)
+result(96.0, RBY, 76.0, (("Replacement kept", True),), GOLD)
+
+# ---- edit a functional group: the pair of Figure 5a
+txt(194.0, SUBY, "Edit a functional group", 6.5, "bold")
+raw5 = np.load(RAWP, allow_pickle=False)
+cid5 = int(F5D["cid"])
+p5 = [i for i in range(len(raw5["cids"])) if int(raw5["cids"][i]) == cid5 and int(raw5["edit_classes"][i]) == 1]
+assert len(p5) == 1
+S5 = slice(int(raw5["offsets"][p5[0]]), int(raw5["offsets"][p5[0] + 1]))
+sai5 = [int(i) for i in raw5["source_atom_index"][S5]]
+src5, prd5, pdl5 = raw5["source"][S5, 293].astype(float), raw5["controlled_product"][S5, 293].astype(float), raw5["predicted_delta"][S5, 293].astype(float)
+A5, B5 = dict(zip(sai5, src5)), dict(zip(sai5, prd5))
+k9 = sai5.index(HI5)
+D_MEAS, D_RULE = float(prd5[k9] - src5[k9]), float(pdl5[k9])
+assert abs(A5[HI5] - marks5[0][2]) < 1e-4                     # the canonical reading of the notation panel is the parent reading here
+rec5 = None
+with gzip.open(PAIRS, "rt", encoding="utf-8") as f5:
+    for ln5 in f5:
+        r5 = json.loads(ln5)
+        if int(r5["cid"]) == cid5 and int(r5["edit_class"]) == 1:
+            rec5 = r5
+m5 = Chem.MolFromSmiles(rec5["source"]["smiles"])
+AllChem.Compute2DCoords(m5)
+kek5 = Chem.Mol(m5)
+Chem.Kekulize(kek5, clearAromaticFlags=True)
+cf5 = m5.GetConformer()
+XY5 = dict((a.GetIdx(), (cf5.GetAtomPosition(a.GetIdx()).x, -cf5.GetAtomPosition(a.GetIdx()).y)) for a in m5.GetAtoms())
+NB5 = dict((a.GetIdx(), [q.GetIdx() for q in a.GetNeighbors()]) for a in m5.GetAtoms())
+GONE5 = set(int(i) for i in rec5["removed_source_atoms"])
+assert m5.GetAtomWithIdx(HI5).GetSymbol() == "C" and any(q in GONE5 for q in NB5[HI5])
+
+
+def lab5(a):
+    if a.GetSymbol() == "C":
+        return "", ""
+    h = a.GetTotalNumHs()
+    return a.GetSymbol(), ("" if h == 0 else "H" if h == 1 else "H$_{%d}$" % h)
+
+
+LAB5 = dict((a.GetIdx(), lab5(a)) for a in m5.GetAtoms())
+
+
+def draw5(cx, cy, bl, present, values, mark):
+    xs = [XY5[i][0] for i in XY5]
+    ys = [XY5[i][1] for i in XY5]
+    xm, ym, f = (min(xs) + max(xs)) / 2.0, (min(ys) + max(ys)) / 2.0, bl / 1.5
+    pos = dict((i, (cx + (XY5[i][0] - xm) * f, cy + (XY5[i][1] - ym) * f)) for i in XY5)
+    for i in sorted(values, key=lambda q: values[q]):
+        if i in present and values[i] > 0:
+            ov.add_patch(Circle(pos[i], 0.50 * bl, facecolor=mix(ground(GOLD), ORANGE, min(values[i] / VM5, 1.0)), edgecolor="none", zorder=22))
+    for b in kek5.GetBonds():
+        i, j = b.GetBeginAtomIdx(), b.GetEndAtomIdx()
+        if i not in present or j not in present:
+            continue
+        (xa, ya), (xb, yb) = pos[i], pos[j]
+        d = math.hypot(xb - xa, yb - ya)
+        ux, uy = (xb - xa) / d, (yb - ya) / d
+        ga, gb = (0.36 * bl if LAB5[i][0] else 0.0), (0.36 * bl if LAB5[j][0] else 0.0)
+        xa, ya, xb, yb = xa + ux * ga, ya + uy * ga, xb - ux * gb, yb - uy * gb
+        if b.GetBondTypeAsDouble() >= 2:
+            for o in (-0.10 * bl, 0.10 * bl):
+                line([xa - uy * o, xb - uy * o], [ya + ux * o, yb + ux * o], lw=0.5, z=24, cap="round")
+        else:
+            line([xa, xb], [ya, yb], lw=0.5, z=24, cap="round")
+    for i in present:
+        sym, hs = LAB5[i]
+        if not sym:
+            continue
+        px, py = pos[i]
+        nb = [pos[q] for q in NB5[i] if q in present]
+        right = (sum(q[0] for q in nb) / len(nb) - px) > 0 if nb else False
+        if hs and right:
+            txt(px + 1.6, py, hs + sym, 4.6, ha="right", va="center", count=False)
+        elif hs:
+            txt(px - 1.6, py, sym + hs, 4.6, ha="left", va="center", count=False)
+        else:
+            txt(px, py, sym, 4.6, ha="center", va="center", count=False)
+    if mark in present:
+        ov.add_patch(Circle(pos[mark], 0.66 * bl, facecolor="none", edgecolor=INK, lw=0.7, zorder=26))
+
+
+span5 = max(v[0] for v in XY5.values()) - min(v[0] for v in XY5.values())
+BL5 = min(5.6, 1.5 * 48.0 / span5)
+ALL5 = set(XY5)
+MY5 = UL0 + 27.0
+draw5(219.0, MY5, BL5, ALL5, A5, HI5)
+draw5(295.0, MY5, BL5, ALL5 - GONE5, B5, HI5)
+arrow(249.5, MY5, 265.0, MY5, lw=0.8, ms=5.0)
+txt(257.0, MY5 - 8.0, "OH→H", 5.2, color=MUTED, ha="center")
+EX5, EK5 = 258.0, 4.6
+for q5, (lab_, v_, col_) in enumerate((("Measured change", D_MEAS, ORANGE), ("Rule prediction", D_RULE, DARK))):
+    yy5 = UL0 + 41.5 + 8.6 * q5
+    txt(EX5 - 4.0, yy5 + 4.6, lab_, 5.8, ha="right")
+    ov.add_patch(Rectangle((EX5, yy5), abs(v_) * EK5, 5.0, facecolor=col_, edgecolor="none", zorder=23))
+line([EX5, EX5], [UL0 + 39.5, UL0 + 57.0], lw=0.6, z=25)
+arrow(EX5 + 22.0, RBY - 5.5, EX5 + 22.0, RBY - 1.5, ms=5.0)
+result(240.0, RBY, 80.0, (("Change predicted", True),), GOLD)
+
+# ---- compare bases: directions per 464 that keep the replacement under rewriting
+txt(332.0, SUBY, "Compare bases", 6.5, "bold")
+txt(500.0, SUBY, "464 directions each", 5.8, color=MUTED, ha="right")
+with io.open(BASIS, encoding="utf-8-sig", newline="") as fb:
+    bs5 = list(csv.DictReader(fb, delimiter="\t"))
+nat5 = int([r for r in bs5 if r["basis"] == "native"][0]["retained"])
+rot5 = [int(r["retained"]) for r in bs5 if r["basis"].startswith("rot_")]
+sae5 = [int(r["retained"]) for r in bs5 if r["basis"].startswith("sae_") and r["subset"] != "full"]
+assert len(rot5) == 9 and len(sae5) == 3
+BX3, BK3 = 398.0, 2.2
+for k5, (lab_, lo_, mid_, hi_, col_) in enumerate((("Neurons", nat5, nat5, nat5, DARK), ("Rotated axes", min(rot5), float(np.median(rot5)), max(rot5), REF),
+                                                   ("Dictionary features", min(sae5), float(np.median(sae5)), max(sae5), LILAC))):
+    y5 = UL0 + 19.0 + k5 * 13.0
+    txt(BX3 - 5.0, y5 + 5.0, lab_, 6.0, ha="right")
+    ov.add_patch(Rectangle((BX3, y5), max(mid_ * BK3, 0.7), 6.0, facecolor=col_, edgecolor="none", zorder=24))
+    if hi_ > lo_:
+        line([BX3 + lo_ * BK3, BX3 + hi_ * BK3], [y5 + 3.0, y5 + 3.0], color=INK, lw=0.6, z=26)
+line([BX3, BX3], [UL0 + 17.0, UL0 + 53.0], lw=0.6, z=25)
+arrow(452.0, RBY - 8.5, 452.0, RBY - 1.5)
+result(406.0, RBY, 92.0, (("Kept under rewriting", True),), GOLD)
+
+# ================================================================ row 3: proteins
+FY0, FL0, FL1 = 317.0, 336.0, 400.0
+FM = 368.0
 ov.add_patch(Rectangle((0.0, FY0), W, 15.0, facecolor=tint(PLUM, 0.40), edgecolor="none", zorder=3))
 ov.add_patch(Rectangle((0.0, FY0), 14.0, 15.0, facecolor=PLUM, edgecolor="none", zorder=4))
-txt(7.0, FY0 + 11.0, "f" if "6" in OPT else "F", 9, "bold", color="white", ha="center")
-txt(19.0, FY0 + 10.5, "Proteins", 7.0, "bold")
+txt(7.0, FY0 + 11.0, "g" if "6" in OPT else "G", 9, "bold", color="white", ha="center")
+txt(19.0, FY0 + 10.5, "Proteins: two residues of one chain with the same amino acid", 7.0, "bold")
 rbox(0.0, FL0, W, FL1 - FL0, ground(PLUM), r=4.0, z=2)
 im = np.asarray(Image.open(PROT).convert("RGBA"))
 pw = 25.0
@@ -357,42 +527,55 @@ assert FL0 + 1.0 < py0 and py0 + ph < FL1 - 1.0
 WX, WP, WC, WH = 29.0, 4.2, 3.8, 7.6
 for seq, lab, wy, ly in zip(windows, ("Helix", "Strand"), (FM - 8.6, FM + 1.0), (FM - 11.4, FM + 15.6)):
     for k, ch_ in enumerate(seq):
-        masked = (k == 3)
-        ov.add_patch(Rectangle((WX + k * WP, wy), WC, WH, facecolor=ORANGE if masked else "white", edgecolor=ORANGE if masked else GREY, linewidth=0.45, zorder=23))
-        if not masked or "3" in OPT:
-            ov.text(WX + k * WP + WC / 2.0, wy + 5.65, ch_, fontsize=5.3, family="DejaVu Sans Mono", color="white" if masked else INK,
-                    fontweight="bold" if masked else "normal", ha="center", va="baseline", zorder=30)
+        mid = (k == 3)
+        ov.add_patch(Rectangle((WX + k * WP, wy), WC, WH, facecolor=ORANGE if mid else "white", edgecolor=ORANGE if mid else GREY, linewidth=0.45, zorder=23))
+        ov.text(WX + k * WP + WC / 2.0, wy + 5.65, ch_, fontsize=5.3, family="DejaVu Sans Mono", color="white" if mid else INK,
+                fontweight="bold" if mid else "normal", ha="center", va="baseline", zorder=30)
     cv.texts.append((ov.texts[-1], seq))
     txt(WX, ly, lab, 6.0)
 WR = WX + 6 * WP + WC
 assert WR < 58.4
-XT = 211.5
 line([WR + 0.5, 61.5], [FM, FM])
-line([61.5, 61.5, 190.0, 190.0], [FM, FM + 21.0, FM + 21.0, FM + 9.0], color=MUTED, lw=1.0, cap="projecting")
-arrow(190.0, FM + 9.0, XT, FM + 9.0, color=MUTED, lw=1.0)
 arrow(61.5, FM, 67.6, FM, ms=5.0)
 rbox(FX0, FM - 15.0, BX1 - FX0, 30.0, ENCP, r=3.0, z=21)
-snow(104.5, FM, r=3.4, color="white")
-txt(111.5, FM + 2.7, "ESM-2", 7.5, "bold", color="white")
+snow(78.0, FM, r=3.2, color="white")
+txt(85.0, FM + 2.5, "ESM-2 · ESM C · E1", 6.6, "bold", color="white")
 unit(BX1, FM)
-arrow(BX1 + 3.6, FM, XT, FM, color=ORANGE, lw=1.2, ms=7.0)
-for q, word in enumerate(("Chosen", "neuron")):
-    txt((BX1 + XT) / 2.0 + 1.0, FM - 12.8 + 7.4 * q, word, 6.2, "bold", ha="center")
-zy, sc, BW = FM + 13.0, 115.0, 15.0
-cv.key(217.0, FL0 + 9.2, ((GREY, "Sequence alone"), (ORANGE, "With neuron")), size=6.0, gap=8.0)
-line([217.0, 387.0], [zy, zy], lw=0.6, z=25)
+XT, QA, QB = 226.0, FM - 15.5, FM + 15.5
+line([BX1 + 3.6, XT], [FM, FM], color=ORANGE, lw=1.2)
+line([XT, XT], [QA, QB], color=ORANGE, lw=1.2, cap="projecting")
+arrow(XT, QA, XT + 9.0, QA, color=ORANGE, lw=1.2, ms=7.0)
+arrow(XT, QB, XT + 9.0, QB, color=ORANGE, lw=1.2, ms=7.0)
+for q, word in enumerate(("Published or", "chosen neuron")):
+    txt((BX1 + XT) / 2.0 + 0.5, FM - 12.6 + 7.2 * q, word, 6.0, "bold", ha="center")
+LXA, ZX0 = XT + 13.0, 334.0
+hv6, sv6 = float(F6D["selected"]["pair"]["helix_signed_readout"]), float(F6D["selected"]["pair"]["strand_signed_readout"])
+for q, word in enumerate(("Separates", "the pair?")):
+    txt(LXA, QA - 1.0 + 7.0 * q, word, 6.2, "bold")
+ZK = 76.0
+for q, (lab_, v_) in enumerate((("Helix residue", hv6), ("Strand residue", sv6))):
+    yy = QA - 4.8 + 9.6 * q
+    txt(ZX0 - 5.0, yy + 2.1, lab_, 5.8, ha="right")
+    line([ZX0, ZX0 + v_ * ZK], [yy, yy], color=ORANGE, lw=1.0)
+    unit(ZX0 + v_ * ZK, yy, 2.2)
+line([ZX0, ZX0], [QA - 9.5, QA + 9.5], lw=0.6, z=25)
+arrow(390.0, QA, 414.0, QA)
+result(XS["E"][0] + 6.0, QA - 9.0, XS["E"][1] - 12.0, (("Pair accuracy", True),), PLUM)
 pe = EXPO["buried_exposed_pairs"]
 assert EXPO["selection"]["axis_zero_based"] == 814 and pe["T_groups"] == 967
-PAIRB = ((brier["S"], brier["Sj"], "Helix or strand"), (float(pe["sequence_brier"]), float(pe["augmented_brier"]), "Buried or exposed"))
-for gc, (b0, b1, lab) in zip((258.0, 346.0), PAIRB):
-    for q, (val, col_) in enumerate(((b0, GREY), (b1, ORANGE))):
-        hgt = val * sc
-        assert hgt < zy - FL0 - 12.0
-        ov.add_patch(Rectangle((gc - BW - 1.2 + q * (BW + 2.4), zy - hgt), BW, hgt, facecolor=col_, edgecolor="none", zorder=24))
-    txt(gc, zy + 8.4, lab, 6.0, ha="center")
-arrow(391.0, FM, 411.6, FM)
-result(XS["E"][0] + 6.0, FM - 9.0, XS["E"][1] - 12.0, (("Brier", False), ("%.3f" % brier["X"], True), ("→", False), ("%.3f" % brier["Xj"], True)) if VALUES else (("Brier loss", True),), PLUM)
+b0_, b1_ = float(pe["sequence_brier"]), float(pe["augmented_brier"])
+for q, word in enumerate(("Adds to", "sequence?")):
+    txt(LXA, QB - 1.0 + 7.0 * q, word, 6.2, "bold")
+BKB = 180.0
+for q, (lab_, v_, col_) in enumerate((("Sequence alone", b0_, GREY), ("With neuron", b1_, ORANGE))):
+    yy = QB - 8.0 + 9.6 * q
+    txt(ZX0 - 5.0, yy + 5.0, lab_, 5.8, ha="right")
+    ov.add_patch(Rectangle((ZX0, yy), v_ * BKB, 6.0, facecolor=col_, edgecolor="none", zorder=24))
+assert ZX0 + b0_ * BKB < 388.0
+line([ZX0, ZX0], [QB - 10.0, QB + 9.6], lw=0.6, z=25)
+arrow(390.0, QB, 414.0, QB)
+result(XS["E"][0] + 6.0, QB - 9.0, XS["E"][1] - 12.0, (("Brier loss", True),), PLUM)
 
-cv.finish(OUT, NAME, "tokens %d, anchors %d | scale %.4f | binary levels %.4f %.4f | fold %.3f %.3f | theta %.4f | R2 %.4f %.4f | MAE %.5f %.5f %.5f | Brier %s | windows %s"
-          % (N_TOK, n, SCALE, float(raw["bin"][positive][0]), float(raw["bin"][~positive][0]), mtr["J1_fold"], mtr["J2_fold"], theta, r2["M1"], r2["M2"],
-             mae["D_mean"], mae["M1"], mae["M2"], " ".join("%s %.4f" % (k, brier[k]) for k in ("S", "Sj")) + " exposure %.4f %.4f" % (PAIRB[1][0], PAIRB[1][1]), " ".join(windows)))
+cv.finish(OUT, NAME, "tokens %d, anchors %d | fold %.3f %.3f | theta %.4f | R2 %.4f %.4f | MAE %.5f %.5f | notations %s rule %.2f | edit measured %.2f rule %.2f | kept neurons %d rotated %d-%d dictionary %d-%d | pair readings %.3f %.3f | exposure Brier %.4f %.4f | windows %s"
+          % (N_TOK, n, mtr["J1_fold"], mtr["J2_fold"], theta, r2["M1"], r2["M2"], mae["D_mean"], mae["M2"], [round(m[2], 2) for m in marks5], marks5[0][3], D_MEAS, D_RULE,
+             nat5, min(rot5), max(rot5), min(sae5), max(sae5), hv6, sv6, b0_, b1_, " ".join(windows)))

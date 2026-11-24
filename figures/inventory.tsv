@@ -1,5 +1,5 @@
 figure	repository_intermediates	repository_entry	status	note	drawing_code
-Figure 1	results/artwork/main; data/artwork/molecules	python -B figures/render.py 1	portable_renderer_executed	Derived 2CZL backbone is rendered locally; no raw deposited snapshot.	native/main_1.py
+Figure 1	results/artwork/main; results/artwork/examples; results/artwork/use; results/molecular/edits/raw_pairs.npz; data/artwork/molecules; data/artwork/examples; data/artwork/generated	python -B figures/render.py 1	portable_renderer_executed	Overview of calibration, transfer, reconstruction, output preservation, molecular use and matched protein readouts. Author-selected PNG/SVG/PDF are in published/; FIGURE_1.md identifies every input and panel.	native/main_1.py
 Figure 2	results/artwork/main; data/artwork/molecules	python -B figures/render.py 2	portable_renderer_executed		native/main_2.py
 Figure 3	results/artwork/main; data/artwork/molecules	python -B figures/render.py 3	portable_renderer_executed		native/main_3.py
 Figure 4	results/artwork/main; data/artwork/molecules	python -B figures/render.py 4	portable_renderer_executed		native/main_4.py
@@ -28,3 +28,4 @@ Figure S-G5	results/artwork/use/; results/artwork/main/; results/artwork/supplem
 Figure S-Q1	results/artwork/use/5b_and_s_q1_census.tsv	python -B figures/render.py S-Q1	portable_renderer_executed	All 464 rows and RMS-output-deviation units retained.	plot_use_results.py
 Figure S-R1	results/artwork/use/5a_and_s_r1_changed_atom_deltas.tsv; 5a_and_s_r1_primary_metrics.tsv	python -B figures/render.py S-R1	portable_renderer_executed	Two units by five edits, atom-point arrays plus molecule-weighted R2.	plot_use_results.py
 Figure S-T1	results/artwork/use/6b_and_s_t1_public_labels.tsv	python -B figures/render.py S-T1	portable_renderer_executed	Both T and NEW rows, original identities and BH flags.	plot_use_results.py
+Figure S-U1	results/artwork/ctp_case/figure_data.tsv; results/ctp_case/Table_S-U1.tsv; results/ctp_case/Table_S-U2.tsv	python -B figures/render.py S-U1	supplied_renderer_and_values	16 basis counts, 32 table-bound conditional rates and 63 supplied donor-order points; no model rerun.	plot_figure_s_u1.py
