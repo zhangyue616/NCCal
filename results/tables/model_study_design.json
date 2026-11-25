@@ -4,91 +4,91 @@
     "RoBERTa; MLM",
     "77M PubChem",
     "Final FFN pre-GELU (464 neurons)",
-    "Cross-model comparison [33]"
+    "Cross-model comparison [35]"
   ],
   [
     "ChemBERTa-77M-MTR",
     "RoBERTa; descriptor regression",
     "77M PubChem",
     "Final FFN pre-GELU (464 neurons); block-2 post-GELU for locked neurons and panel reconstruction",
-    "Cross-model comparison; development and confirmation analysis ; panel reconstruction and named-task replacement [33]"
+    "Cross-model comparison; development and confirmation analysis; panel reconstruction and named-task replacement [35]"
   ],
   [
     "CheMeleon",
     "Directed message passing; 1,613-descriptor regression",
     "1M PubChem",
-    "Atom-output pre-ReLU (2,048 neurons)",
-    "Cross-model comparison [32]"
+    "Atom-output  pre-ReLU (2,048 neurons)",
+    "Cross-model comparison [34]"
   ],
   [
     "MolCLR GIN",
     "GIN; contrastive",
     "About 10M PubChem",
     "Final GIN-MLP pre-ReLU (600 neurons)",
-    "Cross-model comparison [31]"
+    "Cross-model comparison [33]"
   ],
   [
     "Hu masking",
     "GIN; attribute masking",
     "2M ZINC15",
     "Final GIN-MLP pre-ReLU (600 neurons)",
-    "Cross-model comparison [30]"
+    "Cross-model comparison [32]"
   ],
   [
     "Hu context prediction",
     "GIN; context prediction",
     "2M ZINC15",
     "Final GIN-MLP pre-ReLU (600 neurons)",
-    "Cross-model comparison [30]"
+    "Cross-model comparison [32]"
   ],
   [
     "Hu edge prediction",
     "GIN; edge prediction",
     "2M ZINC15",
     "Final GIN-MLP pre-ReLU (600 neurons)",
-    "Cross-model comparison [30]"
+    "Cross-model comparison [32]"
   ],
   [
     "Hu deep graph infomax",
     "GIN; deep graph infomax",
     "2M ZINC15",
     "Final GIN-MLP pre-ReLU (600 neurons)",
-    "Cross-model comparison [30]"
+    "Cross-model comparison [32]"
   ],
   [
     "MoLFormer-XL-both-10pct",
     "Linear-attention Transformer; MLM",
     "10% PubChem + 10% ZINC; about 110M SMILES",
-    "12 FFN pre-GELU layers (768 neurons each); selected layer 10 ; eleventh-block post-GELU for panel reconstruction and replacement",
-    "Separate MoLFormer evaluation ; panel reconstruction and named-task replacement [34,35]"
+    "12 FFN pre-GELU layers (768 neurons each); selected layer 10; eleventh-block post-GELU for panel reconstruction and replacement",
+    "Separate MoLFormer evaluation; panel reconstruction and named-task replacement [36,37]"
   ],
   [
     "ESM-2 8M",
     "Protein language model",
     "Released ESM-2 pretraining",
     "Block 3 post-GELU neurons 1246 and 801",
-    "Masked helix–strand reading and replacement (1246); unmasked exposure prediction (801) [36]"
+    "Masked helix–strand reading and replacement (1246); unmasked exposure prediction (801) [38]"
   ],
   [
     "ESM-2 35M",
     "Protein language model",
     "Released ESM-2 pretraining",
     "Block 6 post-GELU neuron 814",
-    "Unmasked exposure prediction [36]"
+    "Unmasked exposure prediction [38]"
   ],
   [
     "ESM-2 650M",
     "Protein language model",
     "Released ESM-2 pretraining",
     "Block 16 post-GELU neuron 4566",
-    "Unmasked exposure prediction [36]"
+    "Unmasked exposure prediction [38]"
   ],
   [
     "E1-150M",
     "Protein language model",
     "Released E1 pretraining",
     "Post-SwiGLU channels 2192 and 735 (block 15); 2062 and 1900 (block 20)",
-    "Helix–strand and helix-start readings [40]"
+    "Helix–strand and helix-start readings [43]"
   ],
   [
     "ESM C 600M",

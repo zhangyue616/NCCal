@@ -54,3 +54,17 @@ frequency limits, and every included observation is counted.
 `plot_use_results.py` draws supplementary Figures S-Q1, S-R1 and S-T1.
 For S-G5, `native/protein_panels.py` generates the components assembled by
 `plot_protein_supplement.py`.
+
+Figure 5f reads all 928 features from each dictionary and scales every count by
+464/928 before the square-root plotting transform. Native neurons, rotations
+and principal axes have 464 directions. Right-side labels retain raw counts
+and their denominators: dictionaries 53–55 of 928, neurons 26 of 464, principal
+axes 8 of 464 and rotations 0–4 of 464.
+
+Figure 6c adds a descriptive paired-accuracy rank row for each protein frame.
+A label beats all nine rotated bases when `rotation_K` is 9 and
+`rotation_pair_accuracy_upper_rank` is at most 0.1 (within floating-point
+tolerance). The counts are 18 of 98 confirmation labels and 13 of 98 labels
+on new proteins. This row is separate from the same-amino-acid discrimination
+and sequence-predictor-increment tests; it does not show the rank of the
+sequence-predictor increment.

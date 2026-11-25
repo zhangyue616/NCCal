@@ -1,0 +1,13 @@
+{
+  "input": "results/artwork/use/basis_rewrite_direction_inputs.tsv",
+  "sha256": "64e23fa7919da887c4788a74b8c7e31d80df8737511d68d2035553677ac667ad",
+  "rows": 7888,
+  "statistical_unit": "One coordinate in one frozen basis; no molecule, residue or participant identifier.",
+  "source_fields": "Archived per-direction unit summaries supply canonical_usable, retained and R2 fields. Frozen unlabelled-validation variance-contribution membership supplies the dictionary top-464 flag.",
+  "main_criterion": "canonical_usable AND retained. The archived retained flag requires positive lower bounds for both rewritten write-back advantages. It does not require rewritten_R2 >= 0.5.",
+  "sensitivity": "Main criterion AND finite rewritten_R2 >= 0.5, using the original development-fitted rule.",
+  "missing_values": "Original NaN R2 values are retained. They are not replaced by zero or removed from the full physical denominator. All canonically usable retained directions have finite rewritten R2 in this snapshot.",
+  "denominators": "Native, PCA and each rotation: 464. Each full dictionary: 928. The frozen variance-selected dictionary subset: 464.",
+  "replay": "python -B src/nccal/rewrite_sensitivity.py --out ../rewrite-sensitivity.json",
+  "scope": "Stored-field recount. No weights, activation matrices, model inference, new fitting, new interval calculation or bootstrap."
+}

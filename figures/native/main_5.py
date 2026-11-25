@@ -324,26 +324,29 @@ F.set_ylabel("Directions per 464", fontsize=7.5, labelpad=1)
 row = lambda b, sub="full": [r for r in basis if r["basis"] == b and r["subset"] == sub][0]
 tri = lambda r: [sq(r["R2_ge05_n"]), sq(r["canonical_usable_n"]), sq(r["retained"])]
 RR = [r for r in basis if r["basis"].startswith("rot_")]
-SS = [r for r in basis if r["basis"].startswith("sae_") and r["subset"] != "full"]
-rots, saes = [tri(r) for r in RR], [tri(r) for r in SS]
+SS = [r for r in basis if r["basis"].startswith("sae_") and r["subset"] == "full"]     # all 928 features of each dictionary
+assert len(SS) == 3 and all(int(r["physical_n"]) == 928 for r in SS) and len(RR) == 9
+per464 = lambda r: [sq(int(r[k]) * 464.0 / int(r["physical_n"])) for k in ("R2_ge05_n", "canonical_usable_n", "retained")]
+rots, saes = [tri(r) for r in RR], [per464(r) for r in SS]
 for t in rots:
     F.plot([0, 1, 2], t, color=REF, lw=0.6, alpha=0.75, zorder=2)
 for t in saes:
-    F.plot([0, 1, 2], t, color=LILAC, lw=0.8, alpha=0.9, zorder=3)
+    F.plot([0, 1, 2], t, color=LILAC, lw=0.8, alpha=0.95, zorder=6)
 F.plot([0, 1, 2], tri(row("pca")), color=GREY, lw=0.9, ls=(0, (3, 1.5)), zorder=2)
 F.plot([0, 1, 2], tri(row("native")), color=INK, lw=1.6, marker="o", ms=3.2, zorder=5)
 rng = lambda key, rows: (min(int(r[key]) for r in rows), max(int(r[key]) for r in rows))
 nat, pca = row("native"), row("pca")
-lab_r = [("Dictionary", "%d–%d" % rng("retained", SS), LILAC, np.mean([t[2] for t in saes])),
-         ("Neurons", nat["retained"], INK, sq(nat["retained"])),
-         ("Principal", pca["retained"], MUTED, sq(pca["retained"])),
-         ("Rotated", "%d–%d" % rng("retained", RR), REF, np.mean([t[2] for t in rots]))]
+lab_r = [("Dictionary", "%d–%d of 928" % rng("retained", SS), LILAC, np.mean([t[2] for t in saes]), 17.0),
+         ("Neurons", "%s of 464" % nat["retained"], INK, sq(nat["retained"]), 0.0),
+         ("Principal", "%s of 464" % pca["retained"], MUTED, sq(pca["retained"]), 0.0),
+         ("Rotated", "%d–%d of 464" % rng("retained", RR), REF, np.mean([t[2] for t in rots]), 0.0)]
+assert lab_r[0][3] > lab_r[1][3]                          # the dictionary label is placed first, one step above the neuron label
 ypt = lambda v: FY + FH * (1 - v / sq(430))
 prev = -99.0
-for name, val, col, v in sorted(lab_r, key=lambda q: -q[3]):
-    y = max(ypt(v) - 6.0, prev + 17.0)
+for name, val, col, v, up in sorted(lab_r, key=lambda q: -q[3]):
+    y = max(ypt(v) - 6.0 - up, prev + 17.0)
     cv.txt(FX + FW + 4, y, name, 6.5, color=col, weight="bold" if name == "Neurons" else "normal")
-    cv.txt(FX + FW + 4, y + 7.6, "%s kept" % val, 6.5, color=col)
+    cv.txt(FX + FW + 4, y + 8.6, val, 6.5, color=col)
     prev = y
 cv.txt(FX + 27, ypt(np.mean([t[0] for t in rots])) + 6, "%d–%d" % rng("R2_ge05_n", RR), 6.5, color=REF)
 print("panel c ticks: %d of 36 | rotations explained %s replaceable %s kept %s | dictionaries %s %s %s" % (

@@ -489,16 +489,18 @@ result(240.0, RBY, 80.0, (("Change predicted", True),), GOLD)
 
 # ---- compare bases: directions per 464 that keep the replacement under rewriting
 txt(332.0, SUBY, "Compare bases", 6.5, "bold")
-txt(500.0, SUBY, "464 directions each", 5.8, color=MUTED, ha="right")
+txt(500.0, SUBY, "per 464 directions", 5.8, color=MUTED, ha="right")
 with io.open(BASIS, encoding="utf-8-sig", newline="") as fb:
     bs5 = list(csv.DictReader(fb, delimiter="\t"))
 nat5 = int([r for r in bs5 if r["basis"] == "native"][0]["retained"])
 rot5 = [int(r["retained"]) for r in bs5 if r["basis"].startswith("rot_")]
-sae5 = [int(r["retained"]) for r in bs5 if r["basis"].startswith("sae_") and r["subset"] != "full"]
-assert len(rot5) == 9 and len(sae5) == 3
+full5 = [r for r in bs5 if r["basis"].startswith("sae_") and r["subset"] == "full"]         # all 928 features of each dictionary
+sae5 = [int(r["retained"]) for r in full5]
+assert len(rot5) == 9 and len(sae5) == 3 and all(int(r["physical_n"]) == 928 for r in full5)
+sae5h = [v * 464.0 / 928.0 for v in sae5]
 BX3, BK3 = 398.0, 2.2
 for k5, (lab_, lo_, mid_, hi_, col_) in enumerate((("Neurons", nat5, nat5, nat5, DARK), ("Rotated axes", min(rot5), float(np.median(rot5)), max(rot5), REF),
-                                                   ("Dictionary features", min(sae5), float(np.median(sae5)), max(sae5), LILAC))):
+                                                   ("Dictionary features", min(sae5h), float(np.median(sae5h)), max(sae5h), LILAC))):
     y5 = UL0 + 19.0 + k5 * 13.0
     txt(BX3 - 5.0, y5 + 5.0, lab_, 6.0, ha="right")
     ov.add_patch(Rectangle((BX3, y5), max(mid_ * BK3, 0.7), 6.0, facecolor=col_, edgecolor="none", zorder=24))

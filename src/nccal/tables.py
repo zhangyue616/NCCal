@@ -115,7 +115,7 @@ def labels():
 
 def build():
     transfer=[[name,decimal(r[1],3),f'[{decimal(r[2],3)}, {decimal(r[3],3)}]']
-              for r,name in zip(read('transfer_statistics'),['Axis preference (Θ)','Readability ( G init )'])]
+              for r,name in zip(read('transfer_statistics'),['Axis preference (Θ)','Readability (Ginit)'])]
     return {'MS1':read('model_study_design'),'MS2':calibration(),'SI1':transfer,'SI2':exposure(),
             'SI3':focal(),'SI4':layer(),'SI5':rewrites(),'SI6':edits(),'SI7':bases(),'SI8':labels()}
 

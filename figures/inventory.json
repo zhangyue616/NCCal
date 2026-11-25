@@ -4,7 +4,7 @@
     "repository_intermediates": "results/artwork/main; results/artwork/examples; results/artwork/use; results/molecular/edits/raw_pairs.npz; data/artwork/molecules; data/artwork/examples; data/artwork/generated",
     "repository_entry": "python -B figures/render.py 1",
     "status": "portable_renderer_executed",
-    "note": "Overview of calibration, transfer, reconstruction, output preservation, molecular use and matched protein readouts. Author-selected PNG/SVG/PDF are in published/; FIGURE_1.md identifies every input and panel.",
+    "note": "Overview with full 928-feature dictionaries scaled to directions per 464. FIGURE_1.md and the published figure manifest identify the denominator binding and verified exports.",
     "drawing_code": "native/main_1.py"
   },
   {
@@ -36,7 +36,7 @@
     "repository_intermediates": "results/artwork/use; results/molecular/edits/raw_pairs.npz; results/artwork/examples/Fig5d_CID66277342_three_SMILES.json; data/artwork/examples/hydroxyl_pair_inputs.jsonl.gz",
     "repository_entry": "python -B figures/render.py 5",
     "status": "portable_renderer_executed",
-    "note": "Six native panels; accepted PNG reproduced byte for byte; published outputs are not inputs.",
+    "note": "Full 928-feature dictionary counts are scaled to directions per 464 before the square-root axis transform; retained labels state the raw denominators. Published outputs are not drawing inputs.",
     "drawing_code": "native/main_5.py"
   },
   {
@@ -44,7 +44,7 @@
     "repository_intermediates": "results/artwork/use; results/artwork/examples/Fig6d_Q9I398_E1_1900.json; data/artwork/protein_exposure_geometry.json; data/artwork/examples/exposure_pair_selection.tsv",
     "repository_entry": "python -B figures/render.py 6",
     "status": "portable_renderer_executed",
-    "note": "Six native panels; accepted PNG and regenerated structural component reproduced byte for byte; published outputs are not inputs.",
+    "note": "Paired-accuracy ranks add a descriptive Beats rotations row for each protein set (18 of 98 confirmation labels and 13 of 98 new-protein labels); the two inferential tests remain separate. Published outputs are not drawing inputs.",
     "drawing_code": "native/main_6.py; native/protein_exposure.py"
   },
   {

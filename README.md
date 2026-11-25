@@ -2,7 +2,7 @@
 
 NCCal tests what a name attached to an individual neuron can predict. A molecular example follows a hydroxyl-related neuron from its response on a new molecule through a functional-group edit and replacement of its activation in the frozen model. The protein experiments ask which published and newly identified neurons distinguish matched residues after accounting for their amino acid and surrounding sequence.
 
-This repository accompanies *NCCal: reading, testing and replacing individual neurons in molecular and protein language models*. The software version is **v2.0.1**. The article and Supplementary Information identify summary results by figure, table and section. The numbered worksheets belong to the article's separately distributed Supplementary Data 1.
+This repository accompanies *NCCal: reading, testing and using individual neurons in molecular and protein language models*. The software version is **v2.0.2**. The article and Supplementary Information identify summary results by figure, table and section. The numbered worksheets belong to the article's separately distributed Supplementary Data 1.
 
 ## Recalculate stored results on a CPU
 
@@ -65,4 +65,4 @@ The numerical and plotting inputs are under `results/molecular`, `results/protei
 
 ## Citation and licence
 
-Cite Yue Zhang, *NCCal*, software version v2.0.1. The [citation record](CITATION.cff) identifies the intended project URL [zhangyue616/NCCal](https://github.com/zhangyue616/NCCal). The [MIT licence](LICENSE) applies to first-party code. Original data are subject to their providers' terms. The source and data guide identifies the licence for first-party derived material. The single-cell [source inventory](data/ctp_case/data_inventory.tsv) and [reuse guide](data/ctp_case/RIGHTS.md) record provider-specific rights and remaining unknowns for that case. Its [reconstruction guide](experiments/15_ctp_case/README.md) distinguishes calculations from frozen summary retrieval.
+Cite Yue Zhang, *NCCal*, software version v2.0.2. The [citation record](CITATION.cff) identifies the intended project URL [zhangyue616/NCCal](https://github.com/zhangyue616/NCCal). The [MIT licence](LICENSE) applies to first-party code. Original data are subject to their providers' terms. The source and data guide identifies the licence for first-party derived material. The single-cell [source inventory](data/ctp_case/data_inventory.tsv) and [reuse guide](data/ctp_case/RIGHTS.md) record provider-specific rights and remaining unknowns for that case. Its [reconstruction guide](experiments/15_ctp_case/README.md) distinguishes calculations from frozen summary retrieval.

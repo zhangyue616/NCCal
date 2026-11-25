@@ -107,5 +107,38 @@
       "sha256": "15a08dcfabcb6c1f55b1a964ed9e245a0e9116d18ce96abdb8eed143b414cf1b",
       "role": "retained released source"
     }
-  ]
+  ],
+  "basis_display_binding": {
+    "source": "results/artwork/use/5c_and_s_s1_basis_summary.tsv",
+    "source_sha256": "f189218fd492c2d71829c69a01d462cb112191f6ccef2d3be044a51f611dbb4d",
+    "dictionary_selection": "basis starts with 'sae_' and subset == 'full'",
+    "dictionary_physical_features": [
+      928
+    ],
+    "native_physical_neurons": 464,
+    "display_unit": "directions per 464",
+    "display_count": "count * 464 / physical_n",
+    "dictionary_raw_retained": [
+      53,
+      55,
+      53
+    ],
+    "dictionary_displayed_retained": [
+      26.5,
+      27.5,
+      26.5
+    ],
+    "native_raw_retained": 26,
+    "rotation_raw_retained": [
+      1,
+      1,
+      2,
+      1,
+      4,
+      2,
+      2,
+      1,
+      0
+    ]
+  }
 }

@@ -169,14 +169,19 @@ for x, u, col in cols:
 txt(MX + MW + 4.0, BYc + 4.0, "1.0", 6.5, color=MUTED)
 txt(MX + MW + 4.0, BYc + BHc + 2.4, "0.5", 6.5, color=MUTED)
 txt(MX + MW + 20.0, BYc + BHc / 2.0 + 2.4, "Pair accuracy", 6.5, color=MUTED)
-ROWS = (("1,099 confirmation groups", T, (("same_AA_flag", "Separates pair", n_same), ("strong_increment_flag", "Adds to sequence", n_strong))),
-        ("New proteins", N, (("same_AA_flag", "Separates pair", n_same2), ("strong_increment_flag", "Adds to sequence", n_strong2))))
+ahead = lambda r: float(r["rotation_pair_accuracy_upper_rank"]) <= 0.1 + 1e-9      # first of ten: the published unit and nine rotated bases
+passes = lambda r, k: ahead(r) if k == "ROT" else yes(r, k)
+assert all(int(float(r["rotation_K"])) == 9 for r in list(T.values()) + list(N.values()))
+n_rot, n_rot2 = sum(ahead(r) for r in T.values()), sum(ahead(r) for r in N.values())
+print("ahead of all nine rotated bases: %d (confirmation), %d (new)" % (n_rot, n_rot2))
+ROWS = (("1,099 confirmation groups", T, (("same_AA_flag", "Separates pair", n_same), ("strong_increment_flag", "Adds to sequence", n_strong), ("ROT", "Beats rotations", n_rot))),
+        ("New proteins", N, (("same_AA_flag", "Separates pair", n_same2), ("strong_increment_flag", "Adds to sequence", n_strong2), ("ROT", "Beats rotations", n_rot2))))
 y = BYc + BHc + 16.0
 for head_, frame, tests in ROWS:
     txt(MX, y - 3.0, head_, 6.5, color=MUTED)
     for key, name, n in tests:
         for x, u, col in cols:
-            ov.add_patch(Rectangle((x, y), cw, 9.5, facecolor=col if yes(frame[u], key) else LIGHT, edgecolor="none", zorder=23))
+            ov.add_patch(Rectangle((x, y), cw, 9.5, facecolor=col if passes(frame[u], key) else LIGHT, edgecolor="none", zorder=23))
         txt(MX + MW + 4.0, y + 7.2, name, 6.5)
         txt(W - 1.0, y + 7.2, "%d" % n, 7.5, "bold", ha="right")
         y += 12.0

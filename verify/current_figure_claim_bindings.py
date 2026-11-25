@@ -73,10 +73,10 @@ def bindings(root):
     put('MS-0551',sum(r['canonical_usable']=='True'for r in census),source,'Current Figure5e: count canonically usable native neurons before grouping rewritten outcomes.')
     put('MS-0553',len(j5['cohort']['available_frozen_rewrite_ids']),example5,'Current Figure5e: number of frozen additional notations in the underlying rewriting census, distinct from the three illustrative notations displayed in5d.')
     source=art+'5c_and_s_s1_basis_summary.tsv';basis=rows(source)
-    plotted=[r for r in basis if not r['basis'].startswith('sae_')or r['subset']!='full']
-    put('MS-0554',common(int(r['physical_n'])for r in plotted),source,'Current Figure5f: common physical width of all plotted native/rotation/PCA and variance-selected dictionary subsets; full928-feature dictionaries are not the plotted subsets.')
+    plotted=[r for r in basis if not r['basis'].startswith('sae_')or r['subset']=='full']
+    put('MS-0554',common(int(r['physical_n'])for r in plotted if not r['basis'].startswith('sae_')),source,'Current Figure5f: directions-per-464 display unit from native/rotation/PCA widths; full928-feature dictionary counts are multiplied by464/928 before plotting.')
     put('MS-0555',len([r for r in plotted if r['basis'].startswith('rot_')]),source,'Current Figure5f: distinct stored rotated bases, one line per basis.')
-    put('MS-0556',len({r['basis']for r in plotted if r['basis'].startswith('sae_')}),source,'Current Figure5f: distinct dictionary fits represented by their top464 variance-contribution subsets.')
+    put('MS-0556',len({r['basis']for r in plotted if r['basis'].startswith('sae_')}),source,'Current Figure5f: distinct full928-feature dictionary fits; displayed counts are scaled to directions per464 and labels retain their raw denominators.')
     source='src/nccal/molecular/reproduce.py';basis_tree=ast.parse((root/source).read_text('utf8'))
     cutoff,=[n.comparators[0].value for n in ast.walk(basis_tree)if isinstance(n,ast.Compare)and len(n.ops)==1 and isinstance(n.ops[0],ast.GtE)and isinstance(n.left,ast.Name)and n.left.id=='r2'and isinstance(n.comparators[0],ast.Constant)and n.comparators[0].value==.5]
     put('MS-2258',cutoff,source,'Current Figure5f: the per-direction r2 comparison used to recompute R2_ge05_n in basis verification; no histogram cutoff is substituted.')

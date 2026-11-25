@@ -1,0 +1,379 @@
+[
+  {
+    "id": "MS-2387",
+    "selector": "census.retained"
+  },
+  {
+    "id": "MS-2388",
+    "selector": "bases.rotations.physical_n.min"
+  },
+  {
+    "id": "MS-2389",
+    "selector": "bases.dictionary_full.retained.min"
+  },
+  {
+    "id": "MS-2390",
+    "selector": "bases.dictionary_full.retained.max"
+  },
+  {
+    "id": "MS-2391",
+    "selector": "bases.dictionary_full.physical_n.min"
+  },
+  {
+    "id": "MS-2393",
+    "selector": "public.T.all.pair_accuracy.rotation_wins"
+  },
+  {
+    "id": "MS-2394",
+    "selector": "public.reference.rotation_K"
+  },
+  {
+    "id": "MS-2403",
+    "selector": "bases.dictionary_full.physical_n.min"
+  },
+  {
+    "id": "MS-2404",
+    "selector": "bases.native.full.physical_n"
+  },
+  {
+    "id": "MS-2408",
+    "selector": "public.T.all.pair_accuracy.rotation_wins"
+  },
+  {
+    "id": "MS-2440",
+    "selector": "bases.dictionary_full.physical_n.min"
+  },
+  {
+    "id": "MS-2458",
+    "selector": "public.reference.rotation_K"
+  },
+  {
+    "id": "MS-2467",
+    "selector": "chemical_output_contrasts.selected_objects"
+  },
+  {
+    "id": "MS-2468",
+    "selector": "hydroxyl.positive_mean_dose.selected"
+  },
+  {
+    "id": "MS-2469",
+    "selector": "hydroxyl.positive_mean_dose.control_min"
+  },
+  {
+    "id": "MS-2470",
+    "selector": "hydroxyl.positive_mean_dose.control_max"
+  },
+  {
+    "id": "MS-2473",
+    "selector": "census.retained_rewritten_R2_ge05"
+  },
+  {
+    "id": "MS-2474",
+    "selector": "census.retained"
+  },
+  {
+    "id": "MS-2476",
+    "selector": "bases.native.full.retained_and_rewritten_R2_ge_05"
+  },
+  {
+    "id": "MS-2477",
+    "selector": "bases.rotations.retained_and_rewritten_R2_ge_05.max"
+  },
+  {
+    "id": "MS-2478",
+    "selector": "bases.dictionary_full.width_ratio_to_native"
+  },
+  {
+    "id": "MS-2479",
+    "selector": "bases.dictionary_full.physical_n.min"
+  },
+  {
+    "id": "MS-2480",
+    "selector": "bases.dictionary_full.canonical_usable_n.min"
+  },
+  {
+    "id": "MS-2481",
+    "selector": "bases.dictionary_full.canonical_usable_n.max"
+  },
+  {
+    "id": "MS-2482",
+    "selector": "bases.dictionary_full.retained.min"
+  },
+  {
+    "id": "MS-2483",
+    "selector": "bases.dictionary_full.retained.max"
+  },
+  {
+    "id": "MS-2484",
+    "selector": "bases.dictionary_full.retained_fraction_all_directions.min"
+  },
+  {
+    "id": "MS-2485",
+    "selector": "bases.dictionary_full.retained_fraction_all_directions.max"
+  },
+  {
+    "id": "MS-2486",
+    "selector": "bases.native.full.retained_fraction_all_directions"
+  },
+  {
+    "id": "MS-2487",
+    "selector": "bases.dictionary_variance_top464.retained.min"
+  },
+  {
+    "id": "MS-2488",
+    "selector": "bases.dictionary_variance_top464.retained.max"
+  },
+  {
+    "id": "MS-2489",
+    "selector": "bases.dictionary_full.physical_n.min"
+  },
+  {
+    "id": "MS-2493",
+    "selector": "public.T.all.pair_accuracy.random_wins"
+  },
+  {
+    "id": "MS-2494",
+    "selector": "public.reference.random_K"
+  },
+  {
+    "id": "MS-2495",
+    "selector": "public.T.all.pair_accuracy.rotation_wins"
+  },
+  {
+    "id": "MS-2496",
+    "selector": "public.reference.rotation_K"
+  },
+  {
+    "id": "MS-2497",
+    "selector": "public.T.all.strong_mean.rotation_wins"
+  },
+  {
+    "id": "MS-2498",
+    "selector": "public.reference.rotation_K"
+  },
+  {
+    "id": "MS-2500",
+    "selector": "public.T.model_esmc_600.pair_accuracy.rotation_wins"
+  },
+  {
+    "id": "MS-2501",
+    "selector": "public.T.model_esmc_600.strong_mean.rotation_wins"
+  },
+  {
+    "id": "MS-2502",
+    "selector": "public.T.model_esmc_600.labels"
+  },
+  {
+    "id": "MS-2503",
+    "selector": "public.T.model_esm2_650m.pair_accuracy.rotation_wins"
+  },
+  {
+    "id": "MS-2504",
+    "selector": "public.T.model_esm2_650m.strong_mean.rotation_wins"
+  },
+  {
+    "id": "MS-2505",
+    "selector": "public.T.model_esm2_650m.labels"
+  },
+  {
+    "id": "MS-2508",
+    "selector": "public.T.model_esm2_8m.pair_accuracy.rotation_wins"
+  },
+  {
+    "id": "MS-2509",
+    "selector": "public.T.model_esm2_8m.strong_mean.rotation_wins"
+  },
+  {
+    "id": "MS-2510",
+    "selector": "public.T.model_esm2_8m.labels"
+  },
+  {
+    "id": "MS-2514",
+    "selector": "public.T.all.pair_accuracy.non_rotation_wins"
+  },
+  {
+    "id": "MS-2516",
+    "selector": "public.NEW.all.pair_accuracy.rotation_wins"
+  },
+  {
+    "id": "MS-2517",
+    "selector": "public.reference.rotation_K"
+  },
+  {
+    "id": "MS-2521",
+    "legacy_id": "MS-2264",
+    "legacy_owner": "current_figure"
+  },
+  {
+    "id": "MS-2522",
+    "selector": "public.reference.rotation_K"
+  },
+  {
+    "id": "MS-2524",
+    "selector": "public.T.labels"
+  },
+  {
+    "id": "MS-2525",
+    "selector": "public.T.all.pair_accuracy.rotation_wins"
+  },
+  {
+    "id": "MS-2526",
+    "selector": "public.T.model_esmc_600.pair_accuracy.rotation_wins"
+  },
+  {
+    "id": "MS-2531",
+    "selector": "ctp.recovery.release.common_one_decimal_display_fraction"
+  },
+  {
+    "id": "MS-2532",
+    "selector": "ctp.recovery.untrained.max"
+  },
+  {
+    "id": "MS-2533",
+    "selector": "ctp.recovery.rotations.min"
+  },
+  {
+    "id": "MS-2534",
+    "selector": "ctp.recovery.rotations.max"
+  },
+  {
+    "id": "MS-2535",
+    "selector": "ctp.scored_cohorts.previously_unused_count"
+  },
+  {
+    "id": "MS-2536",
+    "selector": "bases.dictionary_full.width_ratio_to_native"
+  },
+  {
+    "id": "MS-2537",
+    "selector": "bases.dictionary_full.retained_ratio_to_native.min"
+  },
+  {
+    "id": "MS-2541",
+    "selector": "census.retained_rewritten_R2_lt05"
+  },
+  {
+    "id": "MS-2542",
+    "selector": "census.retained"
+  },
+  {
+    "id": "MS-2551",
+    "selector": "public.T.all.pair_accuracy.rotation_wins"
+  },
+  {
+    "id": "MS-2552",
+    "selector": "public.T.labels"
+  },
+  {
+    "id": "MS-2553",
+    "selector": "public.T.all.pair_accuracy.rotation_wins"
+  },
+  {
+    "id": "SI-2330",
+    "selector": "census.retained_rewritten_R2_ge05"
+  },
+  {
+    "id": "SI-2331",
+    "selector": "census.retained"
+  },
+  {
+    "id": "SI-2337",
+    "selector": "census.retained_unit_80.rewritten_R2"
+  },
+  {
+    "id": "SI-2338",
+    "selector": "census.retained_unit_266.rewritten_R2"
+  },
+  {
+    "id": "SI-2340",
+    "selector": "bases.native.full.physical_n"
+  },
+  {
+    "id": "SI-2341",
+    "selector": "bases.native.full.retained_fraction_all_directions"
+  },
+  {
+    "id": "SI-2342",
+    "selector": "bases.rotations.physical_n.min"
+  },
+  {
+    "id": "SI-2343",
+    "selector": "bases.rotations.retained_fraction_all_directions.min"
+  },
+  {
+    "id": "SI-2344",
+    "selector": "bases.rotations.retained_fraction_all_directions.max"
+  },
+  {
+    "id": "SI-2345",
+    "selector": "bases.dictionary_full.retained.min"
+  },
+  {
+    "id": "SI-2346",
+    "selector": "bases.dictionary_full.retained.max"
+  },
+  {
+    "id": "SI-2347",
+    "selector": "bases.dictionary_full.physical_n.min"
+  },
+  {
+    "id": "SI-2348",
+    "selector": "bases.dictionary_full.retained_fraction_all_directions.min"
+  },
+  {
+    "id": "SI-2349",
+    "selector": "bases.dictionary_full.retained_fraction_all_directions.max"
+  },
+  {
+    "id": "SI-2350",
+    "selector": "bases.dictionary_variance_top464.physical_n.min"
+  },
+  {
+    "id": "SI-2351",
+    "selector": "bases.dictionary_variance_top464.retained_fraction_all_directions.min"
+  },
+  {
+    "id": "SI-2352",
+    "selector": "bases.dictionary_variance_top464.retained_fraction_all_directions.max"
+  },
+  {
+    "id": "SI-2353",
+    "selector": "public.T.all.pair_accuracy.rotation_wins"
+  },
+  {
+    "id": "SI-2354",
+    "selector": "public.T.model_esmc_600.pair_accuracy.rotation_wins"
+  },
+  {
+    "id": "SI-2355",
+    "selector": "public.T.model_esmc_600.labels"
+  },
+  {
+    "id": "SI-2357",
+    "selector": "public.T.model_esm2_650m.pair_accuracy.rotation_wins"
+  },
+  {
+    "id": "SI-2358",
+    "selector": "public.T.model_esm2_650m.labels"
+  },
+  {
+    "id": "SI-2360",
+    "selector": "public.T.model_esm2_8m.pair_accuracy.rotation_wins"
+  },
+  {
+    "id": "SI-2361",
+    "selector": "public.T.model_esm2_8m.labels"
+  },
+  {
+    "id": "SI-2362",
+    "selector": "public.T.all.strong_mean.rotation_wins"
+  },
+  {
+    "id": "SI-2363",
+    "selector": "public.NEW.all.pair_accuracy.rotation_wins"
+  },
+  {
+    "id": "SI-2364",
+    "selector": "public.NEW.all.strong_mean.rotation_wins"
+  }
+]

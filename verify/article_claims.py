@@ -11,7 +11,7 @@ def sources(root=ROOT):
     owners = json.loads(configuration.read_text(encoding='utf-8'))
     values = {}
     for name in sorted(set(owners.values())):
-        if name not in ('molecular', 'protein', 'protein_extension', 'figure', 'shared', 'effects', 'current_figure', 'ctp'):
+        if name not in ('molecular', 'protein', 'protein_extension', 'figure', 'shared', 'effects', 'current_figure', 'ctp', 'application'):
             raise ValueError('Unknown evidence module: ' + name)
         records = import_module(name + '_claim_bindings').bindings(root)
         for identifier, owner in owners.items():
